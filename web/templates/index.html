@@ -165,8 +165,10 @@
       box-shadow: var(--shadow);
       transition: box-shadow .15s, opacity .2s;
     }
-    .card.read { opacity: .55; }
+    .card.read { opacity: .6; }
     .card:hover { box-shadow: var(--shadow-md); }
+    .card.read .card-body { display: none; }
+    .card.read.expanded .card-body { display: block; }
 
     .card-top { display: flex; align-items: flex-start; gap: 12px; }
     .read-check {
@@ -201,6 +203,19 @@
       font-size: 12px; color: var(--text-muted); font-style: italic;
       margin-top: 2px; margin-bottom: 4px;
     }
+
+    .expand-btn {
+      display: none;
+      align-items: center; justify-content: center;
+      background: none; border: none;
+      color: var(--text-muted); cursor: pointer;
+      padding: 2px; flex-shrink: 0; margin-top: 1px;
+      transition: transform .2s, color .15s;
+    }
+    .expand-btn:hover { color: var(--text); }
+    .expand-btn svg { width: 16px; height: 16px; }
+    .card.read .expand-btn { display: flex; }
+    .card.read.expanded .expand-btn { transform: rotate(180deg); }
 
     .card-body { margin-top: 14px; }
 
@@ -445,7 +460,7 @@
       <div class="card ${a.read ? 'read' : ''}" id="card-${a.id}">
         <div class="card-top">
           <div class="read-check ${a.read ? 'checked' : ''}" onclick="toggleRead('${a.id}', ${!a.read})" title="${a.read ? 'Marcar como não lido' : 'Marcar como lido'}"></div>
-          <div class="card-info">
+          <div class="card-info" onclick="if(this.closest('.card').classList.contains('read')) toggleExpand('${a.id}')" style="${a.read ? 'cursor:pointer' : ''}">
             <div class="card-label">${escapeHtml(a.label)}</div>
             <div class="card-title"><a href="${a.url}" target="_blank" rel="noopener">${escapeHtml(titlePt)}</a></div>
             ${titleEn && titleEn !== titlePt ? `<div class="card-title-en">${escapeHtml(titleEn)}</div>` : ''}
@@ -455,6 +470,9 @@
               <span>${escapeHtml(a.published_date)}</span>
             </div>
           </div>
+          <button class="expand-btn" onclick="toggleExpand('${a.id}')" title="Expandir">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><polyline points="6 9 12 15 18 9"/></svg>
+          </button>
         </div>
         <div class="card-body">
           ${a.objective
@@ -499,7 +517,10 @@
 
     const card = document.getElementById(`card-${id}`);
     const check = card?.querySelector('.read-check');
-    if (card) card.classList.toggle('read', isRead);
+    if (card) {
+      card.classList.toggle('read', isRead);
+      if (isRead) card.classList.remove('expanded');
+    }
     if (check) check.classList.toggle('checked', isRead);
 
     const res = await fetch('/api/weeks');
@@ -507,6 +528,10 @@
     renderSidebar(weeks);
     const item = document.getElementById(`week-${currentWeek}`);
     if (item) item.classList.add('active');
+  }
+
+  function toggleExpand(id) {
+    document.getElementById(`card-${id}`)?.classList.toggle('expanded');
   }
 
   function toggleIG(id) {
