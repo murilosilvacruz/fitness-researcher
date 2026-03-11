@@ -33,13 +33,14 @@
       min-height: 100vh;
       display: flex;
       flex-direction: column;
+      overflow-x: hidden;
     }
 
     /* ── Header ── */
     header {
       background: var(--surface);
       border-bottom: 1px solid var(--border);
-      padding: 0 24px;
+      padding: 0 16px;
       height: 56px;
       display: flex;
       align-items: center;
@@ -47,10 +48,23 @@
       position: sticky;
       top: 0;
       z-index: 100;
+      gap: 8px;
     }
-    .logo { font-size: 15px; font-weight: 700; letter-spacing: -.3px; display: flex; align-items: center; gap: 8px; }
+    .header-left { display: flex; align-items: center; gap: 10px; min-width: 0; }
+    .logo { font-size: 15px; font-weight: 700; letter-spacing: -.3px; display: flex; align-items: center; gap: 8px; white-space: nowrap; }
     .logo span { color: var(--accent); }
-    .header-actions { display: flex; gap: 10px; align-items: center; }
+    .header-actions { display: flex; gap: 10px; align-items: center; flex-shrink: 0; }
+
+    /* ── Menu button (mobile only) ── */
+    #menuBtn {
+      display: none;
+      align-items: center; justify-content: center;
+      background: none; border: none;
+      padding: 6px; border-radius: 6px;
+      cursor: pointer; color: var(--text);
+      flex-shrink: 0;
+    }
+    #menuBtn:hover { background: var(--surface-2); }
 
     /* ── Run button ── */
     #runBtn {
@@ -58,21 +72,32 @@
       background: var(--accent); color: #fff;
       border: none; border-radius: 8px;
       padding: 7px 14px; font-size: 13px; font-weight: 600;
-      cursor: pointer; transition: background .15s;
+      cursor: pointer; transition: background .15s; white-space: nowrap;
     }
     #runBtn:hover:not(:disabled) { background: var(--accent-hover); }
     #runBtn:disabled { opacity: .6; cursor: not-allowed; }
-    #runBtn svg { width: 14px; height: 14px; }
+    #runBtn svg { width: 14px; height: 14px; flex-shrink: 0; }
     .spinner { animation: spin .8s linear infinite; }
     @keyframes spin { to { transform: rotate(360deg); } }
 
     #statusMsg {
       font-size: 12px; color: var(--text-muted);
-      max-width: 200px; text-align: right;
+      max-width: 160px; text-align: right;
     }
 
     /* ── Layout ── */
-    .layout { display: flex; flex: 1; }
+    .layout { display: flex; flex: 1; position: relative; }
+
+    /* ── Sidebar overlay (mobile) ── */
+    #sidebarOverlay {
+      display: none;
+      position: fixed;
+      inset: 0;
+      top: 56px;
+      background: rgba(0,0,0,.4);
+      z-index: 60;
+    }
+    #sidebarOverlay.open { display: block; }
 
     /* ── Sidebar ── */
     aside {
@@ -109,7 +134,7 @@
     .week-pill.done { background: var(--green-light); color: var(--green); }
 
     /* ── Main ── */
-    main { flex: 1; padding: 28px 32px; max-width: 900px; }
+    main { flex: 1; padding: 28px 32px; max-width: 900px; min-width: 0; }
 
     .main-header {
       display: flex; align-items: center; justify-content: space-between;
@@ -168,7 +193,7 @@
     .card-title a:hover { color: var(--accent); }
     .card-source {
       font-size: 12px; color: var(--text-muted);
-      display: flex; align-items: center; gap: 6px;
+      display: flex; align-items: center; gap: 6px; flex-wrap: wrap;
     }
     .dot { width: 3px; height: 3px; border-radius: 50%; background: var(--border); }
 
@@ -199,6 +224,20 @@
       padding: 5px 11px; cursor: pointer; transition: all .15s;
     }
     .toggle-btn:hover { background: var(--border); color: var(--text); }
+
+    /* ── Play button ── */
+    .play-btn {
+      display: inline-flex; align-items: center; gap: 5px;
+      font-size: 12px; font-weight: 600; color: var(--text-muted);
+      background: var(--surface-2); border: none; border-radius: 6px;
+      padding: 5px 11px; cursor: pointer; transition: all .15s;
+    }
+    .play-btn:hover { background: var(--border); color: var(--text); }
+    .play-btn.playing {
+      background: var(--accent-light); color: var(--accent);
+      border: 1px solid #f3cec5;
+    }
+    .play-btn svg { width: 13px; height: 13px; flex-shrink: 0; }
 
     /* ── Instagram panel ── */
     .ig-panel {
@@ -241,23 +280,62 @@
     @keyframes shimmer { to { background-position: -200% 0; } }
     .sk-line { height: 13px; margin-bottom: 8px; }
     .sk-title { height: 18px; width: 75%; margin-bottom: 10px; }
+
+    /* ── Responsive ── */
+    @media (max-width: 768px) {
+      #menuBtn { display: flex; }
+      #statusMsg { display: none; }
+
+      #runBtn .btn-label { display: none; }
+      #runBtn { padding: 7px 10px; }
+
+      aside {
+        position: fixed;
+        top: 56px;
+        left: 0;
+        width: min(var(--sidebar-w), 80vw);
+        height: calc(100vh - 56px);
+        z-index: 70;
+        transform: translateX(-110%);
+        transition: transform .25s ease;
+        box-shadow: var(--shadow-md);
+      }
+      aside.open { transform: translateX(0); }
+
+      main { padding: 16px; }
+
+      .card { padding: 14px; }
+
+      .main-title { font-size: 17px; }
+    }
   </style>
 </head>
 <body>
 
 <header>
-  <div class="logo">💪 <span>Fitness</span> Research</div>
+  <div class="header-left">
+    <button id="menuBtn" onclick="toggleSidebar()" aria-label="Abrir menu">
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" width="20" height="20">
+        <line x1="3" y1="6" x2="21" y2="6"/>
+        <line x1="3" y1="12" x2="21" y2="12"/>
+        <line x1="3" y1="18" x2="21" y2="18"/>
+      </svg>
+    </button>
+    <div class="logo">💪 <span>Fitness</span> Research</div>
+  </div>
   <div class="header-actions">
     <div id="statusMsg"></div>
     <button id="runBtn" onclick="runResearch()">
       <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><path d="M21 12a9 9 0 11-18 0 9 9 0 0118 0z"/><path d="M9 10l6 2-6 2V10z" fill="currentColor" stroke="none"/></svg>
-      Nova pesquisa
+      <span class="btn-label">Nova pesquisa</span>
     </button>
   </div>
 </header>
 
+<div id="sidebarOverlay" onclick="closeSidebar()"></div>
+
 <div class="layout">
-  <aside>
+  <aside id="sidebar">
     <div class="sidebar-title">Semanas</div>
     <div id="weekList"><div style="padding:18px;font-size:13px;color:var(--text-muted)">Carregando...</div></div>
   </aside>
@@ -272,11 +350,10 @@
 <script>
   let currentWeek = null;
   let allArticles = [];
-  let currentWeekMeta = null;   // guarda week + generated_at + labels
+  let currentWeekMeta = null;
   let activeFilter = 'all';
   let pollingInterval = null;
 
-  // Mapa id -> caption para copiar sem passar dados pelo HTML
   const captionMap = {};
 
   // ── Boot ──────────────────────────────────────────────────────────────────
@@ -315,13 +392,15 @@
     const item = document.getElementById(`week-${week}`);
     if (item) item.classList.add('active');
 
+    closeSidebar();
+    stopAudio();
+
     document.getElementById('content').innerHTML = renderSkeletons();
     const res = await fetch(`/api/weeks/${week}`);
     const data = await res.json();
     allArticles = data.articles;
     currentWeekMeta = { week: data.week, generated_at: data.generated_at, labels: data.labels };
 
-    // Popula mapa de legendas
     for (const a of allArticles) {
       if (a.instagram_caption) captionMap[a.id] = a.instagram_caption;
     }
@@ -329,7 +408,6 @@
     renderContent();
   }
 
-  // Usa variáveis globais — sem dados no onclick
   function renderContent() {
     if (!currentWeekMeta) return;
     const labels = ['all', ...currentWeekMeta.labels];
@@ -359,7 +437,6 @@
   }
 
   function renderCard(a) {
-    // Compatível com formato antigo (title/summary) e novo (title_pt/title_en/objective...)
     const titlePt = a.title_pt || a.title || '';
     const titleEn = (a.title_en && a.title_en !== titlePt) ? a.title_en : '';
     const hasCaption = !!a.instagram_caption;
@@ -385,10 +462,14 @@
               renderSummarySection('✅ Conclusão', a.conclusion) +
               renderSummarySection('📊 Dados de Suporte', a.supporting_data)
             : renderSummarySection('📄 Resumo', a.summary || '')}
-          ${hasCaption ? `
           <div class="toggle-row">
-            <button class="toggle-btn" onclick="toggleIG('${a.id}')">📱 Ver legenda para Instagram</button>
+            <button class="play-btn" id="play-${a.id}" onclick="toggleAudio('${a.id}')">
+              <svg id="play-icon-${a.id}" viewBox="0 0 24 24" fill="currentColor"><path d="M8 5v14l11-7z"/></svg>
+              <span id="play-label-${a.id}">Ouvir</span>
+            </button>
+            ${hasCaption ? `<button class="toggle-btn" onclick="toggleIG('${a.id}')">📱 Ver legenda para Instagram</button>` : ''}
           </div>
+          ${hasCaption ? `
           <div class="ig-panel" id="ig-${a.id}" style="display:none">
             <div class="ig-label">📱 Sugestão de Legenda</div>
             <div class="ig-text">${escapeHtml(a.instagram_caption)}</div>
@@ -421,7 +502,6 @@
     if (card) card.classList.toggle('read', isRead);
     if (check) check.classList.toggle('checked', isRead);
 
-    // Atualiza contagem na sidebar sem recarregar semana selecionada
     const res = await fetch('/api/weeks');
     const weeks = await res.json();
     renderSidebar(weeks);
@@ -445,19 +525,110 @@
     setTimeout(() => { btn.textContent = 'Copiar legenda'; btn.classList.remove('copied'); }, 2000);
   }
 
+  // ── Audio (TTS) ───────────────────────────────────────────────────────────
+  let currentSpeakingId = null;
+
+  const ICON_PLAY  = `<path d="M8 5v14l11-7z"/>`;
+  const ICON_PAUSE = `<path d="M6 19h4V5H6zm8-14v14h4V5z"/>`;
+
+  function buildArticleText(a) {
+    const parts = [];
+    if (a.title_pt || a.title) parts.push((a.title_pt || a.title) + '.');
+    if (a.objective)       parts.push('Objetivo. ' + a.objective);
+    if (a.conclusion)      parts.push('Conclusão. ' + a.conclusion);
+    if (a.supporting_data) parts.push('Dados de suporte. ' + a.supporting_data);
+    return parts.join('\n\n');
+  }
+
+  function setPlayState(id, state) {
+    const btn   = document.getElementById(`play-${id}`);
+    const icon  = document.getElementById(`play-icon-${id}`);
+    const label = document.getElementById(`play-label-${id}`);
+    if (!btn) return;
+    if (state === 'playing') {
+      btn.classList.add('playing');
+      icon.innerHTML = ICON_PAUSE;
+      label.textContent = 'Pausar';
+    } else if (state === 'paused') {
+      btn.classList.add('playing');
+      icon.innerHTML = ICON_PLAY;
+      label.textContent = 'Retomar';
+    } else {
+      btn.classList.remove('playing');
+      icon.innerHTML = ICON_PLAY;
+      label.textContent = 'Ouvir';
+    }
+  }
+
+  function toggleAudio(id) {
+    // Pause/resume if this article is already active
+    if (currentSpeakingId === id) {
+      if (speechSynthesis.paused) {
+        speechSynthesis.resume();
+        setPlayState(id, 'playing');
+      } else {
+        speechSynthesis.pause();
+        setPlayState(id, 'paused');
+      }
+      return;
+    }
+
+    // Stop whatever was playing before
+    if (currentSpeakingId) {
+      speechSynthesis.cancel();
+      setPlayState(currentSpeakingId, 'idle');
+    }
+
+    const article = allArticles.find(a => a.id === id);
+    if (!article) return;
+
+    const utterance = new SpeechSynthesisUtterance(buildArticleText(article));
+    utterance.lang = 'pt-BR';
+    utterance.rate = 1.0;
+    utterance.onend = () => { currentSpeakingId = null; setPlayState(id, 'idle'); };
+    utterance.onerror = () => { currentSpeakingId = null; setPlayState(id, 'idle'); };
+
+    currentSpeakingId = id;
+    setPlayState(id, 'playing');
+    speechSynthesis.cancel(); // flush any pending utterance
+    speechSynthesis.speak(utterance);
+  }
+
+  // Stop audio when changing weeks
+  function stopAudio() {
+    if (currentSpeakingId) {
+      speechSynthesis.cancel();
+      setPlayState(currentSpeakingId, 'idle');
+      currentSpeakingId = null;
+    }
+  }
+
+  // ── Sidebar (mobile) ──────────────────────────────────────────────────────
+  function toggleSidebar() {
+    const sidebar = document.getElementById('sidebar');
+    const overlay = document.getElementById('sidebarOverlay');
+    const isOpen = sidebar.classList.toggle('open');
+    overlay.classList.toggle('open', isOpen);
+  }
+
+  function closeSidebar() {
+    document.getElementById('sidebar').classList.remove('open');
+    document.getElementById('sidebarOverlay').classList.remove('open');
+  }
+
   // ── Run research ──────────────────────────────────────────────────────────
   async function runResearch() {
     const btn = document.getElementById('runBtn');
     const msg = document.getElementById('statusMsg');
     btn.disabled = true;
-    btn.innerHTML = `<svg class="spinner" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><path d="M12 2v4M12 18v4M4.93 4.93l2.83 2.83M16.24 16.24l2.83 2.83M2 12h4M18 12h4M4.93 19.07l2.83-2.83M16.24 7.76l2.83-2.83"/></svg> Pesquisando...`;
+    btn.innerHTML = `<svg class="spinner" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><path d="M12 2v4M12 18v4M4.93 4.93l2.83 2.83M16.24 16.24l2.83 2.83M2 12h4M18 12h4M4.93 19.07l2.83-2.83M16.24 7.76l2.83-2.83"/></svg><span class="btn-label"> Pesquisando...</span>`;
     msg.textContent = 'Isso pode levar alguns minutos...';
 
     const res = await fetch('/api/research/run', { method: 'POST' });
     if (res.status === 409) {
       msg.textContent = 'Já está rodando...';
       btn.disabled = false;
-      btn.innerHTML = `<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><path d="M21 12a9 9 0 11-18 0 9 9 0 0118 0z"/><path d="M9 10l6 2-6 2V10z" fill="currentColor" stroke="none"/></svg> Nova pesquisa`;
+      btn.innerHTML = `<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><path d="M21 12a9 9 0 11-18 0 9 9 0 0118 0z"/><path d="M9 10l6 2-6 2V10z" fill="currentColor" stroke="none"/></svg><span class="btn-label"> Nova pesquisa</span>`;
       return;
     }
 
@@ -467,7 +638,7 @@
       if (s.status === 'done') {
         clearInterval(pollingInterval);
         btn.disabled = false;
-        btn.innerHTML = `<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><path d="M21 12a9 9 0 11-18 0 9 9 0 0118 0z"/><path d="M9 10l6 2-6 2V10z" fill="currentColor" stroke="none"/></svg> Nova pesquisa`;
+        btn.innerHTML = `<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><path d="M21 12a9 9 0 11-18 0 9 9 0 0118 0z"/><path d="M9 10l6 2-6 2V10z" fill="currentColor" stroke="none"/></svg><span class="btn-label"> Nova pesquisa</span>`;
         msg.textContent = s.exit_code === 0 ? '✓ Pesquisa concluída!' : '✗ Erro ao pesquisar.';
         setTimeout(() => { msg.textContent = ''; }, 5000);
         if (s.exit_code === 0) loadWeeks();
