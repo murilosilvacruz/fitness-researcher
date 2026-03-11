@@ -1,0 +1,49 @@
+# Configuração dos tópicos de pesquisa e fontes confiáveis
+# Ajuste conforme seus interesses e área de atuação
+
+# Número máximo de resultados buscados por tópico
+max_results_per_topic: 2
+
+# Limite total de artigos processados por execução (controla custo de API)
+max_total_articles: 10
+
+# Tópicos pesquisados a cada execução
+# Use termos em inglês para ampliar o alcance nas fontes científicas internacionais
+topics:
+  - query: "strength training women health benefits 2025 2026"
+    label: "Musculação Feminina"
+
+  - query: "resistance exercise menstrual cycle performance women"
+    label: "Ciclo Menstrual e Treino"
+
+  - query: "women muscle hypertrophy training research"
+    label: "Hipertrofia Feminina"
+
+  - query: "exercise hormones women estrogen testosterone training"
+    label: "Hormônios e Exercício"
+
+  - query: "nutrition strength training women protein"
+    label: "Nutrição e Performance Feminina"
+
+  - query: "physical exercise mental health women anxiety depression"
+    label: "Saúde Mental e Exercício"
+
+  - query: "female athlete bone density osteoporosis exercise"
+    label: "Saúde Óssea Feminina"
+
+  - query: "new research exercise physiology 2025 2026"
+    label: "Pesquisas Recentes em Fisiologia"
+
+# Domínios priorizados — fontes confiáveis e científicas
+trusted_domains:
+  - pubmed.ncbi.nlm.nih.gov
+  - ncbi.nlm.nih.gov
+  - journals.lww.com          # NSCA / Journal of Strength and Conditioning Research
+  - acsm.org
+  - examine.com
+  - strongerbyscience.com
+  - sciencedirect.com
+  - nature.com
+  - sports.gov
+  - bmjopen.bmj.com
+  - link.springer.com
