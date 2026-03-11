@@ -1,11 +1,14 @@
 from __future__ import annotations
 
 import json
+import os
 import subprocess
 import sys
 from pathlib import Path
 
 from flask import Flask, jsonify, render_template, request
+
+IS_VERCEL = os.environ.get("VERCEL") == "1"
 
 BASE_DIR = Path(__file__).parent.parent
 REPORTS_DIR = BASE_DIR / "reports"
@@ -99,6 +102,12 @@ _research_process: subprocess.Popen | None = None
 
 @app.post("/api/research/run")
 def api_run_research():
+    if IS_VERCEL:
+        return jsonify({
+            "status": "unavailable",
+            "message": "A pesquisa automática não está disponível nesta versão. Execute python3 main.py localmente.",
+        }), 503
+
     global _research_process
     if _research_process and _research_process.poll() is None:
         return jsonify({"status": "running", "message": "Pesquisa já em andamento."}), 409
@@ -114,6 +123,8 @@ def api_run_research():
 
 @app.get("/api/research/status")
 def api_research_status():
+    if IS_VERCEL:
+        return jsonify({"status": "unavailable"})
     if _research_process is None:
         return jsonify({"status": "idle"})
     code = _research_process.poll()

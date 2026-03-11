@@ -6,9 +6,8 @@ env/
 # Variáveis de ambiente (chaves de API)
 .env
 
-# Relatórios gerados
+# Relatórios gerados (apenas .md — .json são necessários para o site)
 reports/*.md
-reports/*.json
 
 # Python
 __pycache__/
