@@ -41,23 +41,23 @@ def _article_from_json(data: dict) -> EnrichedArticle:
 
 
 def main() -> None:
-    weeks = sorted([p.name for p in POSTS_DIR.iterdir() if p.is_dir()], reverse=True)
-    if not weeks:
-        print("Nenhuma semana encontrada em posts/.")
+    dates = sorted([p.name for p in POSTS_DIR.iterdir() if p.is_dir()], reverse=True)
+    if not dates:
+        print("Nenhuma pesquisa encontrada em posts/.")
         sys.exit(1)
 
-    for week in weeks:
-        report_path = REPORTS_DIR / f"{week}.json"
+    for date in dates:
+        report_path = REPORTS_DIR / f"{date}.json"
         if not report_path.exists():
-            print(f"Relatório não encontrado para {week}, pulando.")
+            print(f"Relatório não encontrado para {date}, pulando.")
             continue
 
         report = json.loads(report_path.read_text(encoding="utf-8"))
         articles = report["articles"]
-        print(f"\n── {week} — {len(articles)} artigos ──")
+        print(f"\n── {date} — {len(articles)} artigos ──")
 
         for data in articles:
-            folder = POSTS_DIR / week / data["id"]
+            folder = POSTS_DIR / date / data["id"]
             folder.mkdir(parents=True, exist_ok=True)
 
             enriched = _article_from_json(data)

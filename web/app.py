@@ -30,16 +30,15 @@ def _save_read_state(state: set[str]) -> None:
     READ_STATE_FILE.write_text(json.dumps(sorted(state), ensure_ascii=False, indent=2), encoding="utf-8")
 
 
-def _list_weeks() -> list[str]:
-    weeks = sorted(
+def _list_runs() -> list[str]:
+    return sorted(
         [p.stem for p in REPORTS_DIR.glob("*.json") if p.stem != "read_state"],
         reverse=True,
     )
-    return weeks
 
 
-def _load_week(week: str) -> dict | None:
-    path = REPORTS_DIR / f"{week}.json"
+def _load_run(date: str) -> dict | None:
+    path = REPORTS_DIR / f"{date}.json"
     if not path.exists():
         return None
     return json.loads(path.read_text(encoding="utf-8"))
@@ -52,17 +51,17 @@ def index():
     return render_template("index.html")
 
 
-@app.get("/api/weeks")
-def api_weeks():
-    weeks = _list_weeks()
+@app.get("/api/runs")
+def api_runs():
+    runs = _list_runs()
     read_state = _load_read_state()
     result = []
-    for week in weeks:
-        data = _load_week(week)
+    for date in runs:
+        data = _load_run(date)
         total = len(data["articles"]) if data else 0
         read = sum(1 for a in (data["articles"] if data else []) if a["id"] in read_state)
         result.append({
-            "week": week,
+            "date": date,
             "generated_at": data["generated_at"] if data else "",
             "total": total,
             "read": read,
@@ -70,18 +69,18 @@ def api_weeks():
     return jsonify(result)
 
 
-@app.get("/api/weeks/<week>")
-def api_week_articles(week: str):
-    data = _load_week(week)
+@app.get("/api/runs/<date>")
+def api_run_articles(date: str):
+    data = _load_run(date)
     if not data:
-        return jsonify({"error": "Semana não encontrada"}), 404
+        return jsonify({"error": "Pesquisa não encontrada"}), 404
 
     read_state = _load_read_state()
     for article in data["articles"]:
         article["read"] = article["id"] in read_state
 
     labels = sorted({a["label"] for a in data["articles"]})
-    return jsonify({"week": data["week"], "generated_at": data["generated_at"], "labels": labels, "articles": data["articles"]})
+    return jsonify({"date": data["date"], "generated_at": data["generated_at"], "labels": labels, "articles": data["articles"]})
 
 
 @app.post("/api/articles/<article_id>/read")

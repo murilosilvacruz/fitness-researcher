@@ -351,70 +351,70 @@
 
 <div class="layout">
   <aside id="sidebar">
-    <div class="sidebar-title">Semanas</div>
+    <div class="sidebar-title">Pesquisas</div>
     <div id="weekList"><div style="padding:18px;font-size:13px;color:var(--text-muted)">Carregando...</div></div>
   </aside>
 
   <main>
     <div id="content">
-      <div class="state-msg"><strong>Selecione uma semana</strong>Escolha uma semana na barra lateral para ver os artigos.</div>
+      <div class="state-msg"><strong>Selecione uma pesquisa</strong>Escolha uma data na barra lateral para ver os artigos.</div>
     </div>
   </main>
 </div>
 
 <script>
-  let currentWeek = null;
+  let currentDate = null;
   let allArticles = [];
-  let currentWeekMeta = null;
+  let currentRunMeta = null;
   let activeFilter = 'all';
   let pollingInterval = null;
 
   const captionMap = {};
 
   // ── Boot ──────────────────────────────────────────────────────────────────
-  loadWeeks();
+  loadRuns();
 
-  async function loadWeeks() {
-    const res = await fetch('/api/weeks');
-    const weeks = await res.json();
-    renderSidebar(weeks);
-    if (weeks.length > 0) selectWeek(weeks[0].week);
+  async function loadRuns() {
+    const res = await fetch('/api/runs');
+    const runs = await res.json();
+    renderSidebar(runs);
+    if (runs.length > 0) selectRun(runs[0].date);
   }
 
-  function renderSidebar(weeks) {
+  function renderSidebar(runs) {
     const el = document.getElementById('weekList');
-    if (!weeks.length) {
+    if (!runs.length) {
       el.innerHTML = '<div style="padding:18px;font-size:13px;color:var(--text-muted)">Nenhum relatório ainda.</div>';
       return;
     }
-    el.innerHTML = weeks.map(w => {
-      const allDone = w.read === w.total && w.total > 0;
+    el.innerHTML = runs.map(r => {
+      const allDone = r.read === r.total && r.total > 0;
       return `
-        <div class="week-item" id="week-${w.week}" onclick="selectWeek('${w.week}')">
+        <div class="week-item" id="run-${r.date}" onclick="selectRun('${r.date}')">
           <div>
-            <div class="week-label">${formatWeekLabel(w.week)}</div>
-            <div class="week-meta">${formatDate(w.generated_at)}</div>
+            <div class="week-label">${formatDateLabel(r.date)}</div>
+            <div class="week-meta">${formatTime(r.generated_at)}</div>
           </div>
-          <div class="week-pill ${allDone ? 'done' : ''}">${w.read}/${w.total}</div>
+          <div class="week-pill ${allDone ? 'done' : ''}">${r.read}/${r.total}</div>
         </div>`;
     }).join('');
   }
 
-  async function selectWeek(week) {
-    currentWeek = week;
+  async function selectRun(date) {
+    currentDate = date;
     activeFilter = 'all';
     document.querySelectorAll('.week-item').forEach(el => el.classList.remove('active'));
-    const item = document.getElementById(`week-${week}`);
+    const item = document.getElementById(`run-${date}`);
     if (item) item.classList.add('active');
 
     closeSidebar();
     stopAudio();
 
     document.getElementById('content').innerHTML = renderSkeletons();
-    const res = await fetch(`/api/weeks/${week}`);
+    const res = await fetch(`/api/runs/${date}`);
     const data = await res.json();
     allArticles = data.articles;
-    currentWeekMeta = { week: data.week, generated_at: data.generated_at, labels: data.labels };
+    currentRunMeta = { date: data.date, generated_at: data.generated_at, labels: data.labels };
 
     for (const a of allArticles) {
       if (a.instagram_caption) captionMap[a.id] = a.instagram_caption;
@@ -424,8 +424,8 @@
   }
 
   function renderContent() {
-    if (!currentWeekMeta) return;
-    const labels = ['all', ...currentWeekMeta.labels];
+    if (!currentRunMeta) return;
+    const labels = ['all', ...currentRunMeta.labels];
     const filtered = activeFilter === 'all'
       ? allArticles
       : allArticles.filter(a => a.label === activeFilter);
@@ -434,8 +434,8 @@
     document.getElementById('content').innerHTML = `
       <div class="main-header">
         <div>
-          <div class="main-title">${formatWeekLabel(currentWeekMeta.week)}</div>
-          <div class="main-meta">Gerado em ${formatDate(currentWeekMeta.generated_at)} · ${allArticles.length} artigos · ${readCount} lidos</div>
+          <div class="main-title">${formatDateLabel(currentRunMeta.date)}</div>
+          <div class="main-meta">Gerado às ${formatTime(currentRunMeta.generated_at)} · ${allArticles.length} artigos · ${readCount} lidos</div>
         </div>
       </div>
       <div class="filters">
@@ -523,10 +523,10 @@
     }
     if (check) check.classList.toggle('checked', isRead);
 
-    const res = await fetch('/api/weeks');
-    const weeks = await res.json();
-    renderSidebar(weeks);
-    const item = document.getElementById(`week-${currentWeek}`);
+    const res = await fetch('/api/runs');
+    const runs = await res.json();
+    renderSidebar(runs);
+    const item = document.getElementById(`run-${currentDate}`);
     if (item) item.classList.add('active');
   }
 
@@ -666,7 +666,7 @@
         btn.innerHTML = `<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><path d="M21 12a9 9 0 11-18 0 9 9 0 0118 0z"/><path d="M9 10l6 2-6 2V10z" fill="currentColor" stroke="none"/></svg><span class="btn-label"> Nova pesquisa</span>`;
         msg.textContent = s.exit_code === 0 ? '✓ Pesquisa concluída!' : '✗ Erro ao pesquisar.';
         setTimeout(() => { msg.textContent = ''; }, 5000);
-        if (s.exit_code === 0) loadWeeks();
+        if (s.exit_code === 0) loadRuns();
       }
     }, 5000);
   }
@@ -685,15 +685,19 @@
       </div>`).join('');
   }
 
-  function formatWeekLabel(week) {
-    const [year, w] = week.split('-W');
-    return `Semana ${w} · ${year}`;
+  function formatDateLabel(date) {
+    if (!date) return '';
+    try {
+      const [year, month, day] = date.split('-');
+      const d = new Date(Number(year), Number(month) - 1, Number(day));
+      return d.toLocaleDateString('pt-BR', { day: '2-digit', month: 'long', year: 'numeric' });
+    } catch { return date; }
   }
 
-  function formatDate(iso) {
+  function formatTime(iso) {
     if (!iso) return '';
     try {
-      return new Date(iso).toLocaleDateString('pt-BR', { day: '2-digit', month: 'short', year: 'numeric' });
+      return new Date(iso).toLocaleTimeString('pt-BR', { hour: '2-digit', minute: '2-digit' });
     } catch { return iso; }
   }
 

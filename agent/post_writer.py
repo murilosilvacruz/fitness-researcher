@@ -40,10 +40,8 @@ Dados: {supporting_data}\
 """
 
 
-def _week_label() -> str:
-    now = datetime.now()
-    year, week, _ = now.isocalendar()
-    return f"{year}-W{week:02d}"
+def _date_label() -> str:
+    return datetime.now().strftime("%Y-%m-%d")
 
 
 def _parse_response(text: str) -> dict:
@@ -108,16 +106,16 @@ def generate_summary(enriched: EnrichedArticle) -> str:
     return _format_summary(_parse_response(raw))
 
 
-def write_post_files(enriched: EnrichedArticle, week: str | None = None) -> Path:
+def write_post_files(enriched: EnrichedArticle, date: str | None = None) -> Path:
     """Cria a pasta do artigo e escreve caption.txt e summary.txt.
 
     Retorna o caminho da pasta criada.
     """
-    if week is None:
-        week = _week_label()
+    if date is None:
+        date = _date_label()
 
     article_id = _article_id(enriched.article.url)
-    folder = POSTS_DIR / week / article_id
+    folder = POSTS_DIR / date / article_id
     folder.mkdir(parents=True, exist_ok=True)
 
     (folder / "caption.txt").write_text(

@@ -10,10 +10,8 @@ from agent.summarizer import EnrichedArticle
 REPORTS_DIR = Path(__file__).parent.parent / "reports"
 
 
-def _week_label() -> str:
-    now = datetime.now()
-    year, week, _ = now.isocalendar()
-    return f"{year}-W{week:02d}"
+def _date_label() -> str:
+    return datetime.now().strftime("%Y-%m-%d")
 
 
 def _article_id(url: str) -> str:
@@ -21,19 +19,19 @@ def _article_id(url: str) -> str:
 
 
 def generate_report(articles: list[EnrichedArticle]) -> Path:
-    """Gera o relatório semanal em Markdown e JSON, retorna o caminho do Markdown."""
+    """Gera o relatório diário em Markdown e JSON, retorna o caminho do Markdown."""
     REPORTS_DIR.mkdir(exist_ok=True)
 
-    week = _week_label()
-    report_path = REPORTS_DIR / f"{week}.md"
-    json_path = REPORTS_DIR / f"{week}.json"
+    date = _date_label()
+    report_path = REPORTS_DIR / f"{date}.md"
+    json_path = REPORTS_DIR / f"{date}.json"
 
     now_iso = datetime.now().isoformat(timespec="seconds")
     now_str = datetime.now().strftime("%d/%m/%Y às %H:%M")
 
     # ── JSON ──────────────────────────────────────────────────────────────
     json_data = {
-        "week": week,
+        "date": date,
         "generated_at": now_iso,
         "articles": [
             {
@@ -56,7 +54,7 @@ def generate_report(articles: list[EnrichedArticle]) -> Path:
 
     # ── Markdown ──────────────────────────────────────────────────────────
     lines: list[str] = [
-        f"# Relatório de Pesquisa — {week}",
+        f"# Relatório de Pesquisa — {date}",
         "",
         f"Gerado em {now_str} | {len(articles)} artigo(s) encontrado(s)",
         "",
@@ -110,3 +108,7 @@ def generate_report(articles: list[EnrichedArticle]) -> Path:
 
     report_path.write_text("\n".join(lines), encoding="utf-8")
     return report_path
+
+
+# Alias mantido para compatibilidade com post_writer e generate_summaries
+_week_label = _date_label
