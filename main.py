@@ -1,5 +1,6 @@
 from __future__ import annotations
 
+import subprocess
 import sys
 from pathlib import Path
 
@@ -70,9 +71,39 @@ def main() -> None:
         except Exception as e:
             print(f"      AVISO: erro ao gerar post para '{enriched.title_pt}': {e}")
 
+    # 5. Publicar no site (git commit + push)
+    print("\n[5/5] Publicando no site (git commit + push)...")
+    _git_publish(report_path)
+
     print("\n" + "=" * 60)
     print(f"  Relatório salvo em: {report_path}")
     print("=" * 60 + "\n")
+
+
+def _git_publish(report_path: Path) -> None:
+    root = Path(__file__).parent
+
+    def run(cmd: list[str]) -> subprocess.CompletedProcess:
+        return subprocess.run(cmd, cwd=root, capture_output=True, text=True)
+
+    week = report_path.stem
+    run(["git", "add", "reports/", "posts/"])
+
+    status = run(["git", "status", "--porcelain"])
+    if not status.stdout.strip():
+        print("      Nenhuma alteração nova para publicar.")
+        return
+
+    commit = run(["git", "commit", "-m", f"research: publish {week} results"])
+    if commit.returncode != 0:
+        print(f"      AVISO: falha no commit — {commit.stderr.strip()}")
+        return
+
+    push = run(["git", "push"])
+    if push.returncode == 0:
+        print(f"      Publicado com sucesso! ({week})")
+    else:
+        print(f"      AVISO: falha no push — {push.stderr.strip()}")
 
 
 if __name__ == "__main__":
