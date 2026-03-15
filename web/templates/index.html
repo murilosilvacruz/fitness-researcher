@@ -459,7 +459,7 @@
     return `
       <div class="card ${a.read ? 'read' : ''}" id="card-${a.id}">
         <div class="card-top">
-          <div class="read-check ${a.read ? 'checked' : ''}" onclick="toggleRead('${a.id}', ${!a.read})" title="${a.read ? 'Marcar como não lido' : 'Marcar como lido'}"></div>
+          <div class="read-check ${a.read ? 'checked' : ''}" onclick="toggleRead('${a.id}', !this.classList.contains('checked'))" title="Marcar como lido / não lido"></div>
           <div class="card-info" onclick="if(this.closest('.card').classList.contains('read')) toggleExpand('${a.id}')" style="${a.read ? 'cursor:pointer' : ''}">
             <div class="card-label">${escapeHtml(a.label)}</div>
             <div class="card-title"><a href="${a.url}" target="_blank" rel="noopener">${escapeHtml(titlePt)}</a></div>
