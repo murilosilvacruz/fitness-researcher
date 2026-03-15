@@ -9,29 +9,30 @@ max_total_articles: 10
 
 # Tópicos pesquisados a cada execução
 # Use termos em inglês para ampliar o alcance nas fontes científicas internacionais
+# Foco: mulheres não atletas, população geral, praticantes recreativas de qualquer idade
 topics:
-  - query: "strength training women health benefits 2025 2026"
+  - query: "strength training non-athlete women health benefits 2025 2026"
     label: "Musculação Feminina"
 
-  - query: "resistance exercise menstrual cycle performance women"
+  - query: "menstrual cycle resistance training recreational women non-athlete"
     label: "Ciclo Menstrual e Treino"
 
-  - query: "women muscle hypertrophy training research"
+  - query: "muscle hypertrophy resistance training untrained women general population"
     label: "Hipertrofia Feminina"
 
-  - query: "exercise hormones women estrogen testosterone training"
+  - query: "exercise hormones estrogen women general population non-athlete"
     label: "Hormônios e Exercício"
 
-  - query: "nutrition strength training women protein"
-    label: "Nutrição e Performance Feminina"
+  - query: "protein intake nutrition resistance training recreational women"
+    label: "Nutrição e Musculação Feminina"
 
-  - query: "physical exercise mental health women anxiety depression"
+  - query: "physical exercise mental health women anxiety depression non-athlete"
     label: "Saúde Mental e Exercício"
 
-  - query: "female athlete bone density osteoporosis exercise"
+  - query: "bone density osteoporosis exercise women general population non-athlete"
     label: "Saúde Óssea Feminina"
 
-  - query: "new research exercise physiology 2025 2026"
+  - query: "physical activity health benefits sedentary women general population 2025 2026"
     label: "Pesquisas Recentes em Fisiologia"
 
 # Domínios priorizados — fontes confiáveis e científicas

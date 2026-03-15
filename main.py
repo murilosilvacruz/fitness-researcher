@@ -9,6 +9,7 @@ from dotenv import load_dotenv
 from agent.researcher import search_articles
 from agent.summarizer import enrich_article
 from agent.reporter import generate_report
+from agent.post_writer import write_post_files
 
 CONFIG_PATH = Path(__file__).parent / "config" / "topics.yaml"
 
@@ -31,7 +32,7 @@ def main() -> None:
     print(f" Resultados por tópico: {config.get('max_results_per_topic', 3)}")
 
     # 1. Pesquisa
-    print("\n[1/3] Buscando artigos na web...")
+    print("\n[1/4] Buscando artigos na web...")
     articles = search_articles(config)
 
     if not articles:
@@ -41,7 +42,7 @@ def main() -> None:
     print(f"      {len(articles)} artigo(s) encontrado(s).")
 
     # 2. Sumarização
-    print("\n[2/3] Sumarizando com Claude e gerando legendas para Instagram...")
+    print("\n[2/4] Sumarizando com Claude e gerando legendas para Instagram...")
     enriched_articles = []
     for i, article in enumerate(articles, start=1):
         print(f"      [{i}/{len(articles)}] {article.title[:70]}...")
@@ -56,8 +57,18 @@ def main() -> None:
         sys.exit(1)
 
     # 3. Relatório
-    print("\n[3/3] Gerando relatório Markdown...")
+    print("\n[3/4] Gerando relatório Markdown...")
     report_path = generate_report(enriched_articles)
+
+    # 4. Arquivos de post (caption + summary)
+    print("\n[4/4] Gerando arquivos de post (caption.txt + summary.txt)...")
+    for i, enriched in enumerate(enriched_articles, start=1):
+        print(f"      [{i}/{len(enriched_articles)}] {enriched.title_pt[:60]}...")
+        try:
+            folder = write_post_files(enriched)
+            print(f"      → {folder.relative_to(folder.parent.parent.parent)}")
+        except Exception as e:
+            print(f"      AVISO: erro ao gerar post para '{enriched.title_pt}': {e}")
 
     print("\n" + "=" * 60)
     print(f"  Relatório salvo em: {report_path}")
