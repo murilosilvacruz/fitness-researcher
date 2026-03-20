@@ -1,0 +1,22 @@
+{
+  "status": "APPROVED",
+  "notes": "",
+  "auto": {
+    "passed": false,
+    "score": 0.889,
+    "failures": [
+      "caption: nenhum CTA detectado (salva, comenta, marca, link na bio)"
+    ],
+    "warnings": []
+  },
+  "llm": {
+    "score_total": 22,
+    "score_normalized": 0.88,
+    "brand_alignment": 4,
+    "hook_quality": 5,
+    "scientific_clarity": 4,
+    "pilar_fit": 5,
+    "cta_effectiveness": 4,
+    "feedback": "O post é sólido e bem estruturado — o hook é direto e sem alarmismo, a voz é confiante e acolhedora. A citação da meta-análise 2021 e tamanhos de efeito (0,85 e 0,73) reforçam credibilidade. Apenas dois pontos: (1) especificar o periódico/revista da meta-análise tornaria a fonte ainda mais verificável; (2) o CTA \"Salve esse conteúdo\" é genérico — considere um CTA mais acionável como \"Comenta aqui: qual é seu maior desafio para exercitar em casa?\" para aumentar engajamento e dados de audience."
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "status": "APPROVED",
+  "notes": "",
+  "auto": {
+    "passed": false,
+    "score": 0.778,
+    "failures": [
+      "summary: TITULO com 64 chars (máx 60)",
+      "caption: nenhum CTA detectado (salva, comenta, marca, link na bio)"
+    ],
+    "warnings": []
+  },
+  "llm": {
+    "score_total": 21,
+    "score_normalized": 0.84,
+    "brand_alignment": 4,
+    "hook_quality": 5,
+    "scientific_clarity": 3,
+    "pilar_fit": 5,
+    "cta_effectiveness": 4,
+    "feedback": "O hook inicial é excelente — direto e relevante. Porém, há imprecisão científica: oxitocina não é o hormônio-chave nesse cenário; o problema central envolve hormônios reprodutivos (FSH, LH, estradiol) e a teoria do déficit energético relativo (REDs). A citação \"estudo publicado no PMC\" é vaga demais — cite autores, ano ou DOI para credibilidade. Considere adicionar um bullet ou parágrafo curto diferenciando \"amenorreia por déficit energético\" de outras causas, elevando clareza científica sem perder acessibilidade."
+  }
+}

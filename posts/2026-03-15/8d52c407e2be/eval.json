@@ -1,0 +1,11 @@
+{
+  "status": "APPROVED",
+  "notes": "Post de teste para validação do template Canva — CIÊNCIA EM DOSE",
+  "auto": {
+    "passed": true,
+    "score": 1.0,
+    "failures": [],
+    "warnings": ["caption gerada antes das brand guidelines — recomendado regenerar"]
+  },
+  "llm": null
+}

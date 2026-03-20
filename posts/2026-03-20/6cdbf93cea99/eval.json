@@ -1,0 +1,22 @@
+{
+  "status": "APPROVED",
+  "notes": "",
+  "auto": {
+    "passed": false,
+    "score": 0.889,
+    "failures": [
+      "caption: nenhum CTA detectado (salva, comenta, marca, link na bio)"
+    ],
+    "warnings": []
+  },
+  "llm": {
+    "score_total": 23,
+    "score_normalized": 0.92,
+    "brand_alignment": 5,
+    "hook_quality": 5,
+    "scientific_clarity": 4,
+    "pilar_fit": 5,
+    "cta_effectiveness": 4,
+    "feedback": "A voz está impecável — inteligente, direta e acolhedora. O \"detalhe importante\" no título funciona como gancho perfeito sem alarmismo. A citação da Cochrane e medicina geriátrica é adequada, mas seria mais forte especificar o ano da revisão ou mencionar \"múltiplas metanálises recentes\" para reforçar credibilidade. O CTA final (\"salve esse post para voltar...\") é forte mas dividido entre save e compartilhamento social — considere unificar em uma ação primária."
+  }
+}

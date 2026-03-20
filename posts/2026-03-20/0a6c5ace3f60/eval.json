@@ -1,0 +1,22 @@
+{
+  "status": "APPROVED",
+  "notes": "",
+  "auto": {
+    "passed": false,
+    "score": 0.889,
+    "failures": [
+      "caption: nenhum CTA detectado (salva, comenta, marca, link na bio)"
+    ],
+    "warnings": []
+  },
+  "llm": {
+    "score_total": 21,
+    "score_normalized": 0.84,
+    "brand_alignment": 4,
+    "hook_quality": 5,
+    "scientific_clarity": 3,
+    "pilar_fit": 5,
+    "cta_effectiveness": 4,
+    "feedback": "O tom é direto e acolhedor, combatendo mitos sem alarmismo — excelente alinhamento. O hook \"Exercício aumenta seus hormônios reprodutivos. Ponto.\" é impactante e convidativo. Porém, a referência científica é vaga (\"periódicos científicos especializados\") — mencione pelo menos um estudo, autor ou ano para fortalecer a credibilidade com seu público que valoriza rigor. O CTA final é forte, mas considere adicionar uma ação imediata (comentar, compartilhar com uma amiga) para potencializar engajamento."
+  }
+}

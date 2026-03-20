@@ -1,0 +1,22 @@
+{
+  "status": "APPROVED",
+  "notes": "",
+  "auto": {
+    "passed": false,
+    "score": 0.889,
+    "failures": [
+      "caption: nenhum CTA detectado (salva, comenta, marca, link na bio)"
+    ],
+    "warnings": []
+  },
+  "llm": {
+    "score_total": 21,
+    "score_normalized": 0.84,
+    "brand_alignment": 4,
+    "hook_quality": 4,
+    "scientific_clarity": 5,
+    "pilar_fit": 5,
+    "cta_effectiveness": 3,
+    "feedback": "O post comunica com clareza e nuance científica, mantendo tom inteligente e acolhedor. A transparência sobre a qualidade metodológica dos estudos é um diferencial que reforça credibilidade. O CTA final é duplicado e fraco (\"Salve essa...\" + hashtags funcionam como CTA implícito): escolha um acionamento claro — pergunta, sugestão de salvamento ou convite a comentar — e elimine ruído. Considere fortalecer com uma chamada mais direta no final da legenda antes das hashtags."
+  }
+}

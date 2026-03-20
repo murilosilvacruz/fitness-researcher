@@ -1,0 +1,22 @@
+{
+  "status": "APPROVED",
+  "notes": "",
+  "auto": {
+    "passed": false,
+    "score": 0.889,
+    "failures": [
+      "caption: nenhum CTA detectado (salva, comenta, marca, link na bio)"
+    ],
+    "warnings": []
+  },
+  "llm": {
+    "score_total": 21,
+    "score_normalized": 0.84,
+    "brand_alignment": 4,
+    "hook_quality": 5,
+    "scientific_clarity": 4,
+    "pilar_fit": 5,
+    "cta_effectiveness": 3,
+    "feedback": "O post tem voz marca-perfeita e hook muito forte (\"sem culpa\" fecha bem o medo real do público). A clareza científica é sólida, mas há uma imprecisão: o estudo menciona mulheres \"atletas treinadas\" — seu público-alvo (40+, não atletas) pode se sentir excluído dessa evidência. Considere adicionar uma frase tipo \"Esses achados valem também para mulheres treinadas regularmente, mesmo sem competir\". O CTA é genérico demais (\"salve\"); teste \"Salve para consultar quando a dúvida aparecer\" ou um CTA mais ativo (pergunta reflexiva ou link)."
+  }
+}

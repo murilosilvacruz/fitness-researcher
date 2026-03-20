@@ -1,0 +1,23 @@
+{
+  "status": "APPROVED",
+  "notes": "",
+  "auto": {
+    "passed": false,
+    "score": 0.778,
+    "failures": [
+      "summary: SUBTITULO com 152 chars (máx 150)",
+      "caption: nenhum CTA detectado (salva, comenta, marca, link na bio)"
+    ],
+    "warnings": []
+  },
+  "llm": {
+    "score_total": 20,
+    "score_normalized": 0.8,
+    "brand_alignment": 4,
+    "hook_quality": 4,
+    "scientific_clarity": 3,
+    "pilar_fit": 5,
+    "cta_effectiveness": 4,
+    "feedback": "A voz está excelente — inteligente, acolhedora, sem infantilização. Porém, a citação científica é vaga (\"Estudo publicado em PMC/NIH, revisão de múltiplas pesquisas\") — ideal nomear o estudo, autores ou ano para fortalecer credibilidade com seu público adulto. A menção \"yoga com foco em respiração\" merecia brevemente conectar ao mecanismo fisiológico (parassimpático), não apenas listar como opção. O CTA funciona bem, mas \"salve esse post\" é genérico; considere algo como \"compartilhe com quem precisa ouvir isso agora\"."
+  }
+}

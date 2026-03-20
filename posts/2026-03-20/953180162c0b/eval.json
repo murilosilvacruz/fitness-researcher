@@ -1,0 +1,22 @@
+{
+  "status": "APPROVED",
+  "notes": "",
+  "auto": {
+    "passed": false,
+    "score": 0.889,
+    "failures": [
+      "caption: nenhum CTA detectado (salva, comenta, marca, link na bio)"
+    ],
+    "warnings": []
+  },
+  "llm": {
+    "score_total": 23,
+    "score_normalized": 0.92,
+    "brand_alignment": 4,
+    "hook_quality": 5,
+    "scientific_clarity": 5,
+    "pilar_fit": 5,
+    "cta_effectiveness": 4,
+    "feedback": "O post executa com excelência a premissa central da marca: dado confiável, linguagem adulta, acolhimento sem alarmismo. A progressão lógica (pergunta → resposta → implicação prática → ressalva) é impecável. Única oportunidade: o CTA \"Salve esse post\" é genérico; considere algo mais ativo como \"Compartilhe com quem tem medo de começar leve\" para aumentar engajamento e distribuição orgânica."
+  }
+}
