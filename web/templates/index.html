@@ -645,7 +645,7 @@
     const titlePt = a.title_pt || a.title || '';
     const titleEn = (a.title_en && a.title_en !== titlePt) ? a.title_en : '';
     const date = currentDate;
-    const isPublished = !!a.published_instagram;
+    const isPublished = getPublishedState(date, a.id) || !!a.published_instagram;
 
     return `
       <div class="card ${a.read ? 'read' : ''}" id="card-${a.id}">
@@ -801,17 +801,42 @@
     if (e.target === document.getElementById('imageModal')) closeImageModal();
   }
 
+  // ── Published state (localStorage) ──────────────────────────────────────
+  const _PUB_KEY = 'cse_published_state';
+
+  function _pubState() {
+    try { return JSON.parse(localStorage.getItem(_PUB_KEY) || '{}'); }
+    catch { return {}; }
+  }
+
+  function getPublishedState(date, id) {
+    return !!_pubState()[`${date}/${id}`];
+  }
+
+  function savePublishedState(date, id, published) {
+    try {
+      const state = _pubState();
+      if (published) {
+        state[`${date}/${id}`] = true;
+      } else {
+        delete state[`${date}/${id}`];
+      }
+      localStorage.setItem(_PUB_KEY, JSON.stringify(state));
+    } catch {}
+  }
+
   async function togglePublished(date, id, published) {
+    savePublishedState(date, id, published);
+    const label = document.querySelector(`#card-${id} .published-label`);
+    if (label) label.classList.toggle('checked', published);
     try {
       await fetch(`/api/posts/${date}/${id}/published`, {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify({ published }),
       });
-      const label = document.querySelector(`#card-${id} .published-label`);
-      if (label) label.classList.toggle('checked', published);
     } catch (e) {
-      console.error('Erro ao atualizar estado de publicação', e);
+      console.error('Erro ao salvar estado de publicação no servidor', e);
     }
   }
 
