@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Fitness Research</title>
+  <title>Corpo e Saber — Research</title>
   <style>
     *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
 
@@ -254,6 +254,130 @@
     }
     .play-btn svg { width: 13px; height: 13px; flex-shrink: 0; }
 
+    /* ── Nav tabs ── */
+    .nav-tabs {
+      display: flex; gap: 0; border-bottom: 2px solid var(--border);
+      margin-bottom: 0; background: var(--surface);
+      padding: 0 16px; position: sticky; top: 56px; z-index: 50;
+    }
+    .nav-tab {
+      padding: 12px 18px; font-size: 13px; font-weight: 600;
+      border: none; background: none; cursor: pointer; color: var(--text-muted);
+      border-bottom: 2px solid transparent; margin-bottom: -2px;
+      transition: color .15s, border-color .15s; white-space: nowrap;
+    }
+    .nav-tab:hover { color: var(--text); }
+    .nav-tab.active { color: var(--accent); border-bottom-color: var(--accent); }
+    .tab-badge {
+      display: inline-flex; align-items: center; justify-content: center;
+      background: var(--badge-bg); border-radius: 10px;
+      font-size: 10px; font-weight: 700; padding: 1px 6px; margin-left: 5px;
+    }
+    .tab-badge.pending { background: #fef3c7; color: #92400e; }
+    .tab-badge.approved { background: var(--green-light); color: var(--green); }
+
+    /* ── Review queue ── */
+    .review-header {
+      display: flex; align-items: center; justify-content: space-between;
+      margin-bottom: 20px; flex-wrap: wrap; gap: 12px;
+    }
+    .review-filters { display: flex; gap: 8px; flex-wrap: wrap; }
+    .status-pill {
+      font-size: 11px; font-weight: 700; text-transform: uppercase;
+      letter-spacing: .06em; padding: 3px 9px; border-radius: 20px;
+    }
+    .status-pill.APPROVED { background: var(--green-light); color: var(--green); }
+    .status-pill.PENDING_REVIEW { background: #fef3c7; color: #92400e; }
+    .status-pill.REJECTED { background: #fee2e2; color: #991b1b; }
+    .status-pill.NO_EVAL { background: var(--badge-bg); color: var(--text-muted); }
+
+    .review-card {
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+      margin-bottom: 14px;
+      box-shadow: var(--shadow);
+      overflow: hidden;
+    }
+    .review-card-header {
+      display: flex; align-items: center; gap: 12px;
+      padding: 14px 18px; cursor: pointer;
+      border-bottom: 1px solid transparent;
+      transition: background .1s;
+    }
+    .review-card-header:hover { background: var(--surface-2); }
+    .review-card.expanded .review-card-header { border-bottom-color: var(--border); }
+    .review-card-title { flex: 1; font-size: 14px; font-weight: 600; min-width: 0; }
+    .review-card-meta { font-size: 11px; color: var(--text-muted); margin-top: 2px; }
+    .review-card-body { padding: 18px; }
+
+    .eval-scores {
+      display: flex; gap: 8px; flex-wrap: wrap; margin-bottom: 14px;
+    }
+    .score-chip {
+      font-size: 11px; font-weight: 600;
+      background: var(--surface-2); border-radius: 6px;
+      padding: 4px 9px; display: flex; align-items: center; gap: 5px;
+    }
+    .score-chip .score-val { color: var(--accent); }
+    .score-chip.good .score-val { color: var(--green); }
+    .score-chip.bad .score-val { color: #dc2626; }
+
+    .review-content-grid {
+      display: grid; grid-template-columns: 1fr 1fr;
+      gap: 14px; margin-bottom: 14px;
+    }
+    @media (max-width: 700px) {
+      .review-content-grid { grid-template-columns: 1fr; }
+    }
+    .review-content-box {
+      background: var(--surface-2);
+      border: 1px solid var(--border);
+      border-radius: 8px; padding: 12px;
+    }
+    .review-content-label {
+      font-size: 10px; font-weight: 700; text-transform: uppercase;
+      letter-spacing: .08em; color: var(--text-muted); margin-bottom: 6px;
+    }
+    .review-content-text {
+      font-size: 12.5px; line-height: 1.65; white-space: pre-wrap; color: #3a3630;
+      max-height: 180px; overflow-y: auto;
+    }
+
+    .llm-feedback {
+      background: var(--accent-light);
+      border: 1px solid #f3cec5;
+      border-radius: 8px; padding: 12px; margin-bottom: 14px;
+    }
+    .llm-feedback-label {
+      font-size: 10px; font-weight: 700; text-transform: uppercase;
+      letter-spacing: .08em; color: var(--accent); margin-bottom: 5px;
+    }
+    .llm-feedback-text { font-size: 13px; line-height: 1.6; }
+
+    .review-actions { display: flex; gap: 10px; align-items: flex-start; flex-wrap: wrap; }
+    .review-note-input {
+      flex: 1; min-width: 200px; font-size: 13px; padding: 7px 10px;
+      border: 1.5px solid var(--border); border-radius: 7px;
+      background: var(--surface); color: var(--text);
+      font-family: inherit;
+    }
+    .review-note-input:focus { outline: none; border-color: var(--accent); }
+    .btn-approve {
+      display: inline-flex; align-items: center; gap: 5px;
+      background: var(--green); color: #fff;
+      border: none; border-radius: 7px; padding: 7px 14px;
+      font-size: 13px; font-weight: 600; cursor: pointer; transition: opacity .15s;
+    }
+    .btn-approve:hover { opacity: .85; }
+    .btn-reject {
+      display: inline-flex; align-items: center; gap: 5px;
+      background: #dc2626; color: #fff;
+      border: none; border-radius: 7px; padding: 7px 14px;
+      font-size: 13px; font-weight: 600; cursor: pointer; transition: opacity .15s;
+    }
+    .btn-reject:hover { opacity: .85; }
+
     /* ── Instagram panel ── */
     .ig-panel {
       margin-top: 14px;
@@ -278,6 +402,56 @@
     }
     .copy-btn:hover { background: var(--accent); color: #fff; }
     .copy-btn.copied { background: var(--green); border-color: var(--green); color: #fff; }
+
+    /* ── Summary panel ── */
+    .summary-panel {
+      margin-top: 14px;
+      background: linear-gradient(135deg, #f0f5f0 0%, #e8f2e8 100%);
+      border: 1px solid #b8d4b8;
+      border-radius: 8px;
+      padding: 14px 16px;
+    }
+    .summary-panel .ig-label { color: var(--green); }
+
+    /* ── Published row ── */
+    .published-row {
+      display: flex; align-items: center; gap: 7px;
+      margin-top: 10px;
+    }
+    .published-checkbox {
+      width: 15px; height: 15px; cursor: pointer;
+      accent-color: var(--green); flex-shrink: 0;
+    }
+    .published-label {
+      font-size: 12px; color: var(--text-muted);
+      cursor: pointer; user-select: none;
+    }
+    .published-label.checked { color: var(--green); font-weight: 600; }
+
+    /* ── Image modal ── */
+    .img-modal-overlay {
+      display: none; position: fixed; inset: 0;
+      background: rgba(0,0,0,.88); z-index: 200;
+      align-items: center; justify-content: center;
+      cursor: zoom-out;
+    }
+    .img-modal-overlay.open { display: flex; }
+    .img-modal-img {
+      max-width: min(88vw, 560px); max-height: 88vh;
+      border-radius: 10px; object-fit: contain;
+      box-shadow: 0 12px 40px rgba(0,0,0,.6);
+      cursor: default;
+    }
+    .img-modal-close {
+      position: fixed; top: 18px; right: 22px;
+      background: rgba(255,255,255,.15); border: none;
+      color: #fff; font-size: 22px; line-height: 1;
+      cursor: pointer; border-radius: 50%;
+      width: 36px; height: 36px;
+      display: flex; align-items: center; justify-content: center;
+      backdrop-filter: blur(4px); transition: background .15s;
+    }
+    .img-modal-close:hover { background: rgba(255,255,255,.28); }
 
     /* ── Empty / loading ── */
     .state-msg {
@@ -336,7 +510,7 @@
         <line x1="3" y1="18" x2="21" y2="18"/>
       </svg>
     </button>
-    <div class="logo">💪 <span>Fitness</span> Research</div>
+    <div class="logo"><span>Corpo e Saber</span> — Research</div>
   </div>
   <div class="header-actions">
     <div id="statusMsg"></div>
@@ -349,6 +523,14 @@
 
 <div id="sidebarOverlay" onclick="closeSidebar()"></div>
 
+<nav class="nav-tabs">
+  <button class="nav-tab active" id="tab-research" onclick="switchTab('research')">Pesquisas</button>
+  <button class="nav-tab" id="tab-queue" onclick="switchTab('queue')">
+    Fila de Publicação
+    <span class="tab-badge pending" id="queue-badge" style="display:none"></span>
+  </button>
+</nav>
+
 <div class="layout">
   <aside id="sidebar">
     <div class="sidebar-title">Pesquisas</div>
@@ -359,7 +541,15 @@
     <div id="content">
       <div class="state-msg"><strong>Selecione uma pesquisa</strong>Escolha uma data na barra lateral para ver os artigos.</div>
     </div>
+    <div id="queue-content" style="display:none">
+      <div class="state-msg"><strong>Carregando fila...</strong></div>
+    </div>
   </main>
+</div>
+
+<div id="imageModal" class="img-modal-overlay" onclick="handleModalClick(event)">
+  <button class="img-modal-close" onclick="closeImageModal()" title="Fechar">✕</button>
+  <img id="imageModalImg" class="img-modal-img" src="" alt="Background do post" onclick="event.stopPropagation()">
 </div>
 
 <script>
@@ -454,7 +644,8 @@
   function renderCard(a) {
     const titlePt = a.title_pt || a.title || '';
     const titleEn = (a.title_en && a.title_en !== titlePt) ? a.title_en : '';
-    const hasCaption = !!a.instagram_caption;
+    const date = currentDate;
+    const isPublished = !!a.published_instagram;
 
     return `
       <div class="card ${a.read ? 'read' : ''}" id="card-${a.id}">
@@ -485,14 +676,24 @@
               <svg id="play-icon-${a.id}" viewBox="0 0 24 24" fill="currentColor"><path d="M8 5v14l11-7z"/></svg>
               <span id="play-label-${a.id}">Ouvir</span>
             </button>
-            ${hasCaption ? `<button class="toggle-btn" onclick="toggleIG('${a.id}')">📱 Ver legenda para Instagram</button>` : ''}
+            <button class="toggle-btn" onclick="toggleCaptionPanel('${date}', '${a.id}')">📱 Ver legenda</button>
+            <button class="toggle-btn" onclick="toggleSummaryPanel('${date}', '${a.id}')">📄 Ver post</button>
+            ${a.has_background ? `<button class="toggle-btn" onclick="openImageModal('${date}', '${a.id}')">🖼 Ver imagem</button>` : ''}
           </div>
-          ${hasCaption ? `
+          <div class="published-row">
+            <input type="checkbox" class="published-checkbox" id="pub-${a.id}" ${isPublished ? 'checked' : ''}
+              onchange="togglePublished('${date}', '${a.id}', this.checked)">
+            <label for="pub-${a.id}" class="published-label ${isPublished ? 'checked' : ''}">Publicado no Instagram</label>
+          </div>
           <div class="ig-panel" id="ig-${a.id}" style="display:none">
-            <div class="ig-label">📱 Sugestão de Legenda</div>
-            <div class="ig-text">${escapeHtml(a.instagram_caption)}</div>
+            <div class="ig-label">📱 Legenda do post</div>
+            <div class="ig-text" id="ig-text-${a.id}">Carregando...</div>
             <button class="copy-btn" id="copy-${a.id}" onclick="copyCaption('${a.id}')">Copiar legenda</button>
-          </div>` : ''}
+          </div>
+          <div class="ig-panel summary-panel" id="summary-panel-${a.id}" style="display:none">
+            <div class="ig-label">📄 Texto do Post (summary.txt)</div>
+            <div class="ig-text" id="summary-text-${a.id}">Carregando...</div>
+          </div>
         </div>
       </div>`;
   }
@@ -534,11 +735,89 @@
     document.getElementById(`card-${id}`)?.classList.toggle('expanded');
   }
 
-  function toggleIG(id) {
+  // ── Post data cache (caption.txt + summary.txt) ──────────────────────────
+  const postDataCache = {};
+
+  async function loadPostData(date, id) {
+    const key = `${date}/${id}`;
+    if (postDataCache[key]) return postDataCache[key];
+    try {
+      const res = await fetch(`/api/posts/${date}/${id}`);
+      if (!res.ok) return null;
+      const data = await res.json();
+      postDataCache[key] = data;
+      if (data.caption) captionMap[id] = data.caption;
+      return data;
+    } catch { return null; }
+  }
+
+  async function toggleCaptionPanel(date, id) {
     const panel = document.getElementById(`ig-${id}`);
     if (!panel) return;
-    panel.style.display = panel.style.display === 'none' ? 'block' : 'none';
+    const visible = panel.style.display !== 'none';
+    if (visible) { panel.style.display = 'none'; return; }
+    panel.style.display = 'block';
+    const textEl = document.getElementById(`ig-text-${id}`);
+    if (textEl && textEl.dataset.loaded !== '1') {
+      const data = await loadPostData(date, id);
+      if (textEl) {
+        textEl.textContent = data?.caption || '(sem legenda)';
+        textEl.dataset.loaded = '1';
+      }
+    }
   }
+
+  async function toggleSummaryPanel(date, id) {
+    const panel = document.getElementById(`summary-panel-${id}`);
+    if (!panel) return;
+    const visible = panel.style.display !== 'none';
+    if (visible) { panel.style.display = 'none'; return; }
+    panel.style.display = 'block';
+    const textEl = document.getElementById(`summary-text-${id}`);
+    if (textEl && textEl.dataset.loaded !== '1') {
+      const data = await loadPostData(date, id);
+      if (textEl) {
+        textEl.textContent = data?.summary || '(sem summary)';
+        textEl.dataset.loaded = '1';
+      }
+    }
+  }
+
+  function openImageModal(date, id) {
+    const modal = document.getElementById('imageModal');
+    const img = document.getElementById('imageModalImg');
+    if (!modal || !img) return;
+    img.src = `/api/posts/${date}/${id}/background`;
+    modal.classList.add('open');
+    document.body.style.overflow = 'hidden';
+  }
+
+  function closeImageModal() {
+    document.getElementById('imageModal')?.classList.remove('open');
+    document.body.style.overflow = '';
+  }
+
+  function handleModalClick(e) {
+    if (e.target === document.getElementById('imageModal')) closeImageModal();
+  }
+
+  async function togglePublished(date, id, published) {
+    try {
+      await fetch(`/api/posts/${date}/${id}/published`, {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({ published }),
+      });
+      const label = document.querySelector(`#card-${id} .published-label`);
+      if (label) label.classList.toggle('checked', published);
+    } catch (e) {
+      console.error('Erro ao atualizar estado de publicação', e);
+    }
+  }
+
+  document.addEventListener('keydown', e => {
+    if (e.key === 'Escape') closeImageModal();
+  });
 
   async function copyCaption(id) {
     const text = captionMap[id] || '';
@@ -710,6 +989,220 @@
     if (!str) return '';
     return str.replace(/'/g,"\\'");
   }
+
+  // ── Tabs ──────────────────────────────────────────────────────────────────
+  let currentTab = 'research';
+
+  function switchTab(tab) {
+    currentTab = tab;
+    document.getElementById('tab-research').classList.toggle('active', tab === 'research');
+    document.getElementById('tab-queue').classList.toggle('active', tab === 'queue');
+    document.getElementById('sidebar').style.display = tab === 'research' ? '' : 'none';
+    document.getElementById('content').style.display = tab === 'research' ? '' : 'none';
+    document.getElementById('queue-content').style.display = tab === 'queue' ? '' : 'none';
+    if (tab === 'queue') loadQueue();
+  }
+
+  // ── Review Queue ──────────────────────────────────────────────────────────
+  let allPosts = [];
+  let queueFilter = 'PENDING_REVIEW';
+
+  async function loadQueue() {
+    const el = document.getElementById('queue-content');
+    el.innerHTML = '<div class="state-msg"><strong>Carregando fila...</strong></div>';
+    try {
+      const res = await fetch('/api/posts');
+      allPosts = await res.json();
+      renderQueue();
+      updateQueueBadge();
+    } catch (e) {
+      el.innerHTML = '<div class="state-msg"><strong>Erro ao carregar fila</strong></div>';
+    }
+  }
+
+  async function updateQueueBadge() {
+    try {
+      const res = await fetch('/api/posts/stats');
+      const stats = await res.json();
+      const badge = document.getElementById('queue-badge');
+      const count = (stats.PENDING_REVIEW || 0);
+      if (count > 0) {
+        badge.textContent = count;
+        badge.style.display = '';
+      } else {
+        badge.style.display = 'none';
+      }
+    } catch (_) {}
+  }
+
+  function renderQueue() {
+    const el = document.getElementById('queue-content');
+    const filtered = queueFilter === 'all' ? allPosts : allPosts.filter(p => p.status === queueFilter);
+
+    const counts = { APPROVED: 0, PENDING_REVIEW: 0, REJECTED: 0, NO_EVAL: 0 };
+    allPosts.forEach(p => { counts[p.status] = (counts[p.status] || 0) + 1; });
+
+    const filters = [
+      { key: 'PENDING_REVIEW', label: 'Aguardando revisão', badge: counts.PENDING_REVIEW },
+      { key: 'APPROVED', label: 'Aprovados', badge: counts.APPROVED },
+      { key: 'REJECTED', label: 'Rejeitados', badge: counts.REJECTED },
+      { key: 'all', label: 'Todos', badge: allPosts.length },
+    ];
+
+    el.innerHTML = `
+      <div class="review-header">
+        <div>
+          <div class="main-title">Fila de Publicação</div>
+          <div class="main-meta">${allPosts.length} posts gerados · ${counts.APPROVED} aprovados · ${counts.PENDING_REVIEW} aguardando</div>
+        </div>
+      </div>
+      <div class="review-filters" style="margin-bottom:20px">
+        ${filters.map(f => `
+          <button class="filter-btn ${queueFilter === f.key ? 'active' : ''}" onclick="setQueueFilter('${f.key}')">
+            ${f.label}${f.badge > 0 ? ` <span style="opacity:.7">(${f.badge})</span>` : ''}
+          </button>`).join('')}
+      </div>
+      <div id="reviewList">
+        ${filtered.length === 0
+          ? '<div class="state-msg" style="padding:40px 20px"><strong>Nenhum post</strong>Nenhum post com este status.</div>'
+          : filtered.map(renderReviewCard).join('')}
+      </div>`;
+  }
+
+  function setQueueFilter(filter) {
+    queueFilter = filter;
+    renderQueue();
+  }
+
+  function renderReviewCard(post) {
+    const eval_ = post.eval || {};
+    const auto = eval_.auto || {};
+    const llm = eval_.llm || null;
+
+    const summaryTitle = extractSummaryTitle(post.summary);
+    const pilar = extractSummaryPilar(post.summary);
+
+    const autoScore = auto.score != null ? Math.round(auto.score * 100) : null;
+    const llmScore = llm ? Math.round(llm.score_normalized * 100) : null;
+
+    function scoreClass(val) {
+      if (val == null) return '';
+      return val >= 72 ? 'good' : val < 52 ? 'bad' : '';
+    }
+
+    const failures = (auto.failures || []).map(f =>
+      `<div style="font-size:12px;color:#dc2626;margin-top:3px">⚠ ${escapeHtml(f)}</div>`
+    ).join('');
+
+    const llmDetails = llm ? `
+      <div class="eval-scores" style="margin-top:8px">
+        ${[
+          ['Voz da marca', llm.brand_alignment],
+          ['Gancho', llm.hook_quality],
+          ['Ciência', llm.scientific_clarity],
+          ['Pilar', llm.pilar_fit],
+          ['CTA', llm.cta_effectiveness],
+        ].map(([label, val]) => `
+          <div class="score-chip ${val >= 4 ? 'good' : val <= 2 ? 'bad' : ''}">
+            ${label} <span class="score-val">${val}/5</span>
+          </div>`).join('')}
+      </div>
+      ${llm.feedback ? `
+      <div class="llm-feedback" style="margin-top:12px">
+        <div class="llm-feedback-label">Feedback do avaliador</div>
+        <div class="llm-feedback-text">${escapeHtml(llm.feedback)}</div>
+      </div>` : ''}` : '';
+
+    const notes = eval_.notes || '';
+
+    return `
+      <div class="review-card" id="rcard-${post.date}-${post.id}">
+        <div class="review-card-header" onclick="toggleReviewCard('${post.date}', '${post.id}')">
+          <div style="flex:1;min-width:0">
+            <div style="display:flex;align-items:center;gap:8px;flex-wrap:wrap">
+              <span class="status-pill ${post.status}">${statusLabel(post.status)}</span>
+              ${pilar ? `<span style="font-size:11px;color:var(--text-muted);font-weight:600">${escapeHtml(pilar)}</span>` : ''}
+            </div>
+            <div class="review-card-title" style="margin-top:5px">${escapeHtml(summaryTitle || post.id)}</div>
+            <div class="review-card-meta">${post.date}${post.has_image ? ' · imagem gerada' : ''}</div>
+          </div>
+          <div style="display:flex;flex-direction:column;align-items:flex-end;gap:4px;flex-shrink:0">
+            ${autoScore != null ? `<div class="score-chip ${scoreClass(autoScore)}">Auto <span class="score-val">${autoScore}%</span></div>` : ''}
+            ${llmScore != null ? `<div class="score-chip ${scoreClass(llmScore)}">LLM <span class="score-val">${llmScore}%</span></div>` : ''}
+          </div>
+        </div>
+        <div class="review-card-body" id="rbody-${post.date}-${post.id}" style="display:none">
+          <div class="eval-scores">
+            ${autoScore != null ? `<div class="score-chip ${scoreClass(autoScore)}">Score auto: <span class="score-val">${autoScore}%</span></div>` : ''}
+            ${failures}
+          </div>
+          ${llmDetails}
+          <div class="review-content-grid">
+            <div class="review-content-box">
+              <div class="review-content-label">Texto da Imagem (summary.txt)</div>
+              <div class="review-content-text">${escapeHtml(post.summary)}</div>
+            </div>
+            <div class="review-content-box">
+              <div class="review-content-label">Legenda (caption.txt)</div>
+              <div class="review-content-text">${escapeHtml(post.caption)}</div>
+            </div>
+          </div>
+          <div class="review-actions">
+            <textarea class="review-note-input" id="note-${post.date}-${post.id}" placeholder="Nota de rejeição (opcional)..." rows="2">${escapeHtml(notes)}</textarea>
+            <button class="btn-approve" onclick="approvePost('${post.date}', '${post.id}')">✓ Aprovar</button>
+            <button class="btn-reject" onclick="rejectPost('${post.date}', '${post.id}')">✕ Rejeitar</button>
+          </div>
+        </div>
+      </div>`;
+  }
+
+  function toggleReviewCard(date, id) {
+    const body = document.getElementById(`rbody-${date}-${id}`);
+    if (!body) return;
+    body.style.display = body.style.display === 'none' ? 'block' : 'none';
+    const card = document.getElementById(`rcard-${date}-${id}`);
+    if (card) card.classList.toggle('expanded', body.style.display !== 'none');
+  }
+
+  async function approvePost(date, id) {
+    await fetch(`/api/posts/${date}/${id}/approve`, { method: 'POST' });
+    await loadQueue();
+  }
+
+  async function rejectPost(date, id) {
+    const notes = document.getElementById(`note-${date}-${id}`)?.value || '';
+    await fetch(`/api/posts/${date}/${id}/reject`, {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify({ notes }),
+    });
+    await loadQueue();
+  }
+
+  function extractSummaryTitle(summary) {
+    if (!summary) return '';
+    const match = summary.match(/^TITULO:\s*(.+)/m);
+    return match ? match[1].trim() : '';
+  }
+
+  function extractSummaryPilar(summary) {
+    if (!summary) return '';
+    const match = summary.match(/^PILAR:\s*(.+)/m);
+    return match ? match[1].trim() : '';
+  }
+
+  function statusLabel(status) {
+    const labels = {
+      APPROVED: 'Aprovado',
+      PENDING_REVIEW: 'Aguardando revisão',
+      REJECTED: 'Rejeitado',
+      NO_EVAL: 'Sem avaliação',
+    };
+    return labels[status] || status;
+  }
+
+  // Load queue badge on boot
+  updateQueueBadge();
 </script>
 </body>
 </html>

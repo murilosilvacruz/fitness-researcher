@@ -6,12 +6,13 @@ import subprocess
 import sys
 from pathlib import Path
 
-from flask import Flask, jsonify, render_template, request
+from flask import Flask, jsonify, render_template, request, send_file
 
 IS_VERCEL = os.environ.get("VERCEL") == "1"
 
 BASE_DIR = Path(__file__).parent.parent
 REPORTS_DIR = BASE_DIR / "reports"
+POSTS_DIR = BASE_DIR / "posts"
 READ_STATE_FILE = REPORTS_DIR / "read_state.json"
 
 app = Flask(__name__)
@@ -78,6 +79,10 @@ def api_run_articles(date: str):
     read_state = _load_read_state()
     for article in data["articles"]:
         article["read"] = article["id"] in read_state
+        post_folder = POSTS_DIR / date / article["id"]
+        eval_data = _load_eval(post_folder)
+        article["published_instagram"] = eval_data.get("published_instagram", False) if eval_data else False
+        article["has_background"] = (post_folder / "background.png").exists()
 
     labels = sorted({a["label"] for a in data["articles"]})
     return jsonify({"date": data["date"], "generated_at": data["generated_at"], "labels": labels, "articles": data["articles"]})
@@ -130,6 +135,198 @@ def api_research_status():
     if code is None:
         return jsonify({"status": "running"})
     return jsonify({"status": "done", "exit_code": code})
+
+
+# ── Review Queue (Fila de Publicação) ─────────────────────────────────────────
+
+def _load_eval(post_folder: Path) -> dict | None:
+    path = post_folder / "eval.json"
+    if not path.exists():
+        return None
+    try:
+        return json.loads(path.read_text(encoding="utf-8"))
+    except (json.JSONDecodeError, OSError):
+        return None
+
+
+def _load_post_files(post_folder: Path) -> dict:
+    summary = ""
+    caption = ""
+    summary_path = post_folder / "summary.txt"
+    caption_path = post_folder / "caption.txt"
+    if summary_path.exists():
+        summary = summary_path.read_text(encoding="utf-8")
+    if caption_path.exists():
+        caption = caption_path.read_text(encoding="utf-8")
+    return {"summary": summary, "caption": caption}
+
+
+@app.get("/api/posts")
+def api_list_posts():
+    """Lista todos os posts com seus status de eval, opcionalmente filtrados por status."""
+    status_filter = request.args.get("status")
+    posts = []
+
+    if not POSTS_DIR.exists():
+        return jsonify([])
+
+    for date_dir in sorted(POSTS_DIR.iterdir(), reverse=True):
+        if not date_dir.is_dir():
+            continue
+        for article_dir in sorted(date_dir.iterdir()):
+            if not article_dir.is_dir():
+                continue
+            eval_data = _load_eval(article_dir)
+            post_status = eval_data.get("status", "NO_EVAL") if eval_data else "NO_EVAL"
+
+            if status_filter and post_status != status_filter:
+                continue
+
+            files = _load_post_files(article_dir)
+            has_image = (article_dir / "image.png").exists()
+
+            posts.append({
+                "id": article_dir.name,
+                "date": date_dir.name,
+                "status": post_status,
+                "has_image": has_image,
+                "summary": files["summary"],
+                "caption": files["caption"],
+                "eval": eval_data,
+            })
+
+    return jsonify(posts)
+
+
+@app.get("/api/posts/<date>/<post_id>")
+def api_get_post(date: str, post_id: str):
+    """Retorna os detalhes completos de um post específico."""
+    post_folder = POSTS_DIR / date / post_id
+    if not post_folder.exists():
+        return jsonify({"error": "Post não encontrado"}), 404
+
+    files = _load_post_files(post_folder)
+    eval_data = _load_eval(post_folder)
+    has_image = (post_folder / "image.png").exists()
+
+    return jsonify({
+        "id": post_id,
+        "date": date,
+        "status": eval_data.get("status", "NO_EVAL") if eval_data else "NO_EVAL",
+        "has_image": has_image,
+        "summary": files["summary"],
+        "caption": files["caption"],
+        "eval": eval_data,
+    })
+
+
+@app.post("/api/posts/<date>/<post_id>/approve")
+def api_approve_post(date: str, post_id: str):
+    """Aprova um post para publicação."""
+    post_folder = POSTS_DIR / date / post_id
+    eval_path = post_folder / "eval.json"
+
+    if not post_folder.exists():
+        return jsonify({"error": "Post não encontrado"}), 404
+
+    eval_data: dict = {}
+    if eval_path.exists():
+        try:
+            eval_data = json.loads(eval_path.read_text(encoding="utf-8"))
+        except (json.JSONDecodeError, OSError):
+            pass
+
+    eval_data["status"] = "APPROVED"
+    eval_data.setdefault("notes", "")
+    eval_path.write_text(json.dumps(eval_data, ensure_ascii=False, indent=2), encoding="utf-8")
+
+    return jsonify({"id": post_id, "date": date, "status": "APPROVED"})
+
+
+@app.post("/api/posts/<date>/<post_id>/reject")
+def api_reject_post(date: str, post_id: str):
+    """Rejeita um post com nota opcional."""
+    post_folder = POSTS_DIR / date / post_id
+    eval_path = post_folder / "eval.json"
+
+    if not post_folder.exists():
+        return jsonify({"error": "Post não encontrado"}), 404
+
+    body = request.get_json(silent=True) or {}
+    notes = body.get("notes", "")
+
+    eval_data: dict = {}
+    if eval_path.exists():
+        try:
+            eval_data = json.loads(eval_path.read_text(encoding="utf-8"))
+        except (json.JSONDecodeError, OSError):
+            pass
+
+    eval_data["status"] = "REJECTED"
+    eval_data["notes"] = notes
+    eval_path.write_text(json.dumps(eval_data, ensure_ascii=False, indent=2), encoding="utf-8")
+
+    return jsonify({"id": post_id, "date": date, "status": "REJECTED", "notes": notes})
+
+
+@app.get("/api/posts/<date>/<post_id>/background")
+def api_post_background(date: str, post_id: str):
+    """Serve o background.png de um post."""
+    bg_path = POSTS_DIR / date / post_id / "background.png"
+    if not bg_path.exists():
+        return jsonify({"error": "Imagem não encontrada"}), 404
+    return send_file(bg_path, mimetype="image/png")
+
+
+@app.post("/api/posts/<date>/<post_id>/published")
+def api_toggle_published(date: str, post_id: str):
+    """Marca ou desmarca um post como publicado no Instagram."""
+    post_folder = POSTS_DIR / date / post_id
+    eval_path = post_folder / "eval.json"
+
+    if not post_folder.exists():
+        return jsonify({"error": "Post não encontrado"}), 404
+
+    body = request.get_json(silent=True) or {}
+    published: bool = body.get("published", True)
+
+    eval_data: dict = {}
+    if eval_path.exists():
+        try:
+            eval_data = json.loads(eval_path.read_text(encoding="utf-8"))
+        except (json.JSONDecodeError, OSError):
+            pass
+
+    eval_data["published_instagram"] = published
+    eval_path.write_text(json.dumps(eval_data, ensure_ascii=False, indent=2), encoding="utf-8")
+
+    return jsonify({"id": post_id, "date": date, "published_instagram": published})
+
+
+@app.get("/api/posts/stats")
+def api_posts_stats():
+    """Retorna contagem de posts por status."""
+    stats: dict[str, int] = {
+        "APPROVED": 0,
+        "PENDING_REVIEW": 0,
+        "REJECTED": 0,
+        "NO_EVAL": 0,
+    }
+
+    if not POSTS_DIR.exists():
+        return jsonify(stats)
+
+    for date_dir in POSTS_DIR.iterdir():
+        if not date_dir.is_dir():
+            continue
+        for article_dir in date_dir.iterdir():
+            if not article_dir.is_dir():
+                continue
+            eval_data = _load_eval(article_dir)
+            status = eval_data.get("status", "NO_EVAL") if eval_data else "NO_EVAL"
+            stats[status] = stats.get(status, 0) + 1
+
+    return jsonify(stats)
 
 
 if __name__ == "__main__":
