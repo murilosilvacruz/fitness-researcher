@@ -1,0 +1,25 @@
+{
+  "status": "APPROVED",
+  "notes": "",
+  "auto": {
+    "passed": false,
+    "score": 0.692,
+    "failures": [
+      "summary: bullet 1 com 140 chars (máx 100)",
+      "summary: bullet 2 com 119 chars (máx 100)",
+      "summary: bullet 3 com 128 chars (máx 100)",
+      "summary: bullet 4 com 116 chars (máx 100)"
+    ],
+    "warnings": []
+  },
+  "llm": {
+    "score_total": 23,
+    "score_normalized": 0.92,
+    "brand_alignment": 5,
+    "hook_quality": 5,
+    "scientific_clarity": 4,
+    "pilar_fit": 5,
+    "cta_effectiveness": 4,
+    "feedback": "A voz está impecável — inteligente, direta e acolhedora, sem alarmismo. O hook \"Você acha que depois dos 40 é 'tarde demais'?\" é perfeito para o público. A única ressalva é a clareza científica: o post menciona \"estudo que reúne essas evidências\" e \"revisão de posicionamento\" mas não identifica autor, ano ou instituição — seja mais específico (ex: \"revisão de 2024 do Journal of Bone and Mineral Research\"). O CTA \"Salve e compartilhe\" é bom, mas um CTA secundário (ex: \"Qual seu maior medo sobre treino de força?\") geraria mais comentários e algoritmo."
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "status": "APPROVED",
+  "notes": "",
+  "auto": {
+    "passed": false,
+    "score": 0.615,
+    "failures": [
+      "summary: bullet 1 com 131 chars (máx 100)",
+      "summary: bullet 2 com 120 chars (máx 100)",
+      "summary: bullet 3 com 132 chars (máx 100)",
+      "summary: bullet 4 com 127 chars (máx 100)",
+      "caption: nenhum CTA detectado (salva, comenta, marca, link na bio)"
+    ],
+    "warnings": []
+  },
+  "llm": {
+    "score_total": 23,
+    "score_normalized": 0.92,
+    "brand_alignment": 5,
+    "hook_quality": 5,
+    "scientific_clarity": 4,
+    "pilar_fit": 5,
+    "cta_effectiveness": 4,
+    "feedback": "O tom é impecável — acolhedor sem infantilizar, direto sem ser alarmista. A estrutura com bullets + legenda narrativa funciona bem. Pequena melhoria: o bullet sobre etnia/geografia (\"Etnias chinesa e japonesa...\") desconecta do foco principal e pode gerar dúvidas sobre representatividade no estudo original — considere remover ou contextualizar melhor. O CTA \"Salve esse post\" é bom, mas um segundo CTA de ação (\"Que tal contar seus pequenos movimentos de hoje?\") poderia aumentar engajamento sem sair da voz da marca."
+  }
+}

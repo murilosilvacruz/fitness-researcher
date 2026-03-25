@@ -1,0 +1,16 @@
+Generate a high-quality background image for an Instagram post (1080x1080 px).
+
+Brand: Corpo e Saber — Brazilian science-based health content for women 40+.
+Topic: Peso leve ganha músculos igual ao peso pesado
+Detail: Desde que você treine até a falha muscular, a carga importa menos que consistência e esforço.
+
+Visual direction: abstract minimal data visualization, soft geometric lines and dots, clean white surface, subtle shadows
+
+Style requirements:
+- No text, numbers or legible words anywhere in the image
+- No faces visible (hands, silhouettes or abstract body parts only)
+- Color palette: warm off-white (#F7F5F2), terracotta (#C9614A) accents, muted earth tones
+- Mood: calm, trustworthy, empowering, editorial
+- Lighting: soft, diffused, natural — avoid harsh shadows or neon
+- Composition: leave generous negative space in the center for text overlay
+- Format: square 1:1, photorealistic or high-quality digital art

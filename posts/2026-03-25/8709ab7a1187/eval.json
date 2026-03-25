@@ -1,0 +1,24 @@
+{
+  "status": "APPROVED",
+  "notes": "",
+  "auto": {
+    "passed": false,
+    "score": 0.769,
+    "failures": [
+      "summary: bullet 1 com 117 chars (máx 100)",
+      "summary: bullet 2 com 107 chars (máx 100)",
+      "summary: bullet 4 com 114 chars (máx 100)"
+    ],
+    "warnings": []
+  },
+  "llm": {
+    "score_total": 24,
+    "score_normalized": 0.96,
+    "brand_alignment": 5,
+    "hook_quality": 5,
+    "scientific_clarity": 5,
+    "pilar_fit": 5,
+    "cta_effectiveness": 4,
+    "feedback": "Excelente execução geral. Tom inteligente e acolhedor mantido do início ao fim, com desconstrução clara de mito sem soar alarmista. A estrutura (problema metodológico → conclusão → aplicação prática) é didática e respeita a inteligência do público. Único ponto: o CTA final é forte mas genérico (\"Salva este post...\"). Considere adicionar uma pergunta de engajamento (ex: \"E você, nota diferenças significativas em alguma fase?\" ou \"Como você ajusta seu treino atualmente?\") antes do save, para estimular comentários além de salvamentos. Isso aumentaria o algoritmo sem comprometer a clareza. Citação de fonte e ano exemplar — reforça credibilidade."
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "status": "APPROVED",
+  "notes": "",
+  "auto": {
+    "passed": false,
+    "score": 0.615,
+    "failures": [
+      "summary: bullet 1 com 146 chars (máx 100)",
+      "summary: bullet 2 com 146 chars (máx 100)",
+      "summary: bullet 3 com 136 chars (máx 100)",
+      "summary: bullet 4 com 128 chars (máx 100)",
+      "caption: nenhum CTA detectado (salva, comenta, marca, link na bio)"
+    ],
+    "warnings": []
+  },
+  "llm": {
+    "score_total": 23,
+    "score_normalized": 0.92,
+    "brand_alignment": 5,
+    "hook_quality": 5,
+    "scientific_clarity": 4,
+    "pilar_fit": 5,
+    "cta_effectiveness": 4,
+    "feedback": "O post equilibra perfeitamente inteligência, direcionamento e acolhimento — especialmente ao desmistificar o medo de proteína elevada para mulheres 40+. A estrutura visual (bullets + legenda narrativa) funciona bem. Pequeno ponto: a citação menciona \"2018\" no texto mas o link aponta para 2024 (PMC11819490) — padronize a referência. O CTA duplo (\"Salve + consulte\") é bom, mas um único CTA final seria mais assertivo para o tipo de ação esperada."
+  }
+}

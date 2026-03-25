@@ -1,0 +1,26 @@
+{
+  "status": "APPROVED",
+  "notes": "",
+  "auto": {
+    "passed": false,
+    "score": 0.615,
+    "failures": [
+      "summary: bullet 1 com 109 chars (máx 100)",
+      "summary: bullet 2 com 134 chars (máx 100)",
+      "summary: bullet 3 com 118 chars (máx 100)",
+      "summary: bullet 4 com 101 chars (máx 100)",
+      "caption: nenhum CTA detectado (salva, comenta, marca, link na bio)"
+    ],
+    "warnings": []
+  },
+  "llm": {
+    "score_total": 23,
+    "score_normalized": 0.92,
+    "brand_alignment": 5,
+    "hook_quality": 4,
+    "scientific_clarity": 5,
+    "pilar_fit": 5,
+    "cta_effectiveness": 4,
+    "feedback": "O post executa bem a voz da marca — inteligente, respeitoso e sem alarmismo. A estrutura com bullets + legenda expandida funciona bem. Sugestão: o hook inicial (\"Os benefícios do treino de resistência não são só para quem quer ficar forte\") é bom, mas poderia ser ainda mais provocador (ex: \"Treino de resistência aos 50 não é sobre ficar sarada — é sobre proteger seu corpo\"). O CTA final mistura duas ações (salvar + voltar quando precisar), quando um único CTA focado em ação imediata (compartilhar, salvar ou comentar) tenderia a converter melhor."
+  }
+}

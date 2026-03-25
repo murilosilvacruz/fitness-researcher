@@ -1,0 +1,23 @@
+{
+  "status": "APPROVED",
+  "notes": "",
+  "auto": {
+    "passed": false,
+    "score": 0.833,
+    "failures": [
+      "summary: bullet 1 com 107 chars (máx 100)",
+      "caption: nenhum CTA detectado (salva, comenta, marca, link na bio)"
+    ],
+    "warnings": []
+  },
+  "llm": {
+    "score_total": 24,
+    "score_normalized": 0.96,
+    "brand_alignment": 5,
+    "hook_quality": 5,
+    "scientific_clarity": 5,
+    "pilar_fit": 5,
+    "cta_effectiveness": 4,
+    "feedback": "O post é exemplar em alinhamento com a marca — tom inteligente e direto, sem alarmismo, respeitando a inteligência da audiência. O hook (\"Atividade física na gravidez não é contraindicação — é prescrição de saúde\") é impactante e inverte expectativas de forma elegante. A estrutura com bullets, legenda contextualizada e referência primária citada (OMS 2020) estabelece credibilidade alta. Único ponto de melhoria: o CTA final é genérico (\"Salve essa referência...\"). Considere um CTA mais específico e acionável, como \"Leve essa informação ao seu médico na próxima consulta\" ou \"Compartilhe com gestantes que você conhece\", que reforçaria engajamento e valor prático do conteúdo."
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "status": "APPROVED",
+  "notes": "",
+  "auto": {
+    "passed": false,
+    "score": 0.692,
+    "failures": [
+      "summary: bullet 1 com 126 chars (máx 100)",
+      "summary: bullet 2 com 111 chars (máx 100)",
+      "summary: bullet 3 com 103 chars (máx 100)",
+      "caption: nenhum CTA detectado (salva, comenta, marca, link na bio)"
+    ],
+    "warnings": []
+  },
+  "llm": {
+    "score_total": 24,
+    "score_normalized": 0.96,
+    "brand_alignment": 5,
+    "hook_quality": 5,
+    "scientific_clarity": 5,
+    "pilar_fit": 5,
+    "cta_effectiveness": 4,
+    "feedback": "Excelente execução em todos os aspectos. A voz é madura, respeitosa e direta — \"ninguém tirou as pedras do caminho\" é memorável sem ser dramático. A meta-análise está bem citada (PMC-NIH, 20 estudos, 402 participantes) e o post traduz dados em insights acionáveis (childcare, espaços femininos, mensagens sobre saúde futura). O único ajuste seria deixar o CTA ainda mais específico: em vez de \"Salve este post para conversar\", poderia ser \"Compartilhe com sua academia\" ou \"Leve essa pesquisa para sua próxima conversa com o técnico\" — reforça a ação concreta que você quer que o público tome."
+  }
+}

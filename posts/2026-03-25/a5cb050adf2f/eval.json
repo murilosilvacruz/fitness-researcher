@@ -1,0 +1,26 @@
+{
+  "status": "APPROVED",
+  "notes": "",
+  "auto": {
+    "passed": false,
+    "score": 0.615,
+    "failures": [
+      "summary: bullet 1 com 126 chars (máx 100)",
+      "summary: bullet 2 com 105 chars (máx 100)",
+      "summary: bullet 3 com 108 chars (máx 100)",
+      "summary: bullet 4 com 118 chars (máx 100)",
+      "caption: nenhum CTA detectado (salva, comenta, marca, link na bio)"
+    ],
+    "warnings": []
+  },
+  "llm": {
+    "score_total": 22,
+    "score_normalized": 0.88,
+    "brand_alignment": 4,
+    "hook_quality": 5,
+    "scientific_clarity": 4,
+    "pilar_fit": 5,
+    "cta_effectiveness": 4,
+    "feedback": "O post é bem executado e alinhado à marca. A única fragilidade é a referência científica: o link citado (PMC2117006) trata de \"proteína e envelhecimento\", mas não especifica a dose de 0,8g/kg vs. necessidade de atletas — seria mais forte citar estudos que comparem especificamente RDA vs. recomendações para mulheres ativas (geralmente 1,2-2,0g/kg). O CTA \"Salve esse post\" é genérico; considere uma ação mais concreta (ex: \"Comente seu peso para calcularmos sua meta de proteína\")."
+  }
+}

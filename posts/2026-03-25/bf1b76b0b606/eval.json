@@ -1,0 +1,25 @@
+{
+  "status": "APPROVED",
+  "notes": "",
+  "auto": {
+    "passed": false,
+    "score": 0.667,
+    "failures": [
+      "summary: TITULO com 61 chars (máx 60)",
+      "summary: bullet 1 com 129 chars (máx 100)",
+      "summary: bullet 2 com 123 chars (máx 100)",
+      "summary: bullet 3 com 113 chars (máx 100)"
+    ],
+    "warnings": []
+  },
+  "llm": {
+    "score_total": 23,
+    "score_normalized": 0.92,
+    "brand_alignment": 5,
+    "hook_quality": 4,
+    "scientific_clarity": 5,
+    "pilar_fit": 5,
+    "cta_effectiveness": 4,
+    "feedback": "O post é excelente em rigor científico e alinhamento com a marca — inteligente, direto e absolutamente acolhedor. A estrutura desconstruindo mito vs. fisiologia é marca registrada Corpo e Saber. O hook \"Treinar pesado pode parar seu ciclo menstrual\" é forte, mas poderia ganhar uma palavra que antecipe a ressignificação (ex: \"Treinar pesado pode parar seu ciclo menstrual — e é seu corpo te avisando\"). O CTA final é bom, mas dividido entre \"salve\" e dois hashtags — considere um CTA único e mais específico (ex: \"Salve para consultar quando seu ciclo mudar\")."
+  }
+}
