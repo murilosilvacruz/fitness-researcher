@@ -1,0 +1,25 @@
+{
+  "status": "APPROVED",
+  "notes": "",
+  "auto": {
+    "passed": false,
+    "score": 0.667,
+    "failures": [
+      "summary: bullet 1 com 159 chars (máx 100)",
+      "summary: bullet 2 com 149 chars (máx 100)",
+      "summary: bullet 3 com 121 chars (máx 100)",
+      "caption: nenhum CTA detectado (salva, comenta, marca, link na bio)"
+    ],
+    "warnings": []
+  },
+  "llm": {
+    "score_total": 21,
+    "score_normalized": 0.84,
+    "brand_alignment": 4,
+    "hook_quality": 5,
+    "scientific_clarity": 3,
+    "pilar_fit": 5,
+    "cta_effectiveness": 4,
+    "feedback": "A abertura \"Você acha que musculação é coisa de atleta? Repense.\" é excelente — direta, provocadora sem ser alarmista. O tom mantém a voz inteligente e acolhedora ao longo. Porém, há um problema crítico: o link do PMC fornecido (PMC12421175) não é válido e a legenda omite especificidades do estudo (autores, ano, tamanho da amostra). Cite dados concretos como \"reduz risco de ruptura do LCA em X%\" para solidificar a credibilidade científica. O CTA final (\"Salve este post\") é eficaz, mas um segundo CTA (tipo \"Comente abaixo sua experiência com treino de resistência\") potencializaria engagement direto."
+  }
+}

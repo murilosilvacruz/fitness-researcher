@@ -1,0 +1,26 @@
+{
+  "status": "APPROVED",
+  "notes": "",
+  "auto": {
+    "passed": false,
+    "score": 0.615,
+    "failures": [
+      "summary: bullet 1 com 117 chars (máx 100)",
+      "summary: bullet 2 com 122 chars (máx 100)",
+      "summary: bullet 3 com 108 chars (máx 100)",
+      "summary: bullet 4 com 126 chars (máx 100)",
+      "caption: nenhum CTA detectado (salva, comenta, marca, link na bio)"
+    ],
+    "warnings": []
+  },
+  "llm": {
+    "score_total": 19,
+    "score_normalized": 0.76,
+    "brand_alignment": 4,
+    "hook_quality": 4,
+    "scientific_clarity": 3,
+    "pilar_fit": 5,
+    "cta_effectiveness": 3,
+    "feedback": "A voz é inteligente e acolhedora, mas o \"como um remédio natural\" beira o alarmismo comparativo — reformule para \"oferece benefícios comprovados sem efeitos colaterais\" mantendo a sobriedade. O link do estudo está quebrado (redireciona para página genérica ScienceDirect); verifique a URL ou cite o DOI. O CTA é fraco (\"Salve este post\") — considere adicionar uma ação mais engajante como \"Qual tipo de exercício funciona melhor para seu sono? Comente abaixo\" para estimular conversa com o público."
+  }
+}

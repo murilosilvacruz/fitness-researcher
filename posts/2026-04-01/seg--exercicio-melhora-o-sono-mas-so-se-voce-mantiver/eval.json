@@ -1,0 +1,26 @@
+{
+  "status": "APPROVED",
+  "notes": "",
+  "auto": {
+    "passed": false,
+    "score": 0.615,
+    "failures": [
+      "summary: bullet 1 com 120 chars (máx 100)",
+      "summary: bullet 2 com 101 chars (máx 100)",
+      "summary: bullet 3 com 165 chars (máx 100)",
+      "summary: bullet 4 com 111 chars (máx 100)",
+      "caption: nenhum CTA detectado (salva, comenta, marca, link na bio)"
+    ],
+    "warnings": []
+  },
+  "llm": {
+    "score_total": 23,
+    "score_normalized": 0.92,
+    "brand_alignment": 5,
+    "hook_quality": 5,
+    "scientific_clarity": 4,
+    "pilar_fit": 5,
+    "cta_effectiveness": 4,
+    "feedback": "A voz está impecavelmente alinhada — inteligente, acolhedora e direta. O \"por quanto tempo?\" é um hook perfeito que cria curiosidade sem alarme. A estrutura de bullets é exemplar. A única ressalva: cite o autor principal ou instituição do estudo na legenda (não apenas \"PMC\"), e considere se a URL fornecida é de fácil acesso para sua audiência no mobile. O CTA \"Salve para voltar...\" é funcional, mas poderia ser mais ativo — algo como \"Quando o sono melhorar, você saberá por quê\" geraria mais reflexão antes do save."
+  }
+}

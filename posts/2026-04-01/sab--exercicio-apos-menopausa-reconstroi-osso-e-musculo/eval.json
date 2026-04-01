@@ -1,0 +1,26 @@
+{
+  "status": "APPROVED",
+  "notes": "",
+  "auto": {
+    "passed": false,
+    "score": 0.615,
+    "failures": [
+      "summary: bullet 1 com 118 chars (máx 100)",
+      "summary: bullet 2 com 127 chars (máx 100)",
+      "summary: bullet 3 com 107 chars (máx 100)",
+      "summary: bullet 4 com 107 chars (máx 100)",
+      "caption: nenhum CTA detectado (salva, comenta, marca, link na bio)"
+    ],
+    "warnings": []
+  },
+  "llm": {
+    "score_total": 23,
+    "score_normalized": 0.92,
+    "brand_alignment": 5,
+    "hook_quality": 5,
+    "scientific_clarity": 4,
+    "pilar_fit": 5,
+    "cta_effectiveness": 4,
+    "feedback": "A voz é impecavelmente inteligente, direta e acolhedora — o tom está perfeito. O hook \"exercício é o único aspecto... que não gera controvérsia\" é excelente, resolve tensão e prende. Porém, a referência científica carece de rigor: o link aponta para PMC3296386, mas você omitiu autores, ano e título do estudo — isso enfraquece a credibilidade numa marca que promete base científica. O CTA \"Salve este post\" é prático, mas poderia ser mais ativo (ex: \"Salve e compartilhe com quem está na menopausa\")."
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "status": "APPROVED",
+  "notes": "",
+  "auto": {
+    "passed": false,
+    "score": 0.692,
+    "failures": [
+      "summary: bullet 1 com 138 chars (máx 100)",
+      "summary: bullet 2 com 147 chars (máx 100)",
+      "summary: bullet 3 com 146 chars (máx 100)",
+      "summary: bullet 4 com 121 chars (máx 100)"
+    ],
+    "warnings": []
+  },
+  "llm": {
+    "score_total": 24,
+    "score_normalized": 0.96,
+    "brand_alignment": 5,
+    "hook_quality": 5,
+    "scientific_clarity": 5,
+    "pilar_fit": 5,
+    "cta_effectiveness": 4,
+    "feedback": "Excelente execução em quase todos os critérios. A voz é inteligente e acolhedora (\"Não é sobre ficar grande\"), os dados são específicos e citados, e o hook dispara curiosidade sem alarmar. O único ponto menor: o CTA final tem dois objetivos (salvar + compartilhar), o que dilui ligeiramente a ação. Considere priorizar uma única ação principal (\"Salve esse guia\" funciona melhor sozinho) para aumentar a conversão de engajamento."
+  }
+}

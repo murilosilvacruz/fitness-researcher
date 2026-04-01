@@ -1,0 +1,26 @@
+{
+  "status": "APPROVED",
+  "notes": "",
+  "auto": {
+    "passed": false,
+    "score": 0.615,
+    "failures": [
+      "summary: TITULO com 71 chars (máx 60)",
+      "summary: bullet 1 com 137 chars (máx 100)",
+      "summary: bullet 2 com 114 chars (máx 100)",
+      "summary: bullet 3 com 110 chars (máx 100)",
+      "summary: bullet 4 com 103 chars (máx 100)"
+    ],
+    "warnings": []
+  },
+  "llm": {
+    "score_total": 22,
+    "score_normalized": 0.88,
+    "brand_alignment": 4,
+    "hook_quality": 5,
+    "scientific_clarity": 4,
+    "pilar_fit": 5,
+    "cta_effectiveness": 4,
+    "feedback": "O post tem excelente estrutura e voz alinhada à marca — inteligente e direto. O hook é impactante sem alarmismo. Único ponto de melhoria: a citação diz \"2026\", o que parece ser erro de ano (provavelmente 2023 ou 2024?). Verifique a data do estudo antes de publicar para manter credibilidade. O CTA poderia ser mais específico: em vez de \"salve este post\", sugerir uma ação concreta (ex: \"compartilhe com quem treina contigo\" ou \"use essas informações no seu próximo planejamento de refeições\")."
+  }
+}

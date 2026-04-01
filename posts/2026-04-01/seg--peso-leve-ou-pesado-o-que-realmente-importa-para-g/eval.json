@@ -1,0 +1,23 @@
+{
+  "status": "APPROVED",
+  "notes": "",
+  "auto": {
+    "passed": false,
+    "score": 0.846,
+    "failures": [
+      "summary: TITULO com 65 chars (máx 60)",
+      "caption: nenhum CTA detectado (salva, comenta, marca, link na bio)"
+    ],
+    "warnings": []
+  },
+  "llm": {
+    "score_total": 24,
+    "score_normalized": 0.96,
+    "brand_alignment": 5,
+    "hook_quality": 5,
+    "scientific_clarity": 5,
+    "pilar_fit": 5,
+    "cta_effectiveness": 4,
+    "feedback": "Excelente execução geral — tom inteligente e acolhedor, hook impactante sem alarmismo, dados bem contextualizados com fonte primária acessível. A estrutura de bullets + legenda reforça a mensagem de forma clara para iniciantes. O único ponto a refinar: o CTA \"Salve para lembrar...\" é orgânico, mas poderia ganhar força com um segundo CTA de ação (ex: \"Deixa nos comentários: qual é seu peso de treino?\" ou \"Compartilha com quem acha que só vale pesado\"), que aumentaria o engajamento direto sem competir com o save."
+  }
+}

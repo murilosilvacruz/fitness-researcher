@@ -1,0 +1,25 @@
+{
+  "status": "APPROVED",
+  "notes": "",
+  "auto": {
+    "passed": false,
+    "score": 0.692,
+    "failures": [
+      "summary: bullet 1 com 128 chars (máx 100)",
+      "summary: bullet 3 com 122 chars (máx 100)",
+      "summary: bullet 4 com 114 chars (máx 100)",
+      "caption: nenhum CTA detectado (salva, comenta, marca, link na bio)"
+    ],
+    "warnings": []
+  },
+  "llm": {
+    "score_total": 20,
+    "score_normalized": 0.8,
+    "brand_alignment": 4,
+    "hook_quality": 4,
+    "scientific_clarity": 4,
+    "pilar_fit": 5,
+    "cta_effectiveness": 3,
+    "feedback": "O tom está inteligente e acolhedor, mas a frase \"pode reverter sintomas\" na legenda é imprecisa — o conteúdo depois fala em \"reduzir\" e \"aliviar\", não reverter. Isso cria ligeira dissonância. A citação do estudo PMC é excelente, mas faltaria mencionar explicitamente qual revisão/meta-análise específica foi usada (título do estudo). O CTA \"Salve esse post e revise sua geladeira hoje\" é genérico; seria mais forte especificar o próximo passo (ex.: \"Salve e comece substituindo um ultraprocessado por peixe esta semana\")."
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "status": "APPROVED",
+  "notes": "",
+  "auto": {
+    "passed": false,
+    "score": 0.538,
+    "failures": [
+      "summary: TITULO com 62 chars (máx 60)",
+      "summary: bullet 1 com 132 chars (máx 100)",
+      "summary: bullet 2 com 133 chars (máx 100)",
+      "summary: bullet 3 com 145 chars (máx 100)",
+      "summary: bullet 4 com 149 chars (máx 100)",
+      "caption: nenhum CTA detectado (salva, comenta, marca, link na bio)"
+    ],
+    "warnings": []
+  },
+  "llm": {
+    "score_total": 24,
+    "score_normalized": 0.96,
+    "brand_alignment": 5,
+    "hook_quality": 5,
+    "scientific_clarity": 5,
+    "pilar_fit": 5,
+    "cta_effectiveness": 4,
+    "feedback": "Excelente execução — voz inteligente e acolhedora, dados científicos bem contextualizados (especialmente o \"plot twist\" e a inversão de expectativa). O post desfaz mito real com embasamento, sem condescendência. Único ponto: o CTA final é duplo (\"Salve esse post\" + link + hashtags) — considere focar em um único CTA mais forte, como \"Salve para compartilhar com quem precisa ouvir isso\" ou apenas o link, para maximizar clareza e taxa de ação específica."
+  }
+}

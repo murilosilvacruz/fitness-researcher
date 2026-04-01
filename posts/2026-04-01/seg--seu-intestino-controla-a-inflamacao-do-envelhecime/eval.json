@@ -1,0 +1,24 @@
+{
+  "status": "APPROVED",
+  "notes": "",
+  "auto": {
+    "passed": false,
+    "score": 0.75,
+    "failures": [
+      "summary: bullet 1 com 176 chars (máx 100)",
+      "summary: bullet 2 com 164 chars (máx 100)",
+      "summary: bullet 3 com 138 chars (máx 100)"
+    ],
+    "warnings": []
+  },
+  "llm": {
+    "score_total": 23,
+    "score_normalized": 0.92,
+    "brand_alignment": 5,
+    "hook_quality": 5,
+    "scientific_clarity": 4,
+    "pilar_fit": 5,
+    "cta_effectiveness": 4,
+    "feedback": "A voz é impecável — inteligente, direta e acolhedora sem infantilização. O hook \"Inflammaging existe. E sua dieta pode estar alimentando isso.\" é ótimo: impactante sem alarmismo. A estrutura de bullets é clara e a conexão com sintomas reais (fadiga, memória) respeita a audiência. Pequena melhoria: cite o ano do estudo na legenda (2024?) para reforçar atualidade, e considere explicar brevemente o que é butirato para leitores que não conhecem o termo (química intestinal ainda é barreira cognitiva para muitas). O CTA \"Salve e compartilhe\" é bom, mas poderia ser mais específico: \"Salve para ler quando tiver tempo de mudar a relação com ultra-processados\" seria mais intencional."
+  }
+}

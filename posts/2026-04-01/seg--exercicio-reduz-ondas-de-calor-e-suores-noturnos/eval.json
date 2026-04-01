@@ -1,0 +1,24 @@
+{
+  "status": "APPROVED",
+  "notes": "",
+  "auto": {
+    "passed": false,
+    "score": 0.769,
+    "failures": [
+      "summary: bullet 1 com 117 chars (máx 100)",
+      "summary: bullet 4 com 104 chars (máx 100)",
+      "caption: nenhum CTA detectado (salva, comenta, marca, link na bio)"
+    ],
+    "warnings": []
+  },
+  "llm": {
+    "score_total": 23,
+    "score_normalized": 0.92,
+    "brand_alignment": 4,
+    "hook_quality": 5,
+    "scientific_clarity": 5,
+    "pilar_fit": 5,
+    "cta_effectiveness": 4,
+    "feedback": "Conteúdo excelente em precisão científica, tom acolhedor e estrutura clara. A comparação com TRH é inteligente e respeita a audiência adulta. O único ponto de melhora: o CTA final é duplo (\"salve\" + \"converse com seu médico\") — considere priorizar um só, já que \"salvar\" é mais natural no Instagram e \"conversar com médico\" aparece implícito no contexto do post."
+  }
+}
