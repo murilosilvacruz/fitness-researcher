@@ -1,9 +1,51 @@
 {
   "brand_kit_id": "kAHEYaYW6qA",
   "design_type": "instagram_post",
+  "format": "carousel",
   "titulo": "Exercício melhora o sono, mas só se você mantiver",
   "subtitulo": "Benefícios reais aparecem em 8-12 semanas, mas exigem continuidade para não desaparecerem.",
   "pilar": "CIÊNCIA EM DOSE",
+  "bullets": [
+    "Exercício melhora consistentemente a qualidade do sono em curto prazo — entre 8 e 12 semanas você já sente a diferença",
+    "Sem adesão contínua, os ganhos de sono desaparecem: manter o treino é tão importante quanto começar",
+    "Sua resposta ao exercício é única: flutuações naturais do seu sono podem ser maiores que o efeito real do treino, por isso não compare sua evolução com a de outras",
+    "Em mulheres em transição hormonal, os efeitos variam muito — não existe fórmula única que funcione para todas"
+  ],
+  "cta": "Salva esse vídeo para lembrar por que o treino de hoje importa.",
+  "slides": [
+    {
+      "index": 1,
+      "type": "cover",
+      "query": "Instagram carousel COVER SLIDE (slide 1 of the carousel). Brand: Corpo e Saber (@corpo.saber), Brazilian science-based health brand for women aged 40-55. Large bold title: \"Exercício melhora o sono, mas só se você mantiver\". Subtitle below: \"Benefícios reais aparecem em 8-12 semanas, mas exigem continuidade para não desaparecerem.\". Small pilar badge at top: \"CIÊNCIA EM DOSE\". Brand footer 'Corpo e Saber' at bottom center, small. Style: Clean, editorial style. Off-white (#F7F5F2) background. Small label 'CIÊNCIA EM DOSE' in terracotta (#C9614A) at top left. Large bold serif title centered in dark charcoal. Smaller subtitle in lighter weight below. Background photo: woman in her 40s doing gentle strength training, back or silhouette, warm natural light, calm and empowering mood. Generous negative space in center for text. No faces. No emojis.",
+      "status": "pending",
+      "canva_design_id": null,
+      "canva_export_url": null
+    },
+    {
+      "index": 2,
+      "type": "dado",
+      "query": "Instagram carousel DATA SLIDE (slide 2 of the carousel). Brand: Corpo e Saber (@corpo.saber), Brazilian science-based health brand for women aged 40-55. Bold single statement centered: \"Exercício melhora consistentemente a qualidade do sono em curto prazo — entre 8 e 12 semanas você já sente a diferença\". Minimal layout — only this one statement, large text, strong visual impact. Style: Clean, editorial style. Off-white (#F7F5F2) background. Small label 'CIÊNCIA EM DOSE' in terracotta (#C9614A) at top left. Large bold serif title centered in dark charcoal. Smaller subtitle in lighter weight below. Background photo: woman in her 40s doing gentle strength training, back or silhouette, warm natural light, calm and empowering mood. Generous negative space in center for text. No faces. No emojis.",
+      "status": "pending",
+      "canva_design_id": null,
+      "canva_export_url": null
+    },
+    {
+      "index": 3,
+      "type": "contexto",
+      "query": "Instagram carousel CONTEXT SLIDE (slide 3 of the carousel). Brand: Corpo e Saber (@corpo.saber), Brazilian science-based health brand for women aged 40-55. Two or three compact points: Sem adesão contínua, os ganhos de sono desaparecem: manter o treino é tão importante quanto começar / Sua resposta ao exercício é única: flutuações naturais do seu sono podem ser maiores que o efeito real do treino, por isso não compare sua evolução com a de outras. Clean bullet-point layout. Style: Clean, editorial style. Off-white (#F7F5F2) background. Small label 'CIÊNCIA EM DOSE' in terracotta (#C9614A) at top left. Large bold serif title centered in dark charcoal. Smaller subtitle in lighter weight below. Background photo: woman in her 40s doing gentle strength training, back or silhouette, warm natural light, calm and empowering mood. Generous negative space in center for text. No faces. No emojis.",
+      "status": "pending",
+      "canva_design_id": null,
+      "canva_export_url": null
+    },
+    {
+      "index": 4,
+      "type": "cta",
+      "query": "Instagram carousel CLOSING SLIDE (slide 4 of the carousel). Brand: Corpo e Saber (@corpo.saber), Brazilian science-based health brand for women aged 40-55. CTA text: \"Salva esse vídeo para lembrar por que o treino de hoje importa.\". Handle: @corpo.saber. Warm minimal closing layout — no scientific content, just the CTA and brand identity. Style: Clean, editorial style. Off-white (#F7F5F2) background. Small label 'CIÊNCIA EM DOSE' in terracotta (#C9614A) at top left. Large bold serif title centered in dark charcoal. Smaller subtitle in lighter weight below. Background photo: woman in her 40s doing gentle strength training, back or silhouette, warm natural light, calm and empowering mood. Generous negative space in center for text. No faces. No emojis.",
+      "status": "pending",
+      "canva_design_id": null,
+      "canva_export_url": null
+    }
+  ],
   "query": "Instagram post for Corpo e Saber (@corpo.saber), a Brazilian science-based health and fitness brand for women aged 40-55. Title text to display: \"Exercício melhora o sono, mas só se você mantiver\". Subtitle text to display: \"Benefícios reais aparecem em 8-12 semanas, mas exigem continuidade para não desaparecerem.\". Design style: Clean, editorial style. Off-white (#F7F5F2) background. Small label 'CIÊNCIA EM DOSE' in terracotta (#C9614A) at top left. Large bold serif title centered in dark charcoal. Smaller subtitle in lighter weight below. Background photo: woman in her 40s doing gentle strength training, back or silhouette, warm natural light, calm and empowering mood. Generous negative space in center for text. No faces. No emojis. Brand footer: 'Corpo e Saber' logo at bottom center, small and discreet.",
   "status": "pending",
   "canva_design_id": null,

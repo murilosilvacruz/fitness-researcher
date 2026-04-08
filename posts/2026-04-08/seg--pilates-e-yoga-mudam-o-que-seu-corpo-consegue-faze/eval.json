@@ -1,0 +1,25 @@
+{
+  "status": "APPROVED",
+  "notes": "",
+  "auto": {
+    "passed": false,
+    "score": 0.692,
+    "failures": [
+      "summary: bullet 1 com 105 chars (máx 100)",
+      "summary: bullet 3 com 120 chars (máx 100)",
+      "summary: bullet 4 com 101 chars (máx 100)",
+      "caption: muito longa (2322 chars, máx 2200)"
+    ],
+    "warnings": []
+  },
+  "llm": {
+    "score_total": 23,
+    "score_normalized": 0.92,
+    "brand_alignment": 5,
+    "hook_quality": 5,
+    "scientific_clarity": 4,
+    "pilar_fit": 5,
+    "cta_effectiveness": 4,
+    "feedback": "A voz está impecável — inteligente, direta e acolhedora. O hook desconstrói um mito comum sem alarmismo. A citação do estudo é excelente, mas falta especificar o período de publicação ou tamanho da amostra para reforçar credibilidade. O CTA está bom, mas seria mais forte se pedisse ação (ex: \"testa Pilates ou yoga essa semana e volta aqui para contar\") em vez de apenas salvar — aumentaria a volta ao perfil."
+  }
+}

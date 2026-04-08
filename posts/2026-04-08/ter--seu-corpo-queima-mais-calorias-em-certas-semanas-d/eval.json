@@ -1,0 +1,26 @@
+{
+  "status": "APPROVED",
+  "notes": "",
+  "auto": {
+    "passed": false,
+    "score": 0.615,
+    "failures": [
+      "summary: bullet 1 com 159 chars (máx 100)",
+      "summary: bullet 2 com 167 chars (máx 100)",
+      "summary: bullet 3 com 156 chars (máx 100)",
+      "summary: bullet 4 com 151 chars (máx 100)",
+      "caption: muito longa (2213 chars, máx 2200)"
+    ],
+    "warnings": []
+  },
+  "llm": {
+    "score_total": 23,
+    "score_normalized": 0.92,
+    "brand_alignment": 5,
+    "hook_quality": 5,
+    "scientific_clarity": 4,
+    "pilar_fit": 5,
+    "cta_effectiveness": 4,
+    "feedback": "A voz é inteligente, direta e acolhedora — exatamente Corpo e Saber. O hook \"A maioria das recomendações nutricionais para exercício foi criada estudando homens\" é impactante sem ser alarmista. A citação do estudo (PMC 2024) é um diferencial, mas faltaria o DOI ou link direto acessível no post para reforçar credibilidade. O CTA final está incompleto no roteiro de vídeo (\"volta aqui quando for montar sua nut\") — revisar antes de publicar. Recomendação: manter o CTA simples (\"Salva esse post\") e adicionar nos stories um link para um guia de ciclo menstrual, transformando engajamento em conversão de forma orgânica."
+  }
+}

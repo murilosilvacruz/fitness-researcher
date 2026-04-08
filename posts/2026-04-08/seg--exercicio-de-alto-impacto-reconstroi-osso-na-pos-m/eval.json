@@ -1,0 +1,24 @@
+{
+  "status": "APPROVED",
+  "notes": "",
+  "auto": {
+    "passed": false,
+    "score": 0.75,
+    "failures": [
+      "summary: bullet 1 com 110 chars (máx 100)",
+      "summary: bullet 2 com 101 chars (máx 100)",
+      "summary: bullet 3 com 103 chars (máx 100)"
+    ],
+    "warnings": []
+  },
+  "llm": {
+    "score_total": 24,
+    "score_normalized": 0.96,
+    "brand_alignment": 5,
+    "hook_quality": 5,
+    "scientific_clarity": 5,
+    "pilar_fit": 5,
+    "cta_effectiveness": 4,
+    "feedback": "Conteúdo excelente em tom, estrutura e base científica. A abertura sobre osteoporose silenciosa é visceral sem ser alarmista, e a explicação dos osteoblastos contextualiza o mecanismo de forma acessível. O link para o PMC é um diferencial que respalda credibilidade. Sugestão: o CTA \"Salva esse conteúdo\" é genérico. Seria mais efetivo um CTA duplo como \"Salva e vem nos procurar — conteúdos semanais sobre ossos, músculos e longevidade\" ou \"Salva e responde: você já faz algum impacto na sua rotina?\" para gerar interação além do save."
+  }
+}

@@ -1,0 +1,18 @@
+Generate a high-quality background image for an Instagram post (1080x1080 px).
+
+Brand: Corpo e Saber — Brazilian science-based health content for women 40+.
+Topic: 150 minutos por semana mudam sua qualidade de vida
+Detail: Atividade física moderada regular impacta não só o corpo, mas também saúde mental e disposição diária.
+
+Visual direction: woman walking or jogging on a quiet path at golden hour, silhouette or back view, sense of consistency and routine, warm earth tones
+
+Style requirements:
+- No text, numbers or legible words anywhere in the image
+- No faces visible (back, silhouettes, partial frames or hands only)
+- Avoid laboratory equipment, microscopes, petri dishes or research props
+- Prioritize real women in movement over abstract or still-life compositions
+- Color palette: warm off-white (#F7F5F2), terracotta (#C9614A) accents, muted earth tones
+- Mood: calm, trustworthy, empowering, editorial
+- Lighting: soft, diffused, natural — avoid harsh shadows or neon
+- Composition: leave generous negative space in the center for text overlay
+- Format: square 1:1, photorealistic or high-quality digital art

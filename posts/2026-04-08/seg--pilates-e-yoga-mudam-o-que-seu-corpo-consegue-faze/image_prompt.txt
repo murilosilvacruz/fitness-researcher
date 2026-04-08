@@ -1,0 +1,18 @@
+Generate a high-quality background image for an Instagram post (1080x1080 px).
+
+Brand: Corpo e Saber — Brazilian science-based health content for women 40+.
+Topic: Pilates e yoga mudam o que seu corpo consegue fazer
+Detail: Estabilidade, força e flexibilidade sem impacto — especialmente importante após os 40 anos.
+
+Visual direction: woman in her 40s doing strength training or stretching in a bright home studio, back or partial silhouette only, warm natural light, empowering and calm mood
+
+Style requirements:
+- No text, numbers or legible words anywhere in the image
+- No faces visible (back, silhouettes, partial frames or hands only)
+- Avoid laboratory equipment, microscopes, petri dishes or research props
+- Prioritize real women in movement over abstract or still-life compositions
+- Color palette: warm off-white (#F7F5F2), terracotta (#C9614A) accents, muted earth tones
+- Mood: calm, trustworthy, empowering, editorial
+- Lighting: soft, diffused, natural — avoid harsh shadows or neon
+- Composition: leave generous negative space in the center for text overlay
+- Format: square 1:1, photorealistic or high-quality digital art

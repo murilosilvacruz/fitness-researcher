@@ -1,0 +1,25 @@
+{
+  "status": "APPROVED",
+  "notes": "",
+  "auto": {
+    "passed": false,
+    "score": 0.667,
+    "failures": [
+      "summary: bullet 1 com 106 chars (máx 100)",
+      "summary: bullet 2 com 112 chars (máx 100)",
+      "summary: bullet 3 com 103 chars (máx 100)",
+      "caption: muito longa (2588 chars, máx 2200)"
+    ],
+    "warnings": []
+  },
+  "llm": {
+    "score_total": 21,
+    "score_normalized": 0.84,
+    "brand_alignment": 4,
+    "hook_quality": 5,
+    "scientific_clarity": 4,
+    "pilar_fit": 5,
+    "cta_effectiveness": 3,
+    "feedback": "A voz está excelente — direta, sem alarmismo, acolhedora. O hook \"reduzem lesões como ruptura de LCA e vivem mais. Sem exagero.\" é forte e impactante. O único ponto fraco é a citação científica: o link está presente mas falta uma frase tipo \"Estudo de 2024 publicado em [periódico]\" na legenda principal para reforçar credibilidade imediatamente. O CTA é genérico (\"Salva esse conteúdo\") — seria mais efetivo um call específico como \"Quer começar? Comente FORÇA abaixo\" ou \"Compartilha com quem precisa ouvir isso\" para gerar mais interação mensurável."
+  }
+}

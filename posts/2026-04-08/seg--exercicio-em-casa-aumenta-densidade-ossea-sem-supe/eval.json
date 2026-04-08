@@ -1,0 +1,25 @@
+{
+  "status": "APPROVED",
+  "notes": "",
+  "auto": {
+    "passed": false,
+    "score": 0.667,
+    "failures": [
+      "summary: bullet 1 com 104 chars (máx 100)",
+      "summary: bullet 2 com 104 chars (máx 100)",
+      "summary: bullet 3 com 111 chars (máx 100)",
+      "caption: muito longa (2267 chars, máx 2200)"
+    ],
+    "warnings": []
+  },
+  "llm": {
+    "score_total": 24,
+    "score_normalized": 0.96,
+    "brand_alignment": 5,
+    "hook_quality": 5,
+    "scientific_clarity": 5,
+    "pilar_fit": 5,
+    "cta_effectiveness": 4,
+    "feedback": "Conteúdo impecável em voz, tom e rigor científico. A legenda é direta, acolhedora e quebra objeção real (falta de supervisor). A citação do estudo é transparente e a meta-análise em BMC reforça credibilidade. O roteiro mantém coerência sem redundância excessiva. Sugestão: o CTA final (\"Salva esse\") é genérico — considere algo como \"Salva esse para lembrar na próxima tentação de desculpa\" ou \"Salva e manda para quem diz que não tem tempo\", tornando-o mais específico e direcionado ao comportamento esperado."
+  }
+}

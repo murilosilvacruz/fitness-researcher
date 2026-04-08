@@ -1,0 +1,27 @@
+{
+  "status": "APPROVED",
+  "notes": "",
+  "auto": {
+    "passed": false,
+    "score": 0.538,
+    "failures": [
+      "summary: TITULO com 62 chars (máx 60)",
+      "summary: bullet 1 com 135 chars (máx 100)",
+      "summary: bullet 2 com 121 chars (máx 100)",
+      "summary: bullet 3 com 121 chars (máx 100)",
+      "summary: bullet 4 com 124 chars (máx 100)",
+      "caption: muito longa (2310 chars, máx 2200)"
+    ],
+    "warnings": []
+  },
+  "llm": {
+    "score_total": 20,
+    "score_normalized": 0.8,
+    "brand_alignment": 4,
+    "hook_quality": 4,
+    "scientific_clarity": 3,
+    "pilar_fit": 5,
+    "cta_effectiveness": 4,
+    "feedback": "O tom é inteligente e direto, mas o hook inicial (\"inflamação crônica está destruindo sua qualidade de vida\") beira o alarmismo — considerando a voz acolhedora da marca, abrandar para \"afeta silenciosamente\" manteria impacto sem dramatização. A citação do estudo é um ponto forte, mas falta contexto: qual era o N da amostra, duração do estudo e população específica? Mencionar \"múltiplos ensaios\" sem detalhar enfraquece a credibilidade científica que Corpo e Saber valoriza. O roteiro de vídeo interrompe abruptamente — complete ou remova para não criar confusão. Excelente encaixe no pilar e CTA prático (\"salva esse post\")."
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "status": "APPROVED",
+  "notes": "",
+  "auto": {
+    "passed": false,
+    "score": 0.667,
+    "failures": [
+      "summary: bullet 1 com 127 chars (máx 100)",
+      "summary: bullet 2 com 123 chars (máx 100)",
+      "summary: bullet 3 com 160 chars (máx 100)",
+      "caption: muito longa (2821 chars, máx 2200)"
+    ],
+    "warnings": []
+  },
+  "llm": {
+    "score_total": 24,
+    "score_normalized": 0.96,
+    "brand_alignment": 5,
+    "hook_quality": 5,
+    "scientific_clarity": 5,
+    "pilar_fit": 5,
+    "cta_effectiveness": 4,
+    "feedback": "Excelente execução geral. A voz é inteligente, direta e acolhedora — \"libera você de pressão\" e \"salva esse post para relembrar quando a culpa bater\" mostram empatia real sem infantilizar. O hook inicial desmente um mito comum de forma impactante. A citação do estudo (PMC) com link válido reforça credibilidade. O único ponto de melhoria: o CTA final (\"Salva esse post para relembrar quando a culpa batter\") é forte, mas poderia ser acompanhado de um segundo CTA de ação (ex: \"Começa hoje: treina até a fadiga, não até o peso\"). Considere se deseja direcionar para engajamento (save) ou ação prática."
+  }
+}

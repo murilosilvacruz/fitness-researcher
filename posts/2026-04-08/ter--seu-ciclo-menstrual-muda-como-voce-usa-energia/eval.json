@@ -1,0 +1,25 @@
+{
+  "status": "APPROVED",
+  "notes": "",
+  "auto": {
+    "passed": false,
+    "score": 0.667,
+    "failures": [
+      "summary: bullet 1 com 135 chars (máx 100)",
+      "summary: bullet 2 com 127 chars (máx 100)",
+      "summary: bullet 3 com 133 chars (máx 100)",
+      "caption: muito longa (2258 chars, máx 2200)"
+    ],
+    "warnings": []
+  },
+  "llm": {
+    "score_total": 23,
+    "score_normalized": 0.92,
+    "brand_alignment": 5,
+    "hook_quality": 5,
+    "scientific_clarity": 4,
+    "pilar_fit": 5,
+    "cta_effectiveness": 4,
+    "feedback": "O conteúdo é excelente em tom, estrutura e relevância — a voz é inteligente sem ser condescendente, direto e genuinamente acolhedor. O hook \"Seu corpo não responde ao treino da mesma forma em todo mês\" é perfeito para parar o scroll sem alarmismo. A citação do PMC é um ponto forte, mas faltaria mencionar brevemente o tamanho amostral ou achados principais do estudo para aumentar credibilidade. O CTA está dividido entre \"salvar\" (implícito no final) e \"consultar\" — reforce um único comportamento esperado (ex: \"Salva para consultar quando sentir essa diferença no treino\" na legenda, ou estruture o link de forma mais proeminente)."
+  }
+}

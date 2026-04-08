@@ -1,0 +1,24 @@
+{
+  "status": "APPROVED",
+  "notes": "",
+  "auto": {
+    "passed": false,
+    "score": 0.769,
+    "failures": [
+      "summary: bullet 1 com 110 chars (máx 100)",
+      "summary: bullet 3 com 107 chars (máx 100)",
+      "caption: muito longa (2733 chars, máx 2200)"
+    ],
+    "warnings": []
+  },
+  "llm": {
+    "score_total": 23,
+    "score_normalized": 0.92,
+    "brand_alignment": 5,
+    "hook_quality": 5,
+    "scientific_clarity": 4,
+    "pilar_fit": 5,
+    "cta_effectiveness": 4,
+    "feedback": "A voz é impecável — inteligente, direta e acolhedora. O gancho \"Sua capacidade cardiorrespiratória pode aumentar 40 a 100%\" é irresistível sem ser alarmista. Considere adicionar o nome do estudo ou ano de publicação na legenda (além do link) para reforçar credibilidade — mencionar apenas \"PubMed\" é genérico. O CTA final (\"Salva esse post e começa a semana com uma corrida\") é bom, mas poderia ser mais específico: convide a comentar com a primeira distância que tentará, criando engajamento e comunidade."
+  }
+}

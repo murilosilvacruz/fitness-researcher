@@ -1,0 +1,24 @@
+{
+  "status": "APPROVED",
+  "notes": "",
+  "auto": {
+    "passed": false,
+    "score": 0.75,
+    "failures": [
+      "summary: bullet 1 com 140 chars (máx 100)",
+      "summary: bullet 2 com 141 chars (máx 100)",
+      "summary: bullet 3 com 115 chars (máx 100)"
+    ],
+    "warnings": []
+  },
+  "llm": {
+    "score_total": 23,
+    "score_normalized": 0.92,
+    "brand_alignment": 5,
+    "hook_quality": 5,
+    "scientific_clarity": 4,
+    "pilar_fit": 5,
+    "cta_effectiveness": 4,
+    "feedback": "A voz está impecável: inteligente, direta e acolhedora sem condescendência. O hook \"150 a 300 minutos por semana. Isso é o que separa uma vida com qualidade da rotina pesada demais\" é poderoso e não alarmista. Consideração: o link do NCBI parece inconsistente (PMC12897135 sugere um artigo futuro — revalidar URL antes de publicar). O CTA é forte (\"Salva esse número\"), mas poderia ter um segundo ponto de engajamento (tipo \"Nos diz: você consegue organizar seus 150 minutos?\" para comentários)."
+  }
+}
