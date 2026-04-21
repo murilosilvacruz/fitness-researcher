@@ -1,0 +1,36 @@
+# VIDEO GENERATION PROMPT FOR VEO (GOOGLE)
+
+**Title:** "7x Bone Density Without a Trainer: Home Exercise Recovery"
+
+**Duration & Format:** 12 seconds, 9:16 vertical
+
+**Color Palette:** Terracota #C9614A, Sage #7B9E87, Off-white #F7F5F2
+
+**Target Audience:** Brazilian women 40–55 years old
+
+---
+
+## VISUAL NARRATIVE
+
+**HOOK (0–3 seconds) — OPENING HOOK + SPEED RAMP:**
+Close-up POV of a mixed-race Brazilian woman (warm brown skin, natural wavy hair, age 48) standing in a bright São Paulo apartment living room. She's barefoot on light wood flooring. At 0.5s, she suddenly performs a confident small jump—movement sharp and deliberate. Camera whips upward with speed ramp energy. Text overlay explodes on screen in off-white: "7x BONE DENSITY" in bold sans-serif. Sage accent bar underneath.
+
+**HOLD (3–10 seconds) — SPLIT SCREEN + SLOW-MO STRATEGIC:**
+At 3s, transition to split-screen: 
+- **Left side:** X-ray illustration of femoral neck (hip bone) in cool clinical tones, density markers lighting up progressively (terracota accent highlights).
+- **Right side:** Same woman performing three consecutive exercises in her home (living room, kitchen, small balcony visible behind): resistance band pull, bodyweight squat, light jump. Each exercise 2–2.5s duration.
+
+At 6s, cut to FACE HOLD (4–6s of static camera): Medium close-up of woman's face, direct eye contact, slight knowing smile. Text overlay: "Sem personal. Sem academia. Sem custo." (Without trainer. Without gym. Free.) Soft terracota warm light on her face. 2-second hold, then blink transition.
+
+**PAYOFF (10–12 seconds) — BEFORE/AFTER REVEAL + LOOP SETUP:**
+Final 2s: Split comparison—left shows "Ossos frágeis" (fragile bones) with dim X-ray, right shows "Densidade recuperada" (recovered density) with bright, illuminated X-ray. Woman's silhouette in background transitions from slouched posture to upright, confident stance. Loop element: last frame echoes the opening jump motion, inviting replay.
+
+---
+
+## TECHNICAL SPECIFICATIONS
+
+- **Camera movements:** POV intimate zoom-in (0–0.5s), speed ramp upward (0.5–1s), static split-screen medium shots (3–6s), medium close-up face hold (6–10s), final wide comparison (10–12s)
+- **Transitions:** Sharp cuts every 2–2.5s during HOLD phase to maintain pacing; crossfade on X-ray comparisons
+- **Pacing:** Cut-heavy in first 3s and last 2s; deliberate, slower during emotional FACE HOLD
+- **Environment:** Modern Brazilian residential (light-filled apartment, parquet floor, minimalist furniture, natural daylight)
+- **Text overlays:** Bold sans-serif, off-white #F7F5F2 on terracota or sage backgrounds; duration 2–3

@@ -1,0 +1,24 @@
+{
+  "status": "APPROVED",
+  "notes": "",
+  "auto": {
+    "passed": false,
+    "score": 0.769,
+    "failures": [
+      "summary: bullet 1 com 112 chars (máx 100)",
+      "summary: bullet 2 com 110 chars (máx 100)",
+      "summary: bullet 4 com 102 chars (máx 100)"
+    ],
+    "warnings": []
+  },
+  "llm": {
+    "score_total": 23,
+    "score_normalized": 0.92,
+    "brand_alignment": 5,
+    "hook_quality": 5,
+    "scientific_clarity": 4,
+    "pilar_fit": 5,
+    "cta_effectiveness": 4,
+    "feedback": "A voz está impecável — inteligente, direta e acolhedora. O hook \"E não é só uma sensação — a ciência explica por quê\" é perfeito para parar o scroll. Porém, falta especificar qual estudo exato foi usado (autores, ano, tamanho da amostra) — citar apenas \"PMC\" é genérico. O CTA \"Salva esse post\" é bom, mas poderia incluir um segundo CTA mais específico (ex: \"Comente: qual seu maior benefício do treino?\" ou link para um conteúdo complementar) para aumentar engajamento além do save."
+  }
+}

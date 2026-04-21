@@ -1,0 +1,26 @@
+{
+  "status": "APPROVED",
+  "notes": "",
+  "auto": {
+    "passed": false,
+    "score": 0.615,
+    "failures": [
+      "summary: TITULO com 80 chars (máx 60)",
+      "summary: bullet 1 com 131 chars (máx 100)",
+      "summary: bullet 2 com 130 chars (máx 100)",
+      "summary: bullet 3 com 121 chars (máx 100)",
+      "summary: bullet 4 com 126 chars (máx 100)"
+    ],
+    "warnings": []
+  },
+  "llm": {
+    "score_total": 23,
+    "score_normalized": 0.92,
+    "brand_alignment": 5,
+    "hook_quality": 5,
+    "scientific_clarity": 4,
+    "pilar_fit": 5,
+    "cta_effectiveness": 4,
+    "feedback": "A voz é inteligente, acolhedora e direto — exatamente Corpo e Saber. O hook \"150 minutos por semana é a dose que salva seus ossos\" é impactante sem alarmismo. A ressalva sobre osteoporose mostra respeito ao público. Pequenas melhorias: a citação do estudo (PMC3296386) não aparece link clicável no texto, apenas na fonte — considere mencionar o ano ou autor no corpo da legenda para reforçar credibilidade. O CTA é forte, mas poderia ser mais direto (\"Qual desses três você já faz?\") em vez de duplo (\"qual você já faz — e qual quer começar\"), que dilui o foco."
+  }
+}

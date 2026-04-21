@@ -1,0 +1,24 @@
+{
+  "status": "APPROVED",
+  "notes": "",
+  "auto": {
+    "passed": false,
+    "score": 0.75,
+    "failures": [
+      "summary: bullet 1 com 160 chars (máx 100)",
+      "summary: bullet 2 com 123 chars (máx 100)",
+      "summary: bullet 3 com 152 chars (máx 100)"
+    ],
+    "warnings": []
+  },
+  "llm": {
+    "score_total": 24,
+    "score_normalized": 0.96,
+    "brand_alignment": 5,
+    "hook_quality": 5,
+    "scientific_clarity": 5,
+    "pilar_fit": 5,
+    "cta_effectiveness": 4,
+    "feedback": "Excelente execução geral — tom inteligente e acolhedor, hook impactante sem alarmismo, evidência científica bem documentada. O único ponto menor: o CTA \"Salva esse post\" é genérico; seria mais forte especificar a ação (\"Salva para consultar antes de montar seu próximo treino\" ou \"Salva e volta quando estiver planejando seu treino\"). A frase final já faz isso, então considere consolidar o CTA numa única, mais prescritiva."
+  }
+}

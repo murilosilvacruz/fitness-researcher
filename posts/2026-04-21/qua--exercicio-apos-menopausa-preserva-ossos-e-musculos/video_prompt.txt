@@ -1,0 +1,30 @@
+# VIDEO GENERATION PROMPT FOR VEO (GOOGLE)
+
+**OPENING HOOK (0–0.5s) — SPEED RAMP:**
+Medium close-up of a Brazilian woman in her late 40s (warm olive skin, dark wavy hair, defined cheekbones) in a bright urban apartment or modern home gym. She performs a quick, dynamic movement—stepping up onto a platform or raising dumbbells. Camera zooms in with rapid speed ramp. Freeze on her determined facial expression. TEXT OVERLAY appears abruptly: "150 minutos por semana salvam seus ossos" in off-white (#F7F5F2) font.
+
+**HOLD (0.5–10s) — FACE HOLD + SPLIT SCREEN + SLOW-MO STRATEGIC:**
+
+*Seconds 0.5–3:*
+FACE HOLD (4–6 seconds). Static camera on woman's face at eye level, close enough for intimacy. She speaks directly to camera with knowing expression. Soft terracotta (#C9614A) lighting touches her skin. Her voice explains: "Sabe quando você completa 45, 50 anos e o corpo não responde mais do mesmo jeito?"
+
+*Seconds 3–7:*
+SPLIT SCREEN (vertical halves). Left side: soft slow-motion footage of woman's hand touching her collarbone, showing vulnerability—representing bone fragility and hormonal loss. Sage green (#7B9E87) tinted overlay. Right side: quick-cut montage of her performing three distinct exercises in real-time—moderate aerobic movement (brisk walking or light jogging on a sunny balcony/park), strength training (dumbbell press), and balance work (standing on one leg). Each exercise holds 1.5–2 seconds. Text overlays appear in sequence: "AERÓBIO" / "FORÇA" / "EQUILÍBRIO."
+
+*Seconds 7–10:*
+Return to FACE HOLD on woman. Camera static, emotional peak moment. Her expression shifts from concern to quiet confidence. She nods slightly. Soft off-white background or blurred home environment. She says: "Exercício é sempre a resposta. Só precisa ser o certo para seu corpo nesta fase."
+
+**PAYOFF (10–13s) — BEFORE/AFTER VISUAL + LOOP PERFECT:**
+Quick cut showing her full body in athletic stance, strong and grounded, in warm terracotta-toned light. Final text overlay: "Comenta aqui: qual desses três você neglecencia?"
+
+Camera pulls back slightly. Her expression mirrors the opening frame—determined, present, powerful. The loop suggests continuity: movement returns subtly to the opening gesture, encouraging replay.
+
+---
+
+**TECHNICAL SPECIFICATIONS:**
+- Vertical format, 9:16 aspect ratio
+- Color palette: Terracota #C9614A, Sage #7B9E87, Off-white #F7F5F2
+- Subject: Brazilian woman, ages 45–52, warm olive or medium-brown skin, dark wavy/curly hair, natural mature beauty
+- Setting: Modern urban apartment, home gym, or sunny park/balcony (Brazilian environment)
+- Pacing: Cuts every 2–3 seconds during HOLD
+- Camera movements: Speed ramp (opening), close-up

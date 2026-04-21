@@ -1,0 +1,25 @@
+{
+  "status": "APPROVED",
+  "notes": "",
+  "auto": {
+    "passed": false,
+    "score": 0.692,
+    "failures": [
+      "summary: bullet 1 com 115 chars (máx 100)",
+      "summary: bullet 2 com 131 chars (máx 100)",
+      "summary: bullet 3 com 132 chars (máx 100)",
+      "summary: bullet 4 com 106 chars (máx 100)"
+    ],
+    "warnings": []
+  },
+  "llm": {
+    "score_total": 23,
+    "score_normalized": 0.92,
+    "brand_alignment": 5,
+    "hook_quality": 4,
+    "scientific_clarity": 5,
+    "pilar_fit": 5,
+    "cta_effectiveness": 4,
+    "feedback": "O post é excelente em fundamentação científica e tom — inteligente, direto, sem alarmismo. A voz é claramente Corpo e Saber. A legenda entrega valor real com contextualização de hormônios e sistema nervoso para o público 40+. Sugestão: o hook poderia ser ainda mais magnético se começasse com uma pergunta ou tensão (\"Você toma remédio para ansiedade, mas ignora que...\") em vez de afirmação neutra. O CTA final é bom, mas dividido entre dois pedidos (salvar + reler) — considere um único CTA principal para maximizar conversão."
+  }
+}

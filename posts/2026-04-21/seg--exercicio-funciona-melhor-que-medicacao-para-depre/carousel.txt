@@ -1,0 +1,54 @@
+# ROTEIRO CARROSSEL INSTAGRAM — CORPO E SABER
+
+=== SLIDE 1 — CAPA ===
+TITULO: Exercício funciona melhor que qualquer remédio para sua mente
+SUBTITULO: A ciência prova: treino é o antidepressivo mais potente que existe.
+CHAMADA: Deslize para ver →
+
+=== SLIDE 2 — CONTEXTO ===
+TITULO: Por que isso importa para você
+CORPO: Aos 40, 45, 50 anos, você não está apenas envelhecendo — está passando por oscilações hormonais que mexem com seu humor, sono e disposição. Ansiedade e depressão não são "fraqueza": são respostas fisiológicas do seu corpo em transição. E aqui tem uma notícia que muda tudo.
+
+=== SLIDE 3 — PROBLEMA ===
+TITULO: O que a maioria acredita — ou faz errado
+CORPO: Muita gente acha que humor ruim é coisa que só remédio resolve. Outras pensam que "um pouco de exercício" é suficiente, sem consistência. E há ainda quem ignore completamente que movimento corporal tem tanto impacto quanto medicação — ou até mais.
+
+=== SLIDE 4 — DADO PRINCIPAL ===
+TITULO: Exercício físico supera qualquer intervenção para reduzir depressão e ansiedade
+CORPO: Revisão de múltiplos estudos científicos globais confirmou: atividade física consistente é mais eficaz para melhorar sintomas de depressão e ansiedade do que nenhuma outra intervenção. Sim, melhor que placebo, melhor que esperar passar, melhor que ficar parada esperando melhora.
+DESTAQUE: Exercício supera qualquer outra abordagem — sem efeitos colaterais.
+
+=== SLIDE 5 — MECANISMO ===
+TITULO: Como isso funciona no seu corpo
+CORPO: Quando você se move, seu corpo regula o eixo do estresse — basicamente, normaliza os hormônios que deixam você ansiosa e irritada. Além disso, o exercício aumenta neurotransmissores (como serotonina) que melhoram o humor. É química pura — e funciona dentro de semanas, não meses.
+
+=== SLIDE 6 — DADO SECUNDÁRIO ===
+TITULO: Yoga potencializa ainda mais quando combinada com treino regular
+CORPO: Estudos mostram que yoga oferece impacto positivo adicional para saúde mental — mas o efeito é ainda maior quando combinada com exercício cardiovascular ou força. Não é "escolha entre uma ou outra": é uma dupla que funciona.
+
+=== SLIDE 7 — MITO ===
+TITULO: "Treino intenso é o que realmente funciona para depressão"
+CORPO: Nem sempre. A consistência importa muito mais que a intensidade. Um treino leve feito todos os dias supera um treino pesado esporádico. Para mulher de 40+ com sintomas de depressão ou ansiedade, o ideal é mover-se regularmente — tipo, 4 a 5 vezes por semana — não fazer esforço heroico uma vez por mês.
+
+=== SLIDE 8 — VERDADE ===
+TITULO: O que a evidência diz de verdade
+CORPO: Atividade física regular melhora significativamente depressão, ansiedade, qualidade do sono e até sintomas mais graves de transtornos psiquiátricos. Para mulheres em perimenopausa — quando humor oscila — o exercício oferece algo que medicação sozinha não dá: regulação do eixo hormonal do estresse. É intervenção biológica real.
+
+=== SLIDE 9 — NA PRÁTICA ===
+TITULO: O que você pode fazer a partir de hoje
+CORPO: Escolha um movimento que você goste (caminhada, dança, natação, musculação) e comprometa-se com 4 vezes por semana — nem precisa ser intenso. Mantenha por 3 a 4 semanas antes de avaliar mudanças de humor. Se houver sintomas sérios de depressão, combine exercício com acompanhamento profissional — não é "ou/ou", é "e/e".
+
+=== SLIDE 10 — CTA ===
+CTA_PRIMARIO: Manda esse post pra aquela amiga que tá achando que só remédio resolve sua ansiedade — ela precisa saber disso.
+CTA_SECUNDARIO: Segue @corpo.saber para não perder o próximo — semana que vem a gente fala sobre qual tipo de exercício funciona melhor para perimenopausa.
+HASHTAGS: #corposaber #saúdementalnamulher #exercícioeparamentalidade #perimenopausa #mulher40mais
+
+---
+
+**NOTAS DE IMPLEMENTAÇÃO:**
+
+- **Slide 1**: Frase impactante sem ponto de exclamação, direto. Não usa "descubra" ou "você não vai acreditar" — conta o resultado de forma confiante.
+- **Progressão**: Fluxo lógico de contexto → problema comum → dado científico → mecanismo → detalhes adicionais → mitos → verdade → ação prática → CTA.
+- **Voz**: Inteligente sem ser arrogante. "Sim, melhor que placebo" (Slide 4) trata a leitora como adulta capaz de entender comparação científica.
+- **Perimenopausa**: Mencionada estrategicamente nos slides 2 e 8 porque é relevante para seu público-alvo (40-55 anos).
+- **CTA**: Primário usa formato "manda pra amiga" com situação específica. Secundário é complementar (call to follow), não repetitivo.

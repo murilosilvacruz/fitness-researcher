@@ -1,0 +1,26 @@
+{
+  "status": "APPROVED",
+  "notes": "",
+  "auto": {
+    "passed": false,
+    "score": 0.615,
+    "failures": [
+      "summary: bullet 1 com 155 chars (máx 100)",
+      "summary: bullet 2 com 132 chars (máx 100)",
+      "summary: bullet 3 com 102 chars (máx 100)",
+      "summary: bullet 4 com 137 chars (máx 100)",
+      "caption: nenhum CTA detectado (salva, comenta, marca, link na bio)"
+    ],
+    "warnings": []
+  },
+  "llm": {
+    "score_total": 23,
+    "score_normalized": 0.92,
+    "brand_alignment": 5,
+    "hook_quality": 5,
+    "scientific_clarity": 4,
+    "pilar_fit": 5,
+    "cta_effectiveness": 4,
+    "feedback": "A voz é precisa, direta e acolhedora — exatamente a marca. O hook inicial (\"Yoga não tira o fogacho, mas reduz em quanto tempo ele dura\") é inteligente porque quebra expectativa sem ser alarmista. Porém, a citação científica fica genérica (\"um estudo publicado em periódico de medicina reprodutiva\") antes do link — nomear o estudo ou periódico na legenda fortaleceria a credibilidade imediata. O CTA final é duplo (compartilhar + menção a remédio) quando poderia ser único e mais direto: escolha entre \"salva e manda\" ou \"envia pra quem está nessa fase\"."
+  }
+}

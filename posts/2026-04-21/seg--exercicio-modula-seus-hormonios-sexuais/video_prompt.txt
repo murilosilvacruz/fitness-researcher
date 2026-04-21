@@ -1,0 +1,32 @@
+# VIDEO GENERATION PROMPT FOR VEO (GOOGLE)
+
+**"Exercise Modulates Your Hormones" – Viral Educational Reel**
+
+**VISUAL DIRECTION:**
+Create a 9:16 vertical video (8–15 seconds) targeting Brazilian women aged 40–55. Use color palette: Terracotta #C9614A, Sage #7B9E87, Off-white #F7F5F2. Modern, scientific aesthetic with warm, accessible tone.
+
+**TALENT:**
+Feature a Parda/Mestiça woman (warm brown skin tone, wavy or textured hair, mixed features, age 45–50) or Afro-brasileira woman (medium-dark brown skin, natural coily hair, age 45+). She should embody confidence and wellness knowledge.
+
+**HOOK (0–3 seconds) – OPENING HOOK + SPEED RAMP:**
+Begin with extreme close-up POV of woman's face, eyes direct to camera, slightly surprised expression. Text overlay appears: "Seu treino muda conforme seu ciclo" [Your workout changes with your cycle]. Quick camera speed ramp — fast zoom out revealing her in a bright, modern apartment with minimalist décor (white walls, sage-green plant, natural sunlight). Motion is snappy and stops the scroll immediately.
+
+**HOLD (3–12 seconds) – SPLIT SCREEN + SLOW-MO STRATEGIC:**
+At 3s, transition to split-screen showing two simultaneous scenarios:
+- **Left side:** Woman performing strength training (dumbbell lift), filmed in real-time
+- **Right side:** Woman doing cardio (light jogging on a modern terrace/balanacão), filmed in real-time
+
+At 5s, hold on woman's FACE (FACE HOLD 4–6s) — close-up, confident expression, as text overlay reads: "Exercício não é neutro hormonalmente" [Exercise is not hormonally neutral]. Eyes look slightly upward, contemplative. Lighting is warm, terracotta-tinted.
+
+At 8s, slow-motion transition: show hormone molecule graphics (simple, elegant, scientific) appearing in sage green and terracotta colors, flowing across screen. Cut every 2–3s to maintain pace.
+
+**PAYOFF (final 3–5 seconds) – BEFORE/AFTER VISUAL + LOOP PERFECT:**
+At 10s, before/after split appears: left shows "Antes" [Before] — woman looking fatigued, minimal energy; right shows "Depois" [After] — same woman radiant, energized, smiling genuinely. Transition is smooth fade.
+
+Final 2s: Return to original opening shot (close-up face, surprised expression, same lighting and angle) creating LOOP PERFECT effect — viewers compelled to replay. Text: "Salva aqui" [Save this] appears. Soft fade to Corpo e Saber logo in off-white against sage background.
+
+**CAMERA MOVEMENTS & PACING:**
+- 0–0.5s: Speed ramp zoom out (fast)
+- 0.5–3s: Static wide shot with text overlay
+- 3–8s: Split-screen, steady cam on both sides, cuts every 2–3s
+- 5–6s: Extreme close-up face, minimal movement, emotional hold

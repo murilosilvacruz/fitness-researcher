@@ -1,0 +1,46 @@
+# VIDEO GENERATION PROMPT FOR VEO (GOOGLE)
+
+**Title:** "Exercise Controls Hot Flashes as Well as Medication"
+
+**Duration:** 12 seconds, 9:16 vertical format
+
+**Target:** Brazilian women aged 40–55, perimenopausal
+
+**Color Palette:** Terracotta #C9614A, Sage #7B9E87, Off-white #F7F5F2
+
+---
+
+**HOOK (0–3s) — OPENING HOOK + SPEED RAMP:**
+Open with a close-up POV of a woman's face (warm-toned skin, natural hair, mid-40s, parda/mestiça type) experiencing a hot flash moment — slight perspiration, intensity in her expression. Camera is intimate and frontal. At 0.5s, introduce TEXT OVERLAY in off-white: "Yoga doesn't eliminate hot flashes. It reduces them." Speed ramp: slow-motion on her breathing moment (1–2s), then rapid acceleration back to real-time as she transitions to movement.
+
+---
+
+**HOLD (3–10s) — SPLIT SCREEN + BEFORE/AFTER + FACE HOLD:**
+At 3s, transition to split-screen showing three simultaneous exercise modalities in terracotta-tinted environments:
+- Left third (0–3s in HOLD): Woman in yoga pose (calm, sage-green yoga mat, soft lighting)
+- Center third (0–3s in HOLD): Woman doing light weight training (strength-focused, natural apartment setting)
+- Right third (0–3s in HOLD): Woman walking outdoors in Brazilian urban park (morning light, natural movement)
+
+At 6s, CUT to full-frame FACE HOLD (4–5s duration): Same woman, now calm and composed, slight smile, looking directly at camera. TEXT OVERLAY sequences appear with scientific payoffs:
+- "Aerobic: controls weight + heart health"
+- "Strength training: protects bones (critical now)"
+- "Yoga: calms the nervous system"
+
+Camera remains static on her face during this emotional peak moment.
+
+---
+
+**PAYOFF (10–12s) — LOOP PERFECT:**
+Final 2 seconds return to her initial hot-flash moment but with visual transformation: she's now breathing steadily, composed, with a knowing expression. TEXT OVERLAY: "It only works if you combine all three. Save this — you'll want to remember it before your next workout."
+
+Camera slowly pulls back to reveal her in a balanced, grounded state. Frame loops subtly back to the opening hook movement, inviting replay.
+
+---
+
+**TECHNICAL SPECIFICATIONS:**
+- Cuts every 2–3 seconds during HOLD to maintain pacing
+- Movements: intimate POV → split-screen comparison → static face hold → subtle loop return
+- Environments: Brazilian apartment with natural light, urban park, yoga studio with sage-green accents
+- On-screen text: white/off-white (#F7F5F2), sans-serif, bold weight, 2–3 second visibility per line
+
+12 seconds. 9:16.

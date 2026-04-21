@@ -1,0 +1,25 @@
+{
+  "status": "APPROVED",
+  "notes": "",
+  "auto": {
+    "passed": false,
+    "score": 0.692,
+    "failures": [
+      "summary: bullet 1 com 144 chars (máx 100)",
+      "summary: bullet 2 com 125 chars (máx 100)",
+      "summary: bullet 3 com 128 chars (máx 100)",
+      "summary: bullet 4 com 137 chars (máx 100)"
+    ],
+    "warnings": []
+  },
+  "llm": {
+    "score_total": 23,
+    "score_normalized": 0.92,
+    "brand_alignment": 5,
+    "hook_quality": 5,
+    "scientific_clarity": 4,
+    "pilar_fit": 5,
+    "cta_effectiveness": 4,
+    "feedback": "A voz é impecavelmente Corpo e Saber — inteligente, direta e sem alarmismo. O hook \"A menopausa muda seu corpo de forma que a maioria não antecipa\" é precisamente o tom que convida sem assustar. A ressalva sobre osteoporose fortalece credibilidade e acolhimento simultâneos. Pequena melhoria: cite o nome/ano do estudo ou periódico específico antes do link (ex: \"estudo de 2011 em *Journal of Bone and Mineral Research*\") — isso aumentaria a transparência científica sem comprometer fluidez. O CTA \"Salva esse post\" é eficaz, mas poderia ganhar uma segunda camada acionável (ex: \"Salva e compartilha com quem tá na menopausa\")."
+  }
+}

@@ -1,0 +1,47 @@
+**PROMPT FOR VIDEO GENERATION (Veo/Google or equivalent)**
+
+---
+
+**TITLE:** "150 Minutes: The Magic Number That Saves Your Bones After Menopause"
+
+**DURATION:** 12 seconds | **ASPECT RATIO:** 9:16 vertical
+
+**TARGET AUDIENCE:** Brazilian women 40–55 years old | **TONE:** Scientific, empowering, intimate
+
+**COLOR PALETTE:** Terracotta #C9614A, Sage #7B9E87, Off-white #F7F5F2
+
+---
+
+**VISUAL STRUCTURE:**
+
+**HOOK (0–2.5s) — OPENING HOOK + SPEED RAMP:**
+Open with a close-up POV of a woman's hand gripping a water bottle mid-motion during a brisk walk in an urban park (morning light, Brazilian landscape). Camera zooms in on her focused expression. Text overlay appears in off-white: "150 MINUTES — THE NUMBER THAT SAVES YOUR BONES." Speed ramp accelerates the motion of her walking to grab attention immediately.
+
+Woman featured: Parda/Mestiça, warm brown skin, shoulder-length wavy hair, 45–50 years old, athletic build, natural makeup.
+
+---
+
+**HOLD (2.5–10s) — SPLIT SCREEN + SLOW-MO STRATEGIC:**
+Split screen shows three simultaneous activities in separate panels:
+- **Left panel (2.5–4.5s):** Woman doing brisk walking (speed normal). Text: "30 MIN CARDIO"
+- **Center panel (4.5–6.5s):** Woman performing light strength training with dumbbells at home (slow-mo on the controlled movement of arms). Text: "+ STRENGTH TRAINING"
+- **Right panel (6.5–8.5s):** Woman in a yoga/balance pose on a varanda overlooking the city (slow-mo on the steady hold). Text: "+ BALANCE WORK"
+
+Each panel has terracotta or sage-colored background. Quick 1-second cuts between panels to maintain rhythm. Overlay text in off-white: "NOT ABOUT LOOKS. ABOUT STRENGTH."
+
+At 8.5s, transition to FACE HOLD: Close-up of woman's face (still from split screen, center focus) with determined, calm expression. Hold for 4–5 seconds. Text appears: "EXERCISE IS THE ONLY SCIENCE-BACKED STRATEGY."
+
+---
+
+**PAYOFF (10–12s) — BEFORE/AFTER VISUAL + LOOP PERFECT:**
+Quick transition to a final shot of the same woman walking confidently away from camera through the park, movement slightly slower and more grounded than the opening. Text overlay: "SAVE YOUR BONES. CHECK YOUR ROUTINE." 
+
+The final frame loops visually back to the opening hook (woman's hand gripping water bottle, same angle, same light) creating a perfect loop that encourages replay.
+
+---
+
+**TECHNICAL SPECIFICATIONS:**
+
+- **Camera movements:** POV intimate close-ups → split screen parallel action → static face hold → tracking shot (walking away)
+- **Transitions:** Quick cuts every 2–3 seconds during HOLD; smooth fade between split screen and face hold
+- **Pacing:** Energetic opening (speed ramp), rhythmic mid-section (3 split panels × ~2

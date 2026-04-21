@@ -1,0 +1,33 @@
+# PROMPT FOR VEO VIDEO GENERATION
+
+---
+
+**OPENING HOOK (0–0.5s):**
+Close-up of a woman's hand (Afro-Brazilian, warm brown skin, age 50–52) placing a heavy dumbbell on the ground with purposeful force. Hard cut. Movement must be sharp and immediately stop the scroll.
+
+**HOOK (0–3s) — BEFORE/AFTER VISUAL:**
+Split-screen showing two spine X-ray silhouettes side-by-side (left: faded, brittle; right: dense, strong). Woman's face enters frame (Parda/Mestiça, warm olive undertone, age 48–55, natural wavy dark hair) with determined expression. Text overlay: "Your bone at 50 still responds to training."
+
+**HOLD (3–10s) — SPEED RAMP + SLOW-MO STRATEGIC:**
+Woman performs a squat in terracotta-toned gym environment (indoor apartment with sage green walls, off-white floor). Camera follows the movement with speed ramp: normal tempo, then slow-motion on the deepest point of squat (2 seconds in slow-mo showing muscle engagement). Quick cut to jump rope impact—a 1-second slow-mo capture of feet leaving ground, showing explosive power. Text cut: "2x weekly resistance + 50–100 jumps = bone density increase." Natural lighting, warm and inviting.
+
+**FACE HOLD (6–8s) — EMOTIONAL PEAK:**
+Static camera, medium close-up on her face as she completes a set, breathing slightly heavier, eyes direct to camera with quiet confidence. Sage green wall in soft focus behind. Text overlay: "Your bone is still living tissue. It still adapts."
+
+**PAYOFF (8–13s) — LOOP PERFECT + POV INTIMATE:**
+Quick montage of 3 different exercises (resistance band row, wall push-up, step-up on stairs in Brazilian apartment setting) filmed from POV angle, showing her hands and core engagement. Each cut is 1–2 seconds. Final frame: woman's silhouette against off-white window, shoulders back, posture strong. Text: "Start now. Avoid fractures at 55." Loop back subtly to opening dumbbell placement sound.
+
+---
+
+**TECHNICAL SPECIFICATIONS:**
+- Vertical format, 9:16
+- Color palette: Terracota #C9614A (accent on gym wear/equipment), Sage #7B9E87 (walls/environment), Off-white #F7F5F2 (floors/backgrounds)
+- Cut every 2–3 seconds during HOLD phase
+- Brazilian environment: residential apartment with minimalist gym setup, natural window light
+- Woman age 48–55, representing Afro-Brazilian or Parda demographic
+- Music: subtle, motivational rhythm, builds slightly during jumps/resistance moments
+- Text overlays in bold sans-serif, white or terracotta, readable at 2-second intervals
+
+---
+
+**13 seconds. 9:16.**

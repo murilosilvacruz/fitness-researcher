@@ -1,0 +1,24 @@
+{
+  "status": "APPROVED",
+  "notes": "",
+  "auto": {
+    "passed": false,
+    "score": 0.769,
+    "failures": [
+      "summary: bullet 1 com 130 chars (máx 100)",
+      "summary: bullet 2 com 114 chars (máx 100)",
+      "summary: bullet 3 com 114 chars (máx 100)"
+    ],
+    "warnings": []
+  },
+  "llm": {
+    "score_total": 23,
+    "score_normalized": 0.92,
+    "brand_alignment": 5,
+    "hook_quality": 4,
+    "scientific_clarity": 5,
+    "pilar_fit": 5,
+    "cta_effectiveness": 4,
+    "feedback": "O post executa com maestria a desmistificação científica — transforma um dado assustador (aumento 100x) em contexto real (risco absoluto baixo) exatamente como a marca propõe. A voz é inteligente e direta sem infantilizar. O único ponto fraco é o CTA duplo (\"Salva esse post\" + 6 hashtags comerciais) que dilui o foco; considere um único CTA claro. A legenda equilibra bem entre engajamento e clareza, mantendo mulheres 40+ como centro da narrativa."
+  }
+}

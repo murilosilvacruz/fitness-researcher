@@ -1,0 +1,24 @@
+{
+  "status": "APPROVED",
+  "notes": "",
+  "auto": {
+    "passed": false,
+    "score": 0.769,
+    "failures": [
+      "summary: bullet 1 com 110 chars (máx 100)",
+      "summary: bullet 2 com 109 chars (máx 100)",
+      "summary: bullet 3 com 104 chars (máx 100)"
+    ],
+    "warnings": []
+  },
+  "llm": {
+    "score_total": 23,
+    "score_normalized": 0.92,
+    "brand_alignment": 5,
+    "hook_quality": 5,
+    "scientific_clarity": 4,
+    "pilar_fit": 5,
+    "cta_effectiveness": 4,
+    "feedback": "O post tem tom inteligente, direto e acolhedor — exatamente a voz Corpo e Saber. O hook \"O exercício mexe com seus hormônios — e isso é bom\" é impactante sem alarmismo. A estrutura (dado interessante + nuance + aplicação prática) é excelente. Pontos de melhoria: (1) A afirmação sobre progesterona aumentar \"especialmente na fase de ovulação\" poderia ser mais precisa (ovulação é breve; você provavelmente quis dizer \"fase folicular tardia/ovulação precoce\" como está no subtítulo). (2) O CTA \"Salva esse post\" é genérico — seria mais efetivo oferecer ação concreta (\"Tira print para consultar antes de montar seu treino do mês\" ou \"Compartilha com quem treina sem entender por que o ciclo muda\"). Citação do estudo está clara e bem posicionada."
+  }
+}

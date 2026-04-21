@@ -1,0 +1,24 @@
+{
+  "status": "APPROVED",
+  "notes": "",
+  "auto": {
+    "passed": false,
+    "score": 0.769,
+    "failures": [
+      "summary: bullet 1 com 116 chars (máx 100)",
+      "summary: bullet 2 com 119 chars (máx 100)",
+      "summary: bullet 4 com 122 chars (máx 100)"
+    ],
+    "warnings": []
+  },
+  "llm": {
+    "score_total": 24,
+    "score_normalized": 0.96,
+    "brand_alignment": 5,
+    "hook_quality": 5,
+    "scientific_clarity": 5,
+    "pilar_fit": 5,
+    "cta_effectiveness": 4,
+    "feedback": "Excelente execução geral. O tom é inteligente e direto, com dados específicos (0,85 e 0,73 pontos) que dão credibilidade sem ser alarmista. A comparação com mulheres de ossos saudáveis é particularmente eficaz. O único ajuste sugerido: o CTA final (\"Salva esse post\") é bom, mas poderia ganhar uma ação complementar clara (ex: \"Comenta aqui quais exercícios você já faz em casa\" ou \"Baixe nossa lista de 5 exercícios de carga para começar\") para aumentar engajamento direto na plataforma."
+  }
+}
