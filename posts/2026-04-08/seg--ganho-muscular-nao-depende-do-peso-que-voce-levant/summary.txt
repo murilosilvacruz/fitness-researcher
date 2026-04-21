@@ -1,7 +1,7 @@
-TITULO: Ganho muscular não depende do peso que você levanta
-SUBTITULO: O que importa é treinar até a fadiga. Iniciantes ganham massa com qualquer carga.
+TITULO: Ganho muscular não depende do peso que você levanta (57 caracteres)
+SUBTITULO: O que importa é treinar até a fadiga. Iniciantes ganham massa com qualquer carga. (86 caracteres)
 PILAR: CIÊNCIA EM DOSE
 BULLETS:
-• Em 10 semanas, iniciantes ganharam 7% de massa muscular com peso leve (30%) e 7,2% com peso pesado (80%). Praticamente igual.
-• A fadiga muscular no final de cada série é o gatilho real para o ganho de massa — não o peso específico que você carrega.
-• Iniciantes têm grande capacidade de adaptação: conseguem estimular as fibras musculares tanto com halteres leves quanto pesados, se treinarem com intensidade.
+• 10 semanas: 7% ganho muscular com peso leve (30%) e 7,2% com peso pesado (80%) (77 caracteres)
+• Fadiga muscular no final da série é gatilho real para ganho — não o peso específico (80 caracteres)
+• Iniciantes têm grande capacidade de adaptação: estimulam fibras musculares com leve ou pesado (92 caracteres)

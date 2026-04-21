@@ -1,0 +1,26 @@
+{
+  "status": "APPROVED",
+  "notes": "",
+  "auto": {
+    "passed": false,
+    "score": 0.615,
+    "failures": [
+      "summary: bullet 1 com 153 chars (máx 100)",
+      "summary: bullet 2 com 141 chars (máx 100)",
+      "summary: bullet 3 com 136 chars (máx 100)",
+      "summary: bullet 4 com 128 chars (máx 100)",
+      "caption: nenhum CTA detectado (salva, comenta, marca, link na bio)"
+    ],
+    "warnings": []
+  },
+  "llm": {
+    "score_total": 24,
+    "score_normalized": 0.96,
+    "brand_alignment": 5,
+    "hook_quality": 5,
+    "scientific_clarity": 5,
+    "pilar_fit": 5,
+    "cta_effectiveness": 4,
+    "feedback": "O post é exemplar: voz inteligente e acolhedora, abordagem direta sem alarmismo, dados científicos bem contextualizados (n=775, fonte verificável, ano recente). A narrativa inverte expectativas de forma perspicaz (\"não é culpa do treino\") e oferece esperança prática. O CTA final é orgânico, mas poderia ganhar força com um chamado mais direto à ação (ex: \"salve esse conteúdo para lembrar quando o guilt atacar\" ou \"compartilhe com quem precisa ouvir isso\")."
+  }
+}

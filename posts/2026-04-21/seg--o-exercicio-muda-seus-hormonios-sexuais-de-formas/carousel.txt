@@ -1,0 +1,75 @@
+# ROTEIRO CARROSSEL INSTAGRAM — CORPO E SABER
+**Tema:** Exercício e Hormônios Sexuais em Mulheres com Ciclo Regular
+
+---
+
+=== SLIDE 1 — CAPA ===
+**TITULO:** Seu treino mexe com seus hormônios — e é exatamente o que você quer
+**SUBTITULO:** Entenda como o exercício modula estrogênio, progesterona e testosterona
+**CHAMADA:** Deslize para ver →
+
+---
+
+=== SLIDE 2 — CONTEXTO ===
+**TITULO:** Por que você deveria saber disso
+**CORPO:** Se você tem ciclo menstrual regular, seu corpo responde aos hormônios sexuais todos os dias — e o exercício é um dos fatores que mais influencia esses níveis. Compreender essa relação é fundamental para prescrever treino que potencialize sua saúde reprodutiva, reduza riscos como câncer de mama e, simplesmente, te ajude a se sentir melhor ao longo do mês.
+
+---
+
+=== SLIDE 3 — PROBLEMA ===
+**TITULO:** O que a maioria pensa — errado
+**CORPO:** A crença comum é que o exercício afeta todos os hormônios sexuais da mesma forma, ou que não faz diferença significativa. Mas décadas de pesquisa (finalmente consolidadas em uma nova síntese científica) mostram que os efeitos são muito mais nuançados. Treinos diferentes, em diferentes fases do ciclo, produzem respostas hormonais radicalmente diferentes — e isso importa para seus objetivos de saúde.
+
+---
+
+=== SLIDE 4 — DADO PRINCIPAL ===
+**TITULO:** O exercício modula progesterona de forma mensurável — mas depende de como você treina
+**CORPO:** Uma revisão sistemática que analisou múltiplos estudos dos últimos dez anos mostrou que a progesterona (hormônio crucial para fertilidade, humor e qualidade óssea) aumenta ou diminui conforme o tipo, intensidade e duração do seu treino — e também da fase do ciclo em que você se exercita. Isso significa que seu treino não é neutro hormonalmente; é uma ferramenta hormonal poderosa quando bem prescrita.
+**DESTAQUE:** A resposta hormonal ao exercício não é única — depende de como, com que intensidade e quando você se exercita.
+
+---
+
+=== SLIDE 5 — MECANISMO ===
+**TITULO:** Como seu corpo responde ao exercício
+**CORPO:** Quando você treina, especialmente em intensidades altas, seu corpo modula a produção de hormônios sexuais como resposta ao estresse físico e à demanda energética. Na fase ovulatória precoce (quando seu corpo se prepara para concepção), o exercício pode aumentar progesterona. Já em outras janelas do ciclo ou com certos tipos de treino, a progesterona pode diminuir — o que, às vezes, alivia sintomas como fadiga ou inchaço. É biologia adaptativa.
+
+---
+
+=== SLIDE 6 — DADO SECUNDÁRIO ===
+**TITULO:** A contradição que finalmente faz sentido
+**CORPO:** Você provavelmente viu estudos que dizem "exercício aumenta progesterona" e outros que dizem "diminui". Não era contradição — era método. Os estudos individuais variavam muito em tipo de exercício (cardio vs. força), intensidade, duração e fase do ciclo das participantes. Quando você junta todos os dados, fica claro: não existe resposta única, existe resposta personalizada ao contexto biológico e ao treino prescrito.
+
+---
+
+=== SLIDE 7 — MITO ===
+**TITULO:** "Malhar pesado desequilibra meus hormônios"
+**CORPO:** Muitas mulheres evitam treino intenso porque acreditam que vai "bagunçar" os hormônios. A verdade: exercício intenso modula hormônios de forma mensurável, mas não é desequilíbrio — é adaptação. Quando bem prescritto (considerando seu ciclo, intensidade e recuperação), o treino potencializa saúde hormonal, não prejudica.
+
+---
+
+=== SLIDE 8 — VERDADE ===
+**TITULO:** O exercício é uma ferramenta hormonal efetiva
+**CORPO:** A evidência mostra que o exercício não é tóxico para seus hormônios sexuais — é o oposto. A atividade física influencia estrogênio, progesterona e testosterona de forma que reduz riscos (como câncer de mama) e melhora qualidade de vida. Mas a efetividade depende: do tipo de treino, da intensidade, da duração e de quando você se exercita no ciclo. Por isso treino genérico não funciona tão bem quanto treino personalizado.
+
+---
+
+=== SLIDE 9 — NA PRÁTICA ===
+**TITULO:** O que você pode fazer a partir de hoje
+**CORPO:** Comece a notar como você se sente com diferentes tipos de treino em diferentes fases do ciclo. Treino intenso pode funcionar melhor em certas janelas; atividade mais leve, em outras. Se você busca otimizar saúde reprodutiva ou reduzir certos riscos, considere periodizar seu treino conforme o ciclo — ou trabalhe com um profissional que entenda ciclo-treino. O exercício é uma ferramenta; conhecer a dosagem certa muda tudo.
+
+---
+
+=== SLIDE 10 — CTA ===
+**CTA_PRIMARIO:** Comenta aqui: como você se sente (energia, humor, performance) em diferentes fases do seu ciclo menstrual? Vamos conversar sobre periodização.
+**CTA_SECUNDARIO:** Segue o @corpo.saber para não perder o próximo post sobre ciclo menstrual e treino.
+**HASHTAGS:** #corposaber #ciênciaemclose #ciclomentrualeexercício #hormonaissexuais #saúdedamulher
+
+---
+
+## NOTAS EXECUTIVAS PARA O DESIGN:
+
+- **Slide 1:** Tipografia grande, impactante. Cores contrastantes. Pausar scroll.
+- **Slides 2-3:** Tom conversacional, sem jargão.
+- **Slide 4:** Destaque em elemento visual (caixa, cor de fundo diferente, ícone). O dado é o mais denso — deixar respirar.
+- **Slides 5-9:** Manter consistência visual. Usar ícones para facilitar compreensão (ciclo, exercício, corpo).
+- **Slide 10:** CTA em cor de destaque. Hashtags legíveis, em tipografia menor. Perguntar cria engajamento.

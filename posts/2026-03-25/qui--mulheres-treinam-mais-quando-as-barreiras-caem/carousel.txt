@@ -1,0 +1,52 @@
+# CARROSSEL — MULHERES TREINAM MAIS QUANDO AS BARREIRAS CAEM
+
+=== SLIDE 1 — CAPA ===
+TITULO: Mulheres não treinam por falta de vontade. É outra coisa.
+SUBTITULO: Meta-análise de 20 estudos revela o que realmente te afasta do treino.
+CHAMADA: Deslize para ver →
+
+=== SLIDE 2 — CONTEXTO ===
+TITULO: Por que isso importa para você
+CORPO: Aos 40+, você sabe que musculação é fundamental para ossos, disposição e independência futura. Mas sabe também que não é tão simples quanto "decidir treinar". Existem barreiras reais — e elas não têm nada a ver com falta de determinação.
+
+=== SLIDE 3 — PROBLEMA ===
+TITULO: O que a maioria acredita — ou faz errado
+CORPO: Muitas mulheres (e academias também) acham que o problema é motivacional. "Ah, ela não quer mesmo." Na verdade, pesquisas mostram que as barreiras são estruturais: falta de espaços seguros, dificuldade de arranjar alguém para cuidar dos filhos, mensagens focadas apenas em estética.
+
+=== SLIDE 4 — DADO PRINCIPAL ===
+TITULO: Barreiras concretas reduzem adesão — não falta de vontade
+CORPO: Uma análise de 20 estudos, envolvendo centenas de mulheres, identificou que as principais barreiras são: falta de conhecimento sobre como treinar, ausência de suporte social e responsabilidades de cuidado que não têm onde deixar. Quando essas barreiras foram removidas, o padrão de adesão mudou completamente.
+DESTAQUE: Não é vontade que falta. São condições certas que não existem.
+
+=== SLIDE 5 — MECANISMO ===
+TITULO: Como isso funciona na prática
+CORPO: Quando você sente que há um espaço seguro, que há quem cuide de quem depende de você e que o treino faz sentido para sua saúde de longo prazo — e não apenas para aparecer diferente — algo muda no cérebro. A motivação intrínseca (aquela que vem de dentro) ativa. E aí, você não sai da prática.
+
+=== SLIDE 6 — DADO SECUNDÁRIO ===
+TITULO: Espaços só para mulheres transformam a participação
+CORPO: O estudo mostrou que aulas ou academias exclusivamente femininas reduzem significativamente a ansiedade e aumentam a frequência. Mulheres se sentem menos julgadas, mais livres para errar, para pedir ajuda, para estar no começo da jornada sem constrangimento.
+
+=== SLIDE 7 — MITO ===
+TITULO: "Mulher que quer treinar treina, com ou sem condições"
+CORPO: Isso é mito — e bem prejudicial. A ciência mostra que barreiras estruturais reduzem adesão, independentemente de vontade. Se fossem só sobre garra, classe socioeconômica, presença de filhos e acesso a espaços seguros não importariam. Mas importam. E muito.
+
+=== SLIDE 8 — VERDADE ===
+TITULO: O que realmente motiva mulheres a treinar
+CORPO: Não é a promessa de ficar "sarada". Mensagens sobre saúde óssea, força funcional, independência futura e qualidade de vida mantêm mulheres 40+ no treino por muito mais tempo. Você quer investir em si mesma — quando alguém reconhece isso, você segue.
+
+=== SLIDE 9 — NA PRÁTICA ===
+TITULO: O que você pode fazer a partir de hoje
+CORPO: Se treina em academia: pergunte se existe horário só para mulheres, se há opção de childcare, se as mensagens focam em saúde futura. Se treina em casa: procure comunidades online de mulheres 40+, invista em técnico que entenda essa fase da vida. Se é responsável por uma academia ou grupo: remova essas barreiras — a pesquisa prova que adesão sobe.
+
+=== SLIDE 10 — CTA ===
+CTA_PRIMARIO: Manda pra amiga que quer treinar mas sempre acha uma desculpa — ou melhor, um obstáculo real. Talvez vocês consigam resolver junto.
+CTA_SECUNDARIO: Segue @corpo.saber para mais dados que importam mesmo.
+HASHTAGS: #corposaber #musculacao #mulheres40mais #barreirasaotreino #qualidadedevida
+
+---
+
+**NOTAS DE EXECUÇÃO:**
+- **Slide 1:** A frase "Mulheres não treinam por falta de vontade. É outra coisa." é contrastante o suficiente para parar scroll.
+- **Progressão:** contexto → problema → dado central → mecanismo → dado secundário → mito vs. verdade → ação → CTA.
+- **Tom:** Nunca alarmista, sempre acolhedor, reconhecendo barreiras reais sem culpabilizar.
+- **CTA:** Usa formato "manda pra amiga" com contexto específico, aumentando engajamento e compartilhamento.

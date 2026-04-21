@@ -1,0 +1,25 @@
+{
+  "status": "APPROVED",
+  "notes": "",
+  "auto": {
+    "passed": false,
+    "score": 0.692,
+    "failures": [
+      "summary: bullet 1 com 128 chars (máx 100)",
+      "summary: bullet 2 com 132 chars (máx 100)",
+      "summary: bullet 3 com 129 chars (máx 100)",
+      "summary: bullet 4 com 138 chars (máx 100)"
+    ],
+    "warnings": []
+  },
+  "llm": {
+    "score_total": 23,
+    "score_normalized": 0.92,
+    "brand_alignment": 5,
+    "hook_quality": 5,
+    "scientific_clarity": 4,
+    "pilar_fit": 5,
+    "cta_effectiveness": 4,
+    "feedback": "O post acerta em tom (direto, sem alarmismo) e estrutura clara. Porém, há uma imprecisão no último bullet: \"estresse oxidativo e inflamação baixa desregulam hormônios\" é confuso — você provavelmente quis dizer \"inflamação CRÔNICA\" (não baixa). Corrija para evitar contradição com o resto do conteúdo. O CTA final é eficaz mas genérico; considere algo mais específico como \"Salva e aplica na sua rotina essa semana\" para aumentar a intenção de ação imediata."
+  }
+}

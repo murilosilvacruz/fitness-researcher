@@ -1,0 +1,26 @@
+{
+  "status": "APPROVED",
+  "notes": "",
+  "auto": {
+    "passed": false,
+    "score": 0.615,
+    "failures": [
+      "summary: bullet 1 com 140 chars (máx 100)",
+      "summary: bullet 2 com 131 chars (máx 100)",
+      "summary: bullet 3 com 134 chars (máx 100)",
+      "summary: bullet 4 com 126 chars (máx 100)",
+      "caption: palavras proibidas encontradas: ['segredo']"
+    ],
+    "warnings": []
+  },
+  "llm": {
+    "score_total": 24,
+    "score_normalized": 0.96,
+    "brand_alignment": 5,
+    "hook_quality": 5,
+    "scientific_clarity": 5,
+    "pilar_fit": 5,
+    "cta_effectiveness": 4,
+    "feedback": "O post é excelente — voz inteligente e direta, sem infantilização, dados bem contextualizados e citados adequadamente. A legenda equilibra acessibilidade com rigor científico. O único ponto a melhorar é o CTA final: \"Salva esse post\" é genérico; seria mais efetivo um CTA mais específico ligado ao próximo passo (ex: \"Salva e tira uma dúvida: qual seu maior medo ao treinar com pesos leves?\" para gerar comentários e comunidade)."
+  }
+}

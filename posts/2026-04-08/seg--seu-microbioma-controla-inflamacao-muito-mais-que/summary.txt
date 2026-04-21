@@ -1,8 +1,7 @@
-TITULO: Seu microbioma controla inflamação muito mais que você imagina
-SUBTITULO: Probióticos e ômega-3 reduzem marcadores inflamatórios e reequilibram o intestino sem restrição calórica extrema
+TITULO: Seu microbioma controla inflamação muito mais (57 caracteres)
+SUBTITULO: Probióticos e ômega-3 reduzem marcadores inflamatórios e reequilibram intestino sem restrição. (99 caracteres)
 PILAR: CIÊNCIA EM DOSE
 BULLETS:
-• Probióticos específicos (Bifidobacterium e Lactobacillus) diminuem citocinas inflamatórias em até 40% enquanto aumentam as protetoras
-• Ômega-3 alimenta bactérias que produzem butirato, ácido graxo essencial para desinflamar o intestino e estabilizar peso
-• Na perimenopausa, essa combinação é ainda mais importante: freia ganho de peso e reduz marcadores de inflamação crônica
-• Você não precisa fazer restrição calórica drástica: dieta anti-inflamatória funciona reequilibrando seu sistema metabólico
+• Probióticos específicos diminuem citocinas inflamatórias em até 40% e aumentam as protetoras (88 caracteres)
+• Ômega-3 alimenta bactérias que produzem butirato, ácido essencial para desinflamar e estabilizar peso (99 caracteres)
+• Na perimenopausa, essa combinação é ainda mais importante: freia ganho de peso e reduz inflamação crônica (103 caracteres)

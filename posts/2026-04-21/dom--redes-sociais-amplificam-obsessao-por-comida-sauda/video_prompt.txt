@@ -1,0 +1,25 @@
+# VIDEO GENERATION PROMPT FOR VEO (GOOGLE)
+
+---
+
+**OPENING HOOK (0–0.5s) — SPEED RAMP:**
+Close-up of a woman's hand scrolling rapidly through Instagram on her phone screen, showing fitness content and "clean eating" posts flashing by. Terracotta background. Fast, jittery scrolling motion that abruptly STOPS into slow-motion as we transition.
+
+**SCENE 1 — HOLD (0.5–3s) — SPLIT SCREEN + FACE HOLD:**
+Left side: Parda/Mestiça woman (warm brown skin, wavy hair, 45 years old) in a modern apartment kitchen, looking at her phone with tension visible on her face, hand hovering over a plate of food with visible guilt expression. Right side: Same woman at a gym, mid-intense workout, sweat visible, focused but with strained expression. Overlay text: "Ortorexia + redes sociais + treino = obsessão alimentar." Muted terracotta and sage color grading. Camera slightly shaky to convey anxiety.
+
+**SCENE 2 — HOLD (3–6s) — BEFORE/AFTER + SLOW-MO:**
+Transition with smooth cut. Afro-brasileira woman (medium-dark brown skin, natural cacheado hair, 50 years old) sitting on a modern sofa looking distressed while scrolling (BEFORE state, 1.5s). Then CUT to SLOW-MOTION: same woman laughing genuinely with friends on a varanda at golden hour, wine glass in hand, relaxed body language, warm sage and off-white lighting. Text overlay appears mid-transition: "Qualidade de vida = fator protetor." Duration: 3s in slow-motion.
+
+**SCENE 3 — HOLD (6–10s) — POV ÍNTIMO + PACING:**
+Quick cuts (2s each) showing three protective life dimensions:
+- Close-up of hands holding a friend's hand
+- Woman looking at a stable home/apartment window with city view (relationship/stability)
+- Woman laughing genuinely (purpose, joy, friendship)
+Each cut shows relaxed body language. Lighting warm terracotta transitioning to soft off-white. No food obsession visible in these moments.
+
+**SCENE 4 — PAYOFF (10–13s) — LOOP PERFECT + FACE HOLD:**
+Return to original woman (Nordestina/Indígena type: bronze skin, straight dark hair, prominent cheekbones, 48 years old) at the kitchen from Scene 1, but NOW she's eating food without guilt, smiling softly at her phone (which shows a message from a friend, not fitness content). Camera holds on her face for 4–5 seconds in STATIC FACE HOLD as she looks up from the food directly at camera with a knowing, peaceful expression. Text overlay: "Treina menos? Não. Vive mais." Soft terracotta backlight, off-white foreground.
+
+**FINAL FRAME (13–15s) — LOOP TRANSITION:**
+Pull back to show her putting phone down and joining friends at table (connecting back to Scene 2 energy, closing the loop). Quick fade to Corpo e Saber logo with text: "Salva esse post. #cor

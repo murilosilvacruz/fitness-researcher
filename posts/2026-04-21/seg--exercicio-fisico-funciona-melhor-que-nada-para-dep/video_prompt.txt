@@ -1,0 +1,15 @@
+# VIDEO GENERATION PROMPT FOR VEO (GOOGLE)
+
+**Opening Hook (0–0.5s):** A woman in her late 40s, parda/mestiça with warm brown skin and wavy dark hair, sits on a modern apartment balcony overlooking São Paulo. Her expression is slightly withdrawn, tired. Sudden cut to her standing, ready to move.
+
+**Text Overlay Hook (0–3s):** "Exercise improves depression in women 40+" appears in off-white (#F7F5F2) bold sans-serif. Quick camera push-in with subtle speed ramp as she begins walking.
+
+**Hold 1 — Scientific Explanation (3–8s):** Split-screen visual: LEFT SIDE shows a 3D animation of hormonal fluctuation (simplified, warm terracota tones #C9614A) dropping during perimenopause; RIGHT SIDE shows the same woman's face in close-up POV, eyes closed, hand touching temple in moment of stress. Slow-mo on her subtle facial tension. Overlay text: "Perimenopause = hormonal imbalance = mood disruption." Transition via subtle fade in sage green (#7B9E87).
+
+**Hold 2 — Solution Activation (8–14s):** Speed ramp UP as camera follows woman beginning gentle movement in her living room. Start with slow yoga stretch (slow-mo), transition to brisk walking pace (normal speed), then structured movement. Camera cuts between: (1) wide shot of her moving with determination, (2) close-up face HOLD (4–6s) showing subtle smile emerging, eyes brightening. Text overlay: "Any consistent movement = neurotransmitter activation. Mood naturally improves." Pacing: cut every 2–3 seconds between angles.
+
+**Payoff — Emotional Resolution (14–18s):** Woman pauses on balcony, golden hour light warming her face. Direct eye contact with camera (intimate POV). Soft smile. Text appears: "Your body is asking for movement." Final frame loops subtly back to opening hook position, creating perfect loop. Muted terracota and sage color grading throughout.
+
+**Technical Details:** Camera movements include push-ins, slow-motion emotional beats on face, speed ramps during transition moments, split-screen for scientific data. Brazilian urban apartment setting. Warm, natural lighting. Cuts every 2–3 seconds in HOLD sections. Vertical 9:16 aspect ratio.
+
+**18 seconds. 9:16.**

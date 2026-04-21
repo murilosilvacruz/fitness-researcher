@@ -1,8 +1,7 @@
-TITULO: Peso leve ou pesado trazem resultados iguais
-SUBTITULO: Para resistência muscular, o que importa é consistência, não a carga escolhida
+TITULO: Peso leve ou pesado trazem resultados iguais (49 caracteres)
+SUBTITULO: O que importa é consistência e treinar até a fadiga, não a carga escolhida (81 caracteres)
 PILAR: O DADO QUE IMPORTA
 BULLETS:
-• Mulheres iniciantes ganham resistência muscular tanto com cargas pesadas quanto leves — sem diferenças significativas entre elas
-• O segredo não é escolher o peso "certo", mas treinar 2–3 vezes por semana de forma consistente
-• Agachamento, leg press e supino: todos os estudos confirmaram ganhos similares independente da intensidade
-• Isso vale também para mulheres idosas, abrindo mais opções seguras e acessíveis para começar
+• Mulheres iniciantes ganham resistência muscular tanto com cargas pesadas quanto leves (80 caracteres)
+• O segredo é treinar 2 a 3 vezes por semana com consistência e intensidade até a fadiga (85 caracteres)
+• Ganhos similares independente da intensidade provam que o medo de escolher peso errado é infundado (97 caracteres)

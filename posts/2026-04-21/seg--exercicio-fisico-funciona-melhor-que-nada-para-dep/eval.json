@@ -1,0 +1,26 @@
+{
+  "status": "APPROVED",
+  "notes": "",
+  "auto": {
+    "passed": false,
+    "score": 0.615,
+    "failures": [
+      "summary: bullet 1 com 149 chars (máx 100)",
+      "summary: bullet 2 com 130 chars (máx 100)",
+      "summary: bullet 3 com 142 chars (máx 100)",
+      "summary: bullet 4 com 128 chars (máx 100)",
+      "caption: palavras proibidas encontradas: ['segredo']"
+    ],
+    "warnings": []
+  },
+  "llm": {
+    "score_total": 22,
+    "score_normalized": 0.88,
+    "brand_alignment": 5,
+    "hook_quality": 4,
+    "scientific_clarity": 4,
+    "pilar_fit": 5,
+    "cta_effectiveness": 4,
+    "feedback": "O post está muito bem alinhado com a marca — inteligente, direto e acolhedor sem infantilização. A explicação do eixo hipotálamo-hipófise-adrenal é um exemplo excelente de como traduzir ciência de forma acessível. Considere especificar no corpo do texto a frequência/duração mínima de exercício para ver benefícios (ex.: \"pesquisas indicam que 150 min semanais...\"), pois fala-se em \"consistência\" sem dados concretos. O CTA é relevante, mas poderia ser mais direcionado ao comportamento desejado (ex.: \"Comenta qual movimento você começaria essa semana\" em vez de apenas pedir qual ajuda mais)."
+  }
+}

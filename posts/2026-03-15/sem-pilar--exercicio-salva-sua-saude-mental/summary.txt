@@ -1,6 +1,7 @@
-TITULO: Exercício salva sua saúde mental
-SUBTITULO: Atividades rítmicas reduzem ansiedade, depressão e estresse. Descubra como movimentar-se é investir em seu bem-estar.
+TITULO: Exercício salva sua saúde mental todos os dias (56)
+SUBTITULO: Atividades rítmicas reduzem ansiedade e depressão de forma consistente. Escolha o que funciona para você. (120)
+PILAR: MENTE E CORPO
 BULLETS:
-• Exercícios rítmicos são mais eficazes que atividades aleatórias
-• Qualidade do sono melhora significativamente com prática regular
-• Qualquer intensidade traz benefícios: escolha o que funciona pra você
+• Exercícios rítmicos são mais eficazes que atividades aleatórias para saúde mental.
+• Qualidade do sono melhora significativamente com prática regular.
+• Qualquer intensidade traz benefícios: escolha o que você realmente gosta.

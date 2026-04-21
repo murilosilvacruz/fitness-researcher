@@ -1,0 +1,25 @@
+# VIDEO GENERATION PROMPT FOR VEO (GOOGLE)
+
+**OPENING HOOK (0–0.5s):**
+Close-up of a woman's face (Afro-Brazilian, medium-dark skin, natural curly hair, 45–50 years old) with a surprised, skeptical expression. Fast camera zoom-in with sharp sound effect. Text overlay: "Maratonistas têm infarto com a mesma frequência que quem sofreu ataque cardíaco."
+
+**SPEED RAMP & SPLIT SCREEN (0.5–4s):**
+Split-screen effect. LEFT SIDE: intense slow-motion footage of a woman running aggressively on a sunny urban park trail, sweat visible, pushing hard. RIGHT SIDE: same woman (or similar age) walking briskly and calmly on the same trail, serene expression. Both sides in terracotta (#C9614A) and sage (#7B9E87) color grading. Text: "Mais exercício = mais proteção? NÃO."
+
+**FACE HOLD – EMOTIONAL PEAK (4–9s):**
+Return to close-up of woman's face (now calm, contemplative). Soft sage-tinted lighting. Camera static, intimate POV. She speaks (or text appears): "Pesquisadores descobriram: ganhos massivos em proteção do coração acontecem nos primeiros 50–60 minutos de exercício vigoroso por dia. Depois disso? Risco aumenta." Slow-motion blink. Off-white (#F7F5F2) background slightly out of focus.
+
+**BEFORE/AFTER VISUAL TRANSITION (9–12s):**
+Quick cut to a parda/mestiça woman (warm brown skin, wavy hair, 48 years old) shown in two frames: BEFORE (exhausted after extreme workout, gym setting) → AFTER (glowing, relaxed, doing consistent moderate activity—strength training, brisk walking—in a bright apartment with terracotta accents). Text: "Consistência > Intensidade Extrema."
+
+**PAYOFF & LOOP PERFECT (12–15s):**
+Return to original woman's close-up face. She nods knowingly. Soft smile. Camera slowly pulls back to show her in a modern Brazilian living room (warm lighting, sage and off-white decor). Text overlay: "O segredo? Treino que você sustenta ano após ano." Final frame freezes. Text: "Manda esse vídeo pra uma amiga que acha que precisa se matar de treinar." Loop back to opening hook with subtle visual echo.
+
+**TECHNICAL SPECIFICATIONS:**
+- Color grading: warm terracotta highlights, sage undertones, off-white transitions
+- Sound design: subtle heartbeat at opening, transition whooshes, calm ambient music
+- Pacing: cuts every 2–3 seconds during HOLD section
+- Camera movements: zoom-in (hook), static (face hold), slow pull-back (payoff)
+- Typography: sans-serif, white/terracotta text, high contrast for readability
+
+15 seconds. 9:16.

@@ -1,0 +1,20 @@
+# VIDEO GENERATION PROMPT FOR VEO (GOOGLE)
+
+---
+
+**OPENING HOOK (0–0.5s):** Close-up POV shot of a woman's hand (Afro-Brazilian, medium-dark skin tone, natural textured hair visible) reaching toward camera in an upward motion, confident and deliberate. Quick speed ramp: motion accelerates. Text overlay appears: "Fitness 60+ is the 3rd global trend" in clean, modern sans-serif font against terracotta (#C9614A) background. This motion must stop the scroll immediately.
+
+**HOLD — Scene 1 (0.5–3s):** Wide shot of a warm, sunlit Brazilian apartment balcony with sage green plants (#7B9E87) in background. Parda/Mestiza woman, early 60s, warm brown skin, wavy shoulder-length hair, standing with posture that shows strength. She performs a slow, controlled movement (shoulder rotation or gentle squat). Camera pulls back slightly. Pacing: natural, purposeful. Text overlay: "Women 60+ exercise less than they should—but something changes when they join a program designed for their age."
+
+**HOLD — Scene 2 (3–6s):** FACE HOLD technique. Tight, emotionally-connected shot of woman's face (Oliveira-descendant type: olive-toned skin, dark eyes, defined features, silver-streaked hair pulled back). She is in a moment of realization—slight smile, direct eye contact with camera, breathing deeply. Slow-mo at 50% speed. Text overlay appears with scientific data: "Regular exercise in this age group reduces chronic disease risk by up to 35%, improves memory, increases independence." Keep this emotional peak for full 4 seconds.
+
+**HOLD — Scene 3 (6–10s):** SPLIT SCREEN technique. Left side: close-up of the same woman's hands performing functional movements (climbing stairs, lifting a light weight, stretching). Right side: visual representation of benefits (icons or subtle graphics: brain, heart, strong legs). Speed ramp: each movement is slightly faster than natural. Transitions between functional activities every 1.5 seconds. Text overlay: "Strength. Balance. Flexibility. All designed for YOUR body, not a 25-year-old's body."
+
+**PAYOFF (10–13s):** Wide shot, Nordestina/Indigenous-inspired woman with bronze skin, dark straight hair, prominent cheekbones, playing with grandchildren in a bright, airy space (off-white walls #F7F5F2). She lifts a child effortlessly, laughs, moves with joy and ease. Camera in slow-mo. Text overlay: "It's not about looking younger. It's about doing what matters: climbing stairs, traveling, carrying groceries, playing with grandkids. With the body you actually have." Final 1-second flash: logo or brand watermark "Corpo e Saber" in terracotta.
+
+**LOOP ELEMENT:** The final image of the woman playing with grandchildren subtly echoes the opening confident hand reach—creating visual continuity that encourages replay.
+
+**TECHNICAL SPECS:**
+- Vertical 9:16 format
+- Color palette: Terracota #C9614A, Sage #7B9E87, Off-white #F7F5F2
+- Techniques deployed:

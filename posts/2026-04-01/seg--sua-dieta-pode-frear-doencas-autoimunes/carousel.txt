@@ -1,0 +1,44 @@
+# CARROSSEL INSTAGRAM — CORPO E SABER
+
+=== SLIDE 1 — CAPA ===
+TITULO: Sua dieta pode frear doenças autoimunes
+SUBTITULO: A escolha do prato hoje define a inflamação do seu corpo amanhã.
+CHAMADA: Deslize para ver →
+
+=== SLIDE 2 — CONTEXTO ===
+TITULO: Por que isso importa para você agora
+CORPO: Depois dos 40, seu corpo passa por mudanças que aumentam o risco de desenvolver doenças autoimunes como artrite reumatoide e lúpus. Enquanto isso, a maioria das mulheres segue comendo do jeito que sempre comeu — sem saber que cada refeição pode estar alimentando inflamação silenciosa. A boa notícia? Você ainda tem poder sobre isso.
+
+=== SLIDE 3 — PROBLEMA ===
+TITULO: O que a maioria come sem perceber os riscos
+CORPO: Dietas altas em alimentos processados, açúcar refinado e gorduras saturadas são inflamatórias. Seu corpo trata esses alimentos como um agressor constante, mantendo o sistema imunológico em "alerta vermelho". Com o tempo, esse estado inflamatório crônico dispara o risco de autoimunidade — especialmente para quem tem predisposição genética.
+
+=== SLIDE 4 — DADO PRINCIPAL ===
+TITULO: Alimentos anti-inflamatórios reduzem dor articular e rigidez comprovadamente
+CORPO: Estudos mostram que peixes ricos em ômega-3, junto com alimentos anti-inflamatórios e antioxidantes, diminuem significativamente inflamação sistêmica em mulheres com risco ou diagnóstico de autoimunidade. Os benefícios aparecem em semanas — menos dor, mais mobilidade, mais qualidade de vida.
+DESTAQUE: Ômega-3 reduz inflamação e alivia dor articular de forma comprovada.
+
+=== SLIDE 5 — MECANISMO ===
+TITULO: Como isso funciona no seu corpo
+CORPO: Seu intestino é a porta de entrada do sistema imunológico. Um microbioma saudável (seu "exército" de bactérias intestinais) funciona como barreira contra inflamação sistêmica. Alimentos anti-inflamatórios alimentam as bactérias boas e reduzem as que causam reação imunológica exagerada. É como limpar o terreno antes de plantar.
+
+=== SLIDE 6 — DADO SECUNDÁRIO ===
+TITULO: Seu intestino é seu maior protetor contra autoimunidade
+CORPO: Um microbioma equilibrado é fator protetor documentado contra doenças autoimunes. Quando você come alimentos processados, açúcar e gorduras saturadas, mata as bactérias amigas e alimenta as que promovem inflamação. Reverter isso é possível — mas exige consistência alimentar.
+
+=== SLIDE 7 — MITO ===
+TITULO: "Artrite é só questão de idade e genética"
+CORPO: Verdade: você herda predisposição. Mentira: você não pode fazer nada. Seu estilo de vida — especialmente alimentação — é determinante para ativar ou silenciar essa predisposição genética. Mulheres da mesma família com dietas diferentes têm trajetórias muito diferentes de saúde.
+
+=== SLIDE 8 — VERDADE ===
+TITULO: Alimentação é estratégia não-farmacológica poderosa
+CORPO: Você não precisa esperar por diagnóstico ou remédio para agir. Otimizar sua dieta agora — aumentando ômega-3, alimentos anti-inflamatórios e antioxidantes, reduzindo processados — é prevenção de verdade. E se já tem diagnóstico? Alimentos certos podem reduzir sintomas e até auxiliar medicação.
+
+=== SLIDE 9 — NA PRÁTICA ===
+TITULO: O que você pode fazer a partir de hoje
+CORPO: Aumente peixes (salmão, sardinha, atum), linhaça, chia e azeite extra-virgem. Adicione frutas vermelhas, folhas escuras, cúrcuma, gengibre e alho — todos anti-inflamatórios. Reduza alimentos ultraprocessados, açúcar refinado e óleos vegetais inflamados. Mesmo pequenas mudanças consistentes revertem inflamação em semanas.
+
+=== SLIDE 10 — CTA ===
+CTA_PRIMARIO: Comenta aqui: qual é seu maior desafio na alimentação anti-inflamatória? Precisamos conversar sobre suas barreiras reais.
+CTA_SECUNDARIO: Segue @corpo.saber para não perder o próximo sobre microbioma e imunidade.
+HASHTAGS: #corposaber #antiinflamatorio #microbioma #artrite #saude40plus

@@ -1,0 +1,42 @@
+=== SLIDE 1 — CAPA ===
+TITULO: Seus ossos respondem melhor ao exercício do que você imagina
+SUBTITULO: Especialmente se você tem osteopenia ou osteoporose.
+CHAMADA: Deslize para ver →
+
+=== SLIDE 2 — CONTEXTO ===
+TITULO: Por que isso importa para você
+CORPO: A partir dos 40, a perda óssea acelera — e fraturas viram uma preocupação real. Muitas mulheres nessa idade acham que só medicamento resolve o problema. Mas a verdade é que seu corpo ainda responde muito bem ao estímulo certo.
+
+=== SLIDE 3 — PROBLEMA ===
+TITULO: O que a maioria acredita — ou faz errado
+CORPO: Muitas mulheres com osteopenia ou osteoporose evitam exercícios por medo, ou acham que só caminhadas leves funcionam. Outras esperam que qualquer movimento só funcione se for supervisionado por um profissional. Resultado: deixam os ossos sem o estímulo que mais precisam.
+
+=== SLIDE 4 — DADO PRINCIPAL ===
+TITULO: Exercícios com impacto sozinhos conseguem reverter perda óssea
+CORPO: Uma meta-análise de múltiplos estudos mostrou que mulheres com osteopenia ou osteoporose que fizeram exercícios não supervisionados tiveram ganhos significativos de densidade mineral óssea. Na coluna lombar, o ganho foi de 0,73 — e no fêmur (quadril), foi ainda maior: 0,85. Esses números representam diferenças clinicamente relevantes, não estatísticas apenas.
+DESTAQUE: Ganhos de 0,73 a 0,85 na densidade óssea apenas com exercícios — sem supervisão profissional.
+
+=== SLIDE 5 — MECANISMO ===
+TITULO: Como isso funciona no seu corpo
+CORPO: Quando você faz exercícios com carga (pesos) e impacto (pulos, saltos, corrida leve), está enviando um sinal direto ao seu osso: "Você precisa ficar mais forte". O osso responde depositando mais mineralização nas áreas que suportam carga. É um diálogo entre movimento e estrutura — e seu corpo ainda escuta muito bem aos 40, 50, 60 anos.
+
+=== SLIDE 6 — DADO SECUNDÁRIO ===
+TITULO: Em mulheres saudáveis, o ganho é bem menor
+CORPO: Para mulheres sem osteopenia ou osteoporose, o exercício gera ganhos mínimos (cerca de 0,11 na coluna). Isso não significa que exercício não importa para prevenção — importa muito. Mas mostra que exercício é especialmente potente como ferramenta terapêutica quando há comprometimento ósseo já instalado.
+
+=== SLIDE 7 — MITO ===
+TITULO: "Não posso fazer exercício de impacto com osteoporose"
+CORPO: Muitas mulheres têm medo de que pulos, saltos ou corrida leve piorem a situação. Mas o estudo mostra o oposto: são justamente esses exercícios que geram os maiores ganhos de densidade óssea em mulheres nessa situação.
+
+=== SLIDE 8 — VERDADE ===
+TITULO: O que a evidência diz de verdade
+CORPO: Se você tem osteopenia ou osteoporose, exercícios com impacto e carga não são apenas seguros — são potencialmente a melhor ferramenta que você tem. E você não precisa de um personal trainer ao lado o tempo todo. Exercícios não supervisionados funcionam. O que importa é fazer com consistência.
+
+=== SLIDE 9 — NA PRÁTICA ===
+TITULO: O que você pode fazer a partir de hoje
+CORPO: Se você tem diagnóstico de osteopenia ou osteoporose: comece com 3–4 sessões por semana de exercícios com carga (musculação leve, fita elástica) e impacto (caminhada rápida, dança, pulos). Não precisa ser complicado — pode ser em casa. O importante é a consistência. Fale com seu médico primeiro, mas a evidência está do seu lado.
+
+=== SLIDE 10 — CTA ===
+CTA_PRIMARIO: Comenta aqui: você já incluiu exercícios de impacto na sua rotina, ou ainda tem medo?
+CTA_SECUNDARIO: Segue @corpo.saber para não perder o próximo estudo sobre ossos, músculos e movimento.
+HASHTAGS: #corposaber #SaúdeÓssea #Osteoporose #Treino40Plus #ExercícioEmCasa

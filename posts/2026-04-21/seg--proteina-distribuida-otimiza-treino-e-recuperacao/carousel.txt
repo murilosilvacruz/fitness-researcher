@@ -1,0 +1,64 @@
+# ROTEIRO CARROSSEL INSTAGRAM — CORPO E SABER
+
+=== SLIDE 1 — CAPA ===
+TITULO: Proteína, peixe e a fórmula que funciona para mulheres
+SUBTITULO: O que 23 anos de pesquisa finalmente revelam sobre nutrição feminina no treino.
+CHAMADA: Deslize para ver →
+
+=== SLIDE 2 — CONTEXTO ===
+TITULO: Por que isso importa para você
+CORPO: A maioria das mulheres que treina segue recomendações nutricionais baseadas em estudos com homens. Essa lacuna deixa você sem orientações específicas para seu corpo, seu ciclo hormonal e suas reais necessidades. Agora temos dados concretos sobre o que funciona especificamente para mulheres ativas.
+
+=== SLIDE 3 — PROBLEMA ===
+TITULO: O que a maioria acredita — ou faz errado
+CORPO: Muitas mulheres comem proteína apenas em uma ou duas refeições, pulam refeições ou acreditam que quantidade menor é "suficiente". Outras ignoram completamente o papel dos ácidos graxos na recuperação. O resultado: ganho de força lento, recuperação inadequada e falta de energia persistente.
+
+=== SLIDE 4 — DADO PRINCIPAL ===
+TITULO: A dose certa de proteína é entre 1,2 e 2,0 g por quilo de peso corporal
+CORPO: Mas há um detalhe crucial: essa proteína precisa estar distribuída em 5 a 6 refeições, com no mínimo 25 gramas de proteína de alta qualidade em cada uma. Isso não é comer mais — é comer melhor, espalhado ao longo do dia. Uma mulher de 70 kg precisa de 84 a 140 gramas diárias, não tudo de uma vez.
+DESTAQUE: Proteína em cada refeição, não em uma ou duas.
+
+=== SLIDE 5 — MECANISMO ===
+TITULO: Como isso funciona no seu corpo
+CORPO: Quando você come proteína distribuída, seu corpo consegue utilizá-la continuamente para reparar fibras musculares e fortalecer. Tomar 60 gramas numa refeição é menos eficaz do que tomar 20 gramas em três refeições diferentes — o corpo absorve melhor em doses menores e frequentes. Isso acelera adaptação ao treino.
+
+=== SLIDE 6 — DADO SECUNDÁRIO ===
+TITULO: Peixe e frutos do mar: mais de 500 gramas por semana
+CORPO: A pesquisa mostra que consumir regularmente peixes e frutos do mar melhora significativamente recuperação e saúde cardiovascular. O ômega-3 que vem deles reduz inflamação e ajuda na reconstrução muscular. Não precisa ser todos os dias — três porções de 150 a 200 gramas já alcançam a meta.
+
+=== SLIDE 7 — MITO ===
+TITULO: "Só mulher atleta profissional precisa cuidar da nutrição assim"
+CORPO: Muitas mulheres ativas acreditam que essas recomendações são apenas para atletas de elite. A verdade é que qualquer mulher que treina com regularidade e quer ganhar força e recuperação se beneficia delas — adaptadas à sua realidade de treino.
+
+=== SLIDE 8 — VERDADE ===
+TITULO: O que a evidência diz de verdade
+CORPO: Essa é a primeira revisão sistemática que olhou especificamente para mulheres. Os dados mostram que distribuir proteína ao longo do dia e manter ácidos graxos balanceados são as duas estratégias mais impactantes para desempenho e recuperação no seu corpo. Não é marketing — é ciência de 23 anos.
+
+=== SLIDE 9 — NA PRÁTICA ===
+TITULO: O que você pode fazer a partir de hoje
+CORPO: Conta quantas vezes você come proteína de qualidade hoje. Se forem menos de 4, comece amanhã a adicionar uma refeição proteica extra — um ovo cozido, um iogurte, um peito de frango. Também confira: quantas vezes você comeu peixe este mês? Adicione um dia de salmão ou sardinha à semana.
+
+=== SLIDE 10 — CTA ===
+CTA_PRIMARIO: Comenta aqui: em quantas refeições do seu dia você come proteína de verdade? (Deixa a gente saber a real.)
+CTA_SECUNDARIO: Segue @corpo.saber para não perder próximas atualizações sobre nutrição e treino.
+HASHTAGS: #corposaber #nutriçãofeminina #proteína #treino40plus #ômega3
+
+---
+
+## NOTAS DE IMPLEMENTAÇÃO:
+
+**Tom geral:** Inteligente (cita "23 anos de pesquisa"), direto (números e ações específicas) e acolhedor (reconhece a lacuna histórica, valida a experiência dela).
+
+**Progressão lógica:**
+1. Para o scroll (capa impactante)
+2. Contextualiza por que ela deve se importar
+3. Identifica o erro comum
+4. Revela o dado principal com destaque
+5. Explica o "por quê" fisiológico
+6. Adiciona segundo pilar (peixe/ômega)
+7. Destrói um mito comum
+8. Reafirma com confiança
+9. Tornaa cionável imediatamente
+10. Convida a engajar e seguir
+
+**Adaptação para não atletas:** O texto mantém a aplicabilidade para mulheres ativas recreacionais (não apenas atletas) sem perder credibilidade científica.

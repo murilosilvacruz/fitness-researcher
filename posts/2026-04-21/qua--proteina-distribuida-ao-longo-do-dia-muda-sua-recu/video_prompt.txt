@@ -1,0 +1,47 @@
+# VIDEO GENERATION PROMPT FOR VEO (GOOGLE)
+
+**Title:** "Omega-6/Omega-3 Ratio Above 2 Slows Your Recovery"
+
+**Duration:** 12 seconds. Vertical 9:16.
+
+**Color Palette:** Terracota #C9614A, Sage #7B9E87, Off-white #F7F5F2
+
+---
+
+**OPENING HOOK (0–0.5s):**
+Fast camera ZOOM-IN on a woman's face (Afro-Brazilian, medium-dark skin, natural curly hair, 45–50 years old) with a concerned expression. Text overlay appears: "Your recovery is slower than it should be."
+
+---
+
+**VISUAL SEQUENCE – HOLD (0.5–10s):**
+
+**CUT 1 (0.5–2s) — Speed ramp + Split screen:**
+Camera pulls BACK to show the woman at home, split-screen showing: LEFT SIDE – bottles of soybean oil, processed foods (quick montage, accelerated motion); RIGHT SIDE – canned sardines, salmon fillet, shrimp. Text: "Omega-6 vs Omega-3."
+
+**CUT 2 (2–4s) — FACE HOLD (static, intimate POV):**
+Return to close-up of woman's face, calm but focused. She speaks directly to camera. Sage-colored background (minimal, clean). Text overlay: "Ratio above 2? Your body stays inflamed."
+
+**CUT 3 (4–6s) — Slow-mo + visual metaphor:**
+Slow-motion shot: water with oil droplets spreading (dark/murky) vs. water with fish oil (clear, luminous). Quick crossfade between the two. Text: "Inflammation. High cortisol. Slower recovery."
+
+**CUT 4 (6–9s) — Before/After visual:**
+Split-screen: LEFT – woman looking fatigued after workout (slight desaturation); RIGHT – same woman looking energized, glowing skin (saturated terracotta/sage tones). Speed ramp: transition accelerates. Text: "500g fish/seafood weekly. Ratio below 2."
+
+**CUT 5 (9–10s) — Product showcase (practical):**
+Quick montage (1 second each): canned sardine, salmon package, shrimp. Hands placing items in a basket. Affordable, accessible aesthetic. Text: "Sardines. Salmon. Shrimp. That's it."
+
+---
+
+**PAYOFF (10–12s) — Loop setup + emotional resolution:**
+Return to the woman's face (FACE HOLD, 2 seconds). She nods with subtle confidence. Soft smile. Text: "Your training deserves better recovery." 
+
+Final frame: Off-white background with text "Save this post. Rebalance before your next grocery trip. #CorpoSaber"
+
+**Camera pulls back slowly (speed ramp deceleration) as text appears, creating loop potential.**
+
+---
+
+**TECHNICAL NOTES:**
+- Cuts every 2–3 seconds during HOLD to maintain pacing.
+- Warm Brazilian home setting (kitchen counter, natural light through window).
+- All text overlays in modern, clean sans-serif font (white or terracotta on

@@ -1,0 +1,28 @@
+# VIDEO GENERATION PROMPT FOR VEO (GOOGLE)
+
+**OPENING HOOK (0–0.5s) — Speed Ramp + Face Hold Setup:**
+A woman in her mid-40s (parda/mestiça with warm brown skin, shoulder-length wavy hair) sits at a minimalist kitchen counter. She holds a perfectly plated salad in one hand and looks directly at camera with a subtle, conflicted expression. Speed ramp: camera zooms in quickly on her face for the hook moment.
+
+**HOLD SECTION (0.5–11s) — Before/After Split Screen + Slow-mo:**
+
+*Scene 1 (2s):* Split screen left side: fast-paced montage of social media scrolling (phone in hand, close-up POV). Images of "clean eating," perfect abs, transformation posts flash across her face. Color grade in terracotta and sage overlays emphasize the obsession.
+
+*Scene 2 (2s):* Split screen right side: same woman's expression shifting from calm to anxious. Slow-motion on her eyes widening slightly, jaw tightening. Close facial detail—POV intimate.
+
+*Scene 3 (2.5s):* Cut to full-body shot. Woman standing in kitchen, looking at the salad plate with tension in her shoulders. Voiceover begins: "Orthorexia is when eating healthy becomes obsession." Camera slow-mo pans across her hands as they tremble slightly near the plate.
+
+*Scene 4 (2.5s):* Another woman (afro-brasileira, dark skin, natural cacheado hair, early 50s) in her apartment, avoiding a bowl of fruit on the table. Her facial expression shows guilt and restriction. Slow-mo emphasis on her turning away from food. Voiceover: "Guilt. Restriction. Control masquerading as dedication."
+
+*Scene 5 (2s):* Text overlay appears: "775 students studied. More internet + training = higher orthorexia risk." Quick cuts between close-ups of phones, gym gear, food restriction imagery.
+
+**PAYOFF (11–14s) — Face Hold + Perfect Loop:**
+Return to first woman (parda/mestiça). Static camera, FACE HOLD for 4 seconds. She takes a deep breath, sets down the salad, and looks directly at camera with gentle resolve. Her expression softens. Final 1.5s: she slightly nods and the image loops back to the opening hook (salad in hand, conflicted expression), but this time her eyes show awareness—creating a perfect narrative loop suggesting recognition and the beginning of change.
+
+**TECHNICAL SPECIFICATIONS:**
+- Vertical format 9:16
+- Color palette: Terracota #C9614A accents on overlays, Sage #7B9E87 subtle background tones, Off-white #F7F5F2 for kitchen/apartment walls
+- Camera movements: zoom (hook), pan (slow-mo), static hold (payoff)
+- Transitions: quick cuts every 2–3s during HOLD section; seamless loop at end
+- Environment: modern Brazilian apartment kitchen and urban residential space
+- Pacing: energetic montage (0.5–3s), contemplative slow-mo (3–11s), emotional resolution (11–14s)
+- Voiceover tone: scientific but conversational, Portuguese

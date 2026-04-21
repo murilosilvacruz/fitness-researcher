@@ -1,0 +1,32 @@
+# VIDEO GENERATION PROMPT FOR VEO (GOOGLE)
+
+Create a 9-16 vertical Instagram Reel (8–15 seconds) for women aged 40–55 in Brazil, using the "Science in Dose" format about how exercise modulates sex hormones differently.
+
+## COLOR PALETTE
+Terracotta #C9614A, Sage #7B9E87, Off-white #F7F5F2
+
+## VIRAL TECHNIQUES REQUIRED
+- **OPENING HOOK (0–0.5s)**: Fast upward camera movement + text overlay "Exercício aumenta OU diminui progesterona" flashing in sage green on off-white background—immediate visual stop
+- **SPEED RAMP**: Slow-motion at 2–3 second mark when revealing hormone molecule animation, then accelerate to normal speed
+- **BEFORE/AFTER SPLIT SCREEN (3–6s)**: Left side shows woman exercising in ovulatory phase (warm terracotta lighting, energetic); right side shows same woman resting in luteal phase (sage-toned, calmer)—two simultaneous hormone response states
+- **FACE HOLD (4–6s)**: Close-up POV of warm-toned Brazilian woman (parda/mestiça, wavy chestnut hair, warm bronze skin, age 45–50) with slight knowing smile, looking directly at camera, as text reads "Progesterona sobe. Ou desce. Depende do treino."
+- **LOOP PERFECT**: Final frame of woman's face transitions back to opening hook movement, creating seamless replay urge
+
+## SHOT STRUCTURE
+
+**HOOK (0–2s)**
+Static camera, off-white background. Text overlay in sage green: "Exercício aumenta OU diminui progesterona" appears with quick fade-in. Upward zoom on text to stop scroll. Duration: 2 seconds.
+
+**HOLD – TRANSITION (2–4s)**
+Fast cut to split screen. Left: 30fps slow-motion of a parda Brazilian woman (warm bronze skin, natural wavy hair, 45 years old) doing dynamic exercise (jumping jacks or dancing) under warm terracotta lighting. Right: same woman in sage-toned home setting, stretching slowly, calm expression. Animated hormone molecule icons (progesterone symbol) appear between both sides, moving left/right to show increase/decrease. Text overlay: "Fase ovulatória: progesterona sobe." Duration: 2.5 seconds.
+
+**HOLD – REVELATION (4.5–9s)**
+Cut to close-up face hold (ultra-tight POV, almost intimate). Same woman, warm off-white background with soft terracotta rim light on left side of face. Direct eye contact, slight knowing expression, eyebrows slightly raised. Text overlay fades in sequence:
+- "Outras fases: progesterona cai"
+- "E isso é bom. Menos fadiga."
+- "Tudo depende de qual exercício."
+
+Camera stays completely static. Moment builds emotional recognition. Duration: 4.5 seconds.
+
+**PAYOFF (9–13s)**
+Cut to wide shot: same woman in modern Brazilian apartment (bright, minimal, off-white walls with sage plant in background) turning toward camera with confident expression. Quick text overlay: "Exercício é

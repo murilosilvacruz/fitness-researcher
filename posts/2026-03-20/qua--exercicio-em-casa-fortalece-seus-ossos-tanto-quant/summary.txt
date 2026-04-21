@@ -1,3 +1,7 @@
-TITULO: Exercício em casa fortalece seus ossos tanto quanto academia
-SUBTITULO: Mulheres com osteopenia ou osteoporose ganham densidade óssea real sem supervisão profissional. A ciência comprova.
+TITULO: Treinar em casa fortalece ossos tanto quanto academia (57 caracteres)
+SUBTITULO: Mulheres com osteopenia ou osteoporose ganham densidade óssea real sem supervisão. Efeito comprovado de 0,73 a 0,85 (129 caracteres)
 PILAR: NA PRÁTICA
+BULLETS:
+• Colo do fêmur responde melhor com exercício progressivo, coluna com variedade de movimentos
+• Quanto mais tensão muscular, melhor — seu peso corporal já é ferramentas suficiente
+• Ganhos só duram se virar rotina — investimento para toda a vida

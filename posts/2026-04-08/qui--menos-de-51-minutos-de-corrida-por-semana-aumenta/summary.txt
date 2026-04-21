@@ -1,8 +1,7 @@
-TITULO: Menos de 51 minutos de corrida por semana aumenta sobrevida
-SUBTITULO: Mulheres que correm regularmente têm 30% menos risco de morte por qualquer causa e 45% menos por doenças cardiovasculares.
+TITULO: Menos de 51 minutos de corrida por semana amplia vida (59 caracteres)
+SUBTITULO: 30% menos risco de morte por qualquer causa em mulheres que correm consistentemente. (87 caracteres)
 PILAR: O DADO QUE IMPORTA
 BULLETS:
-• A consistência importa mais que intensidade: pouco volume semanal de corrida já reduz significativamente o risco de mortalidade geral e cardiovascular.
-• 30% de redução no risco de morte por qualquer causa e 45% por doença cardiovascular — benefício comprovado em 15 anos de acompanhamento.
-• Correr regularmente adiciona aproximadamente 3 anos à expectativa de vida, independentemente de velocidade, distância ou frequência.
-• Corredoras persistentes ganham ainda mais: 29% e 50% de redução de risco quando mantêm a prática ao longo do tempo.
+• 30% redução no risco de morte por qualquer causa; 45% por doença cardiovascular (77 caracteres)
+• Benefício comprovado em 15 anos de acompanhamento — consistência importa mais que intensidade (94 caracteres)
+• Correr regularmente adiciona aproximadamente 3 anos à expectativa de vida (74 caracteres)

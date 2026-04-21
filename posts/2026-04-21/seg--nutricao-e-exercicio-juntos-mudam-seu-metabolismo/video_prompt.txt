@@ -1,0 +1,17 @@
+# VIDEO GENERATION PROMPT FOR VEO (GOOGLE)
+
+**OPENING HOOK (0–0.5s):** Close-up POV of a woman's face (Afro-Brazilian, medium-dark brown skin, natural textured hair, mid-40s) with subtle expression shift—eyebrow raise, slight smile. Camera movement: fast micro-zoom into her eyes. Text overlay appears: "Exercício + nutrição = mudança real" in off-white #F7F5F2 sans-serif bold font.
+
+**HOOK → HOLD TRANSITION (0.5–3s):** Speed ramp: camera pulls back to reveal woman in bright modern apartment (morning light, terracotta accent wall visible). She's holding a bowl with fresh vegetables. Quick cut to split-screen: LEFT side shows blurred, sedentary figure (desaturated); RIGHT side shows same woman doing gentle, moderate exercise movement (lunges, clear and sharp). Transition with subtle sage green #7B9E87 swipe effect.
+
+**HOLD SEGMENT 1 (3–6s):** FACE HOLD on same woman in static profile, calm expression. Slow-mo on her taking a bite of healthy food (fork with leafy greens, warm lighting). Text overlay slides in: "Inflamação crônica cai significativamente" with supporting subtext: "Quando trabalham juntas." Duration: 4 seconds of emotional pause before next cut.
+
+**HOLD SEGMENT 2 (6–10s):** Before/After visual contrast: LEFT frame shows inflammation visualization (abstract, warm red/terracotta tones, particle movement, 2 seconds). RIGHT frame shows same visualization cleared/calmed (sage green, smooth particle flow, HDL particles enlarged visually). Camera does gentle side-swipe transition. Text: "HDL aumenta + risco cardíaco reduz" appears with credibility markers (microscopic particle visual, clinical tone).
+
+**PAYOFF (10–14s):** Return to woman in apartment, now smiling authentically at camera (FACE HOLD 2–3s). She gives subtle nod. Background shows: healthy meal + yoga mat + morning light. Final text overlay in off-white: "Consistência, não radicalismo" + subtle brand mark "Corpo e Saber" bottom right corner.
+
+**LOOP CLOSURE (14–15s):** Speed ramp back to opening hook—micro-zoom into woman's eyes again, creating visual loop that encourages replay.
+
+**TECHNICAL SPECS:** Vertical 9:16 aspect ratio. Terracotta #C9614A, Sage #7B9E87, Off-white #F7F5F2 color palette. Pacing: cuts every 2.5–3 seconds during HOLD sections. Warm, natural Brazilian apartment lighting. Subtle background music: uplifting, modern wellness tone (instrumental, minimal). All text in readable sans-serif, high contrast.
+
+**15 seconds. 9:16.**

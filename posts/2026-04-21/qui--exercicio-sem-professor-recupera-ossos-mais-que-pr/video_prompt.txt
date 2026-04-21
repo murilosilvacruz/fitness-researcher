@@ -1,0 +1,36 @@
+# VIDEO GENERATION PROMPT FOR VEO (GOOGLE)
+
+**Title:** "Healthy Bones Don't Respond to Exercise the Same Way"
+
+**Format:** Vertical 9:16, 12 seconds
+
+**Color Palette:** Terracota #C9614A, Sage #7B9E87, Off-white #F7F5F2
+
+**Target Audience:** Brazilian women 40–55 years old
+
+**Viral Techniques:** OPENING HOOK (0.5s) + SPEED RAMP + SLOW-MO ESTRATÉGICO + BEFORE/AFTER + FACE HOLD (5s)
+
+---
+
+**HOOK (0–2s):**
+Close-up POV of a woman's hand placing it on her lower back, then touching her hip bone. Quick, deliberate movement. Extreme close-up texture of skin. Text overlay appears in terracota: "Seus ossos mudam com exercício?" Camera zooms slightly into her face with micro-expression of confusion. Speed ramp: slow-motion effect on the final frame.
+
+**HOLD – SPLIT NARRATIVE (2–9s):**
+
+*Left side (0–4.5s):* 
+Woman in sage-toned apartment, standing in casual posture. Overlay: "Ossos SAUDÁVEIS" (terracota text). She performs a gentle step-touch, minimal movement. Camera static, medium shot. Text appears: "+0.11 ganho de densidade" (off-white, small font). Her expression: neutral, unbothered. Cut at 2s.
+
+*Right side (4–9s):*
+Same woman, now in terracota-accented park setting, performing a small jump/hop with visible energy. Overlay: "Ossos com OSTEOPENIA" (sage text). Slow-motion captures the landing impact. Camera captures from side angle, then speeds up to normal. Text appears: "+0.85 ganho de densidade" (off-white, bold). Her face: determined, engaged. Speed ramp accelerates on the jump. FACE HOLD (5s total): Direct eye contact, slow-motion of her expression shifting from confusion to understanding/realization. Slight smile. Terracota background blur.
+
+**PAYOFF (9–12s):**
+Cut to woman in kitchen (off-white walls, terracota vase visible) doing a simple weighted movement (lifting grocery bag or water bottle with intention). Quick 1-second cut to her touching her spine/lower back again, this time with confidence. Text overlay loops: "Comece agora, prepare-se depois" (sage text). Final frame: woman looking directly at camera, nodding slightly. Logo appears: @corpo.saber in terracota.
+
+**Technical Details:**
+- Cuts every 2–3 seconds during HOLD section
+- Smooth transitions between environments (fade through color blocks)
+- Pacing: deliberate in HOOK, escalating in HOLD, satisfying in PAYOFF
+- All movements: natural, no exaggeration, authentic Brazilian setting
+- Woman profile: Parda/Mestiça (warm brown skin, wavy chestnut hair, warm eyes) or Afro-brasileira (medium-dark brown skin, natural texture hair)
+
+**12 seconds. 9:16.**

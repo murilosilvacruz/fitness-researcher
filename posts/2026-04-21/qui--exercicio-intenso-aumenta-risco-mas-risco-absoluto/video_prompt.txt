@@ -1,0 +1,37 @@
+# VIDEO GENERATION PROMPT FOR VEO (GOOGLE)
+
+**Video Title:** "Intense Exercise Risk: The Absolute Truth"
+
+**Duration:** 12 seconds | **Format:** 9:16 vertical | **Aspect Ratio:** Mobile Reel
+
+---
+
+**VISUAL STYLE & PALETTE:**
+Terracotta (#C9614A), Sage (#7B9E87), Off-white (#F7F5F2). Warm, reassuring, scientific aesthetic. Brazilian contemporary setting. Natural lighting with warm undertones.
+
+---
+
+**OPENING HOOK (0–1.5s) — SPEED RAMP + FACE HOLD SETUP:**
+Close-up POV of a Parda/Mestiça woman (warm brown skin, wavy chestnut hair, 45–50 years old) with concerned expression in a bright apartment. Text overlay flashes: "Intense exercise increases heart risk 100x." She takes a sharp breath. Quick camera zoom-in to her eyes. Speed ramps up tension then CUTS abruptly.
+
+---
+
+**HOLD SECTION (1.5–9s) — SPLIT SCREEN + BEFORE/AFTER + SLOW-MO:**
+
+**Cut 1 (1.5–3.5s):** Split screen left/right. LEFT: Woman at rest on couch, relaxed posture, sage green background. RIGHT: Same woman doing moderate-intensity walking in urban park, natural movement, terracotta warm tones. Text: "Moderate exercise = same risk as rest." Transition with smooth dissolve.
+
+**Cut 2 (3.5–5.5s):** Single camera, slow-motion shot of Afro-Brazilian woman (dark brown skin, natural cacheado hair, 48 years old) doing controlled strength training in home gym. Deliberate, measured movements. Text: "Consistency matters more than intensity." 2-second slow-mo on her focused face (FACE HOLD moment).
+
+**Cut 3 (5.5–7.5s):** Before/After visual progression. Split diptych: LEFT shows chaotic high-intensity flash (HIIT, jumping, fast cuts); RIGHT shows same woman weeks later, calm strength training routine. Text: "Start low. Progress gradually. Your heart adapts." Quick cut transitions every 1.5 seconds.
+
+**Cut 4 (7.5–9s):** Medium shot of Nordestina/Indigenous-descent woman (bronze skin, long straight dark hair, 50 years old) on apartment balcony, hand on heart, serene expression. Soft natural light. Text: "The risk stays low when you're consistent." Slow pan upward to skyline.
+
+---
+
+**PAYOFF (9–12s) — FACE HOLD + LOOP PERFECT SETUP:**
+Return to first woman (Parda). Static camera, FACE HOLD 3 seconds. She smiles gently, reassured. Text dissolves: "Begin moderate. Stay consistent. Stay safe and strong." Off-white background, warm terracotta accent light on her cheek. Final frame: soft fade to brand logo (Corpo e Saber) with sage green underline. Subtle loop: her exhale mirrors opening breath.
+
+---
+
+**TECHNICAL SPECIFICATIONS:**
+- **Movements:** Zoom-in (hook), dissolve transitions (split screen), slow-motion r

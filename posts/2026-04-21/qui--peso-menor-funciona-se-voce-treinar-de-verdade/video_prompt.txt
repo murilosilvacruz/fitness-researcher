@@ -1,0 +1,36 @@
+# VIDEO GENERATION PROMPT FOR VEO (GOOGLE)
+
+Create a vertical 9:16 short-form video reel (12 seconds) for Instagram targeting Brazilian women aged 40–55 about fitness intensity over heavy weights.
+
+**VISUAL STYLE:**
+- Color palette: Terracotta (#C9614A), Sage (#7B9E87), Off-white (#F7F5F2)
+- Cinematic, educational, empowering tone
+- Brazilian urban environment (modern apartment gym or bright home workout space)
+- Natural lighting, warm tones
+
+**TALENT:**
+- Parda/Mestiça woman, age 45–50, warm brown skin, wavy/cacheado hair, strong presence
+- Dressed in simple, elegant fitness wear in neutral tones
+
+**VIDEO STRUCTURE:**
+
+**OPENING HOOK (0–0.5s - SPEED RAMP):**
+Wide shot of woman lifting a moderate dumbbell at normal speed, then RAPID CUT with speed ramp acceleration as she reaches peak effort moment. Text overlay: "PESO MENOR FUNCIONA?"
+
+**HOLD - SCENE 1 (0.5–4s - FACE HOLD + SLOW-MO):**
+Close-up on woman's focused face during final repetition (slow-motion at 60% speed). She's at the limit, concentrated. Text: "28 ESTUDOS CIENTÍFICOS PROVAM:" / "Não é o peso que importa."
+
+**HOLD - SCENE 2 (4–8s - SPLIT SCREEN):**
+Left side: woman lifting light weight, struggling/at limit. Right side: woman lifting heavy weight, also at limit. Both faces show same effort level. Text: "É A INTENSIDADE." / "Treinar ATÉ O LIMITE = Ganho muscular"
+
+**PAYOFF (8–12s - BEFORE/AFTER VISUAL + FACE HOLD):**
+Return to close-up of woman's face, she smiles with confidence. Text: "Seu segredo? Trabalhar de VERDADE." / End frame: Terracotta background with Corpo e Saber logo and sage text: "A CIÊNCIA SIMPLIFICADA"
+
+**TECHNICAL NOTES:**
+- Quick cuts every 2–3 seconds during HOLD
+- Camera transitions: wide → close-up → split → close-up (intimate POV)
+- Subtle zoom-in on peak effort moments
+- Ambient Brazilian music, motivational but calm
+- No jarring transitions; use dissolves and fade-through-color
+
+12 seconds. 9:16.

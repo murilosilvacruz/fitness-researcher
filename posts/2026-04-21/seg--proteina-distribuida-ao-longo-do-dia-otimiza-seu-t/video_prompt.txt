@@ -1,0 +1,43 @@
+# VIDEO GENERATION PROMPT FOR VEO (GOOGLE)
+
+---
+
+**VERTICAL SHORT-FORM VIDEO | 9:16 ASPECT RATIO | 14 SECONDS**
+
+---
+
+**VISUAL STYLE & COLOR PALETTE:**
+Create a science-focused, educational short-form video in vertical format. Use color palette: Terracota (#C9614A) for highlights and text overlays, Sage (#7B9E87) for secondary elements, Off-white (#F7F5F2) for backgrounds and clean spacing. Modern, minimalist aesthetic with Brazilian urban setting.
+
+---
+
+**PROTAGONIST:**
+Brazilian woman, 45–50 years old, Parda/Mestiça ethnicity with warm brown skin, wavy shoulder-length dark hair, fit athletic build. She should convey intelligence, confidence, and relatability. Wearing casual athletic wear in neutral tones.
+
+---
+
+**STRUCTURE & VIRAL TECHNIQUES:**
+
+**HOOK (0–2.5s) — OPENING HOOK + FACE HOLD SETUP:**
+Close-up POV camera on woman's face in bright, natural light (varanda/apartment balcony setting, morning). She looks directly at camera with slight surprise or realization expression. Text overlay appears in Terracota: "92-100% de estudos feitos com HOMENS." Camera holds steady on her face—she raises one eyebrow slightly, reaction of "this changes everything." No movement, intimate framing.
+
+**HOLD (2.5–10s) — SPLIT SCREEN + SPEED RAMP + EDUCATIONAL PROGRESSION:**
+Transition to split-screen: left side shows her in kitchen preparing a meal (grilled fish/salmon, vegetables), right side shows scientific data visualization (graphs, protein numbers: "1,2-2,0g/kg" in Sage green). Camera speed-ramps between clips every 2–3 seconds for pacing. Text overlays appear sequentially in Terracota:
+- "5-6 refeições por dia"
+- "25g de proteína HIGH QUALITY cada"
+- "500g de peixe/frutos do mar/semana"
+- "Ômega-6/Ômega-3 < 2"
+
+Quick cuts between: her eating/preparing food, close-ups of salmon, her flexing arm subtly, data graphics. Maintain 120–140 BPM energy with cuts.
+
+**PAYOFF (10–14s) — FACE HOLD + BEFORE/AFTER MICRO-MOMENT:**
+Return to close-up FACE HOLD on woman's face (4–5 seconds static). She smiles with knowing confidence, nods slightly. Text overlay in Off-white: "Mulher não é homem em tamanho menor." Final 1-second flash of terracota background with white text: "Salva esse post" with checkmark icon. Fade to Off-white.
+
+---
+
+**CAMERA MOVEMENTS & TECHNICAL DETAILS:**
+- Opening: Static intimate close-up, soft natural light
+- Middle: Quick dynamic cuts (2–3 second intervals), slight push-in on food preparation, handheld movement for energy
+- Ending: Return to static face, soft focus background
+- Transitions: Quick crossfades or whip cuts between scenes
+- No music specified; assume trending upbeat, educational podcast-style background audio

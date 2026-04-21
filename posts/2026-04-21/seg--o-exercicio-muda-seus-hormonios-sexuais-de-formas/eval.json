@@ -1,0 +1,24 @@
+{
+  "status": "APPROVED",
+  "notes": "",
+  "auto": {
+    "passed": false,
+    "score": 0.75,
+    "failures": [
+      "summary: bullet 1 com 135 chars (máx 100)",
+      "summary: bullet 2 com 130 chars (máx 100)",
+      "summary: bullet 3 com 133 chars (máx 100)"
+    ],
+    "warnings": []
+  },
+  "llm": {
+    "score_total": 24,
+    "score_normalized": 0.96,
+    "brand_alignment": 5,
+    "hook_quality": 5,
+    "scientific_clarity": 5,
+    "pilar_fit": 5,
+    "cta_effectiveness": 4,
+    "feedback": "Excelente execução: tom inteligente e direto (\"Sim, você leu certo\"), sem alarmismo, com base científica sólida e citação direta da fonte. A nuance \"depende\" marca bem a voz acolhedora que reconhece complexidade. O único ponto é o CTA final ser duplo (\"Salva esse post — você vai querer reler antes de planejar seu treino do mês\") quando o padrão da marca tende a ser mais singular; considere escolher um: salvamento OR ação planejada."
+  }
+}

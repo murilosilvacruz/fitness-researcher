@@ -1,8 +1,7 @@
-TITULO: Correr depois dos 40 reconstrói seu coração
-SUBTITULO: Mulheres sedentárias ganham 40 a 100% mais capacidade cardiorrespiratória com treino regular.
+TITULO: Correr depois dos 40 reconstrói seu coração (52 caracteres)
+SUBTITULO: Mulheres sedentárias ganham 40 a 100% mais capacidade cardiorrespiratória com treino. (88 caracteres)
 PILAR: CIÊNCIA EM DOSE
 BULLETS:
-• Quanto menor seu fitness inicial, maior o ganho proporcional. Sedentárias têm mais a ganhar começando agora.
-• A corrida regular protege ossos na perimenopausa e pós-menopausa, prevenindo osteoporose.
-• Pressão alta, diabetes tipo 2 e risco cardíaco caem significativamente com exercício aeróbio consistente.
-• Lesões são gerenciáveis: progressão gradual e atenção ao histórico anterior reduzem riscos.
+• Quanto menor seu fitness inicial, maior o ganho proporcional — sedentárias têm mais a ganhar agora (99 caracteres)
+• Corrida regular protege ossos na perimenopausa e pós-menopausa, prevenindo osteoporose (85 caracteres)
+• Pressão alta, diabetes tipo 2 e risco cardíaco caem significativamente com exercício aeróbio consistente (99 caracteres)

@@ -1,0 +1,25 @@
+{
+  "status": "APPROVED",
+  "notes": "",
+  "auto": {
+    "passed": false,
+    "score": 0.692,
+    "failures": [
+      "summary: bullet 1 com 126 chars (máx 100)",
+      "summary: bullet 2 com 143 chars (máx 100)",
+      "summary: bullet 3 com 140 chars (máx 100)",
+      "summary: bullet 4 com 125 chars (máx 100)"
+    ],
+    "warnings": []
+  },
+  "llm": {
+    "score_total": 22,
+    "score_normalized": 0.88,
+    "brand_alignment": 4,
+    "hook_quality": 5,
+    "scientific_clarity": 4,
+    "pilar_fit": 5,
+    "cta_effectiveness": 4,
+    "feedback": "O post consegue equilibrar inteligência e acolhimento ao nomear ortorexia sem dramatizar, e o hook inicial é direto e impactante. A evidência científica está bem citada (estudo, ano, plataforma, N amostral), mas falta mencionar se esse risco é significância clínica ou apenas estatística — o que importa para sua audiência. O CTA é relevante e pessoal, mas poderia ganhar mais força se pedisse uma ação clara além do comentário (ex: \"Se reconheceu sinais, veja nosso guia sobre alimentação intuitiva no link da bio\")."
+  }
+}

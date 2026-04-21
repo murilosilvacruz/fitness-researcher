@@ -1,0 +1,42 @@
+=== SLIDE 1 — CAPA ===
+TITULO: Treinar por ciclo menstrual não é cientificamente essencial
+SUBTITULO: O que dizem os estudos mais recentes sobre periodização e ciclo.
+CHAMADA: Deslize para ver →
+
+=== SLIDE 2 — CONTEXTO ===
+TITULO: Por que essa conversa existe
+CORPO: Virou senso comum que mulheres devem treinar diferente em cada semana do ciclo — como se fosse regra de ouro. Mas você já parou para perguntar: em que estudos isso se baseia? A realidade é que muitas mulheres não atletas crescem com essa ideia e acabam complicando seu treino desnecessariamente.
+
+=== SLIDE 3 — PROBLEMA ===
+TITULO: O erro dos estudos que circulam
+CORPO: A maioria das pesquisas sobre ciclo e treino tem um problema sério: misturam mulheres com ciclos naturais com usuárias de anticoncepcional (que suprimem o ciclo), não comparam treino periodizado com treino normal, e usam metodologias fracas. O resultado? Conclusões generalizadas que não deveriam ser.
+
+=== SLIDE 4 — DADO PRINCIPAL ===
+TITULO: A ciência não encontrou evidências sólidas
+CORPO: Uma revisão sistemática publicada em 2025 analisou múltiplos estudos e chegou a uma conclusão clara: não há evidências adequadas para afirmar que mulheres não atletas precisam estruturar rigorosamente o treino pelas fases do ciclo menstrual. Isso muda o jogo inteiro.
+DESTAQUE: Não há comprovação científica de que periodizar por ciclo potencializa ganhos de força ou resistência.
+
+=== SLIDE 5 — MECANISMO ===
+TITULO: Por que os estudos falharam
+CORPO: Quando você mistura dados de mulheres com ciclos naturais com mulheres que tomam anticoncepcional, as variações hormonais desaparecem — você não consegue isolar o efeito real do ciclo. Sem esse isolamento, fica impossível provar que treinar diferente em cada semana realmente funciona.
+
+=== SLIDE 6 — DADO SECUNDÁRIO ===
+TITULO: O que a ciência ainda não respondeu
+CORPO: Faltam estudos que comparem treino periodizado por ciclo com treino estruturado normalmente, tudo controlado adequadamente. Ou seja: pode haver diferenças reais, mas ainda não sabemos com certeza. A ausência de evidência não é evidência de ausência — mas também não é razão para complicar seu treino sem base.
+
+=== SLIDE 7 — MITO ===
+TITULO: "Mulheres que não periodizam treino perdem ganhos"
+CORPO: Esse é o grande mito. A ciência não prova isso. Mulheres treinam normalmente e ganham força, resistência e massa muscular sem precisar redesenhar o treino a cada semana do ciclo.
+
+=== SLIDE 8 — VERDADE ===
+TITULO: O que você realmente precisa fazer
+CORPO: Treinar normalmente é suficiente. A diferença real está em escuta pessoal: se alguns dias você tem mais fadiga, inchaço ou desconforto, faça pequenos ajustes — reduz volume ou foca em técnica. Isso não é periodização rígida; é bom senso.
+
+=== SLIDE 9 — NA PRÁTICA ===
+TITULO: Como aplicar isso hoje
+CORPO: Mantenha seu treino estruturado e consistente. Monitore como você se sente em diferentes dias do ciclo — não para mudar tudo, mas para identificar padrões pessoais. Nos dias mais pesados, ajuste o volume ou intensidade sem culpa. Nos dias bons, aproveita. Pronto.
+
+=== SLIDE 10 — CTA ===
+CTA_PRIMARIO: Comenta aqui: você sente mesmo diferença no desempenho em diferentes semanas do ciclo, ou foi só coisa que ouviu falar?
+CTA_SECUNDARIO: Segue o @corpo.saber para não perder o próximo post sobre treino feminino.
+HASHTAGS: #corposaber #ciclomenstrual #treinofeminino #ciencia #saudemulher

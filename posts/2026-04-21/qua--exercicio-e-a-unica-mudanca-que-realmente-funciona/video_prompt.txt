@@ -1,0 +1,31 @@
+# VIDEO GENERATION PROMPT FOR VEO (GOOGLE)
+
+**Title:** "Exercise is the only change that really works after menopause"
+
+**Format & Duration:** Vertical 9:16, 12 seconds
+
+**Color Palette:** Terracotta #C9614A, Sage #7B9E87, Off-white #F7F5F2
+
+**Target Audience:** Brazilian women 40–55 years old
+
+---
+
+**VISUAL NARRATIVE:**
+
+**HOOK (0–2.5s) — OPENING HOOK + SPEED RAMP:**
+Close-up POV of a Brazilian parda woman (warm bronze skin, wavy dark hair, prominent cheekbones, age 48) placing her hand on her wrist bone. Camera zooms in rapidly at 1.5x speed on the bone detail. Text overlay appears: "50% das mulheres perdem densidade óssea rápido demais." Hard cut.
+
+**HOLD (2.5–9s) — BEFORE/AFTER SPLIT SCREEN + FACE HOLD + SLOW-MO:**
+Left side: translucent bone structure dimming (visual metaphor for bone loss). Right side: same woman performing a moderate-intensity aerobic movement (walking dynamic stretch, resistance band work, or gentle weight-bearing exercise) in slow motion at 0.7x speed, sage green accent light. Camera pulls back slightly showing her full body. At 5s mark, cut to FACE HOLD (4–6s duration): extreme close-up of her face, steady camera, genuine relief expression. Text appears sequentially: "Exercício parou isso" → "150 minutos por semana" → "Aeróbio + fortalecimento + equilíbrio."
+
+**PAYOFF (9–12s) — LOOP PERFECT + EMOCIONAL RESOLUTION:**
+Pull back to wide shot in a bright, minimalist Brazilian apartment (natural light, terracotta wall accent, off-white furniture). Woman stands grounded, strong posture, subtle smile. Slow-motion final movement (tai chi-inspired balance pose or standing strength hold). Text: "É o único jeito que a ciência mostrou que funciona." Camera subtly loops back to bone close-up from HOOK, creating seamless replay trigger. Final frame freezes on "@corpo.saber" watermark.
+
+**TECHNICAL SPECIFICATIONS:**
+- Camera movement: slow push-in during HOOK, static during FACE HOLD, slow pull-back during PAYOFF
+- Transitions: hard cuts between hook/hold; dissolves within hold section; seamless loop transition
+- Pacing: cuts at 2s intervals within HOLD to maintain engagement
+- Lighting: warm Brazilian natural light; sage and terracotta color grading throughout
+- Audio: subtle bone-health resonance sound design (soft, affirming tone)
+
+12 seconds. 9:16.

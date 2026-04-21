@@ -1,0 +1,26 @@
+# PROMPT FOR VEO (GOOGLE) - CORPO E SABER VIRAL REEL
+
+**VIDEO GENERATION PROMPT:**
+
+Create a vertical 9:16 Instagram Reel (12 seconds) featuring a Brazilian woman aged 45–52 with warm brown skin tone and natural wavy hair (parda/mestiça phenotype). The aesthetic uses a terracotta (#C9614A), sage green (#7B9E87), and off-white (#F7F5F2) color palette.
+
+**OPENING HOOK (0–0.5s):** Ultra-close POV shot of woman's face mid-realization—eyes widening slightly, subtle head tilt toward camera. OPENING TEXT OVERLAY appears: "Fitness para 40+ agora é tendência global"
+
+**HOLD SECTION (0.5–9s):**
+- **Cut 1 (0.5–2.5s):** Speed ramp: camera pulls back to show woman in modern urban apartment (floor-to-ceiling windows, morning light). She touches her arm thoughtfully. Text overlay: "ACSM reconheceu: não é moda, é ciência"
+- **Cut 2 (2.5–5s):** SPLIT SCREEN left/right—Left side: woman at age 25 (younger archive-style footage, desaturated) performing intense workout. Right side: same woman now, 45+, performing controlled, intentional movement with better form. Slow-mo on the current version. Text: "Seu corpo aos 40 treina diferente"
+- **Cut 3 (5–7.5s):** FACE HOLD (static camera, 4–5s duration)—woman looking directly at camera, hand on heart, emotional micro-expression of confidence and acceptance. Soft natural light on her face. Text overlay: "Ossos, músculos, recuperação... tudo mudou. E isso é PODER."
+- **Cut 4 (7.5–9s):** Wide shot of woman in sage-toned yoga mat space, subtle smile, arms at ease. Speed ramp accelerates slightly. Text: "Reduz doença crônica, protege cognição, mantém independência."
+
+**PAYOFF (9–12s):** LOOP PERFECT—Final frame mirrors opening: extreme close-up of woman's confident expression. Camera pulls back slightly to reveal her in the same apartment setting from Cut 1. Closing text overlay: "Nunca é tarde. Salva esse post." Soft fade to off-white background with Corpo e Saber logo.
+
+**TECHNICAL SPECS:**
+- Movements: slow push-in (Hook), speed ramp acceleration (transitions), face-hold static (emotional peak), pull-back (payoff)
+- Cuts every 2–3 seconds during HOLD section
+- Transitions: cross-fade and quick cuts
+- Pacing: deliberate and rhythmic, allowing text overlay legibility
+- Environment: contemporary Brazilian urban apartment with natural morning light
+- Color grading: warm terracotta and sage tones in clothing, décor, and lighting
+- Soundtrack suggestion (to be added in post): subtle, modern, confidence-building instrumental
+
+12 seconds. 9:16.

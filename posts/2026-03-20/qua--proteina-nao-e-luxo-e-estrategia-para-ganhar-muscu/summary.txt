@@ -1,3 +1,7 @@
-TITULO: Proteína não é luxo, é estratégia para ganhar músculo
-SUBTITULO: Mulheres que treinam força precisam de 1,49g por kg de peso corporal diariamente para resultados reais
+TITULO: Proteína 1,5g por kg é a dose para ganhar músculos de verdade (58 caracteres)
+SUBTITULO: Mulheres que treinam força precisam dessa quantidade diariamente. Uma de 70kg precisa de ~104g por dia (129 caracteres)
 PILAR: NA PRÁTICA
+BULLETS:
+• 0,32–0,38g/kg nos períodos pré e pós-treino potencializa ganhos musculares
+• Distribuir em 5–6 refeições com ~25g cada torna mais fácil atingir a meta
+• Nada impossível — é só otimizar o que você já deveria estar comendo

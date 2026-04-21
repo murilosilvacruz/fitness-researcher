@@ -1,8 +1,7 @@
-TITULO: Pilates e yoga mudam o que seu corpo consegue fazer
-SUBTITULO: Estabilidade, força e flexibilidade sem impacto — especialmente importante após os 40 anos.
+TITULO: Pilates e yoga mudam o que seu corpo consegue fazer (56 caracteres)
+SUBTITULO: Estabilidade, força e flexibilidade sem impacto — especialmente importante após 40 anos. (95 caracteres)
 PILAR: CIÊNCIA EM DOSE
 BULLETS:
-• Pilates fortalece o core e melhora o equilíbrio dinâmico, reduzindo quedas e instabilidade no dia a dia
-• Yoga alivia dores musculares crônicas mesmo em quem nunca foi atleta ou está sedentário há anos
-• Ambas aumentam a autonomia funcional — ou seja, você consegue fazer tarefas cotidianas com mais facilidade e segurança
-• Nenhuma exige alto impacto, tornando seguras para mulheres 40+ com condições de saúde preexistentes
+• Pilates fortalece core e melhora equilíbrio dinâmico, reduzindo quedas e instabilidade no dia a dia (99 caracteres)
+• Yoga alivia dores musculares crônicas mesmo em quem nunca foi atleta ou está sedentário há anos (98 caracteres)
+• Nenhuma exige alto impacto, tornando seguras para mulheres 40+ com condições de saúde preexistentes (95 caracteres)

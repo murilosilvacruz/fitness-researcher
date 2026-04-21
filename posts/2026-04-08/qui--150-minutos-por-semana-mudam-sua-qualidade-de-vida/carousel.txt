@@ -1,0 +1,52 @@
+# ROTEIRO CARROSSEL — 150 MINUTOS POR SEMANA
+
+=== SLIDE 1 — CAPA ===
+TITULO: 150 minutos por semana mudam sua qualidade de vida
+SUBTITULO: A ciência diz: atividade física moderada regular impacta corpo, mente e disposição diária.
+CHAMADA: Deslize para ver →
+
+=== SLIDE 2 — CONTEXTO ===
+TITULO: Por que isso importa para você agora
+CORPO: Mulheres a partir dos 40 anos enfrentam mudanças no corpo que afetam energia, humor e capacidade de fazer o que importa. A boa notícia: atividade física regular não só freia esses efeitos como os reverte. Estamos falando de movimento consistente — nada extremo.
+
+=== SLIDE 3 — PROBLEMA ===
+TITULO: O que a maioria acredita — ou faz errado
+CORPO: Muita mulher acha que precisa de treinos intensos e longos para ver resultado. Ou desiste porque não tem tempo. Outras esperam transformação do corpo antes de sentir qualidade de vida. Nenhuma dessas premissas é verdadeira.
+
+=== SLIDE 4 — DADO PRINCIPAL ===
+TITULO: A recomendação da OMS é conclusiva e viável
+CORPO: Entre 150 e 300 minutos de atividade moderada por semana — ou 75 a 150 minutos vigorosa — traz benefícios reais mensuráveis. Mulheres que seguem essa orientação relatam melhor saúde mental, mais disposição e capacidade funcional no dia a dia. Esse é o número que importa.
+DESTAQUE: 150 a 300 minutos por semana muda como você se sente e como funciona.
+
+=== SLIDE 5 — MECANISMO ===
+TITULO: Como isso funciona no seu corpo
+CORPO: Atividade física regular aumenta a produção de endorfina e serotonina — seus neurotransmissores do bem-estar. Melhora fluxo de sangue, fortalece músculos e ossos (crítico na sua idade), e estabiliza hormônios. Tudo isso junto = você funciona melhor mentalmente e fisicamente.
+
+=== SLIDE 6 — DADO SECUNDÁRIO ===
+TITULO: O tipo de exercício menos importa que a consistência
+CORPO: Pode ser caminhada rápida, musculação, dança, natação ou aula coletiva. O que importa é manter regularidade semanal. Uma mistura de intensidade moderada com alguns dias mais intensos já bate a meta e potencializa resultados.
+
+=== SLIDE 7 — MITO ===
+TITULO: Mito: exercício precisa ser intenso para ser efetivo
+CORPO: Muita gente acha que só malhar pesado ou correr traz benefício real. Mentira. Atividade moderada consistente — aquela em que você consegue conversar, mas não cantar — já impacta saúde mental, disposição e qualidade de vida significativamente.
+
+=== SLIDE 8 — VERDADE ===
+TITULO: O que a evidência diz de verdade
+CORPO: Movimento regular moderado funciona. Não é sobre ser atleta ou treinar 2 horas por dia. É sobre honrar seu corpo com consistência. Mulheres que mexem 150 a 300 minutos por semana relatam vida com mais qualidade, mais energia e melhor humor — e isso é mensurável.
+
+=== SLIDE 9 — NA PRÁTICA ===
+TITULO: O que você pode fazer a partir de hoje
+CORPO: Defina 150 minutos como sua meta semanal — distribua em dias que funcionam para você (5 dias de 30 minutos, ou 3 de 50, tanto faz). Escolha algo que você goste ou tolere bem. Seu treino só funciona se você mantém. Comece essa semana. Coloca no calendário.
+
+=== SLIDE 10 — CTA ===
+CTA_PRIMARIO: Salva esse post — você vai querer reler antes de planejar sua semana de exercício.
+CTA_SECUNDARIO: Segue @corpo.saber para não perder o próximo dado que importa.
+HASHTAGS: #corposaber #atividadefísica #qualidadedevida #saúdedamulher #40anos
+
+---
+
+**Notas de execução visual:**
+- **Slide 1:** Fundo liso, tipografia grande e confiante. Sem emojis.
+- **Slide 4:** Use tipografia de destaque para o número "150 a 300 minutos" — é o core da mensagem.
+- **Slides 7–8:** Crie contraste visual (cores diferentes) para Mito vs. Verdade.
+- **Slide 10:** CTA em cor de destaque brand, visível.

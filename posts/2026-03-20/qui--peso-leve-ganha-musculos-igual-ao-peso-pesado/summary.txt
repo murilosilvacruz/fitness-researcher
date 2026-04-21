@@ -1,3 +1,7 @@
-TITULO: Peso leve ganha músculos igual ao peso pesado
-SUBTITULO: Desde que você treine até a falha muscular, a carga importa menos que consistência e esforço.
+TITULO: Peso leve ganha músculo igual ao peso pesado, se treinar certo (60 caracteres)
+SUBTITULO: Desde que treine até a falha muscular, a carga importa menos. Meta-análise de 28 estudos, 747 mulheres (124 caracteres)
 PILAR: O DADO QUE IMPORTA
+BULLETS:
+• Iniciantes e praticantes recreativas ganham hipertrofia similar — independente da carga
+• O fator decisivo é o esforço aplicado, não o quilo que levanta
+• Atletas avançadas podem ter respostas diferentes — esse dado é para iniciantes

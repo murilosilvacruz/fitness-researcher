@@ -1,8 +1,7 @@
-TITULO: Exercício reduz ondas de calor e suores noturnos
-SUBTITULO: Atividade física regular oferece alívio sem riscos da terapia hormonal
+TITULO: Exercício reduz ondas de calor e suores noturnos (52 caracteres)
+SUBTITULO: Atividade física regular oferece alívio comprovado sem riscos da terapia hormonal — e com benefícios extras.
 PILAR: CIÊNCIA EM DOSE
 BULLETS:
-• Ondas de calor, suores noturnos e ressecamento vaginal diminuem significativamente com exercício regular prolongado
-• Irritabilidade, fadiga e dores articulares melhoram junto com o bem-estar emocional e mental
-• Diferente da TRH, o exercício não aumenta risco de acidente vascular e câncer de mama
-• Alternativa acessível e segura para mulheres em perimenopausa que não podem ou não querem medicamentos
+• Ondas de calor, suores noturnos e ressecamento vaginal diminuem significativamente com exercício prolongado.
+• Diferente da TRH, exercício não aumenta risco de acidente vascular cerebral ou câncer de mama.
+• Alternativa acessível e segura para mulheres em perimenopausa que não podem ou não querem medicamentos.

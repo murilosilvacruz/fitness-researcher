@@ -1,0 +1,26 @@
+{
+  "status": "APPROVED",
+  "notes": "",
+  "auto": {
+    "passed": false,
+    "score": 0.615,
+    "failures": [
+      "summary: bullet 1 com 142 chars (máx 100)",
+      "summary: bullet 2 com 150 chars (máx 100)",
+      "summary: bullet 3 com 143 chars (máx 100)",
+      "summary: bullet 4 com 141 chars (máx 100)",
+      "caption: nenhum CTA detectado (salva, comenta, marca, link na bio)"
+    ],
+    "warnings": []
+  },
+  "llm": {
+    "score_total": 23,
+    "score_normalized": 0.92,
+    "brand_alignment": 5,
+    "hook_quality": 5,
+    "scientific_clarity": 4,
+    "pilar_fit": 5,
+    "cta_effectiveness": 4,
+    "feedback": "O post é inteligente, direto e acolhedor — exatamente o tom da marca. O hook \"A ciência finalmente olhou para mulheres... e descobriu que tudo que você sabia pode estar errado\" é impactante sem ser alarmista. A estrutura com bullets + legenda funciona bem. Pontos de melhoria: (1) Especificar melhor o tipo de estudo (meta-análise? quantos artigos?), não apenas \"revisão sistemática\"; (2) O CTA final é bom mas genérico — considere um CTA mais direto como \"Salve este post como referência\" ou \"Compartilhe com quem treina comigo\" para aumentar retenção."
+  }
+}

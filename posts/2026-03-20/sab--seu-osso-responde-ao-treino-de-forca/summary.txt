@@ -1,3 +1,7 @@
-TITULO: Seu osso responde ao treino de força
-SUBTITULO: Exercícios de resistência progressiva aumentam a densidade óssea. O segredo é fazer isso para o resto da vida.
+TITULO: Seu osso responde ao treino de força de verdade (54 caracteres)
+SUBTITULO: Exercícios de resistência progressiva aumentam densidade óssea. O segredo é fazer para o resto da vida (125 caracteres)
 PILAR: MOVIMENTO LIVRE
+BULLETS:
+• Força com carga progressiva é campeã para colo do fêmur; variedade funciona melhor para coluna
+• Ganhos só duram se virar rotina — parar significa voltar a perder massa óssea
+• Tensão muscular e estímulo mecânico: quanto mais, melhor

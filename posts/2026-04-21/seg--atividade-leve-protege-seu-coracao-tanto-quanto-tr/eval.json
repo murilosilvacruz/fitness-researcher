@@ -1,0 +1,26 @@
+{
+  "status": "APPROVED",
+  "notes": "",
+  "auto": {
+    "passed": false,
+    "score": 0.615,
+    "failures": [
+      "summary: TITULO com 62 chars (máx 60)",
+      "summary: bullet 1 com 124 chars (máx 100)",
+      "summary: bullet 2 com 123 chars (máx 100)",
+      "summary: bullet 3 com 122 chars (máx 100)",
+      "summary: bullet 4 com 110 chars (máx 100)"
+    ],
+    "warnings": []
+  },
+  "llm": {
+    "score_total": 19,
+    "score_normalized": 0.76,
+    "brand_alignment": 4,
+    "hook_quality": 4,
+    "scientific_clarity": 3,
+    "pilar_fit": 5,
+    "cta_effectiveness": 3,
+    "feedback": "O tom é inteligente e acolhedor, mas a afirmação \"exercício leve...é tão baixo quanto estar descansando no sofá\" simplifica demais a nuance científica e pode gerar confusão sobre risco absoluto vs. relativo. Cite o número real de eventos por 100 mil horas de atividade para maior precisão. O CTA \"salva esse post — você vai querer reler antes de conversar com seu cardiologista\" é bom, mas poderia ter um segundo CTA de engajamento (pergunta, enquete) para aumentar conversação nos comentários, alinhado ao pilar CIÊNCIA EM DOSE que convida a diálogo."
+  }
+}

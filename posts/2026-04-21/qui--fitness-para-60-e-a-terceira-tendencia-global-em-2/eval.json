@@ -1,0 +1,24 @@
+{
+  "status": "APPROVED",
+  "notes": "",
+  "auto": {
+    "passed": false,
+    "score": 0.75,
+    "failures": [
+      "summary: bullet 1 com 118 chars (máx 100)",
+      "summary: bullet 2 com 132 chars (máx 100)",
+      "summary: bullet 3 com 124 chars (máx 100)"
+    ],
+    "warnings": []
+  },
+  "llm": {
+    "score_total": 20,
+    "score_normalized": 0.8,
+    "brand_alignment": 4,
+    "hook_quality": 4,
+    "scientific_clarity": 4,
+    "pilar_fit": 5,
+    "cta_effectiveness": 3,
+    "feedback": "O tom é inteligente e acolhedor, com parágrafo exemplar sobre funcionalidade (\"subir escadas...\"). Contudo, há uma desconexão: o público-alvo da marca é mulheres 30-55 anos, mas o post foca exclusivamente em 60+. Isso dilui relevância para quem deveria estar se preparando agora. Ajuste a narrativa para \"por que começar antes dos 60\" ou repositione o público-alvo. O CTA \"Salva esse post\" é genérico; um CTA mais específico (\"Descubra como começar agora, antes dos 60\" ou \"Saiba qual treino você deveria fazer aos 45 para estar preparada aos 60\") geraria maior engajamento e conversão."
+  }
+}

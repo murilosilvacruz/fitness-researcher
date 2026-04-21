@@ -1,0 +1,42 @@
+# VEO VIDEO GENERATION PROMPT
+
+---
+
+**VIDEO TITLE:** "Moderate Exercise + Good Nutrition = Heart Protection (Science Proof)"
+
+**DURATION:** 12 seconds | **ASPECT RATIO:** 9:16 vertical
+
+**TARGET AUDIENCE:** Brazilian women 40–55 years old | **BRAND COLORS:** Terracota #C9614A, Sage #7B9E87, Off-white #F7F5F2
+
+---
+
+**OPENING HOOK (0–0.5s):**
+Close-up POV of a woman's hand placing a healthy plate (colorful vegetables, grains, lean protein) on a kitchen counter. Quick cut to her putting on sneakers. Movement is deliberate and assertive to stop the scroll immediately.
+
+---
+
+**HOLD SECTION (0.5–10s):**
+
+**Scene 1 (0.5–2.5s):** Parda/mestiça woman (warm brown skin, wavy chestnut hair, mid-40s) in a bright, modern apartment kitchen. Slow-mo shot of her slicing fresh vegetables (tomato, zucchini, bell pepper in terracota tones). Speed ramp: starts slow, then accelerates to dynamic pace. Text overlay in off-white: "Nutrição balanceada."
+
+**Scene 2 (2.5–5s):** SPLIT SCREEN — left side shows animated cardiovascular system (HDL/LDL particles enlarging in sage green); right side shows same woman doing moderate exercise (light jog in urban park, yoga stretch on apartment balcony). Speed ramp upward. Text overlay: "Exercício regular."
+
+**Scene 3 (5–8s):** FACE HOLD — static camera, woman's face in soft natural light (window side, golden hour). Genuine, knowing smile. Pico emocional: she touches her chest, eyes reflecting confidence. Subtitle in terracota: "Reduz risco cardíaco. Sem extremos."
+
+**Scene 4 (8–10s):** Before/After visual comparison — left shows inflamed system (muted, desaturated); right shows healthy system (vibrant sage and terracota tones, particles flowing smoothly). Quick cut, 1.5s each. Voiceover/text: "Inflamação crônica? Reduzida."
+
+---
+
+**PAYOFF (10–12s):**
+Loop effect: return to kitchen scene from opening but now showing woman sharing her healthy plate with a friend (another woman, afro-brasileira, natural textured hair, also 40s+). Both smiling. Text overlay in off-white: "Manda pra uma amiga. Você não precisa treinar pesado. Nutrição + movimento = resultado."
+
+**FINAL FRAME:** Corpo e Saber logo appears with sage green and terracota accent bar.
+
+---
+
+**CAMERA & TECHNICAL DIRECTION:**
+- All transitions are smooth cuts or subtle crossfades (0.2s)
+- Warm, natural indoor and outdoor Brazilian lighting (apartment, urban park)
+- Pacing: cuts every 2–3 seconds to maintain momentum
+- Slow-mo applied to: vegetable slicing (40% speed), face hold moment (natural real-time), particle animation
+- Speed ramp applied to: exercise montage (

@@ -1,0 +1,53 @@
+# ROTEIRO CARROSSEL INSTAGRAM — CORPO E SABER
+
+=== SLIDE 1 — CAPA ===
+TITULO: Nutrição e exercício funcionam melhor juntos
+SUBTITULO: Saiba por que fazer um sem o outro não é suficiente.
+CHAMADA: Deslize para ver →
+
+=== SLIDE 2 — CONTEXTO ===
+TITULO: Por que isso importa para você
+CORPO: Com 40, 45, 50 anos, seu corpo muda — metabolismo desacelera, hormônios se reorganizam, inflamação aumenta. Você pode treinar pesado E comer bem... mas se esses dois pilares não conversarem entre si, você não terá os resultados que merecia. A ciência mostra que quando nutrição e exercício trabalham juntos, transformam sua saúde de forma muito mais profunda.
+
+=== SLIDE 3 — PROBLEMA ===
+TITULO: O que a maioria acredita — ou faz errado
+CORPO: Muitas mulheres acham que podem compensar uma alimentação ruim com um treino intenso (ou vice-versa). Outras separam mental e fisicamente essas duas coisas — uma é "para emagrecer", a outra é "para ficar forte". O erro: nenhuma delas funciona plenamente sozinha. Sem sintonia, você treina mais, come pouco, e seu corpo segue inflamado, fatigado e preso no mesmo lugar.
+
+=== SLIDE 4 — DADO PRINCIPAL ===
+TITULO: Exercício aeróbico + resistência + nutrição balanceada reduz síndrome metabólica significativamente
+CORPO: Quando mulheres combinam essas três coisas, a inflamação sistêmica cai — aquela inflamação "invisível" que envelhece você por dentro e dificulta perda de peso, aumenta o risco de doença do coração e descontrola hormônios. Síndrome metabólica (aquele conjunto de fatores que aumenta risco cardiovascular) melhora muito mais do que com exercício ou dieta isolados. Os resultados são reais, mensuráveis e não exigem obsessão.
+DESTAQUE: Nutrição + exercício reduzem inflamação sistêmica muito mais do que cada uma isolada.
+
+=== SLIDE 5 — MECANISMO ===
+TITULO: Como isso funciona no seu corpo
+CORPO: O exercício aeróbico melhora sua sensibilidade à insulina e acelera o metabolismo. O treinamento de resistência preserva massa muscular (fundamental depois dos 40). Mas sem nutrição adequada, você não tem combustível para treinar bem, nem material para recuperar os músculos, nem sinais para controlar inflamação. Juntos, esses três criam um ciclo onde seu corpo finalmente "acredita" que está seguro, saudável e pode equilibrar hormônios, queimar gordura e regenerar tecidos.
+
+=== SLIDE 6 — DADO SECUNDÁRIO ===
+TITULO: Mulheres mais velhas que exercem melhoram qualidade do colesterol
+CORPO: Um dos achados mais importantes: mulheres que fizeram exercício aeróbico + resistência apresentaram aumento no tamanho das partículas de HDL e melhora no perfil de LDL — isso significa colesterol mais saudável, menor risco de infarto, mesmo com doses moderadas de exercício. Não é preciso virar atleta. Doses moderadas, consistentes e bem alimentadas bastam.
+
+=== SLIDE 7 — MITO ===
+TITULO: "Treino intenso compensa uma alimentação ruim"
+CORPO: Não compensa. Treino intenso sem nutrição adequada acelera inflamação, prejudica recuperação e aumenta risco de lesão. Seu corpo não consegue reparar o dano do treino sem os nutrientes certos — vitaminas, minerais, proteína, gorduras saudáveis. O resultado é fadiga, lesão recorrente e frustração.
+
+=== SLIDE 8 — VERDADE ===
+TITULO: O que a evidência diz de verdade
+CORPO: Nutrição e atividade física são complementares, não competidoras. Elas precisam trabalhar juntas para reduzir inflamação, regular hormônios, fortalecer ossos e melhorar saúde cardiovascular. A boa notícia: você não precisa de treinos maratonistas nem restrições severas. Doses moderadas e consistentes de exercício, junto com alimentação balanceada e intuitiva, geram resultados reais e duradouros.
+
+=== SLIDE 9 — NA PRÁTICA ===
+TITULO: O que você pode fazer a partir de hoje
+CORPO: 1. Se você treina sem prestar atenção na nutrição, comece: coma proteína em toda refeição, hidrate bem e não pule refeições antes do treino. 2. Se você foca só em dieta, adicione 30 min de movimento (caminhada + resistência, 3x por semana) — seu corpo vai responder muito melhor. 3. Deixe de separar mentalmente "dia de treino" e "dia de cuidar da alimentação" — são a mesma coisa.
+
+=== SLIDE 10 — CTA ===
+CTA_PRIMARIO: Comenta aqui: você treina e cuida bem da nutrição ou uma das duas faz mais sentido pra você nesse momento?
+CTA_SECUNDARIO: Segue @corpo.saber para não perder o próximo post sobre como alimentação e treino precisam conversar na sua vida.
+HASHTAGS: #corposaber #nutriçãofeminina #saúdemuller40plus #exercíciocomsentido #inflamaçãosistêmica
+
+---
+
+## NOTAS DE EXECUÇÃO:
+✓ **Progressão lógica**: Capa → Contexto → Problema → Dado Principal → Mecanismo → Dado Secundário → Mito → Verdade → Ação → CTA
+✓ **Tom**: Científico, acessível, confiante mas acolhedor
+✓ **Foco na mulher 40+**: Referências a metabolismo, perimenopausa, saúde óssea, inflamação
+✓ **Um conceito por slide**: Sem sobrecarga
+✓ **CTA único no final**: Pergunta engajadora + CTA secundário complementar

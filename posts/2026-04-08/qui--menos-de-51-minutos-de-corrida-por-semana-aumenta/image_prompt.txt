@@ -1,18 +1,18 @@
-Generate a high-quality background image for an Instagram post (1080x1080 px).
+Generate a high-quality background image for an Instagram post (1080x1350 px, portrait 4:5 ratio).
 
 Brand: Corpo e Saber — Brazilian science-based health content for women 40+.
 Topic: Menos de 51 minutos de corrida por semana aumenta sobrevida
 Detail: Mulheres que correm regularmente têm 30% menos risco de morte por qualquer causa e 45% menos por doenças cardiovasculares.
 
-Visual direction: woman walking or jogging on a quiet path at golden hour, silhouette or back view, sense of consistency and routine, warm earth tones
+Visual direction: woman in her 40s running on an open park road, captured from behind at mid-stride, light athletic wear, sense of freedom and cardiovascular vitality, open sky in the background
 
 Style requirements:
 - No text, numbers or legible words anywhere in the image
-- No faces visible (back, silhouettes, partial frames or hands only)
+- Faces can be visible, but avoid close ups. When face is not visible, use back, silhouettes, partial frames or hands only
 - Avoid laboratory equipment, microscopes, petri dishes or research props
 - Prioritize real women in movement over abstract or still-life compositions
-- Color palette: warm off-white (#F7F5F2), terracotta (#C9614A) accents, muted earth tones
+- Color palette: light green (#5cbab3), terracotta (#C9614A) accents, and soft pink (#ffe7ff), muted earth tones
 - Mood: calm, trustworthy, empowering, editorial
 - Lighting: soft, diffused, natural — avoid harsh shadows or neon
-- Composition: leave generous negative space in the center for text overlay
-- Format: square 1:1, photorealistic or high-quality digital art
+- Composition: leave generous negative space in the center or in the top for text overlay
+- Format: portrait 4:5 (1080x1350 px), photorealistic or high-quality digital art

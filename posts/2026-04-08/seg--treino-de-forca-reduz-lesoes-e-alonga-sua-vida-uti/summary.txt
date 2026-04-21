@@ -1,7 +1,7 @@
-TITULO: Treino de força reduz lesões e alonga sua vida útil
-SUBTITULO: Musculação oferece proteção específica para o corpo feminino além da estética e força.
+TITULO: Treino de força reduz lesões e alonga sua vida (54 caracteres)
+SUBTITULO: Musculação oferece proteção específica para o corpo feminino além da estética. (84 caracteres)
 PILAR: CIÊNCIA EM DOSE
 BULLETS:
-• Mulheres têm adaptações hormonais únicas ao treino de resistência que protegem ossos, músculos e coração
-• Treino de força reduz significativamente o risco de lesões comuns, especialmente do ligamento cruzado anterior
-• Benefícios comprovados: força, composição corporal, saúde óssea, função cardiovascular e saúde mental
+• Mulheres têm adaptações hormonais únicas ao treino de resistência que protegem ossos e coração (96 caracteres)
+• Treino de força reduz significativamente o risco de lesões, especialmente do ligamento cruzado anterior (100 caracteres)
+• Benefícios comprovados: força, composição corporal, saúde óssea, função cardiovascular, saúde mental (97 caracteres)

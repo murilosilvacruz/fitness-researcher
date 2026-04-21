@@ -1,0 +1,26 @@
+{
+  "status": "APPROVED",
+  "notes": "",
+  "auto": {
+    "passed": false,
+    "score": 0.615,
+    "failures": [
+      "summary: bullet 1 com 119 chars (máx 100)",
+      "summary: bullet 2 com 118 chars (máx 100)",
+      "summary: bullet 3 com 129 chars (máx 100)",
+      "summary: bullet 4 com 118 chars (máx 100)",
+      "caption: palavras proibidas encontradas: ['segredo']"
+    ],
+    "warnings": []
+  },
+  "llm": {
+    "score_total": 23,
+    "score_normalized": 0.92,
+    "brand_alignment": 5,
+    "hook_quality": 5,
+    "scientific_clarity": 4,
+    "pilar_fit": 5,
+    "cta_effectiveness": 4,
+    "feedback": "A voz está impecável — inteligente, direto e acolhedor, sem alarmismo. O hook inicial é excelente para parar o scroll. A única fragilidade está na cientificidade: a afirmação sobre maratonistas e taxa de infarto precisa de maior contexto (população específica? qual é exatamente essa taxa comparada?). O CTA final (\"salva esse post\") é bom, mas poderia ter um segundo CTA de conversão (exemplo: \"compartilha com quem precisa escutar\") para maximizar engajamento além do save."
+  }
+}

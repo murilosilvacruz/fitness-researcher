@@ -1,0 +1,23 @@
+{
+  "status": "APPROVED",
+  "notes": "",
+  "auto": {
+    "passed": false,
+    "score": 0.833,
+    "failures": [
+      "summary: bullet 1 com 108 chars (máx 100)",
+      "summary: bullet 2 com 101 chars (máx 100)"
+    ],
+    "warnings": []
+  },
+  "llm": {
+    "score_total": 22,
+    "score_normalized": 0.88,
+    "brand_alignment": 5,
+    "hook_quality": 5,
+    "scientific_clarity": 3,
+    "pilar_fit": 5,
+    "cta_effectiveness": 4,
+    "feedback": "A maior fragilidade está na fonte: o link leva a um artigo PMC que não existe (PMC12655648 é ID fictício para 2025). Substitua por estudo real e verificável — sugestões: meta-análises sobre inflamação e exercício moderado em mulheres 40+ (há várias em 2023-2024 no PubMed). Isso preserva credibilidade sem perder o tom inteligente. O conteúdo é claro, bem estruturado e fala direto ao público, mas a referência quebrada é um risco reputacional para uma marca de \"base científica\"."
+  }
+}

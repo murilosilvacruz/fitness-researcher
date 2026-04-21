@@ -1,0 +1,25 @@
+# VIDEO GENERATION PROMPT FOR VEO (GOOGLE)
+
+---
+
+**OPENING HOOK (0–0.5s):**
+Close-up POV shot of a woman's face (warm olive skin, dark wavy hair, 45 years old, confident expression) looking directly at camera with slight head tilt. Sharp, intentional eye contact. Fast cut.
+
+**HOLD SECTION — VISUAL PROGRESSION (0.5–10s):**
+
+**Scene 1 (0.5–2s):** Wide shot of a Brazilian urban park, morning light. Woman in comfortable activewear (terracotta tones) stretching. Text overlay appears: "Fitness para 40+ é tendência global 2025" in off-white. Camera slowly zooms in.
+
+**Scene 2 (2–4s):** Speed ramp effect — camera accelerates as woman transitions from generic stretching to intentional strength-training posture (dumbbells, controlled movement). Split-screen appears: LEFT side shows blurred generic fitness routine (out-of-focus), RIGHT side shows sharp, focused Afro-Brazilian woman (medium-dark skin, natural cacheado hair) performing proper form with clarity. Text overlay: "ACSM: #3 TENDÊNCIA 2025"
+
+**Scene 3 (4–7s):** FACE HOLD — camera static on woman's face (parda/mestiça, warm brown skin, ondulado hair, 48 years old) in moment of realization. Slow-mo strategically applied as she nods with subtle smile. Soft sage green background (bokeh effect). Emotional peak moment. Text overlay reveals statistics in sequence: "↓ Risco de doença crônica" / "+ Independência real" / "+ Cognição melhorada"
+
+**Scene 4 (7–10s):** Wide establishing shot: woman in modern apartment or varanda, natural sunlight. Performing balance and flexibility movement (yoga-inspired strength work, terracotta and sage color grading). Micro-transitions between 2–3 different positions (edited with quick cuts every 1.5s). Text overlay: "Não é moda. É ciência."
+
+**PAYOFF (10–13s):**
+Return to close-up FACE HOLD of original woman, direct camera gaze, confident expression frozen for 2 seconds. Final text overlay: "Compartilhe com uma amiga de 40+" appears in off-white. Loop effect: subtle camera pull-back to reveal first frame composition mirrors opening, creating visual loop opportunity for replay.
+
+**Color grading throughout:** Warm terracotta (#C9614A) in lighting accents, sage (#7B9E87) in backgrounds or bokeh, off-white (#F7F5F2) for all text. Brazilian natural light aesthetic.
+
+---
+
+**13 seconds. 9:16.**

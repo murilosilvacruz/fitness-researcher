@@ -1,8 +1,7 @@
-TITULO: Exercício melhora o sono, mas só se você mantiver
-SUBTITULO: Benefícios reais aparecem em 8-12 semanas, mas exigem continuidade para não desaparecerem.
+TITULO: Exercício melhora o sono se você mantiver (49 caracteres)
+SUBTITULO: Benefícios aparecem em 8–12 semanas, mas desaparecem sem adesão contínua. Sua resposta é única.
 PILAR: CIÊNCIA EM DOSE
 BULLETS:
-• Exercício melhora consistentemente a qualidade do sono em curto prazo — entre 8 e 12 semanas você já sente a diferença
-• Sem adesão contínua, os ganhos de sono desaparecem: manter o treino é tão importante quanto começar
-• Sua resposta ao exercício é única: flutuações naturais do seu sono podem ser maiores que o efeito real do treino, por isso não compare sua evolução com a de outras
-• Em mulheres em transição hormonal, os efeitos variam muito — não existe fórmula única que funcione para todas
+• Melhora significativa da qualidade do sono aparece entre 8 e 12 semanas de treino regular.
+• Sem continuidade, os ganhos desaparecem — manter o treino é tão importante quanto começar.
+• Mulheres em transição hormonal têm respostas individuais muito variáveis; sua flutuação pode ser maior que o efeito real.

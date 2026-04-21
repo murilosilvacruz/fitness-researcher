@@ -1,0 +1,72 @@
+# ROTEIRO DE CARROSSEL — "Corpo Perfeito Online: O Preço Invisível do Excesso"
+
+---
+
+=== SLIDE 1 — CAPA ===
+TITULO: Quanto mais você treina online, mais obsessiva fica com comida
+SUBTITULO: Um estudo revela a conexão que ninguém fala sobre fitness e ortorexia
+CHAMADA: Deslize para ver →
+
+---
+
+=== SLIDE 2 — CONTEXTO ===
+TITULO: Por que isso importa para você
+CORPO: Se você treina regularmente e passa tempo em redes sociais consumindo conteúdo sobre fitness, nutrição e corpo — seja buscando inspiração, dicas ou até validação — está exposta a um padrão de pensamento que pode se virar contra você. O risco não é o treino em si. O risco é quando a rotina online reforça obsessões sobre comida "pura" ou "perfeita".
+
+---
+
+=== SLIDE 3 — PROBLEMA ===
+TITULO: O que a maioria faz sem perceber
+CORPO: A gente acredita que mais pesquisa = mais conhecimento = melhores resultados. Mas quando essa pesquisa vira horas rolando posts sobre meal prep, suplementação e "alimentos limpos", o cérebro começa a reorganizar prioridades. Treino intenso + conteúdo online intenso = fórmula para obsessão alimentar, não para saúde.
+
+---
+
+=== SLIDE 4 — DADO PRINCIPAL ===
+TITULO: Mulheres que treinam mais e navegam mais internet têm risco maior de ortorexia
+CORPO: Um estudo com 303 mulheres atletas mostrou correlação significativa: quanto maior o volume de treino semanal (média 270 minutos) e quanto mais horas passadas consumindo conteúdo fitness online, maior a pontuação em ortorexia — obsessão patológica por "comer certo". A combinação de treino intenso + internet intenso é o gatilho, não apenas o treino.
+DESTAQUE: Treino + internet + ausência de qualidade de vida em outras áreas = risco aumentado de comportamentos alimentares obsessivos.
+
+---
+
+=== SLIDE 5 — MECANISMO ===
+TITULO: Como isso funciona dentro de você
+CORPO: Seu cérebro identifica que o exercício traz resultado. Depois, a internet oferece "otimizações": qual alimento acelera ganho, qual comida "desmonta" seu progresso, qual nutriente é "essencial". Isso ativa o mesmo circuito de recompensa do treino. Com o tempo, a alimentação deixa de ser nutrição e vira controle compulsivo — você come só se achar que é "digno" daquele alimento.
+
+---
+
+=== SLIDE 6 — DADO SECUNDÁRIO ===
+TITULO: Falta de qualidade de vida em outras áreas amplifica o risco
+CORPO: O estudo mostrou que mulheres com bem-estar psicológico baixo, relacionamentos frágeis ou pouca vida social fora do fitness tinham escores ainda mais altos de ortorexia. Em outras palavras: quando toda sua identidade e bem-estar giram em torno do corpo perfeito, a obsessão com comida cresce. Qualidade de vida plena é proteção contra isso.
+
+---
+
+=== SLIDE 7 — MITO ===
+TITULO: "Se eu treino bastante, posso ser obsessiva com comida porque é para melhorar"
+CORPO: Errado. Obsessão é obsessão — não é dedicação, é sofrimento mascarado. Quando você sente culpa por comer algo "errado", quando recusa socialmente porque "não é saudável", quando pensa em comida o tempo todo — isso não é fitness, é transtorno alimentar.
+
+---
+
+=== SLIDE 8 — VERDADE ===
+TITULO: Saúde real inclui flexibilidade, prazer e vida além do corpo
+CORPO: O estudo deixa claro: mulheres com vida social ativa, bem-estar psicológico, relacionamentos significativos e lazer diverso — mesmo treinando bastante — não desenvolvem ortorexia. A chave não é treinar menos. É viver mais em outras dimensões. Saúde é multidimensional: corpo, mente, relacionamentos, propósito.
+
+---
+
+=== SLIDE 9 — NA PRÁTICA ===
+TITULO: O que você pode fazer a partir de hoje
+CORPO: 1. Defina limites de tempo em conteúdo fitness — nem toda dúvida precisa virar pesquisa obsessiva. 2. Cultive vida fora do treino: amigos, hobbies, lazer que não envolva otimização. 3. Se come algo "fora do plano", não sinta culpa — culpa é sinal de obsessão, não de dedição. 4. Avalie: você treina porque ama seu corpo, ou porque teme seu corpo?
+
+---
+
+=== SLIDE 10 — CTA ===
+CTA_PRIMARIO: Comenta aqui: Seu treino está equilibrado com outras áreas da vida, ou o fitness virou seu mundo inteiro?
+CTA_SECUNDARIO: Segue @corpo.saber para mais ciência que conecta corpo, mente e vida real.
+HASHTAGS: #corposaber #ortorexia #fitnessmentalhealth #treinoequilibrio #saudementaltemque
+
+---
+
+## Notas de produção:
+- **Slide 1**: Use cores contrastantes (ex.: rosa vibrante + fundo cinzento) para parar o scroll
+- **Slides 4 e 6**: Destaque dados em tipografia grande (28–32pt)
+- **Slides 7–8**: Use ícone de ✗ e ✓ para diferenciar mito de verdade
+- **Tom geral**: Inteligente, sem culpabilizar, com reconhecimento de que a leitora pode estar vivendo isso agora

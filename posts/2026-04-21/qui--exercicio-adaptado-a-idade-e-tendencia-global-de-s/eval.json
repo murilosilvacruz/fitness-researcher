@@ -1,0 +1,25 @@
+{
+  "status": "APPROVED",
+  "notes": "",
+  "auto": {
+    "passed": false,
+    "score": 0.667,
+    "failures": [
+      "summary: bullet 1 com 140 chars (máx 100)",
+      "summary: bullet 2 com 146 chars (máx 100)",
+      "summary: bullet 3 com 142 chars (máx 100)",
+      "caption: nenhum CTA detectado (salva, comenta, marca, link na bio)"
+    ],
+    "warnings": []
+  },
+  "llm": {
+    "score_total": 23,
+    "score_normalized": 0.92,
+    "brand_alignment": 5,
+    "hook_quality": 5,
+    "scientific_clarity": 4,
+    "pilar_fit": 5,
+    "cta_effectiveness": 4,
+    "feedback": "A voz está impecável — inteligente, direta e acolhedora sem infantilização. O hook sobre \"tendência global\" funciona porque reposiciona treino como validação científica, não como moda. A citação da ACSM é forte, mas seria ainda melhor mencionar explicitamente que a organização publica esse ranking anualmente (aumentaria credibilidade). O CTA final é bom, mas poderia ser mais específico: \"compartilhe com quem precisa ouvir isso\" é genérico — você poderia direcionar para salvar, comentar ou visitar um conteúdo específico (treino, guia ou próximo post) que complementasse o tema."
+  }
+}

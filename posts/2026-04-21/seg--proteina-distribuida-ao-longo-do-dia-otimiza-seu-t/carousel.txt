@@ -1,0 +1,76 @@
+# CARROSSEL CORPO E SABER — 10 SLIDES
+## Tema: Nutrição para Mulheres Ativas: O que a Ciência Diz (Finalmente)
+
+---
+
+=== SLIDE 1 — CAPA ===
+TITULO: A ciência da nutrição foi feita para homens
+SUBTITULO: E agora temos respostas específicas para mulheres como você.
+CHAMADA: Deslize para ver →
+
+---
+
+=== SLIDE 2 — CONTEXTO ===
+TITULO: Por que isso importa para você
+CORPO: Por décadas, estudos sobre nutrição esportiva foram feitos majoritariamente com homens — entre 92% e 100% dos participantes. Mulheres ativas, atletas ou não, ficaram sem orientação científica própria. Agora temos: uma revisão sistemática de 23 anos de pesquisa que finalmente coloca a mulher no centro da conversa sobre como comer bem para treinar melhor.
+
+---
+
+=== SLIDE 3 — PROBLEMA ===
+TITULO: O que a maioria faz errado
+CORPO: Muitas mulheres ativas seguem recomendações nutricionais feitas para homens — quantidade de proteína, tipo de gordura, frequência de refeições. Ou tentam otimizar com base em tendências do momento, não em evidências. O resultado: recuperação lenta, fadiga persistente, saúde óssea comprometida. Seu corpo merecia mais que suposições.
+
+---
+
+=== SLIDE 4 — DADO PRINCIPAL ===
+TITULO: Proteína distribuída em 5 a 6 refeições muda tudo
+CORPO: O estudo aponta que 1,2 a 2,0 gramas de proteína por quilo do seu peso corporal, distribuídos ao longo do dia (não concentrados em 1 ou 2 refeições), otimiza adaptações ao treino. Cada refeição deve ter pelo menos 25 gramas de proteína de qualidade. Essa distribuição é chave: seu corpo não aproveita bem 60 gramas de uma vez.
+DESTAQUE: 25 gramas de proteína por refeição, distribuído em 5 a 6 refeições diárias — não é quanto você come, é como você distribui.
+
+---
+
+=== SLIDE 5 — MECANISMO ===
+TITULO: Como isso funciona no seu corpo
+CORPO: Quando você espalha a proteína ao longo do dia, seus músculos recebem os aminoácidos de forma consistente — exatamente quando precisam para reparar microlesões do treino e construir nova fibra. Concentrar tudo em uma refeição deixa picos e quedas: seu corpo aproveita o que consegue naquele momento e descarta o resto. Distribuir é mais eficiente.
+
+---
+
+=== SLIDE 6 — DADO SECUNDÁRIO ===
+TITULO: Ômega-3 não é luxo, é infraestrutura
+CORPO: Mulheres ativas precisam de pelo menos 500 gramas de peixes ou frutos do mar por semana para garantir ômega-3 adequado. A razão entre ômega-6 (que você já consome de mais: óleos, alimentos processados) e ômega-3 deve estar abaixo de 2:1. Essa proporção reduz inflamação crônica, acelera recuperação e protege suas articulações — especialmente importante em treino de força.
+
+---
+
+=== SLIDE 7 — MITO ===
+TITULO: "Quanto mais proteína, melhor"
+CORPO: Muitas mulheres acreditam que comer 150g de proteína em uma refeição vai resultar em mais músculo. A ciência diz: seu corpo absorve cerca de 25-30g por refeição. O resto vira energia (calorias) ou é eliminado. O ganho está em distribuir bem, não em acumular.
+
+---
+
+=== SLIDE 8 — VERDADE ===
+TITULO: Qualidade e frequência vencem quantidade
+CORPO: O que importa é ingerir proteína de alta qualidade (ovos, peixes, frango, leite, legumes) em intervalos regulares ao longo do dia. Seu corpo é mais inteligente que você pensa: quando você oferece proteína consistentemente, ele adapta melhor, recupera mais rápido e constrói músculo com mais eficiência. Não é matemática simples de "quanto mais"; é estratégia de quando e como.
+
+---
+
+=== SLIDE 9 — NA PRÁTICA ===
+TITULO: O que você pode fazer a partir de hoje
+CORPO: Conte quantas gramas de proteína você consome por refeição. Se está comendo 60g no almoço e quase nada no café, redistribua: aim por 25g a cada refeição (desjejum, lanche, almoço, café, lanche, jantar). Inclua peixes 2 a 3 vezes por semana — sardinha, salmão, atum — e reduza alimentos ultraprocessados para equilibrar a razão ômega-6/ômega-3. Pequenas mudanças, efeito grande em semanas.
+
+---
+
+=== SLIDE 10 — CTA ===
+CTA_PRIMARIO: Salva esse post — você vai querer reler e ajustar suas refeições antes do próximo treino.
+CTA_SECUNDARIO: Segue @corpo.saber para não perder evidências científicas que mudam a forma como você treina.
+HASHTAGS: #corposaber #nutriçãofeminina #proteína #ômega3 #mulheresativas
+
+---
+
+## NOTAS DE DESIGN SUGERIDAS:
+- **Slide 1:** Fundo neutro, tipografia grande e contraste alto.
+- **Slides 2–3:** Usa tom conversacional, como se a redatora estivesse falando direto com a leitora.
+- **Slide 4:** Destaque visual grande no número "25g".
+- **Slides 5–6:** Ícones ou ilustrações simples de músculos, peixe, refeições.
+- **Slides 7–8:** Confronto visual mito vs. verdade (cores diferentes ou layout em espelho).
+- **Slide 9:** Checklist ou passos numerados para ação imediata.
+- **Slide 10:** CTA em destaque visual, cores que remetem à marca.

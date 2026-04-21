@@ -1,0 +1,41 @@
+# VIDEO GENERATION PROMPT FOR VEO (GOOGLE)
+
+**Title:** The Optimal Exercise Threshold for Heart Health
+
+**Duration & Format:** 12 seconds. 9:16 vertical. Instagram Reel.
+
+**Color Palette:** Terracota #C9614A, Sage #7B9E87, Off-white #F7F5F2.
+
+**Target Audience:** Brazilian women, 40–55 years old. Non-athletes seeking evidence-based health guidance.
+
+---
+
+## VISUAL STRUCTURE
+
+**HOOK (0–3 seconds) — OPENING HOOK + SPEED RAMP:**
+Open with a sharp, dynamic shot of a woman (parda/mestiça, warm brown skin, wavy dark hair, mid-50s) mid-stride on a urban park path at golden hour. Camera accelerates forward alongside her movement for 0.5 seconds to stop the scroll. Then speed-ramps to slow-motion as she pauses, breathing intentionally, hand on chest. Text overlay appears: "Exercício demais para o coração não é sempre bom" (white/off-white sans-serif, bold).
+
+---
+
+**HOLD (3–10 seconds) — SPLIT SCREEN + DATA VISUALIZATION + FACE HOLD:**
+
+**Seconds 3–5:** Split screen divides the frame vertically. Left side shows the same woman performing moderate-intensity exercise (steady cardio, controlled breathing). Right side displays an animated graph line rising, plateauing, then slightly declining—visual representation of cardiovascular benefits peaking at 50–60 minutes of vigorous exercise daily.
+
+**Seconds 5–7:** Cut to close-up FACE HOLD (4–6s duration) of the woman's face, eyes looking directly at camera with clarity and understanding. Soft terracota-tinted warm light hits her face. Text overlay: "Entre 50 e 60 minutos: seu coração fica melhor" (white text, lower third).
+
+**Seconds 7–9:** Quick cut—ultra-close POV on her heartbeat monitor/fitness watch showing a steady, optimal heart rate zone. Camera pulls back slightly to show her confident expression. Text overlay: "Depois disso? Os benefícios não aumentam. Podem até diminuir." (warm sage-colored text for contrast).
+
+---
+
+**PAYOFF (9–12 seconds) — BEFORE/AFTER CONTRAST + LOOP SETUP:**
+
+Final 3 seconds: Return to the woman on the park path, now walking peacefully, sunlight catching her face. She smiles slightly, checks her watch with satisfaction. Text overlay: "O segredo não é mais exercício. É exercício consistente." Camera slowly pushes in on her face (subtle slow-mo), framing her as the emotional anchor. Final frame holds on her serene expression—door to loop potential.
+
+---
+
+## CAMERA & TECHNICAL DIRECTIONS
+
+- **Opening (0–0.5s):** Dynamic tracking shot, 24fps accelerating to 60fps (speed ramp).
+- **Hook pause (0.5–3s):** Slow-motion 60fps, soft focus bokeh background (blurred trees).
+- **Split screen (3–5s):** Dual perspective; left side real-time, right side animated graph (sage green accent lines).
+- **Face Hold (5–7s):** Static locked

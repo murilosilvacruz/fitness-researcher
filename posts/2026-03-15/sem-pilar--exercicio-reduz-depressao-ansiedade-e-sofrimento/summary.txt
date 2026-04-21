@@ -1,6 +1,7 @@
-TITULO: Exercício reduz depressão, ansiedade e sofrimento
-SUBTITULO: Atividade física mostrou efeitos significativos em 128 mil participantes. Maior intensidade = melhores resultados.
+TITULO: Exercício reduz depressão, ansiedade e sofrimento (57)
+SUBTITULO: Análise de 128 mil participantes: 43% redução em depressão, 42% em ansiedade. Maior intensidade amplifica resultados. (120)
+PILAR: O DADO QUE IMPORTA
 BULLETS:
-• Depressão, ansiedade e sofrimento psicológico reduziram em todas as populações estudadas
-• Benefícios ainda maiores para grávidas, pós-parto e pessoas com depressão diagnosticada
-• Exercício de maior intensidade produziu melhoras mais pronunciadas
+• 43% redução em depressão, 42% em ansiedade com prática consistente.
+• Mulheres grávidas, pós-parto e com depressão diagnosticada ganham ainda mais.
+• Exercício de maior intensidade produz resultados mais pronunciados.

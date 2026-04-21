@@ -1,0 +1,29 @@
+# PROMPT FOR VEO (GOOGLE) - CORPO E SABER REEL
+
+**Video Generation Prompt:**
+
+Create a vertical 9:16 Instagram Reel (12 seconds, 24fps) featuring a Brazilian woman aged 45–50 with warm olive or medium brown skin, wavy dark hair, and a calm, reassuring expression. She wears comfortable, modern activewear in earth tones.
+
+**OPENING HOOK (0–0.5s):** 
+Woman's face fills frame in close-up POV as she takes a deep breath, eyes widening with subtle concern. Quick camera zoom-in on her face with soft terracotta (#C9614A) light from the side. This moment freezes her worry.
+
+**HOLD – SCENE 1 (0.5–4s):** 
+CUT to wide shot: same woman walking leisurely through a modern urban park or apartment balcony, morning light. Text overlay in off-white (#F7F5F2): "Exercício leve = risco cardíaco zero." Camera follows with gentle SPEED RAMP (slow acceleration). She smiles subtly while walking naturally, conversing (lips moving, no audio needed).
+
+**HOLD – SCENE 2 (4–8s):** 
+SPLIT SCREEN: Left side shows woman climbing apartment stairs in real-time; right side shows same woman doing light household tasks (wiping surface, gentle movement). SLOW-MO STRATEGIC applied to stair climb moment (heart-health visual metaphor). Sage green (#7B9E87) accent lighting. Text overlay: "Atividade natural do dia oferece proteção igual." Quick 2-second cuts between split panels for rhythm.
+
+**HOLD – SCENE 3 (8–11s):** 
+FACE HOLD (4–5s): Return to close-up of woman's face, now with confident, reassured expression. Soft terracotta backlight. Her hand rests on her chest over her heart. Text appears: "Intensidade moderada = segurança + benefício." Gentle smile, eyes direct to camera (intimate POV). Slight head tilt of acknowledgment.
+
+**PAYOFF (11–12s):** 
+LOOP transition: Camera pulls back, woman returns to her leisurely walk in the park, matching the opening movement. Final frame mirrors first frame but now with peaceful confidence instead of worry. Off-white text: "Seu coração aguenta. Comece hoje." Fade to Corpo e Saber logo in sage green.
+
+**Technical Specifications:**
+- Primary color grading: warm terracotta tones with sage green accents, off-white overlays
+- Camera movements: zoom-in (0.5s), follow walk with speed ramp (3.5s), split-screen cuts (4s), slow-mo on stair climb (2s), static face hold (5s), pull-back loop (1s)
+- Transitions: hard cuts between scenes every 2–3 seconds during HOLD phase for pacing
+- Lighting: golden hour/morning soft natural light with strategic terracotta side-lighting
+- No music required (text-driven), but allow for subtle ambient sounds (footsteps, breathing)
+- Brazilian location: urban park with modern apartment balcony or stairs visible
+- Skin tone: medium brown or warm olive Brazilian woman, 45–

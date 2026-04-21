@@ -1,0 +1,70 @@
+# CARROSSEL CORPO E SABER — 10 SLIDES
+
+=== SLIDE 1 — CAPA ===
+TITULO: Treino + redes sociais = obsessão por comida "perfeita"
+SUBTITULO: Quando o compromisso com a saúde vira comportamento restritivo perigoso.
+CHAMADA: Deslize para ver →
+
+---
+
+=== SLIDE 2 — CONTEXTO ===
+TITULO: Por que isso importa para você
+CORPO: Você muscula na academia 3x por semana, segue contas de fitness no Instagram e acha que controla bem sua alimentação. Mas a realidade é que muitas mulheres que se exercitam regularmente — sem ser atletas — caem em padrões obsessivos com comida. Uma pesquisa científica identificou exatamente quando e por que isso acontece.
+
+---
+
+=== SLIDE 3 — PROBLEMA ===
+TITULO: O que a maioria acredita — ou faz errado
+CORPO: "Se eu treino direito, preciso comer só coisas 'limpas'." Essa lógica parece sensata, mas muitas mulheres começam a eliminar alimentos, ler obsessivamente rótulos e sentir culpa extrema por uma refeição "fora do plano". O limite entre disciplina e obsessão é fino — e ninguém fala sobre isso.
+
+---
+
+=== SLIDE 4 — DADO PRINCIPAL ===
+TITULO: Mulheres que passam muito tempo em redes sociais têm maior risco de ortorexia
+CORPO: Um estudo com 775 estudantes (303 mulheres) que treinam regularmente em academia descobriu: quanto mais tempo gasto em redes sociais sobre fitness, maior a tendência a comportamentos obsessivos com comida — mesmo em mulheres que NÃO são atletas competitivas. A pesquisa mapeou essa correlação direta entre exposição digital e restrição alimentar patológica.
+DESTAQUE: Alto uso de redes sociais amplifica comportamentos obsessivos com alimentação em mulheres que treinam regularmente.
+
+---
+
+=== SLIDE 5 — MECANISMO ===
+TITULO: Como isso funciona no seu corpo e na sua mente
+CORPO: Seu cérebro está constantemente comparando seu corpo com imagens filtradas, corpos "perfeitos" de influenciadoras e receitas "clean" que parecem ser a chave. Isso ativa o sistema de recompensa — você sente satisfação controlando cada alimento — mas depois vem a culpa e a obsessão. O exercício intenso + redes sociais cria um loop difícil de sair.
+
+---
+
+=== SLIDE 6 — DADO SECUNDÁRIO ===
+TITULO: Qualidade de vida baixa amplifica o risco
+CORPO: As mulheres que apresentaram maiores sintomas de ortorexia eram as mesmas com qualidade de vida percebida mais baixa: relacionamentos frágeis, insatisfação corporal crônica e comparação social constante. Ou seja, não é só o treino que importa — o bem-estar geral funciona como protetor contra obsessão alimentar.
+
+---
+
+=== SLIDE 7 — MITO ===
+TITULO: "Ortorexia é coisa de atleta profissional"
+CORPO: Falso. O estudo mostrou que mulheres que treinam 3x por semana de forma recreativa — musculação em academia, sem competição — desenvolvem os mesmos comportamentos obsessivos que atletas. O ambiente digital de conteúdo fitness democratizou a obsessão.
+
+---
+
+=== SLIDE 8 — VERDADE ===
+TITULO: O que a evidência diz de verdade
+CORPO: Treinar é saudável. Comer bem é saudável. Mas quando o treino e a "alimentação perfeita" começam a te roubar alegria, a limitar suas escolhas sociais ou a gerar culpa constante, algo mudou. A verdade é: nenhum resultado estético vale mais do que sua saúde mental e relacionamentos.
+
+---
+
+=== SLIDE 9 — NA PRÁTICA ===
+TITULO: O que você pode fazer a partir de hoje
+CORPO: (1) Mude seu feed: siga contas que MOSTRAM diversidade alimentar e corpos reais, não só "inspiração fitness". (2) Coloque tempo limite em redes sociais relacionadas a treino/dieta. (3) Pergunte-se: "Estou fazendo isso porque quero ou porque tenho medo do que vão pensar?" Se for medo, é hora de conversar com alguém. Sua saúde vem primeiro.
+
+---
+
+=== SLIDE 10 — CTA ===
+CTA_PRIMARIO: Comenta aqui: você acha fácil separar disciplina de obsessão com treino e comida?
+CTA_SECUNDARIO: Segue @corpo.saber para não perder o próximo artigo científico que fala da sua realidade.
+HASHTAGS: #corposaber #ortorexia #mentalidade #saúdemental #realidadefitnessñ
+
+---
+
+**NOTAS PARA DESIGN:**
+- **Slide 1:** Use imagem impactante de mulher com expressão pensativa ou ansiosa (evitar imagem de exercício ou comida para não ser óbvio).
+- **Slides 4, 8:** Use tipografia destacada para os dados e verdades principais.
+- **Paleta:** Verde/azul (associado a bem-estar mental) + brancos e cinzas (não usar vibrantes demais — tom sério, respeitoso).
+- **Fonts:** Sans-serif moderna, legível — nunca serifada.

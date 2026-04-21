@@ -1,0 +1,26 @@
+{
+  "status": "APPROVED",
+  "notes": "",
+  "auto": {
+    "passed": false,
+    "score": 0.615,
+    "failures": [
+      "summary: TITULO com 64 chars (máx 60)",
+      "summary: bullet 1 com 126 chars (máx 100)",
+      "summary: bullet 2 com 129 chars (máx 100)",
+      "summary: bullet 3 com 107 chars (máx 100)",
+      "summary: bullet 4 com 115 chars (máx 100)"
+    ],
+    "warnings": []
+  },
+  "llm": {
+    "score_total": 20,
+    "score_normalized": 0.8,
+    "brand_alignment": 4,
+    "hook_quality": 4,
+    "scientific_clarity": 3,
+    "pilar_fit": 5,
+    "cta_effectiveness": 4,
+    "feedback": "O tom é inteligente e acolhedor, sem alarmismo — perfeito para a marca. A estrutura prática com a \"prova da conversa\" é um diferencial. Porém, a citação científica é fraca: falta ano de publicação, tamanho de amostra e autor — apenas um link genérico do PMC não estabelece credibilidade. Reforce com dado específico (ex: \"estudo de 2019 com 500+ mulheres\") ou múltiplas fontes para solidificar a base científica."
+  }
+}

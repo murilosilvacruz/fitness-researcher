@@ -1,0 +1,25 @@
+{
+  "status": "APPROVED",
+  "notes": "",
+  "auto": {
+    "passed": false,
+    "score": 0.692,
+    "failures": [
+      "summary: TITULO com 63 chars (máx 60)",
+      "summary: bullet 1 com 113 chars (máx 100)",
+      "summary: bullet 2 com 115 chars (máx 100)",
+      "summary: bullet 4 com 105 chars (máx 100)"
+    ],
+    "warnings": []
+  },
+  "llm": {
+    "score_total": 23,
+    "score_normalized": 0.92,
+    "brand_alignment": 5,
+    "hook_quality": 5,
+    "scientific_clarity": 4,
+    "pilar_fit": 5,
+    "cta_effectiveness": 4,
+    "feedback": "A voz é inteligente, direta e acolhedora — exatamente a marca. O hook (\"O exercício intenso aumenta 100 vezes o risco de infarto. Mas...\") é impactante sem ser alarmista, criando curiosidade genuína. O pilar é perfeito: o post traduz um dado complexo em compreensão prática (risco relativo vs. absoluto). A única melhoria: especificar melhor a fonte no corpo do texto (autor, ano) antes do link — a citação atual é genérica. O CTA \"Salva esse post\" é bom, mas um segundo CTA direcionado (\"Comenta sua intensidade de treino atual\") aumentaria engajamento e dados para futuro conteúdo."
+  }
+}

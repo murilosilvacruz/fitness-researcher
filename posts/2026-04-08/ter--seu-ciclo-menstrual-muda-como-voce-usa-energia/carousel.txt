@@ -1,0 +1,71 @@
+# ROTEIRO CARROSSEL: SEU CICLO MENSTRUAL MUDA COMO VOCÊ USA ENERGIA
+
+---
+
+=== SLIDE 1 — CAPA ===
+TITULO: Seu ciclo menstrual muda como você usa energia
+SUBTITULO: Estrogênio e progesterona afetam metabolismo, combustível e recuperação toda semana.
+CHAMADA: Deslize para ver →
+
+---
+
+=== SLIDE 2 — CONTEXTO ===
+TITULO: Por que isso importa para você
+CORPO: Você já notou que tem semanas que treina leve e outras que está mais cansada, mesmo fazendo a mesma série? Isso não é falta de dedicação — é biologia pura. Seu ciclo menstrual altera completamente como seu corpo queima calorias, usa nutrientes e se recupera do exercício.
+
+---
+
+=== SLIDE 3 — PROBLEMA ===
+TITULO: O que a maioria acredita — ou faz errado
+CORPO: A maioria das mulheres segue o mesmo plano de treino e alimentação o mês inteiro, ignorando que o corpo muda. Resultado: treina contra a biologia em vez de com ela. Isso torna o exercício menos eficaz e mais cansativo — quando poderia ser mais inteligente.
+
+---
+
+=== SLIDE 4 — DADO PRINCIPAL ===
+TITULO: Seu corpo queima combustível diferente em cada fase
+CORPO: Na fase folicular (primeira metade do ciclo), você queima mais carboidrato. Na fase lútea (segunda metade), o corpo prefere usar gordura como combustível. Hormônios como estrogênio e progesterona controlam essa mudança — e ela é previsível e mensurável.
+DESTAQUE: Carboidrato na folicular, gordura na lútea — seu combustível muda todo mês.
+
+---
+
+=== SLIDE 5 — MECANISMO ===
+TITULO: Como isso funciona no seu corpo
+CORPO: Estrogênio sensibiliza suas células para usar carboidrato de forma mais eficiente. Quando sobe progesterona (na lútea), o metabolismo fica mais "econômico" com gordura. Além disso, progesterona aumenta sua taxa metabólica de repouso — você queima mais calorias mesmo parada. É por isso que seu apetite muda também.
+
+---
+
+=== SLIDE 6 — DADO SECUNDÁRIO ===
+TITULO: Recuperação também varia conforme a fase
+CORPO: Na folicular, você se recupera mais rápido do treino intenso. Na lútea, o corpo precisa de mais tempo entre séries e treinos pesados — mas está mais preparado para trabalho de força e intensidade moderada. Respeitar isso reduz risco de lesão e overtraining.
+
+---
+
+=== SLIDE 7 — MITO ===
+TITULO: "Mulher ativa não é afetada por hormônios"
+CORPO: Essa é uma mentira bonita que muitas ainda carregam. Todos os estudos mostram que ciclo menstrual muda performance, força, resistência e recuperação — independente de você ser iniciante ou atleta de elite. Ignorar não faz desaparecer.
+
+---
+
+=== SLIDE 8 — VERDADE ===
+TITULO: O que a evidência diz de verdade
+CORPO: Seu ciclo menstrual é um recurso, não uma limitação. Quando você entende como cada fase afeta seu corpo, consegue treinar com a biologia — não contra ela. Mulheres que adaptam treino e nutrição conforme o ciclo relatam melhor performance, menos lesões e exercício mais sustentável.
+
+---
+
+=== SLIDE 9 — NA PRÁTICA ===
+TITULO: O que você pode fazer a partir de hoje
+CORPO: Rastreie o seu ciclo por 2 ou 3 meses. Na folicular, aumente carboidrato pré-treino e aponte para intensidade. Na lútea, mantenha mais proteína e gordura, escolha força e moderação. Observe como seu corpo responde — cada mulher é um pouco diferente, mas o padrão é real.
+
+---
+
+=== SLIDE 10 — CTA ===
+CTA_PRIMARIO: Salva esse post — você vai querer reler antes de planejar o treino do mês que vem.
+CTA_SECUNDARIO: Segue @corpo.saber para mais sobre como sua biologia feminina impacta saúde e performance.
+HASHTAGS: #corposaber #ciclomenstrual #treinofeminino #nutriçãofeminina #performance
+
+---
+
+**Notas para edição visual:**
+- Slide 1: tipografia grande, fundo que pare scroll (cor ou contraste alto)
+- Slide 4: destaque em cor diferente, números em bold
+- Slide 10: CTA em botão ou destaque visual claro

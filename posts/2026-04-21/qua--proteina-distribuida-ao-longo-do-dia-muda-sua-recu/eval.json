@@ -1,0 +1,24 @@
+{
+  "status": "APPROVED",
+  "notes": "",
+  "auto": {
+    "passed": false,
+    "score": 0.75,
+    "failures": [
+      "summary: bullet 1 com 139 chars (máx 100)",
+      "summary: bullet 2 com 133 chars (máx 100)",
+      "summary: bullet 3 com 135 chars (máx 100)"
+    ],
+    "warnings": []
+  },
+  "llm": {
+    "score_total": 20,
+    "score_normalized": 0.8,
+    "brand_alignment": 4,
+    "hook_quality": 4,
+    "scientific_clarity": 3,
+    "pilar_fit": 5,
+    "cta_effectiveness": 4,
+    "feedback": "O post é inteligente e direto, com ótimo encaixe prático. Porém, há inconsistência científica: você cita \"revisão sistemática de 2023\" mas o link remete a 2024 (PMC11819490). Além disso, a recomendação de 500g de peixe por semana precisa de contexto de custo/acessibilidade para público feminino 30-55 anos — sugerir alternativas econômicas (sardinha enlatada, por exemplo) fortaleceria o acolhimento. O hook é forte, mas \"A razão ômega-6 para ômega-3 mais alta que 2 trabalha contra a recuperação\" é técnico demais para scroll inicial — considere: \"Seu treino está sendo sabotado por um desequilíbrio invisível\" (menos alarmista, mais curiosidade)."
+  }
+}

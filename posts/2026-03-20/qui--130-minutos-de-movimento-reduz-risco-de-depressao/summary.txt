@@ -1,3 +1,7 @@
-TITULO: 130 minutos de movimento reduz risco de depressão em 50%
-SUBTITULO: Mulheres sedentárias têm 2x mais chance de desenvolver sintomas depressivos. O achado é especialmente importante na perimenopausa
+TITULO: 130 minutos por semana reduzem risco de depressão em 50% (56 caracteres)
+SUBTITULO: Mulheres sedentárias têm 2 vezes mais risco de sintomas depressivos. Na perimenopausa, movimento é antídoto (129 caracteres)
 PILAR: O DADO QUE IMPORTA
+BULLETS:
+• Movimento leve conta: caminhada, escadas, alongamento acumulam durante o dia
+• Diferença é só 62 minutos entre alta proteção e baixa proteção
+• Mulheres respondem mais forte que homens — esse dado importa em horários sensíveis

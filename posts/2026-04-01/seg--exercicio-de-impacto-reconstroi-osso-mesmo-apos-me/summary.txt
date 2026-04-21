@@ -1,7 +1,7 @@
-TITULO: Exercício de impacto reconstrói osso mesmo após menopausa
-SUBTITULO: A força mecânica direta estimula densidade óssea onde mais importa: quadril e coluna vertebral.
+TITULO: Impacto reconstrói osso mesmo após menopausa (54 caracteres)
+SUBTITULO: Alto impacto estimula densidade mineral óssea no quadril e coluna — os sítios mais vulneráveis a fraturas.
 PILAR: CIÊNCIA EM DOSE
 BULLETS:
-• A queda de estrogênio na menopausa acelera perda óssea, mas exercício de alto impacto funciona como estímulo mecânico direto ao osso
-• Caminhadas com impacto, corrida leve adaptada e treinamento de resistência protegem quadril e coluna — os locais de maior risco de fratura
-• Para mulheres não atletas, esses exercícios são alternativa ou complemento seguro aos medicamentos, preservando independência funcional
+• A queda de estrogênio acelera perda óssea, mas exercício de impacto funciona como estímulo mecânico direto.
+• Caminhadas rápidas, dança, corrida leve adaptada protegem quadril e coluna — locais de maior risco.
+• Para mulheres não atletas, esses exercícios são alternativa segura aos medicamentos, preservando independência.

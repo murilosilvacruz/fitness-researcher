@@ -1,0 +1,54 @@
+# ROTEIRO CARROSSEL INSTAGRAM — CORPO E SABER
+
+=== SLIDE 1 — CAPA ===
+TITULO: Menos tempo sentada muda sua saúde cardiometabólica
+SUBTITULO: Atividade leve ao longo do dia reduz risco tanto quanto exercício intenso.
+CHAMADA: Deslize para ver →
+
+=== SLIDE 2 — CONTEXTO ===
+TITULO: Por que isso importa para você
+CORPO: Conforme a gente envelhece, é fácil achar que ficar mais sedentária é inevitável — menos energia, mais compromissos, corpo que responde diferente. Mas há algo que a maioria das mulheres 40+ não sabe: reduzir o tempo que você fica parada durante o dia impacta sua saúde cardiometabólica tanto quanto aquele treino intenso que você planejou.
+
+=== SLIDE 3 — PROBLEMA ===
+TITULO: O que a maioria acredita — ou faz errado
+CORPO: Muita gente acha que para melhorar a saúde do coração e reduzir risco de diabetes precisa fazer exercício pesado — meia hora de musculação, corrida, algo "de verdade". Por isso desiste fácil: ou treina intenso ou não faz nada. E assim passa o dia inteiro sentada esperando o único momento do exercício planejado.
+
+=== SLIDE 4 — DADO PRINCIPAL ===
+TITULO: Mulheres que se movem mais (mesmo levemente) têm risco significativamente menor
+CORPO: Um estudo acompanhou mulheres idosas medindo cada movimento em 24 horas — atividade em qualquer intensidade, tempo sentado e sono. O resultado foi claro: quem passava menos tempo sedentária e mais tempo se movimentando (inclusive com movimento leve) tinha redução significativa no risco de doenças do coração, diabetes e morte prematura.
+DESTAQUE: Menos tempo sentada = proteção cardiometabólica real.
+
+=== SLIDE 5 — MECANISMO ===
+TITULO: Como isso funciona no seu corpo
+CORPO: Quando você fica muito tempo parada, seu metabolismo desacelera, músculos perdem tônus e inflamação no corpo aumenta — tudo isso prejudica coração e controle de glicose. Cada movimento leve (caminhar, arrumar casa, subir escadas) ativa músculos, melhora circulação e mantém seu metabolismo funcionando. Não precisa ser intenso para fazer diferença.
+
+=== SLIDE 6 — DADO SECUNDÁRIO ===
+TITULO: Educação e autopercepção moldam seus padrões de movimento
+CORPO: O estudo mostrou algo interessante: mulheres que têm melhor educação de saúde e se veem como pessoas que cuidam de si mesmas naturalmente se movem mais ao longo do dia. Isso significa que sua crença sobre sua própria saúde influencia quão ativa você realmente é. Percepção positiva gera ação positiva.
+
+=== SLIDE 7 — MITO ===
+TITULO: "Só vale exercício planejado e intenso"
+CORPO: Muita mulher desconta tudo no treino formal — pensa que só musculação ou corrida contam. Enquanto isso, negligencia o movimento cotidiano. A verdade é que o tempo total parado é tão (ou mais) importante quanto a intensidade de um exercício isolado.
+
+=== SLIDE 8 — VERDADE ===
+TITULO: O que a evidência diz de verdade
+CORPO: Não é sobre virar atleta. É sobre reduzir o tempo que você fica parada. Caminhar para o supermercado, arrumar a casa, subir escadas — isso protege seu coração e reduz risco de diabetes e morte prematura. Cada movimento importa. E você já faz parte disso no seu dia, só precisa estar consciente e valorizar.
+
+=== SLIDE 9 — NA PRÁTICA ===
+TITULO: O que você pode fazer a partir de hoje
+CORPO: Levante a cada hora que passa sentada — nem que seja para caminhar 5 minutos. Escolha as escadas em vez do elevador. Estacione mais longe. Faça algumas tarefas de pé enquanto assiste algo. Não é sobre trocar sua rotina toda, é sobre quebrar blocos longos de tempo parada com pequenos movimentos ao longo do dia.
+
+=== SLIDE 10 — CTA ===
+CTA_PRIMARIO: Comenta aqui: qual é o maior período que você passa parada no seu dia? Treina comigo a quebrar isso.
+CTA_SECUNDARIO: Segue o @corposaber para não perder o próximo sobre movimento e longevidade.
+HASHTAGS: #corposaber #saudefeminina #atividadefisica #mulheres40plus #sedentarismo
+
+---
+
+**NOTAS DE IMPLEMENTAÇÃO:**
+
+- **Slide 1** é direto e para no scroll em menos de 2 segundos — dados concretos sem sensacionalismo
+- **Progressão**: contexto → problema → dado → mecanismo → detalhe secundário → mito → verdade → ação → CTA
+- **Tom**: direto ("é fácil achar", "não precisa"), acolhedor ("você já faz parte disso") e nunca alarmista
+- **Slide 10**: CTA primário é pergunta específica (comentário) + secundário é follow complementar
+- **Hashtags**: exatamente 5, com #corposaber obrigatória

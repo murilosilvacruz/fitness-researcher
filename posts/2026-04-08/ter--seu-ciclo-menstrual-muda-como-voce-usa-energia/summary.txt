@@ -1,7 +1,7 @@
-TITULO: Seu ciclo menstrual muda como você usa energia
-SUBTITULO: Estrogênio e progesterona influenciam metabolismo, combustível e recuperação a cada fase
+TITULO: Seu ciclo menstrual muda como você usa energia (59 caracteres)
+SUBTITULO: Estrogênio e progesterona influenciam metabolismo, combustível e recuperação a cada fase. (97 caracteres)
 PILAR: SEU CORPO EXPLICA
 BULLETS:
-• Na fase folicular, seu corpo queima mais carboidrato; na lútea, usa mais gordura — adaptar a nutrição a cada fase melhora performance
-• Estrogênio e progesterona flutuam em padrão previsível ao longo do ciclo e afetam diretamente como você se recupera do treino
-• Reconhecer essas variações permite otimizar treino e alimentação conforme cada fase, tornando o exercício mais eficaz e sustentável
+• Na fase folicular queima carboidrato; na lútea usa gordura — adaptar nutrição melhora performance (95 caracteres)
+• Estrogênio e progesterona flutuam em padrão previsível e afetam diretamente sua recuperação de treino (99 caracteres)
+• Otimizar treino e alimentação conforme cada fase torna exercício mais eficaz e sustentável (89 caracteres)

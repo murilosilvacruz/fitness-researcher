@@ -1,0 +1,22 @@
+{
+  "status": "APPROVED",
+  "notes": "",
+  "auto": {
+    "passed": false,
+    "score": 0.923,
+    "failures": [
+      "summary: bullet 1 com 110 chars (máx 100)"
+    ],
+    "warnings": []
+  },
+  "llm": {
+    "score_total": 24,
+    "score_normalized": 0.96,
+    "brand_alignment": 5,
+    "hook_quality": 5,
+    "scientific_clarity": 5,
+    "pilar_fit": 5,
+    "cta_effectiveness": 4,
+    "feedback": "Excelente execução geral — voz inteligente sem infantilização, dados bem contextualizados e CTA claro. O único ponto de melhora: o CTA final (\"Salva esse post\") é genérico. Considere algo mais específico como \"Salva para mostrar na próxima conversa sobre treino\" ou \"Salva e compartilha com quem acha que só peso pesado funciona\", que reforçaria a aplicabilidade prática e incentivaria compartilhamento orgânico."
+  }
+}

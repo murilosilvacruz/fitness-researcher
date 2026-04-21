@@ -1,0 +1,36 @@
+# VIDEO GENERATION PROMPT FOR VEO (GOOGLE)
+
+**OPENING HOOK (0–0.5s) – Speed Ramp:**
+A Brazilian woman in her mid-40s, parda/mestiça with warm brown skin and wavy dark hair, sits on a modern apartment balcony overlooking an urban park. Her shoulders are tense, face slightly withdrawn. Suddenly, the camera rapidly ZOOMS IN on her face with an abrupt speed ramp as text overlay appears: "Exercise Works Better Than Medicine for Depression."
+
+---
+
+**HOLD SECTION (0.5–11s) – Before/After + FACE HOLD:**
+
+*Scene 1 (0.5–2.5s) – Before State – Slow-mo strategic:*
+Wide shot of the same woman sitting still on the balcony, looking down at her lap. Her breathing is shallow. Terracotta accent plant pot sits next to her. Slow-motion capture of her exhalation, subtle tension visible in her jaw. Text overlay: "Stressed cortisol rising."
+
+*Scene 2 (2.5–5s) – Scientific split-screen:*
+Left side: Abstract HPA axis animation (hypothalamus-pituitary-adrenal) glowing in sage green, showing dysregulation. Right side: Real footage of the same woman standing, beginning to stretch gently on her balcony, sunlight catching her face. Text: "Your stress engine is stuck."
+
+*Scene 3 (5–9s) – FACE HOLD (static camera, emotional peak):*
+Close-up of woman's face, 6-inch distance. She's now 5 minutes into gentle movement (yoga stretch, subtle arm raises in off-white linen). Her shoulders drop visibly. Her expression softens. Eye contact with camera. Warm golden hour light. Text overlay reveals: "Exercise regulates the system. Even yoga + breathing works. Depression? Anxiety? Poor sleep? All improve."
+
+*Scene 4 (9–11s) – After State – speed ramp reverse:*
+Camera pulls back as she moves with purpose across her apartment balcony toward a chair. Her posture is open, confident. Warm terracotta and sage tones frame her. Text: "The challenge: find YOUR movement."
+
+---
+
+**PAYOFF (11–14s) – Loop Perfect + Emotional Close:**
+Final shot: Woman smiling softly at camera, backlit by city sunset in terracotta and gold tones. She nods subtly. Text: "Share this with someone who needs to hear it now." 
+
+The final frame subtly echoes the opening (woman on balcony, but transformed in mood and posture), creating a perfect loop for replay. Subtle fade to off-white background with Corpo e Saber logo.
+
+---
+
+**TECHNICAL SPECIFICATIONS:**
+- Vertical 9:16 format
+- Color palette: Terracota #C9614A, Sage #7B9E87, Off-white #F7F5F2
+- Talent: Parda/mestiça woman, 40–50 years old, warm brown skin, wavy dark hair, natural and relatable presence
+- Environment: Modern Brazilian apartment balcony with urban park view, afternoon golden hour lighting
+- Camera movements: Speed ramps at hook and payoff; slow-mo during cortisol visualization; steady FACE HOLD

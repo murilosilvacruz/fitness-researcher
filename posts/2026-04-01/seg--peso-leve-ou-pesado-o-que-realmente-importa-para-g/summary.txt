@@ -1,8 +1,7 @@
-TITULO: Peso leve ou pesado: o que realmente importa para ganhar músculos
-SUBTITULO: Para iniciantes, treinar até a fadiga vale mais que a carga. Ganhos similares com 30% ou 80% do peso máximo.
+TITULO: Peso leve ou pesado importa menos no começo (50 caracteres)
+SUBTITULO: Para iniciantes, treinar até fadiga vale mais que a carga. Ganhos similares com 30% ou 80% do máximo.
 PILAR: CIÊNCIA EM DOSE
 BULLETS:
-• Peso leve ou pesado geram ganhos parecidos (6,8% vs 7,2%) quando você treina até a fadiga muscular
-• No começo, sua consistência e intensidade no esforço importam mais que os quilos do halter
-• Mulheres iniciantes têm maior potencial de adaptação muscular, independentemente da carga usada
-• Conforme fica mais treinada, isso pode mudar — mas no início, o segredo é treinar com propósito
+• Peso leve ou pesado gera ganhos parecidos (6,8% vs 7,2%) quando você treina até fadiga muscular.
+• No começo, sua consistência e intensidade no esforço importam mais que os quilos do halter.
+• Mulheres iniciantes têm potencial de adaptação muscular alto, independentemente da carga usada.

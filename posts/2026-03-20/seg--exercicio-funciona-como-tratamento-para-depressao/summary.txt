@@ -1,3 +1,7 @@
-TITULO: Exercício funciona como tratamento para depressão
-SUBTITULO: Atividade física regular melhora o sistema de resposta ao estresse e reduz sintomas depressivos — frequentemente tão efetivo quanto outras intervenções.
+TITULO: Exercício é tratamento para depressão cientificamente comprovado (59 caracteres)
+SUBTITULO: Atividade regular melhora resposta ao estresse e reduz sintomas — frequentemente tão efetivo quanto outras intervenções (133 caracteres)
 PILAR: CIÊNCIA EM DOSE
+BULLETS:
+• Melhora o funcionamento do eixo que controla cortisol e adrenalina — fisiologia real
+• Yoga com foco em respiração também mostrou efeitos significativos
+• "Dose ideal" ainda em aberto — mulher 40+ responde diferente de mulher 25

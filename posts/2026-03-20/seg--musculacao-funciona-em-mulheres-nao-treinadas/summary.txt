@@ -1,3 +1,7 @@
-TITULO: Musculação funciona em mulheres não treinadas
-SUBTITULO: Força e ganho muscular são reais, mas a ciência ainda quer mais evidências robustas para consolidar as recomendações.
+TITULO: Musculação funciona em mulheres iniciantes de verdade (54 caracteres)
+SUBTITULO: Força e ganho muscular são reais, mas precisamos de mais estudos para consolidar as melhores recomendações (124 caracteres)
 PILAR: CIÊNCIA EM DOSE
+BULLETS:
+• Estudos anteriores focaram em saúde óssea, ignorando desempenho muscular puro
+• Mulheres iniciantes ganham força e hipertrofia — a evidência é real
+• Qualidade metodológica é moderada; mais pesquisas bem desenhadas vêm aí

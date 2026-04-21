@@ -1,8 +1,7 @@
-TITULO: Mulher ativa precisa de mais proteína que o recomendado
-SUBTITULO: Proteína estratégica perto do treino preserva músculos e força, especialmente após os 40
+TITULO: Mulher ativa precisa de bem mais proteína que 0,8g
+SUBTITULO: Proteína estratégica perto do treino preserva músculos, força e função imunológica após os 40.
 PILAR: CIÊNCIA EM DOSE
 BULLETS:
-• Mulheres que se exercitam precisam de mais de 0,8 g/kg de peso corporal — a recomendação geral não é suficiente para atletas
-• Sem proteína adequada, seu corpo entra em catabolismo (degrada músculo) e recuperação fica comprometida
-• Consumir proteína próximo ao treino potencia síntese muscular e atenua a perda natural de massa após os 40
-• Timing importa: aminoácidos circulantes elevados após treino são fundamentais para manter força e função imunológica
+• Mulheres que se exercitam precisam de mais de 0,8g/kg de peso corporal — a recomendação geral não basta para atletas.
+• Sem proteína adequada, seu corpo degrada músculo em vez de construir, especialmente após os 40.
+• Timing importa: consumir proteína próximo ao treino potencia síntese muscular e recuperação.

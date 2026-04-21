@@ -1,0 +1,46 @@
+# VIDEO GENERATION PROMPT FOR VEO (GOOGLE)
+
+**VIDEO BRIEF:**
+
+Create a vertical 9:16 Instagram Reel (8–15 seconds) targeting Brazilian women aged 40–55 who exercise regularly. Use terracotta (#C9614A), sage (#7B9E87), and off-white (#F7F5F2) as primary colors.
+
+---
+
+**HOOK (0–3 seconds) — OPENING HOOK + SPEED RAMP:**
+
+Start with a fast-paced camera movement (speed ramp acceleration) showing a parda/mestiça woman (warm brown skin, wavy/curly hair, mid-40s) in a modern São Paulo apartment kitchen, mid-morning light. She is holding a meal prep container with grilled chicken and vegetables. On-screen text appears: "8% — estudos com mulheres" in bold white typography. Camera zooms in quickly toward her face, stopping abruptly. This sharp visual break pauses the scroll.
+
+---
+
+**HOLD (3–12 seconds) — SPLIT SCREEN + FACE HOLD + SLOW-MO STRATEGIC:**
+
+Cut to a split-screen layout:
+- **Left side:** Woman placing a protein-rich meal on a plate (shot at normal speed, 2 seconds).
+- **Right side:** Animated infographic showing "1,2–2,0g proteína/kg peso corporal" with numbers stacking on screen.
+
+Transition to a FACE HOLD (4–5 seconds): Close-up of the same woman's face, steady static camera. She speaks with calm confidence. Overlay text reads: "Distribuir em 5 refeições. 25g de proteína em cada uma." Behind her, subtle slow-motion footage of fish/seafood being prepared (ômega-3 visual reference). Natural, warm lighting emphasizes her skin tone.
+
+Quick cut (1 second): Animated ratio graphic "Ômega-6 : Ômega-3 < 2" with sage-green accent.
+
+---
+
+**PAYOFF (final 3–5 seconds) — BEFORE/AFTER + LOOP PERFECT:**
+
+Show a brief before/after sequence: Woman looking slightly fatigued (dimmer lighting, 1.5s) → woman post-recovery looking energized and smiling in the same kitchen space (brighter, 1.5s). 
+
+Final frame loops back to the opening kitchen scene with the meal prep container, creating a subtle perfect loop. End frame shows a text call-to-action: "Salva esse post" in off-white typography on a terracotta background.
+
+---
+
+**TECHNICAL SPECIFICATIONS:**
+
+- Camera movements: zoom-in hook, static hold, subtle pan during split-screen, return to opening frame
+- Transitions: sharp cuts every 2–3 seconds during HOLD; smooth dissolve for before/after
+- Pacing: fast (hook) → controlled (hold) → gentle (payoff)
+- Environment: modern Brazilian apartment kitchen, natural daylight, warm color temperature
+- Text overlays: bold sans-serif, white/off-white, positioned top and center for readability
+- Audio cue: subtle notification/discovery sound on text reveal; soft background music (minimal, instrumental)
+
+---
+
+**DURATION:** 12 seconds. 9:16.

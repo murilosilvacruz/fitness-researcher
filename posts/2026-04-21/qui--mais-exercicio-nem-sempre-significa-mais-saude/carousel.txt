@@ -1,0 +1,60 @@
+=== SLIDE 1 — CAPA ===
+TITULO: Mais treino nem sempre significa melhor saúde
+SUBTITULO: O que a ciência diz sobre a dose ideal de exercício para o seu coração
+CHAMADA: Deslize para ver →
+
+---
+
+=== SLIDE 2 — CONTEXTO ===
+TITULO: Por que isso importa para você
+CORPO: Aos 40+, a saúde cardiovascular vira prioridade. Você já ouviu falar que "quanto mais ativo, melhor" — e pode estar se perguntando se seu treino é suficiente ou se deveria fazer mais. A verdade é que existe um ponto ótimo de exercício para o coração, e ultrapassá-lo não traz benefício extra. Pelo contrário.
+
+---
+
+=== SLIDE 3 — PROBLEMA ===
+TITULO: O que a maioria acredita — ou faz errado
+CORPO: Muitas mulheres pensam que precisam treinar o máximo possível para ter um coração saudável. Essa lógica "quanto mais, melhor" nos leva a ignorar sinais de cansaço e a sobrecarregar o corpo. Resultado: mais lesões, mais stress no coração, menos consistência no longo prazo.
+
+---
+
+=== SLIDE 4 — DADO PRINCIPAL ===
+TITULO: A dose ideal de exercício vigoroso é entre 50 e 60 minutos diários
+CORPO: Estudos mostram que é nesta faixa que você obtém os maiores ganhos em redução de mortalidade por todas as causas. Abaixo disso, já há benefício real. Acima disso, o benefício não aumenta proporcionalmente — e o risco de sobrecarga cardiovascular sobe.
+DESTAQUE: Ganhos máximos em saúde cardiovascular: 50–60 minutos de exercício vigoroso por dia.
+
+---
+
+=== SLIDE 5 — MECANISMO ===
+TITULO: Como isso funciona no seu corpo
+CORPO: Quando você se exercita na dose ideal, seu coração se adapta melhor, seus vasos sanguíneos ficam mais flexíveis e seu colesterol muda para um perfil mais protetor. Mas quando você força muito além do limite, o coração vira um órgão cronicamente inflamado, trabalhando contra você.
+
+---
+
+=== SLIDE 6 — DADO SECUNDÁRIO ===
+TITULO: Maratonistas profissionais têm risco cardiovascular similar ao de doentes cardíacos
+CORPO: Sim, isso mesmo. Atletas que trenam volumes extremamente altos apresentam frequência de eventos cardiovasculares adversos comparável à de pessoas com doença cardíaca estabelecida. Seu corpo não foi feito para ultrapassar certos limites, por mais saudável que você seja.
+
+---
+
+=== SLIDE 7 — MITO ===
+TITULO: "Se um pouco de exercício é bom, muito é melhor"
+CORPO: Falso. O exercício segue uma curva dose-resposta — há um ponto de pico onde os benefícios são máximos. Acima disso, você só colhe efeitos negativos sem ganho proporcional.
+
+---
+
+=== SLIDE 8 — VERDADE ===
+TITULO: O que a evidência diz de verdade
+CORPO: Exercício moderado e consistente bate exercício extremo toda vez que se trata de saúde de longo prazo. Você não precisa ser uma atleta para ter um coração saudável. Precisa ser consistente, respeitando seus limites e recuperação.
+
+---
+
+=== SLIDE 9 — NA PRÁTICA ===
+TITULO: O que você pode fazer a partir de hoje
+CORPO: Se você está indo bem com 30–45 minutos de exercício vigoroso, não sinta culpa em não expandir indefinidamente. Mantenha sua rotina, priorize consistência e qualidade de recuperação. Se faz muito mais que uma hora diária, considere reduzir e observar como se sente — seu coração pode ficar mais seguro assim.
+
+---
+
+=== SLIDE 10 — CTA ===
+CTA_PRIMARIO: Comenta aqui: quanto tempo de exercício vigoroso você faz por semana? Você já sentiu que pode estar fazendo demais?
+CTA_SECUNDARIO: Segue @corpo.saber para não perder o próximo post sobre saúde cardiovascular.
+HASHTAGS: #corposaber #saúdecardiovascular #exercíciomodera #mulheres40mais #doseideal

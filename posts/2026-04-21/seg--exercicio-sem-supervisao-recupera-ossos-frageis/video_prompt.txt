@@ -1,0 +1,41 @@
+**VIDEO GENERATION PROMPT FOR VEO (GOOGLE)**
+
+---
+
+**Title:** Unsupervised Exercise Recovers Fragile Bones
+
+**Duration:** 12 seconds, 9:16 vertical format
+
+**Color Palette:** Terracota #C9614A, Sage #7B9E87, Off-white #F7F5F2
+
+**Target Audience:** Brazilian women 40–55 years old
+
+---
+
+**VISUAL NARRATIVE:**
+
+**HOOK (0–3 seconds) — OPENING MOVEMENT:**
+Close-up POV of a Parda/Mestiça woman (warm brown skin, wavy cacheado hair, age 48) in her apartment living room. She lifts her foot decisively and lands with impact on the wooden floor — hard, intentional stomp. Camera captures the moment from floor-level POV, creating immediate tactile energy. Text overlay appears: "Exercício sem academia recupera osso frágil" (sharp white text on sage background). Speed ramp: freeze-frame on her foot's contact with ground for 0.5 seconds to lock viewer attention.
+
+**HOLD (3–9 seconds) — SCIENTIFIC PROGRESSION & SPLIT SCREEN:**
+Split-screen reveals two parallel journeys:
+- LEFT SIDE: The same woman performing simple home exercises (jumping jacks, light resistance movements with water bottles, weight shifts) in her kitchen/living space — shot in real-time, minimal equipment visible.
+- RIGHT SIDE: Animated visualization of bone density increase (glowing terracota-colored bone strengthening, density numbers 0.73 and 0.85 appearing in sage text overlay).
+
+Pacing: cut between exercises every 2.5 seconds. Camera on LEFT stays dynamic (slight zoom-in on legs during impact movements). RIGHT SIDE uses subtle slow-mo (0.7x speed) to emphasize bone transformation. Text reveals key data points: "Coluna +0.73 | Fêmur +0.85."
+
+**PAYOFF (9–12 seconds) — FACE HOLD & EMOTIONAL RESOLUTION:**
+Cut to static 5-second FACE HOLD: same woman in her home, smiling with quiet confidence, hand on her chest near heart. Soft natural light from window. She nods slightly. Text overlay: "Não precisa de academia. Treina em casa e funciona." (Off-white text, centered).
+
+Camera remains still and intimate — capturing genuine satisfaction and empowerment in her expression.
+
+**TECHNICAL SPECIFICATIONS:**
+- Opening movement: hard impact sound design (subtle thud on stomp)
+- Transitions: quick cuts (0.2s fade) between split-screen segments
+- Lighting: natural Brazilian apartment daylight, warm and accessible
+- No gym equipment visible — only household items and bodyweight
+- Final frame holds for 3 seconds, then slow fade to brand color (sage background)
+
+**Loop potential:** Final nod mirrors opening stomp — viewers feel compelled to replay.
+
+12 seconds. 9:16.

@@ -1,7 +1,7 @@
-TITULO: Musculação protege mulheres de lesões e fragilidade
-SUBTITULO: Treinamento de resistência reduz risco de lesões como ruptura do LCA e fortalece ossos para a vida toda.
+TITULO: Musculação protege mulheres de lesões e fragilidade (55 caracteres)
+SUBTITULO: Treinamento de resistência reduz ruptura do LCA e fortalece ossos para a vida toda — especialmente a partir dos 40.
 PILAR: CIÊNCIA EM DOSE
 BULLETS:
-• Mulheres que fazem musculação direcionada reduzem significativamente o risco de ruptura do ligamento cruzado anterior, uma lesão muito comum no sexo feminino
-• Fortalecer músculos e ossos agora é a melhor estratégia para prevenir quedas e fragilidade na maturidade — especialmente importante a partir dos 40
-• Musculação deixou de ser coisa de atleta e virou ferramenta de saúde acessível para todas as mulheres em qualquer idade
+• Mulheres que fazem musculação direcionada reduzem significativamente o risco de ruptura do ligamento cruzado anterior (LCA).
+• Fortalecer músculos e ossos agora é a melhor estratégia para prevenir quedas e fragilidade na maturidade.
+• Musculação é ferramenta de saúde acessível para todas as mulheres em qualquer idade — não coisa de atleta.

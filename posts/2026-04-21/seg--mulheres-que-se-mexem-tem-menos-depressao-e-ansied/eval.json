@@ -1,0 +1,24 @@
+{
+  "status": "APPROVED",
+  "notes": "",
+  "auto": {
+    "passed": false,
+    "score": 0.769,
+    "failures": [
+      "summary: bullet 1 com 115 chars (máx 100)",
+      "summary: bullet 4 com 102 chars (máx 100)",
+      "caption: nenhum CTA detectado (salva, comenta, marca, link na bio)"
+    ],
+    "warnings": []
+  },
+  "llm": {
+    "score_total": 21,
+    "score_normalized": 0.84,
+    "brand_alignment": 4,
+    "hook_quality": 5,
+    "scientific_clarity": 3,
+    "pilar_fit": 5,
+    "cta_effectiveness": 4,
+    "feedback": "A voz é inteligente e acolhedora, sem infantilização — alinha bem à marca. Porém, falta especificar qual estudo exato foi usado (autores, ano, tamanho amostral) antes de linkar. O título \"mulheres atletas\" pode confundir: o post fala de \"exercício regular\", não necessariamente atletas. Considere reescrever o bullet 1 para clareza. O CTA final é forte, mas poderia incluir um call secundário (salvar, comentar) para potencializar engajamento."
+  }
+}

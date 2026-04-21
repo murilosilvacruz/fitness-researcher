@@ -1,0 +1,25 @@
+{
+  "status": "APPROVED",
+  "notes": "",
+  "auto": {
+    "passed": false,
+    "score": 0.667,
+    "failures": [
+      "summary: TITULO com 67 chars (máx 60)",
+      "summary: bullet 1 com 122 chars (máx 100)",
+      "summary: bullet 2 com 123 chars (máx 100)",
+      "summary: bullet 3 com 108 chars (máx 100)"
+    ],
+    "warnings": []
+  },
+  "llm": {
+    "score_total": 23,
+    "score_normalized": 0.92,
+    "brand_alignment": 5,
+    "hook_quality": 5,
+    "scientific_clarity": 4,
+    "pilar_fit": 5,
+    "cta_effectiveness": 4,
+    "feedback": "O post é excelente em tom, estrutura e alinhamento com a marca — direto, sem alarme, acolhedor. A citação do estudo (Nutrients, 2025) com link é um diferencial importante. Duas pequenas melhorias: (1) adicione o número do estudo ou mais detalhes metodológicos (quantas participantes, duração?) para reforçar credibilidade científica; (2) o CTA está bom, mas poderia ser mais único — \"salva esse post\" é genérico; considere \"compartilhe com quem está pensando em começar\" ou \"use como argumento na próxima conversa sobre treino\" para gerar engajamento mais direto."
+  }
+}

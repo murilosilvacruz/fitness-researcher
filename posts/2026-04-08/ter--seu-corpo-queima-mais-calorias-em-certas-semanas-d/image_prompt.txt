@@ -1,18 +1,18 @@
-Generate a high-quality background image for an Instagram post (1080x1080 px).
+Generate a high-quality background image for an Instagram post (1080x1350 px, portrait 4:5 ratio).
 
 Brand: Corpo e Saber — Brazilian science-based health content for women 40+.
 Topic: Seu corpo queima mais calorias em certas semanas do mês
 Detail: Entenda por que a fase lútea exige mais carboidratos e como ajustar sua nutrição ao ciclo menstrual.
 
-Visual direction: close-up of a woman's arms or legs mid-movement — lifting, stretching or walking, soft focus, organic natural tones, editorial feel
+Visual direction: woman in her 40s seated at a bright kitchen table with a wholesome, colorful meal — whole grains, fruits and vegetables — thoughtful and nourishing atmosphere, three-quarter view, natural window light, sense of cycle-aware nutrition
 
 Style requirements:
 - No text, numbers or legible words anywhere in the image
-- No faces visible (back, silhouettes, partial frames or hands only)
+- Faces can be visible, but avoid close ups. When face is not visible, use back, silhouettes, partial frames or hands only
 - Avoid laboratory equipment, microscopes, petri dishes or research props
 - Prioritize real women in movement over abstract or still-life compositions
-- Color palette: warm off-white (#F7F5F2), terracotta (#C9614A) accents, muted earth tones
+- Color palette: light green (#5cbab3), terracotta (#C9614A) accents, and soft pink (#ffe7ff), muted earth tones
 - Mood: calm, trustworthy, empowering, editorial
 - Lighting: soft, diffused, natural — avoid harsh shadows or neon
-- Composition: leave generous negative space in the center for text overlay
-- Format: square 1:1, photorealistic or high-quality digital art
+- Composition: leave generous negative space in the center or in the top for text overlay
+- Format: portrait 4:5 (1080x1350 px), photorealistic or high-quality digital art

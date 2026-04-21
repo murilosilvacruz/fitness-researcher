@@ -1,0 +1,30 @@
+# VIDEO GENERATION PROMPT - VEO (GOOGLE)
+
+**BRIEF:**
+Create a viral Instagram Reel (9:16 vertical) for women aged 40–55 years old. Duration: 12 seconds. Brand: Corpo e Saber. Scientific pillar: "Nutrition + Exercise = Heart, Bone & Hormone Protection."
+
+**COLOR PALETTE:**
+Terracotta #C9614A, Sage #7B9E87, Off-white #F7F5F2. Warm, earthy, sophisticated Brazilian aesthetic.
+
+**OPENING HOOK (0–0.5s):**
+Split-screen comparison: LEFT SIDE shows a woman's hand touching her chest (heart); RIGHT SIDE shows the same woman's hand on her arm (bone/muscle). Both movements are sharp, confident, symmetrical. Quick camera zoom-in. Text overlay in white: "Inflamação baixa, ossos fortes, coração protegido."
+
+**HOLD SEGMENT 1 (0.5–4s):**
+Transition to close-up POV of woman's face (Parda/Mestiça, warm brown skin, wavy dark hair, 45 years old). She's indoors in a bright, minimalist Brazilian apartment with sage green accents. Her expression shifts from concern to calm understanding. Slow-motion: eyes close gently, then open with clarity. Text cuts appear in sequence: "Treinamento de força + Aeróbico + Nutrição equilibrada" with micro-animations.
+
+**HOLD SEGMENT 2 (4–9s):**
+FACE HOLD (static camera 2–3s on her expression—moment of recognition/confidence). Speed ramp: camera slowly pulls back to reveal her in an active pose (light dumbbell held, natural movement, not aggressive). Meanwhile, subtle visual overlay of flowing particles (sage and terracotta) representing "reduced inflammation." Split-screen briefly shows: LEFT—heartbeat monitor visualization (steady rhythm); RIGHT—bone density improvement (warm terracotta glow). Text: "Hormônios equilibrados. Metabolismo que funciona."
+
+**PAYOFF (9–12s):**
+Wide shot: woman places dumbbell down gently on off-white floor, walks toward a bright window (Brazilian natural light). She touches her chest once more—gesture mirrors the hook but with visible relief/confidence. Camera follows in slight speed-ramp deceleration. Text overlay: "Doses moderadas já funcionam. Salva esse post antes do próximo treino." Final frame freezes on her silhouette against warm light. Perfect loop: image transitions subtly back to opening hook imagery, encouraging replay.
+
+**TECHNICAL SPECIFICATIONS:**
+- Movements: smooth gimbal work, micro-cuts every 2–3 seconds in HOLD segments for pacing
+- Transitions: crossfade on color (terracotta → sage), no jarring cuts
+- Brazilian setting: modern apartment, warm natural sunlight, potted plants visible
+- Audio suggestion: subtle heartbeat sound design, minimal, scientific
+- All text in Portuguese, sans-serif, white or terracotta on transparent backgrounds
+- Before/After technique embedded in split-screen and visual transformation (concern → confidence)
+
+**FINAL SPECIFICATION:**
+12 seconds. 9:16.

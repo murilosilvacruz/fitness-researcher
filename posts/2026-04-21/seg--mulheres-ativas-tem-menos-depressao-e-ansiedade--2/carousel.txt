@@ -1,0 +1,54 @@
+# CARROSSEL CORPO E SABER — 10 SLIDES
+
+=== SLIDE 1 — CAPA ===
+TITULO: Mulheres que se mexem têm menos depressão
+SUBTITULO: A evidência que mudar a sua rotina pode ser tão importante quanto qualquer remédio.
+CHAMADA: Deslize para ver →
+
+=== SLIDE 2 — CONTEXTO ===
+TITULO: Por que isso importa para você
+CORPO: Aos 40, 50 anos, muitas mulheres enfrentam uma combinação de desafios: pressão social, transições hormonais, responsabilidades acumuladas. Tudo isso aumenta o risco de depressão e ansiedade. Mas há algo poderoso que você pode controlar: se mexer — e a ciência prova que faz diferença real.
+
+=== SLIDE 3 — PROBLEMA ===
+TITULO: O que a maioria acredita — ou não faz
+CORPO: Muitas mulheres pensam que exercício é só para emagrecer ou ficar em forma. Ou então deixam de se mexer porque estão cansadas, sem energia — exatamente quando mais precisariam. O resultado? Entram num ciclo que piora o cansaço, a ansiedade e o humor.
+
+=== SLIDE 4 — DADO PRINCIPAL ===
+TITULO: Mulheres ativas têm significativamente menos depressão
+CORPO: Um estudo robusto comparou mulheres que praticam atividades físicas regularmente com mulheres sedentárias. O resultado: sintomas depressivos eram notavelmente mais baixos no grupo ativo. Não estamos falando de uma melhora pequena — estamos falando de diferenças significativas que impactam a qualidade de vida.
+DESTAQUE: Mulheres que se mexem têm menos sintomas de depressão — ponto.
+
+=== SLIDE 5 — MECANISMO ===
+TITULO: Como isso funciona no seu corpo
+CORPO: Quando você se exercita, seu corpo libera serotonina — o neurotransmissor que regula o humor e a ansiedade. Além disso, a atividade física melhora a aptidão cardiorrespiratória, o que significa que seu coração e pulmões trabalham melhor, levando oxigênio e nutrientes para o seu cérebro de forma mais eficiente. É biologia pura.
+
+=== SLIDE 6 — DADO SECUNDÁRIO ===
+TITULO: Benefício extra: melhor sono e vida social
+CORPO: Mulheres ativas também dormem melhor e têm funcionamento social superior. Isso significa menos noites mal dormidas, mais disposição para estar com pessoas que importam, mais energia para a vida. O exercício não trata só a mente — reorganiza como você vive.
+
+=== SLIDE 7 — MITO ===
+TITULO: "Preciso estar bem para começar a me mexer"
+CORPO: Muitas esperam estar com energia e disposição antes de sair do sofá. Mas é o contrário: mexer-se é o que gera energia. O exercício aumenta sua autoconfiança e senso de competência — você começa a se sentir capaz de novo.
+
+=== SLIDE 8 — VERDADE ===
+TITULO: O que a evidência diz de verdade
+CORPO: Exercício físico não é um complemento — é uma ferramenta terapêutica. Quando você se mexe regularmente, você está literalmente modificando a química do seu cérebro, fortalecendo sua autoimagem, ganhando independência. Para mulheres de 40+, isso é medicina — sem efeitos colaterais.
+
+=== SLIDE 9 — NA PRÁTICA ===
+TITULO: O que você pode fazer a partir de hoje
+CORPO: Comece pequeno: uma caminhada de 20 minutos já ativa o processo. Treino de força 2-3x na semana é ideal (protege osso + melhora humor). O segredo não é ser perfeita — é ser consistente. Você não precisa de academia cara ou rotina complicada. Precisa se mover.
+
+=== SLIDE 10 — CTA ===
+CTA_PRIMARIO: Manda pra uma amiga que anda adiando aquele exercício — ela merece ler isso.
+CTA_SECUNDARIO: Segue @corpo.saber para não perder o próximo estudo que vai mudar como você cuida de si.
+HASHTAGS: #corposaber #saúdemulher #depressão #exercício #40plus
+
+---
+
+**NOTAS DE ENTREGA:**
+- Cada slide respeita um conceito único
+- Progressão: curiosidade → validação → mecanismo → ação
+- Tom: confiante, científico, mas nunca assustador
+- Slide 1 tem impacto imediato
+- Slide 10 oferece ação clara + incentivo ao seguimento
+- Hashtags: exatamente 5, com #corposaber obrigatório

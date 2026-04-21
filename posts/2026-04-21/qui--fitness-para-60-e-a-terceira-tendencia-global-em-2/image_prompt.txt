@@ -1,0 +1,5 @@
+A woman in her late 50s, afro-brazilian with deep brown skin and natural textured hair pulled back, wearing a soft sage green fitted tank top, mid-workout in a bright, naturally-lit home gym. Her arms are defined and actively engaged—one arm extended forward in a controlled movement, shoulders slightly tensed with effort. Genuine, focused expression showing strength and determination. Shot from chest up, golden afternoon light streaming through a large window behind her, creating soft shadows across her face and arms. Minimal, clean background with off-white walls and a glimpse of natural wood flooring. Her skin shows authentic texture, fine lines visible, radiating vitality and purpose. Warm, earthy aesthetic with emphasis on real movement, real body, real moment. Shot with 50mm portrait lens, shallow depth of field, natural skin tones rendered with warmth and depth.
+
+Portrait 4:5, 1080x1350px. No text, no watermarks.
+
+--ar 4:5 --style raw --v 7
