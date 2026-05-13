@@ -1,0 +1,42 @@
+=== SLIDE 1 — CAPA ===
+TITULO: Musculação: seu melhor escudo contra osteoporose
+SUBTITULO: Descubra como fortalecer seus ossos e prevenir quedas hoje.
+CHAMADA: Deslize para ver →
+
+=== SLIDE 2 — CONTEXTO ===
+TITULO: Por que isso importa para você
+CORPO: Com o envelhecimento, especialmente após os 40, a perda óssea se acelera. Isso aumenta o risco de osteopenia e osteoporose, deixando seus ossos mais frágeis e suscetíveis a fraturas.
+
+=== SLIDE 3 — PROBLEMA ===
+TITULO: O que a maioria acredita — ou faz errado
+CORPO: Muitas mulheres focam apenas em cálcio e vitamina D ou em exercícios leves, sem saber que essas abordagens sozinhas podem não ser suficientes para combater a perda óssea de forma eficaz.
+
+=== SLIDE 4 — DADO PRINCIPAL ===
+TITULO: Treinamento de força melhora a densidade óssea
+CORPO: Estudos mostram que a musculação pode aumentar o conteúdo mineral ósseo (CMO) na coluna lombar e no fêmur em até 4,9% em mulheres na pós-menopausa com osteopenia ou osteoporose.
+DESTAQUE: Musculação aumenta o conteúdo mineral ósseo em até 4,9%.
+
+=== SLIDE 5 — MECANISMO ===
+TITULO: Como isso funciona no seu corpo
+CORPO: Quando você levanta pesos, seus músculos puxam os ossos. Essa tensão estimula as células ósseas a se fortalecerem e depositarem mais minerais, aumentando a densidade e a resistência do osso.
+
+=== SLIDE 6 — DADO SECUNDÁRIO ===
+TITULO: Outros exercícios também ajudam
+CORPO: Além da musculação, exercícios aeróbicos de alto impacto e atividades que promovem agilidade também contribuem para a saúde óssea. No entanto, alongamento e relaxamento não têm o mesmo impacto direto na densidade.
+
+=== SLIDE 7 — MITO ===
+TITULO: Crença errada relacionada ao tema
+CORPO: "Exercícios de impacto são perigosos para quem tem osteoporose" ou "Só caminhar já basta para meus ossos".
+
+=== SLIDE 8 — VERDADE ===
+TITULO: O que a evidência diz de verdade
+CORPO: A evidência mostra que exercícios de força e impacto, quando bem orientados, são seguros e essenciais. Eles são a estratégia mais eficaz para fortalecer os ossos, prevenir a progressão da osteoporose e reduzir o risco de fraturas.
+
+=== SLIDE 9 — NA PRÁTICA ===
+TITULO: O que você pode fazer a partir de hoje
+CORPO: Inclua treinamento de força na sua rotina, com foco em cargas progressivas e movimentos que trabalhem grandes grupos musculares. Consulte um profissional para um plano seguro e eficaz.
+
+=== SLIDE 10 — CTA ===
+CTA_PRIMARIO: Salva esse post — você vai querer reler antes do próximo treino.
+CTA_SECUNDARIO: Segue o @corpo.saber para não perder o próximo.
+HASHTAGS: #corposaber #osteoporose #saudeossea #mulheres40mais #treinodeforça

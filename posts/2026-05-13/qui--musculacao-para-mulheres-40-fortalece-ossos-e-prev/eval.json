@@ -1,0 +1,23 @@
+{
+  "status": "APPROVED",
+  "notes": "",
+  "auto": {
+    "passed": false,
+    "score": 0.846,
+    "failures": [
+      "summary: TITULO com 61 chars (máx 60)",
+      "summary: bullet 1 com 101 chars (máx 100)"
+    ],
+    "warnings": []
+  },
+  "llm": {
+    "score_total": 22,
+    "score_normalized": 0.88,
+    "brand_alignment": 5,
+    "hook_quality": 4,
+    "scientific_clarity": 4,
+    "pilar_fit": 5,
+    "cta_effectiveness": 4,
+    "feedback": "A linguagem é clara e acolhedora, alinhada à marca. O dado científico é bem apresentado, mas a citação \"Estudo publicado em PMC, 2023, com vários participantes\" poderia ser mais específica, mencionando o tipo de estudo (ex: revisão sistemática) para maior credibilidade. O CTA é claro, mas poderia ser mais engajador, incentivando um comentário ou pergunta."
+  }
+}

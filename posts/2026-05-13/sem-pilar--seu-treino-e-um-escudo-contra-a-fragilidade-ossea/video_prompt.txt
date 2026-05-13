@@ -1,0 +1,5 @@
+[SCENE START]
+
+**Video Generation Prompt for Veo (Google)**
+
+**Overall Concept:** A dynamic and empowering Reel demonstrating how exercise
