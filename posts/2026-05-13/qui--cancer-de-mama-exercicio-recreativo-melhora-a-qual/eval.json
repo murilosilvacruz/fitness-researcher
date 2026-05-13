@@ -1,0 +1,22 @@
+{
+  "status": "APPROVED",
+  "notes": "",
+  "auto": {
+    "passed": false,
+    "score": 0.923,
+    "failures": [
+      "summary: TITULO com 64 chars (máx 60)"
+    ],
+    "warnings": []
+  },
+  "llm": {
+    "score_total": 23,
+    "score_normalized": 0.92,
+    "brand_alignment": 5,
+    "hook_quality": 4,
+    "scientific_clarity": 5,
+    "pilar_fit": 5,
+    "cta_effectiveness": 4,
+    "feedback": "O post é excelente e alinhado com a marca. Apenas o gancho poderia ser um pouco mais direto e menos em formato de pergunta para capturar a atenção de um público mais amplo, não apenas quem já passou pela doença. O CTA é bom, mas poderia ser mais forte."
+  }
+}

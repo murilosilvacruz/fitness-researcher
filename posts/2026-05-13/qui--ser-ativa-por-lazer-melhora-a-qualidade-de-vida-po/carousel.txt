@@ -1,0 +1,42 @@
+=== SLIDE 1 — CAPA ===
+TITULO: Atividade física melhora a vida após câncer de mama
+SUBTITULO: Mulheres ativas recuperam qualidade de vida mais rápido.
+CHAMADA: Deslize para ver →
+
+=== SLIDE 2 — CONTEXTO ===
+TITULO: Por que isso importa para você
+CORPO: Muitas mulheres enfrentam o câncer de mama, e a recuperação vai além do tratamento. Manter a qualidade de vida é um desafio real, especialmente na perimenopausa, quando o corpo já passa por outras mudanças.
+
+=== SLIDE 3 — PROBLEMA ===
+TITULO: O que a maioria acredita — ou faz errado
+CORPO: É comum focar apenas nos tratamentos médicos, esquecendo que o estilo de vida tem um impacto enorme na recuperação. A ideia de que "descanso total" é sempre o melhor pode ser limitante.
+
+=== SLIDE 4 — DADO PRINCIPAL ===
+TITULO: Mulheres ativas têm melhor qualidade de vida pós-câncer
+CORPO: Um estudo com 9.254 mulheres mostrou que a atividade física recreativa está associada a uma melhora significativa na qualidade de vida geral, física e específica para o câncer de mama.
+DESTAQUE: 9.254 mulheres com melhor qualidade de vida.
+
+=== SLIDE 5 — MECANISMO ===
+TITULO: Como isso funciona no seu corpo
+CORPO: A atividade física libera endorfinas, melhora a circulação, fortalece músculos e ossos, e ajuda a regular hormônios. Tudo isso contribui para reduzir a fadiga, melhorar o humor e a funcionalidade física.
+
+=== SLIDE 6 — DADO SECUNDÁRIO ===
+TITULO: Atividade recreativa é chave para o bem-estar
+CORPO: A pesquisa destacou que atividades físicas no tempo livre, por iniciativa própria, são eficazes. Isso mostra que não é preciso um programa estruturado para colher benefícios importantes na recuperação.
+
+=== SLIDE 7 — MITO ===
+TITULO: Crença errada relacionada ao tema
+CORPO: Muitas mulheres acreditam que, após o câncer, devem evitar qualquer esforço físico para não prejudicar a recuperação ou sentir dor.
+
+=== SLIDE 8 — VERDADE ===
+TITULO: O que a evidência diz de verdade
+CORPO: A evidência mostra que a atividade física, mesmo a recreativa, é uma aliada poderosa. Ela não só melhora a qualidade de vida, mas também pode ser um fator crucial na recuperação e bem-estar contínuo.
+
+=== SLIDE 9 — NA PRÁTICA ===
+TITULO: O que você pode fazer a partir de hoje
+CORPO: Comece com caminhadas leves, jardinagem ou aulas de dança. Encontre algo que você goste e que seja fácil de encaixar na sua rotina, aumentando a intensidade gradualmente.
+
+=== SLIDE 10 — CTA ===
+CTA_PRIMARIO: Manda pra uma amiga que está passando pela recuperação do câncer de mama.
+CTA_SECUNDARIO: Segue o @corpo.saber para não perder o próximo.
+HASHTAGS: #corposaber #cancerdemama #qualidadedevida #atividadefisica #saudedamulher

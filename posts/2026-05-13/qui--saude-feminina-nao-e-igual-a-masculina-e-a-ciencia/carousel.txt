@@ -1,0 +1,42 @@
+=== SLIDE 1 — CAPA ===
+TITULO: Mulheres envelhecem diferente dos homens
+SUBTITULO: A menopausa acelera o envelhecimento sistêmico feminino de forma única.
+CHAMADA: Deslize para ver →
+
+=== SLIDE 2 — CONTEXTO ===
+TITULO: Por que isso importa para você
+CORPO: Se você está na casa dos 40 ou 50, sabe que seu corpo muda. Entender como o envelhecimento feminino é único é crucial para cuidar da sua saúde e bem-estar de forma eficaz.
+
+=== SLIDE 3 — PROBLEMA ===
+TITULO: O que a maioria acredita — ou faz errado
+CORPO: Por muito tempo, a pesquisa em longevidade se baseou em dados masculinos. Acreditava-se que as soluções eram universais, ignorando as particularidades da saúde da mulher, especialmente na menopausa.
+
+=== SLIDE 4 — DADO PRINCIPAL ===
+TITULO: Mulheres envelhecem de forma fundamentalmente diferente dos homens
+CORPO: Estudos recentes mostram que os ovários agem como "centro de comando" da saúde feminina. A menopausa e o declínio da função ovariana aceleram drasticamente o envelhecimento sistêmico.
+DESTAQUE: A menopausa acelera o envelhecimento sistêmico em mulheres.
+
+=== SLIDE 5 — MECANISMO ===
+TITULO: Como isso funciona no seu corpo
+CORPO: O declínio hormonal na menopausa desencadeia uma cascata de mudanças que afetam ossos, cérebro, sistema imunológico e mais. Isso leva a condições como osteoporose e declínio cognitivo, que as mulheres sofrem mais.
+
+=== SLIDE 6 — DADO SECUNDÁRIO ===
+TITULO: Homens não experimentam "morte gonadal" abrupta
+CORPO: Diferente das mulheres, homens não têm um declínio hormonal tão acentuado e repentino. Isso resulta em um padrão de envelhecimento e saúde diferente, reforçando a necessidade de abordagens específicas para cada gênero.
+
+=== SLIDE 7 — MITO ===
+TITULO: A menopausa é só um "calorão" passageiro
+CORPO: Muitas mulheres ainda pensam na menopausa apenas como ondas de calor e alterações de humor. Mas ela representa um ponto de virada crucial que impacta a saúde a longo prazo.
+
+=== SLIDE 8 — VERDADE ===
+TITULO: O que a evidência diz de verdade
+CORPO: A menopausa é um período de transformação sistêmica. É a fase em que o corpo feminino necessita de estratégias de bem-estar e longevidade muito mais completas e personalizadas.
+
+=== SLIDE 9 — NA PRÁTICA ===
+TITULO: O que você pode fazer a partir de hoje
+CORPO: Busque programas de longevidade que considerem as especificidades da saúde feminina e da menopausa. Converse com seu médico sobre estratégias integradas para ossos, mente e bem-estar geral.
+
+=== SLIDE 10 — CTA ===
+CTA_PRIMARIO: Manda pra uma amiga que está na perimenopausa ou menopausa.
+CTA_SECUNDARIO: Segue o @corpo.saber para não perder o próximo.
+HASHTAGS: #corposaber #menopausa #saudefeminina #longevidadefeminina #envelhecimentosaudavel

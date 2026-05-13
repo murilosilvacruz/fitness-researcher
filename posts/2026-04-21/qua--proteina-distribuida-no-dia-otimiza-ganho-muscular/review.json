@@ -1,0 +1,30 @@
+{
+  "post_folder": "qua--proteina-distribuida-no-dia-otimiza-ganho-muscular",
+  "reviewed_at": "2026-04-26T10:23:41",
+  "files": [
+    {
+      "file": "carousel.txt",
+      "score": 0,
+      "issues": [],
+      "suggestions": "",
+      "skipped": true,
+      "skip_reason": "erro na API: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CaSTN2jf8avWPpPcpamWT'}"
+    },
+    {
+      "file": "reels.txt",
+      "score": 0,
+      "issues": [],
+      "suggestions": "",
+      "skipped": true,
+      "skip_reason": "erro na API: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CaSTN3nfK6pG9mYv4fEPm'}"
+    },
+    {
+      "file": "caption.txt",
+      "score": 0,
+      "issues": [],
+      "suggestions": "",
+      "skipped": true,
+      "skip_reason": "erro na API: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CaSTN4mCKueYa5bT5L6k2'}"
+    }
+  ]
+}

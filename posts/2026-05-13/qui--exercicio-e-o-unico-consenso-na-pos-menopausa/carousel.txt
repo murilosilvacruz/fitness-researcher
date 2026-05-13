@@ -1,0 +1,42 @@
+=== SLIDE 1 — CAPA ===
+TITULO: Exercício na menopausa: o que fazer
+SUBTITULO: Seu treino pode não estar construindo ossos fortes.
+CHAMADA: Deslize para ver →
+
+=== SLIDE 2 — CONTEXTO ===
+TITULO: Por que isso importa para você
+CORPO: Com a menopausa, a perda óssea e muscular se acelera. Manter um corpo forte e ossos saudáveis é crucial para sua autonomia e qualidade de vida. O exercício é um pilar fundamental.
+
+=== SLIDE 3 — PROBLEMA ===
+TITULO: O que a maioria acredita — ou faz errado
+CORPO: Muitas mulheres focam apenas em exercícios aeróbicos leves ou atividades sem impacto, acreditando que são suficientes. Elas podem estar perdendo a chance de fortalecer seus ossos.
+
+=== SLIDE 4 — DADO PRINCIPAL ===
+TITULO: Exercícios de força e peso aumentam densidade óssea
+CORPO: Um estudo de revisão mostra que exercícios aeróbicos com suporte de peso (como caminhada vigorosa) e de resistência (musculação) são eficazes para aumentar a densidade mineral óssea da coluna em mulheres pós-menopausa.
+DESTAQUE: Exercícios com suporte de peso aumentam densidade óssea.
+
+=== SLIDE 5 — MECANISMO ===
+TITULO: Como isso funciona no seu corpo
+CORPO: Quando você move seu corpo contra a gravidade ou levanta pesos, seus ossos recebem um estímulo mecânico. Esse estresse sinaliza para o corpo depositar mais minerais, tornando os ossos mais densos e fortes.
+
+=== SLIDE 6 — DADO SECUNDÁRIO ===
+TITULO: Natação e ciclismo não são suficientes para ossos
+CORPO: Embora ótimos para a saúde geral, exercícios sem suporte de peso, como natação e ciclismo, não fornecem o estímulo necessário para construir massa óssea. Eles devem complementar, não substituir, o treino de força.
+
+=== SLIDE 7 — MITO ===
+TITULO: Crença errada relacionada ao tema
+CORPO: "Qualquer exercício é bom para os ossos." Isso não é totalmente verdade, pois o tipo de exercício faz toda a diferença para a saúde óssea.
+
+=== SLIDE 8 — VERDADE ===
+TITULO: O que a evidência diz de verdade
+CORPO: Para proteger seus ossos na menopausa, inclua na sua rotina exercícios que envolvam impacto e força. Eles são os únicos comprovadamente eficazes para manter e até aumentar a densidade óssea.
+
+=== SLIDE 9 — NA PRÁTICA ===
+TITULO: O que você pode fazer a partir de hoje
+CORPO: Priorize musculação 2-3 vezes por semana. Inclua atividades com suporte de peso, como caminhada rápida ou corrida leve. Mantenha um mínimo de 2 horas e 30 minutos de atividade aeróbica moderada semanal.
+
+=== SLIDE 10 — CTA ===
+CTA_PRIMARIO: Salva esse post — você vai querer reler antes do próximo treino.
+CTA_SECUNDARIO: Segue o @corpo.saber para não perder o próximo.
+HASHTAGS: #corposaber #menopausa #saudeossea #treinofeminino #mulheres40mais

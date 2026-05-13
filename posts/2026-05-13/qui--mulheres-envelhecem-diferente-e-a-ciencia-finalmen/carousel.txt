@@ -1,0 +1,42 @@
+=== SLIDE 1 — CAPA ===
+TITULO: Mulheres envelhecem diferente: a ciência confirma.
+SUBTITULO: O mercado de bem-estar está finalmente te enxergando de verdade.
+CHAMADA: Deslize para ver →
+
+=== SLIDE 2 — CONTEXTO ===
+TITULO: Por que isso importa para você
+CORPO: Por muito tempo, a saúde da mulher foi tratada como uma variação da saúde masculina. Mas a ciência está virando o jogo, mostrando que nosso envelhecimento tem um ritmo e desafios únicos.
+
+=== SLIDE 3 — PROBLEMA ===
+TITULO: O que a maioria acredita — ou faz errado
+CORPO: Muitas abordagens de "longevidade" ainda usam dados predominantemente masculinos. Isso leva a estratégias que não consideram as particularidades do corpo feminino, especialmente após os 40.
+
+=== SLIDE 4 — DADO PRINCIPAL ===
+TITULO: Mulheres envelhecem de forma fundamentalmente diferente dos homens.
+CORPO: A pesquisa mostra que o declínio da função ovariana (menopausa) acelera drasticamente o envelhecimento sistêmico em mulheres, algo que homens não experimentam da mesma forma.
+DESTAQUE: A menopausa acelera drasticamente o envelhecimento feminino.
+
+=== SLIDE 5 — MECANISMO ===
+TITULO: Como isso funciona no seu corpo
+CORPO: Os ovários são o "centro de comando" da saúde feminina. Quando eles declinam, há uma cascata de efeitos que impactam desde a saúde óssea e imunidade até a função cerebral.
+
+=== SLIDE 6 — DADO SECUNDÁRIO ===
+TITULO: Achado adicional relevante ou variação do resultado
+CORPO: Esse envelhecimento diferenciado resulta em mulheres sofrendo de condições como osteoporose, distúrbios imunológicos e demência por mais tempo e com maior prevalência que os homens.
+
+=== SLIDE 7 — MITO ===
+TITULO: Crença errada relacionada ao tema
+CORPO: O mito é que basta tratar os sintomas isolados da menopausa. Mas a verdade é que precisamos de uma abordagem integrada que considere a longevidade feminina como um todo.
+
+=== SLIDE 8 — VERDADE ===
+TITULO: O que a evidência diz de verdade
+CORPO: A evidência aponta para uma revolução no bem-estar, com foco em programas de longevidade médica e holística, desenhados especificamente para a mulher, do pré-menopausa em diante.
+
+=== SLIDE 9 — NA PRÁTICA ===
+TITULO: O que você pode fazer a partir de hoje
+CORPO: Busque profissionais e programas que entendam a complexidade da saúde feminina. Priorize treinos e alimentação que apoiem a saúde óssea e hormonal, pensando em sua longevidade.
+
+=== SLIDE 10 — CTA ===
+CTA_PRIMARIO: Salva esse post — você vai querer reler antes do próximo treino.
+CTA_SECUNDARIO: Segue o @corpo.saber para não perder o próximo.
+HASHTAGS: #corposaber #saudedamulher #menopausa #longevidadefeminina #mulheres40mais

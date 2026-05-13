@@ -1,0 +1,24 @@
+{
+  "status": "APPROVED",
+  "notes": "",
+  "auto": {
+    "passed": false,
+    "score": 0.769,
+    "failures": [
+      "summary: bullet 1 com 127 chars (máx 100)",
+      "summary: bullet 2 com 145 chars (máx 100)",
+      "summary: bullet 3 com 117 chars (máx 100)"
+    ],
+    "warnings": []
+  },
+  "llm": {
+    "score_total": 24,
+    "score_normalized": 0.96,
+    "brand_alignment": 5,
+    "hook_quality": 5,
+    "scientific_clarity": 5,
+    "pilar_fit": 5,
+    "cta_effectiveness": 4,
+    "feedback": "Excelente post — voz inteligente e direta, sem alarmismo. Os números são específicos e acionáveis (75-85%, 50-100 saltos, 6-12 semanas prep), o que reforça credibilidade e respeita a inteligência da audiência. O CTA final (\"Salva esse post\") é forte, mas poderia ganhar uma ação secundária: considere adicionar \"compartilha com uma amiga que está na menopausa\" ou algo similar para amplificar alcance. A citação do estudo (PMC/NCBI) é transparência científica de primeira linha — mantém assim."
+  }
+}

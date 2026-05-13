@@ -1,0 +1,22 @@
+{
+  "status": "APPROVED",
+  "notes": "",
+  "auto": {
+    "passed": false,
+    "score": 0.923,
+    "failures": [
+      "caption: palavras proibidas encontradas: ['segredo']"
+    ],
+    "warnings": []
+  },
+  "llm": {
+    "score_total": 23,
+    "score_normalized": 0.92,
+    "brand_alignment": 5,
+    "hook_quality": 4,
+    "scientific_clarity": 5,
+    "pilar_fit": 5,
+    "cta_effectiveness": 4,
+    "feedback": "O post está excelente e muito alinhado com a marca. A linguagem é direta e acolhedora, com base científica clara. Para melhorar, o CTA poderia ser um pouco mais forte, talvez com uma pergunta para incentivar comentários, além de salvar."
+  }
+}

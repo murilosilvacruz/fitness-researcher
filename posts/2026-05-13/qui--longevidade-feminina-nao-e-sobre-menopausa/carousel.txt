@@ -1,0 +1,42 @@
+=== SLIDE 1 — CAPA ===
+TITULO: Mulheres envelhecem diferente dos homens
+SUBTITULO: A ciência está mudando o futuro da sua longevidade.
+CHAMADA: Deslize para ver →
+
+=== SLIDE 2 — CONTEXTO ===
+TITULO: Por que isso importa para você
+CORPO: Por muito tempo, a pesquisa em longevidade se baseou em dados masculinos, ignorando as particularidades do corpo feminino. Agora, essa visão está mudando e impactará diretamente sua saúde e qualidade de vida.
+
+=== SLIDE 3 — PROBLEMA ===
+TITULO: O que a maioria acredita — ou faz errado
+CORPO: Muitas mulheres ainda pensam que o envelhecimento é um processo universal. Isso leva à aceitação de soluções genéricas que não consideram a biologia feminina, especialmente após os 40.
+
+=== SLIDE 4 — DADO PRINCIPAL ===
+TITULO: Pesquisas mostram que mulheres envelhecem de forma única
+CORPO: O ovário é o "centro de comando" da saúde feminina. Seu declínio acelera o envelhecimento sistêmico, levando a condições que afetam as mulheres mais e por mais tempo.
+DESTAQUE: O ovário influencia todo o envelhecimento feminino.
+
+=== SLIDE 5 — MECANISMO ===
+TITULO: Como isso funciona no seu corpo
+CORPO: Com o tempo, a função ovariana diminui, afetando hormônios e processos metabólicos em todo o corpo. Isso não se limita à menopausa, mas impacta a saúde óssea, cardiovascular e cerebral.
+
+=== SLIDE 6 — DADO SECUNDÁRIO ===
+TITULO: Além dos sintomas da menopausa
+CORPO: A nova abordagem vai além de gerenciar apenas os sintomas da menopausa. O foco é entender o envelhecimento ovariano e suas implicações sistêmicas para prevenir doenças e melhorar a longevidade.
+
+=== SLIDE 7 — MITO ===
+TITULO: Crença errada relacionada ao tema
+CORPO: O mito é que o tratamento da menopausa é o único foco na saúde feminina madura. Isso ignora o impacto do ovário em todo o corpo e em todas as fases da vida adulta.
+
+=== SLIDE 8 — VERDADE ===
+TITULO: O que a evidência diz de verdade
+CORPO: A evidência aponta para uma era de intervenções personalizadas. Clínicas, telemedicina e tecnologias vestíveis serão projetadas para atender à biologia única da mulher, promovendo saúde e bem-estar a longo prazo.
+
+=== SLIDE 9 — NA PRÁTICA ===
+TITULO: O que você pode fazer a partir de hoje
+CORPO: Comece a questionar abordagens genéricas de saúde e busque informações que considerem a sua biologia feminina. Priorize um estilo de vida que apoie a saúde hormonal e sistêmica, como alimentação balanceada e treino de força.
+
+=== SLIDE 10 — CTA ===
+CTA_PRIMARIO: Salva esse post — você vai querer reler para entender a ciência da sua saúde.
+CTA_SECUNDARIO: Segue o @corpo.saber para não perder o próximo.
+HASHTAGS: #corposaber #saudefeminina #longevidadefeminina #menopausa #perimenopausa

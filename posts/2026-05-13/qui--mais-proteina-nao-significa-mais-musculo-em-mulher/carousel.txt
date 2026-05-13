@@ -1,0 +1,42 @@
+=== SLIDE 1 — CAPA ===
+TITULO: Proteína extra não turbina seus músculos
+SUBTITULO: Mais proteína nem sempre significa mais resultado no treino.
+CHAMADA: Deslize para ver →
+
+=== SLIDE 2 — CONTEXTO ===
+TITULO: Por que isso importa para você
+CORPO: Com a chegada dos 40, manter a massa muscular é crucial para sua saúde óssea e qualidade de vida. Você treina, se esforça e quer ter certeza de que está fazendo tudo certo para ver resultados.
+
+=== SLIDE 3 — PROBLEMA ===
+TITULO: O que a maioria acredita — ou faz errado
+CORPO: Muitas mulheres acreditam que quanto mais proteína consumirem, mais músculos construirão, especialmente se já treinam força. Isso leva a um consumo excessivo, muitas vezes com suplementos desnecessários.
+
+=== SLIDE 4 — DADO PRINCIPAL ===
+TITULO: Ingestão alta de proteína não aumenta massa muscular
+CORPO: Um estudo com mulheres pós-menopausa praticando exercícios de resistência mostrou que consumir mais proteína que a recomendação diária (RDA) não trouxe ganhos adicionais de massa magra.
+DESTAQUE: Mais proteína que o recomendado não resultou em mais músculo.
+
+=== SLIDE 5 — MECANISMO ===
+TITULO: Como isso funciona no seu corpo
+CORPO: Seu corpo tem um limite de aproveitamento da proteína para a síntese muscular. Uma vez que você atinge esse limite, o excesso é usado para energia ou eliminado, não contribuindo mais para a construção de músculos.
+
+=== SLIDE 6 — DADO SECUNDÁRIO ===
+TITULO: O que outras pesquisas confirmam
+CORPO: Diversos estudos indicam que o efeito de suplementos proteicos na adaptação muscular durante o treino de resistência pode ser mínimo em alguns grupos, reforçando que o benefício adicional é limitado após atingir a RDA.
+
+=== SLIDE 7 — MITO ===
+TITULO: Crença errada relacionada ao tema
+CORPO: "Preciso de um pote de whey protein por mês para ter resultados no meu treino de força."
+
+=== SLIDE 8 — VERDADE ===
+TITULO: O que a evidência diz de verdade
+CORPO: Para mulheres não atletas, focar em atingir a recomendação diária de proteína já é suficiente para otimizar os resultados de construção muscular. Não há necessidade de suplementos ou quantidades excessivas.
+
+=== SLIDE 9 — NA PRÁTICA ===
+TITULO: O que você pode fazer a partir de hoje
+CORPO: Priorize fontes de proteína magra nas suas refeições diárias, como frango, peixe, ovos e leguminosas. Consulte um profissional para calcular sua necessidade individual, mas saiba que o básico bem feito já é muito eficaz.
+
+=== SLIDE 10 — CTA ===
+CTA_PRIMARIO: Salva esse post — você vai querer reler antes do próximo treino.
+CTA_SECUNDARIO: Segue o @corpo.saber para não perder o próximo.
+HASHTAGS: #corposaber #proteinamagra #treinodeforca #mulheres40mais #saudefeminina

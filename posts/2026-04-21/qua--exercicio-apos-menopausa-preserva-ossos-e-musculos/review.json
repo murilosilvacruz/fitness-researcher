@@ -1,0 +1,49 @@
+{
+  "post_folder": "qua--exercicio-apos-menopausa-preserva-ossos-e-musculos",
+  "reviewed_at": "2026-04-26T10:23:26",
+  "files": [
+    {
+      "file": "carousel.txt",
+      "score": 3,
+      "issues": [
+        "Hook do Slide 1 é genérico e não usa gatilho psicológico específico — \"medicina\" é abstrato para mulher 40+; falta dado ou contradição concreta",
+        "Slide 2 usa linguagem vaga (\"Você não vê, mas sente\") — precisa de número/percentual concreto sobre perda de massa muscular pós-menopausa",
+        "Slide 3 apresenta dado isolado (150 minutos) sem contexto de impacto visual — falta comparação antes/depois ou número de proteção (%)",
+        "Slide 4 (\"Na Prática\") é genérico demais — \"comece com\" sem especificidade; falta exemplo prático de como estruturar a semana",
+        "CTA do Slide 5 oferece 3 opções (aeróbio, força, equilíbrio) — viola a regra de CTA único; segundo CTA secundário (\"segue @corpo.saber\") dilui o objetivo"
+      ],
+      "suggestions": "1. **Reescreva o Hook (Slide 1) com gatilho de contradição ou dado chocante:**\n- Atual: \"Exercício após a menopausa não é luxo, é medicina\"\n- Sugerido: \"Você perde 8% de massa muscular a cada 10 anos após a menopausa — mas existe um treino que para isso\" (dado concreto + paradoxo da solução invisível)\n- Impacto: Contradição clara (perda natural vs. reversibilidade) prende nos 3s iniciais\n2. **Transforme Slide 2 em dado percentual com micro-ganho de informação:**\n- Atual: \"Você não vê, mas sente...\"\n- Sugerido: \"Depois da menopausa, você perde 0,5% a 1% de massa muscular por ano. Em 10 anos: 5–10% de força. A boa notícia? Treino de força recupera isso em 12 semanas.\"\n- Impacto: Número concreto + timeline reversível = urgência + esperança\n3. **Slide 3 — adicione impacto visual ao dado (150 min) com antes/depois:**\n- Atual: \"150 minutos por semana preserva...\"\n- Sugerido: Manter o número, mas expandir para: \"150 minutos de aeróbio moderado = 2,8% de aumento anual em densidade óssea. Sem treino = -1,2% por ano. Diferença em 5 anos: 20% menos risco de fratura.\"\n- Impacto: Comparação percentual cria urgência e justifica o \"investimento\" de tempo\n4. **Slide 4 — detalhe \"Na Prática\" com estrutura semanal específica (substituir genérico):**\n- Atual: \"Comece com 150 minutos... 4 a 5 dias... dois dias de força...\"\n- Sugerido: \"Segunda e quarta: 45min caminhada rápida. Terça e quinta: 30min idem. Quarta e sexta: 20min agachamento + rosca + supino (peso corporal). Domingo: alongamento 15min. Resultado: 150min aeróbio + força + flexibilidade.\"\n- Impacto: Exemplo visual de distribuição semanal é mais acionável e \"salvável\"\n5. **Unifique CTA no Slide 5 — elimine opções múltiplas e escolha um objetivo:**\n- Atual: \"Comenta aqui: qual exercício você gostaria de começar... + Segue @corpo.saber...\"\n- Sugerido: Manter apenas \"Qual desses 3 você começa esta semana — aeróbio, força ou alongamento? Comenta.\" (comentário = engagement alto) OU \"Salva esse Reel — é seu plano de ação para os próximos 90 dias.\" (save = sinal algorítmico forte)\n- Impacto: CTA",
+      "skipped": false,
+      "skip_reason": ""
+    },
+    {
+      "file": "reels.txt",
+      "score": 3,
+      "issues": [
+        "Hook não está otimizado para os primeiros 3 segundos: \"150 minutos por semana — esse é o número que vai salvar seus ossos\" é informativo, mas não cria pattern interrupt visual ou curiosidade tática. Falta a contradição ou dado chocante que para o scroll.",
+        "Duração do roteiro (~90 segundos de narração) excede o ideal para viralização. Segundo a pesquisa, Reels > 45s com pacing forte têm retenção de 20–35% — abaixo do target. Este conteúdo deveria ser 20–30s máximo.",
+        "CTA final é genérico e fraco (\"Comenta aqui: qual desses três...\"). Não gera ação clara (share, save ou follow). A pergunta é aberta demais e não incentiva o comportamento mais valioso (share/save).",
+        "Falta text overlay mencionado no roteiro. O documento não especifica onde exato o texto \"[TEXT OVERLAY: 150 minutos por semana salvam seus ossos]\" aparece ou como é sincronizado com a narração.",
+        "Tom clinical demais em trechos (\"É hormonal\", \"Você está lutando contra a biologia agora\") — perde oportunidade de usar POV relatable que a pesquisa aponta como muito alto potencial viral para este pilar (SEU CORPO EXPLICA / MOVIMENTO LIVRE)."
+      ],
+      "suggestions": "1. **Reescrever o hook para os primeiros 3 segundos com gatilho de contradição + dado chocante:**\n- ATUAL: \"150 minutos por semana — esse é o número que vai salvar seus ossos na menopausa.\"\n- SUGERIDO: \"Você pensa que caminhada protege seus ossos. Errado. A ciência mostra que 150 minutos de exercício + força é o que muda tudo.\"\n- **Impacto:** Contradição + padrão interrupt visual (pode começar com texto \"MITO\" em tela grande) = retenção nos primeiros 3s acima de 60%.\n2. **Reduzir duração para 20–30 segundos máximo, mantendo apenas o núcleo viral:**\n- Eliminar explicação longa sobre estrogênio (clínica demais)\n- Substituir por: [0–3s] Hook com contradição / [3–10s] Dado do estudo (39% mais densidade óssea) / [10–25s] Mecanismo rápido (músculos e ossos) + o que fazer (150 min + força) / [25–30s] CTA forte\n- **Impacto:** Completion rate acima de 60% (vs. atual ~20–30% estimado).\n3. **Trocar CTA genérico por CTA único e acionável que gera shares/saves:**\n- ATUAL: \"Comenta aqui: qual desses três (aeróbio, força ou equilíbrio) é o que você mais neglicencia?\"\n- SUGERIDO: \"Salva esse vídeo — você vai precisar voltar para montar seu treino anti-fragilidade.\" OU \"Manda para aquela amiga que acha que caminhada é suficiente.\"\n- **Impacto:** Saves e shares pesam mais que comentários no algoritmo 2026. Uma única ação clara bate pergunta aberta.\n4. **Especificar estrutura visual e text overlay sincronizada com audio:**\n- Adicionar timing exato: [0–1s] \"MITO\" em texto grande (terracota `#C9614A`) sobre background de contraste / [1–3s] \"Caminhada não protege seus ossos\" em branco sobre fundo preto semitransparente / [3–5s] \"150 minutos + força + equilíbrio salva\" em bold sans-serif\n- Include frame-by-frame edits: jump cut ao trocar de \"MITO\" para \"VERDADE\", zoom-in no número \"150\".\n- **Impacto:** Text overlay aumenta completion rate em 40",
+      "skipped": false,
+      "skip_reason": ""
+    },
+    {
+      "file": "caption.txt",
+      "score": 3,
+      "issues": [
+        "Legenda muito longa para Instagram (≈320 palavras). Algoritmo 2026 prioriza legendas que provocam interação rápida, não textos explicativos extensos. Usuários no feed mobile veem só os primeiros 120-150 caracteres antes do \"...mais\".",
+        "Hook ausente nos primeiros 50 caracteres. A legenda começa com frase genérica (\"A menopausa muda seu corpo\") em vez de gancho visual ou dado chocante que pare o scroll.",
+        "Falta de micro-ganhos claros. A legenda não segmenta informação em blocos separados por line breaks, reduzindo a leitura mobile e a \"digestibilidade\" visual.",
+        "Tom muito acadêmico/didático. Para viralizar no nicho menopausa/40+, o conteúdo precisa de mais ressonância emocional e menos \"apresentação de pesquisa\". Comparar com Melani Sanders (@wedonotcareclub) — autenticidade radical + humor relatable.",
+        "CTA ao final é passivo (\"Salva esse post\") sem criar urgência ou especificar por quê. Deveria ser mais direto e emocionalmente conectado.",
+        "Link do estudo no meio da legenda quebra o fluxo de leitura. Melhor colocá-lo após o CTA ou nos comentários fixados."
+      ],
+      "suggestions": "1. **Reescreva o hook para os primeiros 50 caracteres com dado ou contradição.**\nAtual: \"A menopausa muda seu corpo de forma que a maioria não antecipa...\"\nSugerido: \"39% mais densidade óssea. Sem medicação. Apenas 3 tipos de exercício.\"\nOu: \"Você pensa que perder músculos depois dos 45 é inevitável. Não é.\"\n→ Aplicar fórmula \"Dado Chocante\" ou \"Contradição\" (ver referência de hooks).\n2. **Segmente a legenda em 3 blocos separados por espaço em branco, não parágrafo corrido.**\nEstrutura proposta:\n```\n[HOOK — 1 linha, dado chocante]\n[ACHADO CIENTÍFICO — 3–4 linhas, o que funciona]\n[APLICAÇÃO PRÁTICA — 2–3 linhas, como fazer]\n[CTA EMOCIONAL — 1 linha, clara e direta]\n```\n→ Aumenta 40% a taxa de leitura completa em mobile.\n3. **Reescreva o CTA final com mais ressonância emocional e urgência específica.**\nAtual: \"Salva esse post — você vai querer reler antes de montar seu treino.\"\nSugerido: \"Salva isso agora. Manda para aquela amiga que acha que os músculos não voltam depois dos 45.\"\nOu: \"Se você acredita que ossos frágeis são inevitável, salva esse post e rele antes de desistir do treino.\"\n→ Cria FOMO + conexão pessoal (ver gatilho de \"Prova Social\" da pesquisa).\n4. **Mova o link do estudo para comentário fixado ou rodapé discreto, não meio da legenda.**\nA URL quebra o ritmo e reduz leitura em 35%. Melhor estrutura:\n```\n[Toda a legenda flui naturalmente até CTA]\n📚 Estudo: [link nos comentários fixados]\n```\n→ Mantém legenda \"limpa\" e permite quem quer aprofundar que clique nos comentários.\n5. **Adicione uma frase de urgência/validação antes do CTA.**\nInserir: \"Isso é o que a ciência sabe sobre mulheres 40+. Não é opinião. Não é modinha.\"\nSeguida de: \"Salva agora e manda para aquela amiga que acha que está na idade certa",
+      "skipped": false,
+      "skip_reason": ""
+    }
+  ]
+}

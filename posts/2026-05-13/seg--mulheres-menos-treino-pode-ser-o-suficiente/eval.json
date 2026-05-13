@@ -1,0 +1,11 @@
+{
+  "status": "APPROVED",
+  "notes": "",
+  "auto": {
+    "passed": true,
+    "score": 1.0,
+    "failures": [],
+    "warnings": []
+  },
+  "llm": null
+}

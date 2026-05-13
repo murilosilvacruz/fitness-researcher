@@ -1,0 +1,42 @@
+=== SLIDE 1 — CAPA ===
+TITULO: Perimenopausa: o exercício é seu aliado
+SUBTITULO: Entenda por que se manter ativa é mais crucial do que nunca.
+CHAMADA: Deslize para ver →
+
+=== SLIDE 2 — CONTEXTO ===
+TITULO: Por que isso importa para você
+CORPO: A perimenopausa traz mudanças hormonais que impactam seu corpo, como alterações no metabolismo e composição corporal. Manter-se ativa pode ser a chave para navegar essa fase com mais saúde e bem-estar.
+
+=== SLIDE 3 — PROBLEMA ===
+TITULO: O que a maioria acredita — ou faz errado
+CORPO: Muitas mulheres reduzem a atividade física durante a perimenopausa, sentindo-se mais cansadas e desmotivadas. Isso, na verdade, pode agravar os sintomas e os impactos das mudanças hormonais.
+
+=== SLIDE 4 — DADO PRINCIPAL ===
+TITULO: Mulheres ativas têm corpo mais saudável na perimenopausa
+CORPO: Pesquisas mostram que mulheres ativas nesse período têm menor IMC, menos gordura corporal e mais massa muscular. Isso significa um corpo mais forte e com menos riscos futuros.
+DESTAQUE: Mulheres ativas têm menor IMC e mais massa muscular.
+
+=== SLIDE 5 — MECANISMO ===
+TITULO: Como isso funciona no seu corpo
+CORPO: O exercício regular ajuda a combater a resistência à insulina e a inflamação, comuns na perimenopausa. Ele também preserva a massa muscular e a densidade óssea, essenciais para a saúde a longo prazo.
+
+=== SLIDE 6 — DADO SECUNDÁRIO ===
+TITULO: O perigo da inatividade na perimenopausa
+CORPO: A atividade física pode cair em até 40% durante a perimenopausa. Essa redução agrava sintomas como baixa energia e sono ruim, criando um ciclo vicioso que dificulta ainda mais a prática de exercícios.
+
+=== SLIDE 7 — MITO ===
+TITULO: Crença errada relacionada ao tema
+CORPO: Muitas mulheres pensam que o cansaço da perimenopausa é normal e que o melhor é descansar mais.
+
+=== SLIDE 8 — VERDADE ===
+TITULO: O que a evidência diz de verdade
+CORPO: Embora o descanso seja importante, a evidência mostra que o exercício é um poderoso mitigador de sintomas. Ele pode melhorar a energia, o humor e a qualidade do sono, contrariando a ideia de que o melhor é a inatividade.
+
+=== SLIDE 9 — NA PRÁTICA ===
+TITULO: O que você pode fazer a partir de hoje
+CORPO: Comece com pequenas caminhadas diárias e adicione treinos de força duas a três vezes por semana. Priorize a consistência e encontre atividades que você goste para manter a motivação.
+
+=== SLIDE 10 — CTA ===
+CTA_PRIMARIO: Salva esse post — você vai querer reler antes do próximo treino.
+CTA_SECUNDARIO: Segue o @corpo.saber para não perder o próximo.
+HASHTAGS: #corposaber #perimenopausa #exerciciofeminino #saudefeminina #mulheres40mais

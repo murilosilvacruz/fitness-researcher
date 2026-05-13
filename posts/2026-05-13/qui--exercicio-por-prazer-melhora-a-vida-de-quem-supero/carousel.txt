@@ -1,0 +1,42 @@
+=== SLIDE 1 — CAPA ===
+TITULO: Exercício por prazer melhora a vida pós-câncer de mama
+SUBTITULO: A ciência mostra como o lazer ativo transforma a recuperação.
+CHAMADA: Deslize para ver →
+
+=== SLIDE 2 — CONTEXTO ===
+TITULO: Por que isso importa para você
+CORPO: Superar o câncer de mama é uma jornada complexa que não termina com o tratamento. Muitas mulheres 40+ buscam formas de recuperar a energia, a vitalidade e a qualidade de vida.
+
+=== SLIDE 3 — PROBLEMA ===
+TITULO: O que a maioria acredita — ou faz errado
+CORPO: Há uma crença comum de que apenas programas de exercícios formais e intensos podem trazer benefícios significativos. Isso pode gerar desmotivação ou a sensação de que é preciso um plano complexo para começar.
+
+=== SLIDE 4 — DADO PRINCIPAL ===
+TITULO: Atividade por prazer melhora qualidade de vida
+CORPO: Uma revisão de 11 estudos com 9.254 mulheres mostrou que a atividade física aeróbica recreativa foi consistentemente associada a uma melhor qualidade de vida global, física e específica para o câncer de mama.
+DESTAQUE: Exercício por lazer melhora a qualidade de vida pós-câncer.
+
+=== SLIDE 5 — MECANISMO ===
+TITULO: Como isso funciona no seu corpo
+CORPO: A atividade física libera endorfinas, reduz inflamações e melhora a circulação. Fazer algo que você gosta ativa o sistema de recompensa do cérebro, diminuindo o estresse e promovendo bem-estar mental.
+
+=== SLIDE 6 — DADO SECUNDÁRIO ===
+TITULO: Impacto semelhante ao exercício formal
+CORPO: Os resultados desta revisão corroboram achados de meta-análises de ensaios clínicos sobre intervenções de atividade física. Isso sugere que o benefício não depende de um programa formal, mas da prática em si.
+
+=== SLIDE 7 — MITO ===
+TITULO: Crença errada relacionada ao tema
+CORPO: Muitas mulheres pensam que precisam se matricular em uma academia ou seguir um treino rigoroso para ter benefícios de saúde.
+
+=== SLIDE 8 — VERDADE ===
+TITULO: O que a evidência diz de verdade
+CORPO: A ciência mostra que qualquer atividade física aeróbica feita por lazer, como caminhar no parque ou dançar, já traz melhorias significativas na qualidade de vida e na recuperação pós-câncer.
+
+=== SLIDE 9 — NA PRÁTICA ===
+TITULO: O que você pode fazer a partir de hoje
+CORPO: Escolha uma atividade aeróbica que você realmente goste, seja dançar, nadar ou caminhar com amigas. Comece com 20-30 minutos, 3 vezes por semana, e aumente gradualmente. O importante é o prazer em se movimentar.
+
+=== SLIDE 10 — CTA ===
+CTA_PRIMARIO: Manda pra uma amiga que está na jornada pós-câncer de mama.
+CTA_SECUNDARIO: Segue o @corpo.saber para não perder o próximo.
+HASHTAGS: #corposaber #cancerdemama #saudedamulher #atividadefisica #qualidadedevida

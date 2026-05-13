@@ -1,0 +1,25 @@
+```
+Generate a 15-second vertical (9:16) video for Instagram Reels for the brand "Corpo e Saber," targeting Brazilian women aged 40-55. The video should have a warm, inviting, and empowering tone, using a color palette of Terracota (#C9614A), Sage (#7B9E87), and Off-white (#F7F5F2).
+
+**Techniques to use:** OPENING HOOK, Speed ramp, Slow-mo estratégico, POV íntimo.
+**Pacing:** Fast cuts (2-3 seconds per scene) during the HOLD, with strategic slow-mo.
+
+**Scene Breakdown:**
+
+**HOOK (0-3s):**
+*   **0-0.5s (OPENING HOOK):** Close-up, POV shot from behind a Parda/Mestiça woman (45-50, warm brown skin, wavy dark hair, wearing comfortable, light-colored activewear in brand palette) walking briskly through a sunny, lush urban park in Brazil. Her back is to the camera, showcasing confident movement. The camera is slightly below eye level, following her steps.
+*   **0.5-3s:** The woman turns her head slightly to the side, smiling genuinely at something off-camera (implied friend or nature), then looks forward again, continuing her walk. The sun catches her hair and face.
+*   **TEXT OVERLAY (0-3s):** "Câncer de mama: atividade física melhora a vida!" (Terracota on Off-white background).
+
+**HOLD (3-12s):**
+*   **3-5s (Speed ramp):** Cut to a different shot of the same woman, now seen from a slightly low angle, walking with a steady, joyful pace. The camera is static, focusing on her stride and posture. The movement is slightly sped up to convey energy.
+*   **5-7s:** Cut to a POV intimate shot looking down at her feet (wearing comfortable sneakers) as they rhythmically step on a paved park path, leaves scattered around. The sound of light footsteps is audible.
+*   **7-9s (Slow-mo estratégico):** Transition to a slow-motion shot of the woman reaching up to gently touch a vibrant green leaf on a tree branch, her fingers delicately brushing the surface. Her expression is serene and appreciative. The camera is close, capturing the texture of the leaf and her hand.
+*   **9-12s:** Cut to a wider shot of the woman from the side, now jogging lightly in the park, a gentle breeze moving her hair. She looks confident and healthy, a soft smile on her face. The background is slightly blurred to keep focus on her.
+*   **TEXT OVERLAY (3-12s, appearing sequentially):**
+    *   **3-6s:** "Se você superou o câncer de mama, a atividade física recreativa pode ser sua aliada."
+    *   **6-9s:** "Um estudo com mais de 9 mil mulheres mostrou que atividades aeróbicas simples, como caminhar ou nadar, melhoram a qualidade de vida global e física."
+    *   **9-12s:** "Não importa se não é treino intenso; o movimento já faz uma diferença real no seu bem-estar pós-tratamento."
+
+**PAYOFF (12-15s):**
+*   **12-15s:** The woman stops, takes a deep, satisfying breath, and looks directly into the camera with a warm, empathetic smile, her

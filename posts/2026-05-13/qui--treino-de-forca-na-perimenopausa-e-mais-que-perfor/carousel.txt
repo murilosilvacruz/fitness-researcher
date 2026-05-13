@@ -1,0 +1,42 @@
+=== SLIDE 1 — CAPA ===
+TITULO: Hormônios mudam seu treino. Adapte-se.
+SUBTITULO: Entenda como estrogênio e progesterona afetam sua força e recuperação.
+CHAMADA: Deslize para ver →
+
+=== SLIDE 2 — CONTEXTO ===
+TITULO: Por que isso importa para você
+CORPO: Se você tem entre 40 e 55 anos, seu corpo passa por grandes mudanças. Entender como seus hormônios afetam seu treino é chave para manter a força e a saúde óssea.
+
+=== SLIDE 3 — PROBLEMA ===
+TITULO: O que a maioria acredita — ou faz errado
+CORPO: Muitas mulheres treinam da mesma forma em todas as fases da vida, ignorando as flutuações hormonais. Isso pode levar a resultados frustrantes ou até lesões.
+
+=== SLIDE 4 — DADO PRINCIPAL ===
+TITULO: Hormônios influenciam seu risco de lesão e recuperação
+CORPO: Na primeira metade do ciclo menstrual (fase folicular), com estrogênio baixo, há maior risco de lesões no ligamento cruzado anterior (LCA) em treinos intensos.
+DESTAQUE: Estrogênio baixo aumenta o risco de lesão no LCA.
+
+=== SLIDE 5 — MECANISMO ===
+TITULO: Como isso funciona no seu corpo
+CORPO: O estrogênio afeta a elasticidade dos tecidos conectivos. Quando ele está baixo, ligamentos podem ficar mais vulneráveis, aumentando a chance de lesões em movimentos de alto impacto.
+
+=== SLIDE 6 — DADO SECUNDÁRIO ===
+TITULO: Efeitos da progesterona no desempenho
+CORPO: Na segunda metade do ciclo (fase lútea), o aumento da progesterona eleva sua temperatura corporal e frequência cardíaca em repouso. Isso pode dificultar treinos intensos e a recuperação.
+
+=== SLIDE 7 — MITO ===
+TITULO: Crença errada relacionada ao tema
+CORPO: Que treinar sempre na intensidade máxima é o ideal. Ou que os hormônios só importam na gravidez.
+
+=== SLIDE 8 — VERDADE ===
+TITULO: O que a evidência diz de verdade
+CORPO: A evidência mostra que adaptar a intensidade e o tipo de treino às fases do ciclo menstrual e da perimenopausa pode otimizar resultados e reduzir riscos.
+
+=== SLIDE 9 — NA PRÁTICA ===
+TITULO: O que você pode fazer a partir de hoje
+CORPO: Na perimenopausa, foque em treinos de força e impacto. Eles são cruciais para combater a perda óssea e muscular acelerada pela queda do estrogênio.
+
+=== SLIDE 10 — CTA ===
+CTA_PRIMARIO: Salva esse post — você vai querer reler antes do próximo treino.
+CTA_SECUNDARIO: Segue o @corpo.saber para não perder o próximo.
+HASHTAGS: #corposaber #saudedamulher #treinofeminino #perimenopausa #hormonios

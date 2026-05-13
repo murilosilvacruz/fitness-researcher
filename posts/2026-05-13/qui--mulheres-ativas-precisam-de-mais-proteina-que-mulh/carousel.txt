@@ -1,0 +1,42 @@
+=== SLIDE 1 — CAPA ===
+TITULO: Proteína: você come o suficiente?
+SUBTITULO: A maioria das mulheres ativas come menos do que precisa.
+CHAMADA: Deslize para ver →
+
+=== SLIDE 2 — CONTEXTO ===
+TITULO: Por que isso importa para você
+CORPO: Se você tem mais de 40 e treina, a proteína é sua aliada número um. Ela ajuda a manter seus músculos fortes, seus ossos saudáveis e a recuperar o corpo depois do exercício.
+
+=== SLIDE 3 — PROBLEMA ===
+TITULO: O que a maioria acredita — ou faz errado
+CORPO: Muitas mulheres ainda seguem a recomendação geral de proteína para sedentários, ou subestimam a quantidade necessária, sem saber que o treino aumenta essa necessidade.
+
+=== SLIDE 4 — DADO PRINCIPAL ===
+TITULO: Ativas precisam de mais proteína que sedentárias
+CORPO: A recomendação de 0,8g/kg/dia é para sedentários. Mulheres que treinam precisam de mais porque o exercício aumenta a quebra e oxidação de proteínas no corpo.
+DESTAQUE: 0,8g/kg/dia é insuficiente para quem treina.
+
+=== SLIDE 5 — MECANISMO ===
+TITULO: Como isso funciona no seu corpo
+CORPO: Durante o exercício, seu corpo usa proteína como energia e quebra fibras musculares. Para reparar e construir músculos, você precisa de mais proteína para repor o que foi gasto e otimizar a recuperação.
+
+=== SLIDE 6 — DADO SECUNDÁRIO ===
+TITULO: Balanço negativo: o que evitar
+CORPO: Se você não come proteína suficiente, seu corpo entra em balanço nitrogenado negativo. Isso significa que você perde mais proteína do que constrói, prejudicando a recuperação e a massa muscular.
+
+=== SLIDE 7 — MITO ===
+TITULO: Comer muita proteína prejudica os rins
+CORPO: Esse é um medo comum, mas para adultos saudáveis, a ingestão adequada de proteína para quem treina não sobrecarrega os rins.
+
+=== SLIDE 8 — VERDADE ===
+TITULO: O que a evidência diz de verdade
+CORPO: Para mulheres ativas, uma ingestão maior de proteína é crucial para preservar a massa magra, melhorar a recuperação pós-treino e até apoiar o sistema imunológico.
+
+=== SLIDE 9 — NA PRÁTICA ===
+TITULO: O que você pode fazer a partir de hoje
+CORPO: Calcule sua ingestão atual. Procure fontes de proteína em todas as refeições: ovos, frango, peixe, leguminosas. Distribua ao longo do dia para otimizar a absorção.
+
+=== SLIDE 10 — CTA ===
+CTA_PRIMARIO: Salva esse post — você vai querer reler antes do próximo treino.
+CTA_SECUNDARIO: Segue o @corpo.saber para não perder o próximo conteúdo.
+HASHTAGS: #corposaber #proteina #mulherfit #saudedamulher #treinofeminino

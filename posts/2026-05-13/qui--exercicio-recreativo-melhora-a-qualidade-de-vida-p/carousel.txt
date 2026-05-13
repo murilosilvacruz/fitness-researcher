@@ -1,0 +1,42 @@
+=== SLIDE 1 — CAPA ===
+TITULO: Exercício recreativo melhora vida após câncer de mama
+SUBTITULO: Pequenas atividades fazem grande diferença na sua recuperação.
+CHAMADA: Deslize para ver →
+
+=== SLIDE 2 — CONTEXTO ===
+TITULO: Por que isso importa para você
+CORPO: Para mulheres 40+, especialmente após um diagnóstico de câncer, manter a qualidade de vida é crucial. A recuperação vai além do tratamento e envolve bem-estar físico e mental.
+
+=== SLIDE 3 — PROBLEMA ===
+TITULO: O que a maioria acredita — ou faz errado
+CORPO: Muitas mulheres pensam que precisam de programas de exercícios intensos e supervisionados para ter benefícios. Isso pode desmotivar e adiar a retomada da atividade física.
+
+=== SLIDE 4 — DADO PRINCIPAL ===
+TITULO: Atividade recreativa melhora qualidade de vida pós-câncer
+CORPO: Um estudo com 9.254 mulheres mostrou que a atividade física aeróbica recreativa está associada a melhorias na qualidade de vida global, física e específica para o câncer de mama.
+DESTAQUE: Exercícios do dia a dia melhoram o bem-estar físico e geral.
+
+=== SLIDE 5 — MECANISMO ===
+TITULO: Como isso funciona no seu corpo
+CORPO: A atividade física regular estimula a circulação, libera endorfinas e reduz inflamações. Isso ajuda a combater a fadiga, melhora o humor e fortalece o corpo.
+
+=== SLIDE 6 — DADO SECUNDÁRIO ===
+TITULO: Aeróbicos são chave, mas há mais a explorar
+CORPO: Os benefícios foram robustos para atividades aeróbicas como caminhada, ciclismo e natação. Ainda faltam dados sobre o impacto em aspectos emocionais/sociais e exercícios de força.
+
+=== SLIDE 7 — MITO ===
+TITULO: Crença errada relacionada ao tema
+CORPO: "Só programas formais de reabilitação trazem resultados significativos." Isso não é verdade para todas as melhorias na qualidade de vida.
+
+=== SLIDE 8 — VERDADE ===
+TITULO: O que a evidência diz de verdade
+CORPO: A evidência sugere que a atividade física recreativa, aquela que você faz por prazer, já é um fator importante para melhorar seu bem-estar após o câncer de mama.
+
+=== SLIDE 9 — NA PRÁTICA ===
+TITULO: O que você pode fazer a partir de hoje
+CORPO: Comece com 30 minutos de caminhada rápida na maioria dos dias da semana. Experimente nadar, pedalar ou dançar. A chave é o movimento que você gosta.
+
+=== SLIDE 10 — CTA ===
+CTA_PRIMARIO: Manda pra uma amiga que está passando pela recuperação do câncer de mama.
+CTA_SECUNDARIO: Segue o @corpo.saber para não perder o próximo conteúdo.
+HASHTAGS: #corposaber #cancerdemama #qualidadedevida #atividadefisica #saudedamulher

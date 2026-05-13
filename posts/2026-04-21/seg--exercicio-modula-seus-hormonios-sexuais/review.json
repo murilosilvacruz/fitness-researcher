@@ -1,0 +1,30 @@
+{
+  "post_folder": "seg--exercicio-modula-seus-hormonios-sexuais",
+  "reviewed_at": "2026-04-26T10:24:01",
+  "files": [
+    {
+      "file": "carousel.txt",
+      "score": 0,
+      "issues": [],
+      "suggestions": "",
+      "skipped": true,
+      "skip_reason": "erro na API: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CaSTPXT5qj6nRcz2aULqr'}"
+    },
+    {
+      "file": "reels.txt",
+      "score": 0,
+      "issues": [],
+      "suggestions": "",
+      "skipped": true,
+      "skip_reason": "erro na API: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CaSTPYUbmSpJSbsU62GPg'}"
+    },
+    {
+      "file": "caption.txt",
+      "score": 0,
+      "issues": [],
+      "suggestions": "",
+      "skipped": true,
+      "skip_reason": "erro na API: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CaSTPZNB6dZFbcRTpXDnU'}"
+    }
+  ]
+}

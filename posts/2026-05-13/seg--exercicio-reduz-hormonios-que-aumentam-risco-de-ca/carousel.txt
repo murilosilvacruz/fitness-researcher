@@ -1,0 +1,42 @@
+=== SLIDE 1 — CAPA ===
+TITULO: Exercício físico reduz estrogênio e progesterona
+SUBTITULO: Entenda como isso protege sua saúde e bem-estar.
+CHAMADA: Deslize para ver →
+
+=== SLIDE 2 — CONTEXTO ===
+TITULO: Por que isso importa para você
+CORPO: Na perimenopausa e pós-menopausa, a flutuação e os níveis de hormônios como estrogênio e progesterona são cruciais para sua saúde, influenciando de ossos a risco de câncer. Saber como modulá-los é poder.
+
+=== SLIDE 3 — PROBLEMA ===
+TITULO: O que a maioria acredita — ou faz errado
+CORPO: Muitas mulheres focam apenas em reposição hormonal ou aceitam as mudanças hormonais passivamente, sem considerar o impacto direto de hábitos diários na modulação desses hormônios.
+
+=== SLIDE 4 — DADO PRINCIPAL ===
+TITULO: Exercício físico reduz níveis de hormônios reprodutivos
+CORPO: A literatura científica mostra que o exercício físico é uma estratégia eficaz para reduzir os níveis de estrogênio e progesterona em mulheres, incluindo aquelas com maior risco de câncer de mama.
+DESTAQUE: Exercício reduz estrogênio e progesterona.
+
+=== SLIDE 5 — MECANISMO ===
+TITULO: Como isso funciona no seu corpo
+CORPO: O exercício ajuda a regular o metabolismo hormonal, influenciando como o corpo produz e elimina esses hormônios. Isso também melhora a composição corporal, reduzindo a gordura, que é um tecido produtor de estrogênio.
+
+=== SLIDE 6 — DADO SECUNDÁRIO ===
+TITULO: Além da modulação hormonal
+CORPO: Os benefícios do exercício vão além da redução hormonal. Ele também melhora o condicionamento físico geral, diminui o peso e o percentual de gordura, fortalecendo seu corpo contra desafios de saúde.
+
+=== SLIDE 7 — MITO ===
+TITULO: Crença errada relacionada ao tema
+CORPO: Acha que só exercícios de alta intensidade para atletas de ponta trazem esses benefícios hormonais? Não é verdade.
+
+=== SLIDE 8 — VERDADE ===
+TITULO: O que a evidência diz de verdade
+CORPO: Os achados se aplicam a mulheres não atletas. Intervenções de exercício para a população geral são eficazes na modulação hormonal, independentemente do nível de intensidade de elite.
+
+=== SLIDE 9 — NA PRÁTICA ===
+TITULO: O que você pode fazer a partir de hoje
+CORPO: Comece com 30 minutos de atividade física moderada na maioria dos dias da semana. Pode ser caminhada rápida, natação ou musculação. A consistência é chave para modular seus hormônios.
+
+=== SLIDE 10 — CTA ===
+CTA_PRIMARIO: Salva esse post — você vai querer reler para entender como o exercício te protege.
+CTA_SECUNDARIO: Segue o @corpo.saber para não perder o próximo conteúdo sobre sua saúde.
+HASHTAGS: #corposaber #hormoniosfemininos #perimenopausa #saudedamulher #exerciciofisico

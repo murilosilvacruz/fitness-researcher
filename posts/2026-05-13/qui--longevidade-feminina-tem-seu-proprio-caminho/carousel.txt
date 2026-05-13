@@ -1,0 +1,42 @@
+=== SLIDE 1 — CAPA ===
+TITULO: Longevidade feminina: o ovário é o centro de comando
+SUBTITULO: O futuro da saúde da mulher não é o que você imagina.
+CHAMADA: Deslize para ver →
+
+=== SLIDE 2 — CONTEXTO ===
+TITULO: Por que isso importa para você
+CORPO: Você já percebeu que a maioria dos estudos sobre saúde e envelhecimento foi feita com homens? Por décadas, a saúde da mulher foi um "extra", extrapolada de dados masculinos. Mas nosso corpo é diferente.
+
+=== SLIDE 3 — PROBLEMA ===
+TITULO: O que a maioria acredita — ou faz errado
+CORPO: Muitas mulheres ainda focam apenas nos sintomas da menopausa, como ondas de calor. Mas a questão vai muito além. O envelhecimento feminino é um processo biológico complexo e subestimado.
+
+=== SLIDE 4 — DADO PRINCIPAL ===
+TITULO: O ovário é o "centro de comando" da saúde feminina
+CORPO: Pesquisas mostram que o ovário não é só reprodutivo. Seu declínio acelera drasticamente o envelhecimento sistêmico, impactando todo o corpo da mulher.
+DESTAQUE: O ovário é o "centro de comando" da saúde feminina.
+
+=== SLIDE 5 — MECANISMO ===
+TITULO: Como isso funciona no seu corpo
+CORPO: A função ovariana afeta hormônios, metabolismo, saúde óssea e cardiovascular. Quando os ovários começam a declinar, isso desencadeia uma cascata de mudanças que afetam sua saúde geral.
+
+=== SLIDE 6 — DADO SECUNDÁRIO ===
+TITULO: O mercado de longevidade vai mudar
+CORPO: Até 2026, a expectativa é que o foco da longevidade mude para a saúde feminina. Isso significa mais clínicas, apps e produtos feitos para a biologia da mulher, não apenas adaptações.
+
+=== SLIDE 7 — MITO ===
+TITULO: Crença errada relacionada ao tema
+CORPO: É mito que a menopausa é só um "período chato" que passa. Ela é uma fase de grandes transformações, com impactos duradouros na saúde que precisam ser abordados de forma proativa.
+
+=== SLIDE 8 — VERDADE ===
+TITULO: O que a evidência diz de verdade
+CORPO: A verdade é que o envelhecimento feminino é fundamentalmente diferente do masculino. Entender e cuidar da saúde ovariana é crucial para uma longevidade com mais qualidade de vida.
+
+=== SLIDE 9 — NA PRÁTICA ===
+TITULO: O que você pode fazer a partir de hoje
+CORPO: Priorize um estilo de vida que apoie a saúde hormonal: alimentação balanceada, sono de qualidade e treino de força. Converse com seu médico sobre abordagens personalizadas para sua fase de vida.
+
+=== SLIDE 10 — CTA ===
+CTA_PRIMARIO: Manda pra uma amiga que se preocupa com a saúde e longevidade.
+CTA_SECUNDARIO: Segue o @corpo.saber para não perder o próximo.
+HASHTAGS: #corposaber #saudefeminina #longevidade #menopausa #perimenopausa

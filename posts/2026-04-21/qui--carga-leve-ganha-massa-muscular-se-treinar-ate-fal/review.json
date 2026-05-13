@@ -1,0 +1,30 @@
+{
+  "post_folder": "qui--carga-leve-ganha-massa-muscular-se-treinar-ate-fal",
+  "reviewed_at": "2026-04-26T10:23:42",
+  "files": [
+    {
+      "file": "carousel.txt",
+      "score": 0,
+      "issues": [],
+      "suggestions": "",
+      "skipped": true,
+      "skip_reason": "erro na API: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CaSTN93v9mjdSHakDdUJA'}"
+    },
+    {
+      "file": "reels.txt",
+      "score": 0,
+      "issues": [],
+      "suggestions": "",
+      "skipped": true,
+      "skip_reason": "erro na API: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CaSTNA3SfMm4Y3GwyoMvd'}"
+    },
+    {
+      "file": "caption.txt",
+      "score": 0,
+      "issues": [],
+      "suggestions": "",
+      "skipped": true,
+      "skip_reason": "erro na API: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CaSTNB7vzEMV8bNJx4vyQ'}"
+    }
+  ]
+}

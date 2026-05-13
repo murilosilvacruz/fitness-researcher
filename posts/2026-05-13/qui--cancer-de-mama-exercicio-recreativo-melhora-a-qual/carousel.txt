@@ -1,0 +1,42 @@
+=== SLIDE 1 — CAPA ===
+TITULO: Exercício leve melhora qualidade de vida pós-câncer
+SUBTITULO: Você não precisa de treinos intensos para sentir os benefícios.
+CHAMADA: Deslize para ver →
+
+=== SLIDE 2 — CONTEXTO ===
+TITULO: Por que isso importa para você
+CORPO: Muitas mulheres após o câncer de mama buscam recuperar a energia e o bem-estar. A atividade física é crucial, mas a intensidade ideal nem sempre é clara, gerando dúvidas sobre como começar ou continuar.
+
+=== SLIDE 3 — PROBLEMA ===
+TITULO: O que a maioria acredita — ou faz errado
+CORPO: Há uma crença comum de que apenas treinos estruturados ou de alta intensidade trazem resultados significativos. Isso pode levar à inatividade por medo de não conseguir ou por achar que "não vale a pena" fazer pouco.
+
+=== SLIDE 4 — DADO PRINCIPAL ===
+TITULO: Atividade leve melhora bem-estar global
+CORPO: Uma revisão de 11 estudos com 9.254 mulheres mostrou que a atividade física aeróbica recreativa está positivamente associada à qualidade de vida global, física e específica para o câncer de mama.
+DESTAQUE: Exercícios do dia a dia melhoram a qualidade de vida.
+
+=== SLIDE 5 — MECANISMO ===
+TITULO: Como isso funciona no seu corpo
+CORPO: A atividade aeróbica, mesmo em intensidade moderada, libera endorfinas, reduz a inflamação e melhora a circulação. Isso contribui para mais energia, menos fadiga e melhor humor, impactando diretamente o bem-estar.
+
+=== SLIDE 6 — DADO SECUNDÁRIO ===
+TITULO: Benefícios além do físico
+CORPO: Os estudos indicaram que os benefícios da atividade recreativa se estendem para a saúde mental e emocional, não se limitando apenas à melhora da condição física. Isso impacta a percepção de bem-estar geral.
+
+=== SLIDE 7 — MITO ===
+TITULO: Crença errada relacionada ao tema
+CORPO: Muitas mulheres pensam que, após o tratamento do câncer, precisam de um programa de exercícios rigoroso e supervisionado para colher benefícios.
+
+=== SLIDE 8 — VERDADE ===
+TITULO: O que a evidência diz de verdade
+CORPO: A evidência mostra que atividades aeróbicas recreativas — como caminhada, natação ou ciclismo — são suficientes para promover melhorias significativas na qualidade de vida. O importante é se manter ativa.
+
+=== SLIDE 9 — NA PRÁTICA ===
+TITULO: O que você pode fazer a partir de hoje
+CORPO: Comece com 30 minutos de caminhada rápida na maioria dos dias da semana. Dance, nade ou pedale. O essencial é escolher algo que você goste e que seja fácil de manter.
+
+=== SLIDE 10 — CTA ===
+CTA_PRIMARIO: Manda pra uma amiga que está se recuperando e precisa dessa dose de ânimo.
+CTA_SECUNDARIO: Salva esse post para consultar e seguir nosso perfil para mais ciência descomplicada.
+HASHTAGS: #corposaber #caminhada #qualidadedevida #poscancer #saudedamulher

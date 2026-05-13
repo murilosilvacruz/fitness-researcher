@@ -1,0 +1,42 @@
+=== SLIDE 1 — CAPA ===
+TITULO: Mulher ativa precisa de mais proteína
+SUBTITULO: A recomendação padrão não é suficiente para quem treina.
+CHAMADA: Deslize para ver →
+
+=== SLIDE 2 — CONTEXTO ===
+TITULO: Por que isso importa para você
+CORPO: Com a perimenopausa e menopausa, a perda de massa muscular e óssea acelera. Manter e ganhar músculos é crucial para a qualidade de vida e saúde a longo prazo.
+
+=== SLIDE 3 — PROBLEMA ===
+TITULO: O que a maioria acredita — ou faz errado
+CORPO: Muitas mulheres ativas ainda seguem a recomendação geral de proteína para sedentários, sem ajustar a dieta para as demandas do treino. Isso prejudica os resultados.
+
+=== SLIDE 4 — DADO PRINCIPAL ===
+TITULO: 0,8g/kg/dia é pouco para mulheres ativas
+CORPO: A ingestão de 0,8 gramas de proteína por quilo de peso corporal por dia atende 97,5% dos adultos sedentários. Mas quem treina precisa de mais.
+DESTAQUE: 0,8g/kg/dia não é suficiente para quem treina.
+
+=== SLIDE 5 — MECANISMO ===
+TITULO: Como isso funciona no seu corpo
+CORPO: Durante o exercício, seus músculos sofrem microlesões e usam proteína como energia. Para reparar, recuperar e construir novos músculos, seu corpo precisa de mais "tijolos" proteicos.
+
+=== SLIDE 6 — DADO SECUNDÁRIO ===
+TITULO: Exercício aumenta a quebra de proteína
+CORPO: O treino aumenta a oxidação de proteínas e a quebra muscular. Sem proteína suficiente, o corpo entra em balanço nitrogenado negativo, dificultando a recuperação e o ganho de massa.
+
+=== SLIDE 7 — MITO ===
+TITULO: Crença errada relacionada ao tema
+CORPO: "Comer muita proteína vai me deixar com músculos masculinos" ou "proteína só é para atletas de alto rendimento".
+
+=== SLIDE 8 — VERDADE ===
+TITULO: O que a evidência diz de verdade
+CORPO: Independentemente do nível de treino, mulheres ativas precisam de mais proteína. Isso apoia a recuperação, previne a perda de massa magra e promove o ganho muscular, essencial para a saúde feminina 40+.
+
+=== SLIDE 9 — NA PRÁTICA ===
+TITULO: O que você pode fazer a partir de hoje
+CORPO: Avalie sua ingestão de proteína. Priorize fontes de proteína em todas as refeições e, se necessário, considere suplementos para atingir as necessidades ideais para seu corpo ativo.
+
+=== SLIDE 10 — CTA ===
+CTA_PRIMARIO: Manda pra uma amiga que treina e precisa saber disso!
+CTA_SECUNDARIO: Segue o @corpo.saber para não perder o próximo.
+HASHTAGS: #corposaber #proteina #mulher40mais #massamuscular #saudefeminina

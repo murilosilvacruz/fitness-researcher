@@ -1,0 +1,26 @@
+{
+  "status": "REJECTED",
+  "notes": "",
+  "auto": {
+    "passed": false,
+    "score": 0.444,
+    "failures": [
+      "summary: campo PILAR ausente",
+      "caption: muito curta (425 chars, mín 800)",
+      "caption: hashtag #corposaber ausente",
+      "caption: apenas 0 hashtags (mín 5)",
+      "caption: nenhum CTA detectado (salva, comenta, marca, link na bio)"
+    ],
+    "warnings": []
+  },
+  "llm": {
+    "score_total": 8,
+    "score_normalized": 0.32,
+    "brand_alignment": 4,
+    "hook_quality": 4,
+    "scientific_clarity": 0,
+    "pilar_fit": 0,
+    "cta_effectiveness": 0,
+    "feedback": ""
+  }
+}

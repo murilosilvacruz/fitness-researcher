@@ -1,0 +1,16 @@
+"Generate a 12-second vertical (9:16) video for Instagram Reels, targeting Brazilian women aged 40-55, with a color palette of Terracota (#C9614A), Sage (#7B9E87), and Off-white (#F7F5F2). The video should utilize an OPENING HOOK, Speed ramp, and Before/After techniques.
+
+**HOOK (0-2s):**
+0-0.5s: OPENING HOOK. A close-up shot of an Afro-brasileira woman (mid-40s, medium-dark skin, natural curly hair) in a modern apartment living room, looking frustrated while trying to tie her running shoe. The camera quickly zooms in on her face as she sighs.
+0.5-2s: Quick cut to a Parda/Mestiça woman (early 40s, warm brown skin, wavy hair) in a home gym setting, performing a bicep curl with a light dumbbell. She completes the rep, then drops her arm in exasperation, looking at the dumbbell with a puzzled expression. **TEXT OVERLAY: Seu treino não funciona mais? A ciência explica.**
+
+**HOLD (2-9s):**
+2-4s: Transition to a split screen. Left side: The Afro-brasileira woman from the hook, looking tired and unmotivated on a park bench. Right side: The Parda/Mestiça woman from the hook, looking equally frustrated in her home gym, wiping sweat from her brow. Both scenes are slightly desaturated to emphasize the "before" state. Pacing: Quick cuts between the two women's reactions.
+4-6s: Speed ramp. A rapid montage of various women (Oliva/Descendência europeia, Nordestina/Indígena – all 40s-50s) performing simple exercises (stretching, light weights, walking) in different Brazilian environments (urban park, apartment balcony, kitchen). The camera quickly pans and cuts between their movements, highlighting effort without clear results.
+6-9s: Quick cut to a bright, modern kitchen. An Oliva/Descendência europeia woman (mid-40s, light olive skin, brown wavy hair) is measuring ingredients for a healthy meal. The camera is steady, focusing on her precise movements. She looks focused and determined. **TEXT OVERLAY: Na perimenopausa, as mudanças hormonais alteram seu metabolismo.**
+
+**PAYOFF (9-12s):**
+9-11s: Before/After transition. The screen quickly splits vertically. Left side: The Afro-brasileira woman from the hook, now looking vibrant and energetic, jogging confidently in a sunny urban park. She is smiling. Right side: The Parda/Mestiça woman from the hook, now gracefully performing a bodyweight squat with perfect form, looking strong and empowered in her home gym. Both women are wearing activewear in the brand's color palette.
+11-12s: A final shot of a Nordestina/Indígena woman (late 40s, bronze skin, dark straight hair) with a confident and happy expression, holding a water bottle after a workout, looking directly at the camera. She gives a reassuring nod. The background is a vibrant green park. **TEXT OVERLAY: Pequenas mudanças fazem uma grande diferença na sua saúde.**
+
+12 seconds. 9:16."

@@ -1,0 +1,32 @@
+{
+  "post_folder": "seg--exercicio-controla-fogachos-tanto-quanto-remedio",
+  "reviewed_at": "2026-04-26T10:23:56",
+  "files": [
+    {
+      "file": "carousel.txt",
+      "score": 0,
+      "issues": [],
+      "suggestions": "",
+      "skipped": true,
+      "skip_reason": "erro na API: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CaSTP9UF9yws7uj9ETw7P'}"
+    },
+    {
+      "file": "reels.txt",
+      "score": 0,
+      "issues": [],
+      "suggestions": "",
+      "skipped": true,
+      "skip_reason": "erro na API: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CaSTPANZuXaBLjTtGe1LR'}"
+    },
+    {
+      "file": "caption.txt",
+      "score": 0,
+      "issues": [
+        "Nenhum CTA detectado (salva, comenta, marca, link na bio)"
+      ],
+      "suggestions": "",
+      "skipped": true,
+      "skip_reason": "erro na API: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CaSTPBMMNXxZ8EhcNkfvm'}"
+    }
+  ]
+}

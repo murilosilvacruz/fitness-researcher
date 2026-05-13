@@ -1,0 +1,42 @@
+=== SLIDE 1 — CAPA ===
+TITULO: Exercício físico melhora humor, sono e estresse
+SUBTITULO: Mais que corpo, seu treino cuida da sua mente.
+CHAMADA: Deslize para ver →
+
+=== SLIDE 2 — CONTEXTO ===
+TITULO: Por que isso importa para você
+CORPO: Na perimenopausa, as flutuações hormonais podem intensificar o estresse, impactar o humor e a qualidade do sono. Cuidar da saúde mental é tão vital quanto da saúde física.
+
+=== SLIDE 3 — PROBLEMA ===
+TITULO: O que a maioria acredita — ou faz errado
+CORPO: Muitas mulheres focam no exercício apenas para o corpo, esquecendo que o maior benefício pode ser mental. Ou, em momentos de estresse, abandonam a atividade física, quando mais precisam dela.
+
+=== SLIDE 4 — DADO PRINCIPAL ===
+TITULO: Exercício reduz sintomas de depressão e ansiedade
+CORPO: Estudos mostram que a atividade física é mais eficaz que grupos controle na diminuição de sintomas depressivos e ansiosos. Os benefícios são observados tanto em quem já tem diagnóstico quanto na população geral.
+DESTAQUE: O exercício é mais eficaz que grupos controle na redução de ansiedade e depressão.
+
+=== SLIDE 5 — MECANISMO ===
+TITULO: Como isso funciona no seu corpo
+CORPO: O exercício físico regula o eixo hipotálamo-hipófise-adrenal, responsável pela resposta ao estresse. Ele modula hormônios e neurotransmissores, melhorando o humor e a resiliência mental.
+
+=== SLIDE 6 — DADO SECUNDÁRIO ===
+TITULO: Atividade física melhora sono e qualidade de vida
+CORPO: Além dos efeitos diretos no humor, a revisão apontou que a prática regular de exercícios está associada a uma melhora significativa na qualidade do sono e na percepção geral de bem-estar.
+
+=== SLIDE 7 — MITO ===
+TITULO: Crença errada relacionada ao tema
+CORPO: "Estou muito cansada/estressada para treinar, preciso descansar." É comum pensar que o repouso total é a melhor solução para o estresse e o cansaço mental.
+
+=== SLIDE 8 — VERDADE ===
+TITULO: O que a evidência diz de verdade
+CORPO: A evidência sugere que, mesmo em momentos de cansaço mental ou estresse, a atividade física — adaptada à sua energia — pode ser um potente aliado para restaurar o equilíbrio e melhorar o humor.
+
+=== SLIDE 9 — NA PRÁTICA ===
+TITULO: O que você pode fazer a partir de hoje
+CORPO: Inclua 30 minutos de atividade física moderada na maioria dos dias da semana. Escolha algo que você goste, como caminhada, dança ou yoga, para colher os benefícios mentais e físicos.
+
+=== SLIDE 10 — CTA ===
+CTA_PRIMARIO: Manda pra uma amiga que precisa desse lembrete sobre o poder do exercício para a mente.
+CTA_SECUNDARIO: Segue o @corpo.saber para não perder o próximo conteúdo.
+HASHTAGS: #corposaber #saudemental #perimenopausa #exerciciofisico #bemestar

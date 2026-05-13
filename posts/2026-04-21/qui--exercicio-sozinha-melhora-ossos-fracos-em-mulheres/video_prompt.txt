@@ -1,0 +1,49 @@
+# VIDEO GENERATION PROMPT FOR VEO (GOOGLE)
+
+**Title:** "Exercise Alone Improves Weak Bones in Women 40+"
+
+**Duration:** 12 seconds. 9:16 vertical format.
+
+**Target Audience:** Brazilian women aged 40–55, concerned with bone health and accessible fitness solutions.
+
+**Color Palette:** Terracotta #C9614A, Sage #7B9E87, Off-white #F7F5F2.
+
+**Viral Techniques:** OPENING HOOK (0.5s), BEFORE/AFTER split screen, SLOW-MO STRATEGIC on impact moment, FACE HOLD (5s) on emotional peak, Speed ramp during jump sequence.
+
+**Setting:** Modern Brazilian apartment with natural light from large window, or sunny urban park with grass. Warm, inviting, real-life environment. No gym setting.
+
+---
+
+**STRUCTURE:**
+
+**HOOK (0–2.5s):**
+- Open with EXTREME CLOSE-UP of a woman's foot about to land on ground in slow motion.
+- Woman is mid-jump, shoe barely leaving concrete or grass.
+- TEXT OVERLAY appears instantly (0.5s): "Mulheres com osteoporose recuperam densidade óssea com exercício" (white text, sans-serif, bold).
+- Camera captures the moment of impact in SLOW-MO at 60fps.
+- This freeze-frame moment = opening hook to stop scroll.
+
+**HOLD (2.5–10s):**
+- Speed ramp: movement accelerates back to normal speed.
+- CUT to SPLIT SCREEN (0–1.5s duration each side):
+  - LEFT SIDE: X-ray visualization or scientific illustration of weak bone (fading, porous).
+  - RIGHT SIDE: Same bone illustration becoming denser, stronger (brightening, solidifying).
+- Transition with DISSOLVE effect in terracotta color overlay.
+- CUT to medium shot of woman (Afro-brasileira, warm brown skin, natural cacheado hair, age 48–50) standing in apartment, looking directly at camera with calm confidence.
+- FACE HOLD for 4–5s: woman slightly nods, subtle smile, eyes conveying trust and relief.
+- TEXT OVERLAY appears during hold: "+0,85 unidades de densidade mineral óssea" (small, sage green text, lower third).
+- Second CUT (quick 1s): same woman performing a light jump or squat movement, shot from side angle, natural light streaming in background.
+
+**PAYOFF (10–12s):**
+- Final CUT: return to close-up of woman's face, FACE HOLD for 2–3s.
+- TEXT OVERLAY fades in: "Comece agora." (terracotta text, centered, bold).
+- Slow zoom-out reveals woman in full-body shot, standing in peaceful, bright space.
+- Final frame freezes with soft fade to off-white background.
+- Subtle audio cue (gentle chime or heartbeat sound effect) reinforces scientific credibility.
+
+---
+
+**TECHNICAL SPECIFICATIONS:**
+
+- **Camera Movement:** Static face holds; strategic slow-motion on impact; smooth dissolves between scenes; final gentle zoom-out.
+- **Cuts:** Every 2–3 seconds during HOLD section to maintain engagement.

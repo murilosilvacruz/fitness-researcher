@@ -1,0 +1,8 @@
+TITULO: Mulheres ativas precisam de mais proteína que o mínimo
+SUBTITULO: Para otimizar recuperação, preservar músculos e apoiar a imunidade, a ingestão proteica deve ser maior que 0,8g por kg.
+PILAR: O DADO QUE IMPORTA
+BULLETS:
+• Sedentários precisam de 0,8g/kg de proteína ao dia para manter a saúde.
+• Durante o treino, seu corpo usa proteína como energia.
+• Mulheres ativas precisam de mais proteína para reparar e construir músculos.
+• Balanço proteico negativo pode levar à perda de massa muscular.

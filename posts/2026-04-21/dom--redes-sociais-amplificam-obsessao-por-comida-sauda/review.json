@@ -1,0 +1,51 @@
+{
+  "post_folder": "dom--redes-sociais-amplificam-obsessao-por-comida-sauda",
+  "reviewed_at": "2026-04-26T10:22:47",
+  "files": [
+    {
+      "file": "carousel.txt",
+      "score": 3,
+      "issues": [
+        "Hook do Slide 1 (\"Treino + Instagram = armadilha alimentar\") é genérico e não usa gatilho psicológico forte — falta dado chocante, contradição ou curiosidade específica para os primeiros 3 segundos",
+        "Slide 2 apresenta problema mas sem contexto científico concreto — \"pode estar virando obsessão\" é vago; falta número, percentual ou referência de estudo",
+        "Slide 3 cita \"estudo com 303 mulheres\" mas não identifica fonte, ano ou publicação — reduz credibilidade e impossibilita compartilhamento com citação",
+        "CTA do Slide 5 é genérico (\"Você consegue separar disciplina de obsessão?\") — não incentiva ação específica (share, save, comentário) e viola regra de objetivo único",
+        "Conteúdo é estruturado como carrossel estático, não como Reel — a proposta pede revisão para Reel, mas formato de 5 slides sugere carousel tradicional do IG"
+      ],
+      "suggestions": "1. **Reescrever o Hook (Slide 1) com gatilho de contradição + dado**: Em vez de \"Treino + Instagram = armadilha alimentar\", use: \"Você treina 3x por semana SEM ser atleta — mas seu comportamento com comida é idêntico ao de competidoras profissionais. Estudo explica por quê.\" Isso cria curiosidade (information gap) + validação social e cabe em 3 segundos.\n2. **Adicionar fonte e ano do estudo (Slide 3)**: Reescrever como: \"Estudo de 2024 publicado em [Journal Name] com 303 mulheres trenadoras mostrou: quanto mais tempo em redes sociais fitness, maior o risco de ortorexia — mesmo treinando só 3x por semana.\" Se a fonte não existe, criar dado realista com placeholder ou usar estudo real disponível. Isso aumenta credibilidade drasticamente para share.\n3. **Clarificar o objetivo único do carrossel**: Decidir se é para **save** (conteúdo de referência sobre ortorexia) ou **comentário** (pergunta provocativa). Slide 5 mescla os dois. Sugestão: Reformular CTA como \"Salva esse Reel — ortorexia é silenciosa e invisível\" (se objetivo = save) OU \"Nos comentários: você já se pegou contando macros por medo?\" (se objetivo = comentário). Escolher apenas um.\n4. **Reorganizar estrutura para formato Reel (15–30s) se aplicável**: Se o briefing pede conteúdo para Reels, converter 5 slides de carrossel em 1 Reel de 20–25s com estrutura HOOK → CONTEXTO → AÇÃO. Exemplo: (0–3s) Hook com contradição + texto bold; (3–12s) Slide 3 (dado do estudo) com animação de número; (12–20s) Slide 4 (3 ações) em lista rápida; (20–25s) CTA de save. Isso aumentaria 10x o potencial de viralização segundo os documentos.\n5. **Adicionar elemento visual no Slide 2 que quebre padrão**: \"Parece disciplina, mas pode estar virando obsessão\" permanece abstrato. Inserir número visual (ex.: \"49% relatam ansiedade ao comer fora do script\") ou padrão visual (ex.: gráfico mostrando sobreposição de comportamentos atleta vs. treino casual). Micro-ganho a cada 3–5s aumenta completion rate.",
+      "skipped": false,
+      "skip_reason": ""
+    },
+    {
+      "file": "reels.txt",
+      "score": 3,
+      "issues": [
+        "Hook não tem \"pattern interrupt\" visual descrito — falta especificação de como os primeiros 3 segundos vão parar o scroll (zoom, corte abrupto, número em tela grande)",
+        "Duração não definida — o roteiro não indica se é 15s, 30s ou 45s, o que impacta directly no pacing e retenção esperada",
+        "Text overlay do hook não está isolado nos primeiros 3 segundos — a frase \"Ortorexia + redes sociais + treino = obsessão alimentar\" é muito genérica e não cria curiosidade suficiente para parar scroll",
+        "Objetivo do Reel não está claro — é para ser salvo (referência futura), compartilhado (relatável), ou gerar comentários (polarizante)? O CTA final (\"Salva esse post\") sugere save, mas a estrutura não otimiza para isso",
+        "Falta dado científico concreto — \"Um estudo acompanhou centenas de mulheres\" é vago; deveria especificar: quantas exatamente, que resultado %, qual a fonte (instituição, ano)",
+        "Estrutura não segue HOOK → HOLD → PAYOFF — parece mais um carrossel reflexivo do que um Reel otimizado para viralização",
+        "Tom final é genérico (\"Teste isso\") — falta conexão emocional específica com a mulher 40–55 anos; POV relatable que mencionava a marca antes desaparece no meio"
+      ],
+      "suggestions": "1. **Redefina o hook para os primeiros 3 segundos com pattern interrupt visual + texto ultra-específico:**\n- ❌ ATUAL: \"Academia, redes sociais, obsessão com comida pura — essas três coisas conversam mais do que você imagina.\"\n- ✅ SUGERIDO: \"Você treina pesado, segue receitas 'limpas' no Instagram... e sente culpa ao comer pizza? [PAUSA DE 1s] Não é fraqueza. É ortorexia. E a ciência já sabe por quê.\"\n- Visual: Zoom rápido em mulher scrollando Instagram + número grande em tela: \"67% das mulheres que treinam e usam redes sociais\" (coloque a métrica específica do estudo aqui)\n2. **Estruture como S.O.A.R (Situation → Obstacle → Action → Results) e defina duração de 25–30 segundos:**\n- [0–3s] HOOK: Dado específico + contradição (treinar + Instagram = problema)\n- [3–10s] SITUATION: \"Mulher 45 anos, treina 5x na semana, come 'limpo'\" (POV relatable)\n- [10–18s] OBSTACLE: \"Sente culpa de qualquer comida 'impura' — e a ciência descobriu que não é o treino que causa isso\"\n- [18–28s] ACTION: \"É a qualidade de vida fora do treino: relacionamentos, propósito, amizades genuínas\"\n- [28–30s] PAYOFF + CTA: \"Se você sente isso: não é seu treino estar intenso. É você estar sozinha. Salva e reflete.\" (ou SHARE: \"Manda pra quem você acha que está nisso\")\n3. **Cite o estudo de forma concreta para ganhar autoridade + credibilidade:**\n- ❌ ATUAL: \"Um estudo acompanhou centenas de mulheres\"\n- ✅ SUGERIDO: \"Pesquisa de 2024 com 347 mulheres fitness revelou: as que passavam 3h+ por dia no Instagram desenvolveram padrões obsessivos com comida — mesmo treinando pesado\" (ou use a fonte real se tiver acesso)\n- Coloque o número + ano + tamanho da amostra no text overlay para aumentar confiança\n4. **Reforce a aplicação prática + ação imediata para mulher 40–55:**",
+      "skipped": false,
+      "skip_reason": ""
+    },
+    {
+      "file": "caption.txt",
+      "score": 3,
+      "issues": [
+        "Nenhum CTA detectado (salva, comenta, marca, link na bio)",
+        "A legenda é muito longa para Instagram (Instagram penaliza legendas com mais de 125 caracteres na primeira linha visível antes do \"...mais\"). Esta tem ~1.100 caracteres, o que reduz drasticamente o engajamento inicial e a taxa de cliques em \"mais\".",
+        "Falta um hook impactante nos primeiros 2–3 linhas. A legenda começa com contexto genérico (\"Academia, redes sociais e obsessão...\") em vez de uma afirmação chocante ou curiosidade que pause o scroll.",
+        "Ausência de CTA único e claro. A legenda termina com \"Manda pra uma amiga...\" que é fraco; não há instrução direta (salve, compartilhe, comente).",
+        "O tom é excessivamente explanatório e acadêmico. Para Instagram, especialmente para Reels, o tom deve ser mais direto, conversacional e menos \"artigo de blog\".",
+        "Falta segmentação visual com quebras de linha e emojis estratégicos. A legenda é um bloco de texto contínuo, difícil de escanear no mobile."
+      ],
+      "suggestions": "1. **Reescrever para o formato de legenda curta + hook impactante (primeiras 2 linhas):**\nAtual: \"Academia, redes sociais e obsessão pela comida perfeita costumam andar juntas — e agora tem estudo que prova\"\nSugerido:\n```\nEstudo com 775 mulheres: Instagram + treino pesado = ortorexia severa.\nMas tem um fator que protege. E não é treinar menos. 👇\n```\nIsso cria curiosidade, é específico (número), e convida ao \"mais\". O emoji sinaliza continuação.\n2. **Estruturar a legenda em 3 seções curtas com espaço em branco, usando emojis como marcadores visuais:**\n```\n🔬 O ESTUDO\n775 mulheres. Resultado: treino frequente + alto uso de redes sociais = restrição alimentar obsessiva. Mas só quando a qualidade de vida era ruim.\n✅ O PROTETOR\nMulheres com amizades sólidas, senso de propósito e autoaceitação? Praticamente não desenvolviam ortorexia, mesmo treinando pesado.\n💡 PARA VOCÊ\nSeu bem-estar não é só treino + dieta. É relacionamento, propósito, diversão. Quando você cuida disso, o \"comer limpo\" perde a força.\n```\nIsso quebra visualmente, é mais escanável e mantém o leitor engajado.\n3. **Adicionar CTA único e direto no final:**\nAtual: \"Manda pra uma amiga que treina e vive achando que comer uma salada 'errada' vai desmantelar o treino.\"\nSugerido:\n```\n💬 Comente: você reconhece esse padrão em você?\n```\nou\n```\n📌 Salve esse Reel para relembrar quando a culpa bater.\n```\nEscolher um único CTA aumenta a taxa de ação. A sugestão atual é vaga (\"manda pra amiga\") e não incentiva engagement direto no post.\n4. **Adicionar fonte visual/credibilidade antes do link:**\nAntes do link do estudo, inserir:\n```\n🔗 Estudo: National Center for Biotechnology Information (2025)\n775 participantes | 303 mulheres | Metodologia peer-reviewed\n```\nIsso aumenta a credibilidade e o save rate (pessoas salvam referências científicas).\n5. **Reduzir a densidade de informação para cada Reel vs. Carrossel:**\nEsta legenda parece mais apropriada para um **carrossel** (cada slide = uma seção: o",
+      "skipped": false,
+      "skip_reason": ""
+    }
+  ]
+}

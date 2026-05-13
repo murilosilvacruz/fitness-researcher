@@ -1,0 +1,24 @@
+```
+Generate a vertical (9:16) video for Instagram Reels, 8-15 seconds in duration, for the "Corpo e Saber" brand. The video should target Brazilian women aged 40-55 and adhere to a color palette of Terracotta (#C9614A), Sage (#7B9E87), and Off-white (#F7F5F2). Use "OPENING HOOK" and "Slow-mo estratégico" viral techniques.
+
+**VISUALS:**
+
+**HOOK (0-3s):**
+*   **0-0.5s (OPENING HOOK):** Close-up shot of a Parda/Mestiça woman (40s, warm brown skin, wavy/curly hair) in a modern, well-lit Brazilian apartment, swiftly tying her running shoe laces. Camera quickly zooms in on her hands.
+*   **0.5-3s:** Transition to a medium shot of the same woman, standing tall and confident, stretching her arms above her head with a determined yet soft expression. Text overlay appears: "Exercício na menopausa: o que a ciência recomenda."
+    *   *Pacing:* Fast cut at 0.5s.
+
+**HOLD (3-12s):**
+*   **3-5s:** Cut to a split screen. Left side: The woman (Oliva/Descendência europeia, 50s, light olive skin, wavy brown hair) lifting light dumbbells in a home gym setting, focused. Right side: The woman (Afro-brasileira, 45s, medium-dark brown skin, natural curly hair) walking briskly with purpose in a vibrant urban park.
+    *   *Text overlay (top of screen, centered):* "Exercício físico é a ÚNICA estratégia não controversa e benéfica para a mulher na menopausa."
+    *   *Pacing:* Cuts every 2-3s.
+*   **5-7s:** Cut to a wide shot of a group of diverse women (including Nordestina/Indígena, 50s, bronze skin, straight dark hair) performing gentle balance exercises (e.g., standing on one leg) in a bright, airy studio with sage-colored accents.
+    *   *Text overlay (top of screen, centered):* "Um programa completo deve ter aeróbico, força e equilíbrio."
+    *   *Pacing:* Cuts every 2-3s.
+*   **7-9s:** Cut to a close-up of the Parda/Mestiça woman (from HOOK) smiling genuinely as she finishes a set of bodyweight squats in her apartment. Her movements are strong and controlled.
+    *   *Text overlay (top of screen, centered):* "Musculação, caminhada e corrida leve são essenciais para manter seus ossos fortes e sua massa muscular."
+    *   *Pacing:* Cuts every 2-3s.
+*   **9-12s:** Transition to a "Slow-mo estratégico" shot. The Afro-brasileira woman (from HOLD) gracefully glides through water during a swimming stroke, her movement serene and fluid. The water ripples around her in slow motion, emphasizing the gentle nature of the exercise.
+    *   *Text overlay (top of screen, centered):* "Natação e ciclismo são ótimos, mas sozinhos, não constroem seus ossos. E se você tem osteoporose, evite alto impacto."
+
+**PAYOFF (12-15s

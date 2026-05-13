@@ -1,0 +1,42 @@
+=== SLIDE 1 — CAPA ===
+TITULO: Exercício por prazer melhora vida pós-câncer de mama
+SUBTITULO: A ciência mostra como o lazer ativo transforma a recuperação.
+CHAMADA: Deslize para ver →
+
+=== SLIDE 2 — CONTEXTO ===
+TITULO: Por que isso importa para você
+CORPO: Superar o câncer de mama é um desafio, e a vida pós-tratamento traz novas questões. Muitas mulheres buscam formas de recuperar a energia, a saúde e o bem-estar geral, mas nem sempre sabem por onde começar.
+
+=== SLIDE 3 — PROBLEMA ===
+TITULO: O que a maioria acredita — ou faz errado
+CORPO: É comum pensar que a atividade física pós-câncer precisa ser rigorosa ou parte de um programa clínico. Isso pode gerar pressão e até desmotivação, afastando as mulheres do movimento por medo ou falta de prazer.
+
+=== SLIDE 4 — DADO PRINCIPAL ===
+TITULO: Atividade física recreativa melhora a qualidade de vida
+CORPO: Uma revisão de 11 estudos com mais de 9 mil mulheres mostrou que a atividade física aeróbica feita por lazer está ligada a uma melhor qualidade de vida. Isso inclui bem-estar geral, físico e específico ao câncer de mama.
+DESTAQUE: Exercício por prazer pode transformar a vida pós-câncer.
+
+=== SLIDE 5 — MECANISMO ===
+TITULO: Como isso funciona no seu corpo
+CORPO: O movimento libera endorfinas, que melhoram o humor e reduzem a dor. Além disso, a atividade física regular fortalece músculos, melhora a circulação e ajuda a manter um peso saudável, impactando diretamente a energia e a disposição.
+
+=== SLIDE 6 — DADO SECUNDÁRIO ===
+TITULO: Tipos de exercício que fazem a diferença
+CORPO: O estudo aponta que atividades aeróbicas como caminhadas, natação e dança são as mais associadas a essa melhora. Não é preciso algo complexo, apenas algo que você goste de fazer e que mova seu corpo.
+
+=== SLIDE 7 — MITO ===
+TITULO: Crença errada relacionada ao tema
+CORPO: "Só programas de exercícios supervisionados por médicos são eficazes para sobreviventes de câncer."
+
+=== SLIDE 8 — VERDADE ===
+TITULO: O que a evidência diz de verdade
+CORPO: Embora programas supervisionados sejam valiosos, a evidência mostra que a atividade física recreativa, feita por prazer e espontaneamente, também tem um impacto significativo e positivo na qualidade de vida. O importante é se mover.
+
+=== SLIDE 9 — NA PRÁTICA ===
+TITULO: O que você pode fazer a partir de hoje
+CORPO: Encontre uma atividade aeróbica que você realmente goste, como caminhar no parque, nadar na piscina ou dançar em casa. Comece devagar e aumente gradualmente, focando no prazer e no bem-estar que ela te proporciona.
+
+=== SLIDE 10 — CTA ===
+CTA_PRIMARIO: Salva esse post — você vai querer reler para se inspirar a se mover.
+CTA_SECUNDARIO: Segue o @corpo.saber para não perder o próximo conteúdo que cuida de você.
+HASHTAGS: #corposaber #câncerdemama #qualidadedevida #exercíciopraprazer #saúdedamulher

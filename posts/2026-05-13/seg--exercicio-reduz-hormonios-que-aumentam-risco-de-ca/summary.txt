@@ -1,0 +1,8 @@
+TITULO: Exercício reduz hormônios que aumentam risco de câncer
+SUBTITULO: A atividade física modula os níveis de estrogênio e progesterona, contribuindo para a prevenção, especialmente em mulheres 40+.
+PILAR: CIÊNCIA EM DOSE
+BULLETS:
+• O exercício físico é uma estratégia para reduzir estrogênio e progesterona.
+• Essa modulação hormonal pode diminuir o risco de câncer de mama.
+• Benefícios são independentes de outras intervenções médicas.
+• O exercício melhora o condicionamento e a composição corporal geral.

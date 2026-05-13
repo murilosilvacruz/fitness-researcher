@@ -1,0 +1,21 @@
+**PROMPT DE GERAÇÃO DE VÍDEO**
+
+**Video Prompt:**
+
+"Generate a 12-second vertical (9:16) Instagram Reel for 'Corpo e Saber'. The video should target Brazilian women aged 40-55, using a color palette of Terracotta (#C9614A), Sage (#7B9E87), and Off-white (#F7F5F2). Utilize an OPENING HOOK, Speed ramp, and Pacing (cuts every 2-3s for the HOLD).
+
+**HOOK (0-3s):**
+*   **0-0.5s:** OPENING HOOK. Fast cut. A close-up shot of a woman's hand (Parda/Mestiça, warm brown skin, 45-50 years old) quickly reaching out and grabbing a small, dried terracotta pot with a single green sprout, then pulling it towards herself. The camera is slightly shaky, mimicking a POV intimate perspective. The background is a blurred, sunlit apartment balcony with lush green plants.
+*   **0.5-3s:** Speed ramp. The camera quickly zooms out to reveal the full figure of the Parda/Mestiça woman (45-50 years old, warm brown skin, wavy dark brown hair, wearing a loose off-white linen shirt) standing on a modern apartment balcony. She turns to face the camera with a determined yet slightly contemplative expression, holding the pot.
+*   **Text Overlay:** "A longevidade feminina não é igual à masculina." (Terracotta font on Off-white background).
+
+**HOLD (3-9s):**
+*   **3-5s:** Cut. Close-up on the woman's face (Parda/Mestiça, 45-50 years old). Her expression shifts from contemplative to understanding. She subtly nods. The background is a soft-focus indoor setting, possibly a well-lit living room with sage green accents.
+*   **Text Overlay:** "Por muito tempo, a ciência da longevidade focou em homens. Mas isso está mudando!" (Sage font on Off-white background).
+*   **5-7s:** Cut. A split screen appears. Left side: A stylized, abstract animation of a male biological symbol (Mars symbol) transforming into a generic human figure, fading out. Right side: A stylized, abstract animation of a female biological symbol (Venus symbol) emerging and growing into a vibrant, glowing representation of a woman. The overall aesthetic is clean and modern, using the brand's color palette.
+*   **Text Overlay:** "Pesquisas mostram que mulheres envelhecem de forma fundamentalmente diferente." (Terracotta font on Off-white background).
+*   **7-9s:** Cut. Medium shot of the woman (Parda/Mestiça, 45-50 years old) in her kitchen, gently tending to a small herb garden on her windowsill. Her movements are graceful and focused. A subtle glow emanates from her lower abdomen area (representing the ovaries) through visual effects.
+*   **Text Overlay:** "O ovário, por exemplo, é um verdadeiro 'centro de comando' para a sua saúde." (Sage font on Off-white background).
+
+**PAYOFF (9-12s):**
+*   **9-12s:** Slow-mo strategic. The woman (Parda/Mestiça, 45-50 years old) turns from the windowsill, making direct eye contact with the camera. She smiles genuinely and confidently, a sense of empowerment radiating from

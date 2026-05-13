@@ -1,0 +1,18 @@
+"Generate a 12-second vertical video (9:16) for Instagram Reels, targeting Brazilian women aged 40-55. The video should use a color palette of Terracota (#C9614A), Sage (#7B9E87), and Off-white (#F7F5F2).
+
+**OPENING HOOK (0-0.5s):** Close-up shot of a hand quickly crossing out "0.8g/kg PROTEIN" written on a whiteboard with a bold red marker, creating a strong visual stop-scroll.
+
+**HOOK (0-3s):**
+1.  **0-1s:** (Speed Ramp - accelerate) A dynamic shot of an Afro-brasileira woman (mid-40s, medium-dark skin, natural curly hair) in activewear, quickly performing a squat or lunges in a bright, modern apartment living room, facing away from the camera. The movement is quick and decisive.
+2.  **1-3s:** (Cut) Quick cut to the woman (same Afro-brasileira) now facing the camera, slightly out of breath but with a determined expression. Text overlay appears: "A recomendação de 0,8 gramas de proteína por quilo de peso é MITO para quem treina."
+
+**HOLD (3-9s):**
+1.  **3-5s:** (Cut) The woman (Afro-brasileira) takes a sip from a water bottle, her expression thoughtful. Camera slightly zooms in. Text overlay updates: "0,8g/kg de proteína é POUCO para quem treina."
+2.  **5-7s:** (Cut) Split screen appears. Left side: An older, less active-looking woman (Oliva/Descendência europeia, mid-50s, light olive skin, wavy brown hair) sitting calmly on a sofa, reading. Right side: The Afro-brasileira woman (mid-40s) actively stretching on a yoga mat in a sunlit varanda. Voiceover: "Um estudo da Sociedade Internacional de Nutrição Esportiva revisou a literatura e foi claro: essa quantidade é para pessoas sedentárias. Se você pratica exercícios, suas necessidades são maiores."
+3.  **7-9s:** (Cut) Close-up shot of the Afro-brasileira woman's bicep flexing slightly as she performs a light resistance band exercise. Slow-mo strategic for the muscle engagement. Voiceover: "Isso porque o treino aumenta a quebra de proteínas no seu músculo. Você precisa de mais proteína para reparar, recuperar e construir massa magra."
+
+**PAYOFF (9-12s):**
+1.  **9-11s:** (FACE HOLD) Camera holds steady on the Afro-brasileira woman's face (mid-40s) as she looks directly at the camera, her expression shifting from serious to empowered. Voiceover: "Sem o suficiente, sua recuperação será lenta, você pode perder músculo e até enfraquecer a imunidade. Coma mais proteína!"
+2.  **11-12s:** (Cut) The woman gives a confident, encouraging smile and a subtle nod. Text overlay appears: "Manda pra uma amiga que treina e precisa saber disso."
+
+12 seconds. 9:16."

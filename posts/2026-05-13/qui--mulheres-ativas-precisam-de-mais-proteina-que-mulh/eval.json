@@ -1,0 +1,23 @@
+{
+  "status": "APPROVED",
+  "notes": "",
+  "auto": {
+    "passed": false,
+    "score": 0.833,
+    "failures": [
+      "summary: TITULO com 66 chars (máx 60)",
+      "summary: bullet 2 com 104 chars (máx 100)"
+    ],
+    "warnings": []
+  },
+  "llm": {
+    "score_total": 23,
+    "score_normalized": 0.92,
+    "brand_alignment": 5,
+    "hook_quality": 4,
+    "scientific_clarity": 5,
+    "pilar_fit": 5,
+    "cta_effectiveness": 4,
+    "feedback": "O post é excelente, com informações claras e base científica sólida. A linguagem é direta e respeitosa. O CTA poderia ser mais específico para gerar interação, como \"Qual sua maior dificuldade para atingir a meta de proteína?\"."
+  }
+}

@@ -1,0 +1,42 @@
+=== SLIDE 1 — CAPA ===
+TITULO: Exercício físico melhora humor e qualidade de vida
+SUBTITULO: Não é só o corpo que se beneficia de se movimentar.
+CHAMADA: Deslize para ver →
+
+=== SLIDE 2 — CONTEXTO ===
+TITULO: Por que isso importa para você
+CORPO: Aos 40+, seu corpo passa por muitas transformações. Oscilações hormonais e estresse podem impactar seu humor e bem-estar, tornando a saúde mental uma prioridade.
+
+=== SLIDE 3 — PROBLEMA ===
+TITULO: O que a maioria acredita — ou faz errado
+CORPO: Muitas mulheres focam no exercício apenas para o corpo e o peso, esquecendo que ele é um pilar crucial para a mente. Ou pensam que só precisam se exercitar se tiverem um problema grave.
+
+=== SLIDE 4 — DADO PRINCIPAL ===
+TITULO: Exercício físico reduz sintomas depressivos em não atletas
+CORPO: Estudos mostram que a atividade física regular é mais eficaz que grupos controle na redução de sintomas de depressão em mulheres não atletas. Isso inclui melhora do humor e da qualidade de vida.
+DESTAQUE: Exercício é mais eficaz que grupos controle para reduzir depressão.
+
+=== SLIDE 5 — MECANISMO ===
+TITULO: Como isso funciona no seu corpo
+CORPO: A atividade física regula o eixo hipotálamo-hipófise-adrenal, o sistema responsável pela resposta ao estresse. Isso ajuda a equilibrar hormônios e reduzir a inflamação, impactando diretamente seu estado de espírito.
+
+=== SLIDE 6 — DADO SECUNDÁRIO ===
+TITULO: Yoga também traz benefícios significativos
+CORPO: Além dos exercícios mais tradicionais, práticas como yoga demonstraram efeitos positivos no bem-estar geral, na qualidade do sono e até na gestão de desejos por substâncias.
+
+=== SLIDE 7 — MITO ===
+TITULO: Crença errada relacionada ao tema
+CORPO: "Só preciso procurar ajuda para minha saúde mental se eu for diagnosticada com algo grave."
+
+=== SLTE 8 — VERDADE ===
+TITULO: O que a evidência diz de verdade
+CORPO: A atividade física regular é uma ferramenta poderosa para aprimorar a saúde mental e o bem-estar de forma preventiva. Ela pode atenuar sintomas de ansiedade e depressão, mesmo em casos não clínicos, e melhorar o sono.
+
+=== SLIDE 9 — NA PRÁTICA ===
+TITULO: O que você pode fazer a partir de hoje
+CORPO: Inclua 30 minutos de atividade física moderada na maioria dos dias da semana. Pode ser uma caminhada, uma aula de dança ou yoga. O importante é se movimentar de forma consistente.
+
+=== SLIDE 10 — CTA ===
+CTA_PRIMARIO: Salva esse post — você vai querer reler antes do próximo treino.
+CTA_SECUNDARIO: Segue o @corpo.saber para não perder o próximo.
+HASHTAGS: #corposaber #saudemental #exerciciofisico #bemestar #mulheres40mais

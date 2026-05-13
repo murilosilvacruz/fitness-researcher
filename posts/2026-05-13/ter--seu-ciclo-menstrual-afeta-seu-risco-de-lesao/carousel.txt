@@ -1,0 +1,42 @@
+=== SLIDE 1 — CAPA ===
+TITULO: Hormônios e treino: como adaptar seu exercício
+SUBTITULO: Seu corpo muda com a idade. Seu treino também precisa mudar.
+CHAMADA: Deslize para ver →
+
+=== SLIDE 2 — CONTEXTO ===
+TITULO: Por que isso importa para você
+CORPO: Se você tem mais de 40 anos, sabe que seu corpo não responde ao treino como antes. Entender a ciência por trás das suas flutuações hormonais é a chave para otimizar seus resultados e proteger sua saúde.
+
+=== SLIDE 3 — PROBLEMA ===
+TITULO: O que a maioria acredita — ou faz errado
+CORPO: Muitas mulheres ignoram as mudanças hormonais e seguem a mesma rotina de treino por anos. Isso pode levar a platôs, frustração e até aumentar o risco de lesões, especialmente na perimenopausa.
+
+=== SLIDE 4 — DADO PRINCIPAL ===
+TITULO: O ciclo menstrual afeta diretamente seu desempenho e risco de lesões
+CORPO: Na fase folicular (primeira metade do ciclo, com estrogênio e progesterona baixos), o corpo tem mais resiliência para treinos intensos. Mas, atenção: o risco de lesões do ligamento cruzado anterior (LCA) aumenta em até 3x.
+DESTAQUE: Risco de lesões do LCA pode aumentar em até 3x na fase folicular.
+
+=== SLIDE 5 — MECANISMO ===
+TITULO: Como isso funciona no seu corpo
+CORPO: O estrogênio influencia a elasticidade dos tecidos e a estabilidade articular. Quando ele está baixo, seus ligamentos podem ficar menos firmes, tornando-os mais vulneráveis a lesões durante exercícios de alto impacto.
+
+=== SLIDE 6 — DADO SECUNDÁRIO ===
+TITULO: Adapte seu treino à fase lútea
+CORPO: Na segunda metade do ciclo (fase lútea, com progesterona elevada), você pode sentir um aumento na temperatura corporal e na frequência cardíaca. Seu corpo também entra em um estado mais catabólico, exigindo mais atenção à recuperação e nutrição.
+
+=== SLIDE 7 — MITO ===
+TITULO: Crença errada relacionada ao tema
+CORPO: "Mulheres devem treinar como homens, ignorando o ciclo hormonal." Este é um mito perigoso que desconsidera a fisiologia feminina única e pode comprometer a saúde e os resultados.
+
+=== SLIDE 8 — VERDADE ===
+TITULO: O que a evidência diz de verdade
+CORPO: A ciência mostra que adaptar o treino às flutuações hormonais otimiza o ganho de massa óssea e muscular, melhora o desempenho e reduz o risco de lesões. Conhecer seu corpo é seu maior aliado.
+
+=== SLIDE 9 — NA PRÁTICA ===
+TITULO: O que você pode fazer a partir de hoje
+CORPO: Monitore seu ciclo. Na fase folicular, priorize treinos de força e potência, mas redobre a atenção à forma para proteger as articulações. Na fase lútea, foque em recuperação, volume moderado e exercícios que promovam o bem-estar.
+
+=== SLIDE 10 — CTA ===
+CTA_PRIMARIO: Salva esse post — você vai querer reler antes do próximo treino.
+CTA_SECUNDARIO: Segue o @corpo.saber para não perder o próximo conteúdo que te empodera.
+HASHTAGS: #corposaber #treinofeminino #mulheres40mais #perimenopausa #saudefeminina

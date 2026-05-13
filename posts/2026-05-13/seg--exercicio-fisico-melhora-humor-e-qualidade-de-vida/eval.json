@@ -1,0 +1,22 @@
+{
+  "status": "APPROVED",
+  "notes": "",
+  "auto": {
+    "passed": false,
+    "score": 0.923,
+    "failures": [
+      "summary: TITULO com 67 chars (máx 60)"
+    ],
+    "warnings": []
+  },
+  "llm": {
+    "score_total": 21,
+    "score_normalized": 0.84,
+    "brand_alignment": 5,
+    "hook_quality": 4,
+    "scientific_clarity": 4,
+    "pilar_fit": 5,
+    "cta_effectiveness": 3,
+    "feedback": "O conteúdo está bem alinhado com a marca e o pilar. Para melhorar, a citação do estudo poderia ser mais específica (ex: \"Um estudo de revisão publicado em 2023 na PMC NCBI\"). O CTA \"Salva esse post\" é um pouco genérico; considere adicionar um convite para compartilhar ou comentar sobre experiências."
+  }
+}

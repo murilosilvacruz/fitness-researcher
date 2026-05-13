@@ -1,0 +1,20 @@
+"Generate a 12-second vertical (9:16) video for Instagram Reels, targeting Brazilian women aged 40-55. The video should use a color palette of Terracota #C9614A, Sage #7B9E87, and Off-white #F7F5F2.
+
+**OPENING HOOK (0-0.5s):** Start with an immediate, dynamic action. A close-up shot of a woman's hand, holding a small, vibrant green plant (e.g., a succulent), quickly placing it into a terracotta pot. This movement should be fast to stop the scroll.
+
+**HOOK (0-3s):**
+*   **0-0.5s:** (Continues from opening hook) Close-up of the woman's hand placing the plant.
+*   **0.5-2.5s:** Transition to a full shot of a Brazilian woman (Afro-brasileira, mid-40s, medium-dark skin, natural curly hair) in a bright, modern apartment living room, looking frustrated while trying to do a push-up. She struggles slightly, then sighs and stops. The camera is slightly above eye level, capturing her expression.
+*   **2.5-3s:** Quick cut to a text overlay appearing: "Seu treino não funciona mais? A ciência explica." (Your workout no longer works? Science explains.)
+
+**HOLD (3-9s):**
+*   **3-5s:** **Slow-mo strategic.** Transition to a close-up, slow-motion shot of the same woman (Afro-brasileira) walking briskly and confidently in a sunny urban park, wearing comfortable athletic wear. Her movement is graceful and powerful. The camera follows her from a slightly low angle, emphasizing her strength.
+*   **5-7s:** **Split screen.** On one side, a static shot of a glass of water with a single ice cube melting (representing slow, unseen changes). On the other, a quick montage of scientific graphics (simple, abstract representations of hormones, cells, or graphs) in the brand's color palette, dissolving quickly. This illustrates the scientific explanation without being overly complex.
+*   **7-9s:** **POV íntimo.** A very close-up shot of another Brazilian woman (Parda/Mestiça, late 40s, warm brown skin, wavy hair) smiling genuinely and confidently while doing a low-impact exercise (e.g., gentle stretch, light bicep curl with a small weight) in her home kitchen. The camera is positioned as if we are looking over her shoulder or very close to her face, creating an intimate connection. The pacing here involves cuts every 2 seconds, maintaining engagement.
+
+**PAYOFF (9-12s):**
+*   **9-11s:** Transition back to the Afro-brasileira woman from the park, now performing a modified, easier exercise (e.g., walking lunges or a gentle squat) with ease and a confident smile. The camera is slightly wider, showing her full body in motion. The lighting is bright and natural.
+*   **11-12s:** **Loop perfeito.** End with a close-up of her hand reaching out and touching a vibrant green leaf on a plant in the park, reminiscent of the opening hook, creating a sense of completion and a gentle call to action.
+
+**Overall Pacing:** Dynamic with cuts every 2-3 seconds during the HOLD, strategic slow-mo for emphasis.
+**Environment:** Modern Brazilian apartment, sunny urban park,

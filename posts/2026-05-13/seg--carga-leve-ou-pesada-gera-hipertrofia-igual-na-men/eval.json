@@ -1,0 +1,22 @@
+{
+  "status": "APPROVED",
+  "notes": "",
+  "auto": {
+    "passed": false,
+    "score": 0.923,
+    "failures": [
+      "caption: palavras proibidas encontradas: ['segredo']"
+    ],
+    "warnings": []
+  },
+  "llm": {
+    "score_total": 21,
+    "score_normalized": 0.84,
+    "brand_alignment": 4,
+    "hook_quality": 4,
+    "scientific_clarity": 4,
+    "pilar_fit": 5,
+    "cta_effectiveness": 4,
+    "feedback": "O post é direto e informativo, alinhado com a voz da marca. A citação do estudo poderia ser mais específica (ex: \"Estudo publicado em PMC, 2021, com diversos participantes, incluindo mulheres na menopausa\") para reforçar a relevância para o público-alvo. O CTA é claro, mas poderia ser mais criativo para incentivar o salvamento."
+  }
+}

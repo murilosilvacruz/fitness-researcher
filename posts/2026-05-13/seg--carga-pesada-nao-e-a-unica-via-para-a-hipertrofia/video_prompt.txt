@@ -1,0 +1,21 @@
+"Generate a vertical 9:16 video, 12 seconds in length, with a warm, inviting tone, adhering to the Corpo e Saber brand palette (Terracota #C9614A, Sage #7B9E87, Off-white #F7F5F2). The video should feature a Parda/Mestiça woman, approximately 45-50 years old, with warm brown skin, shoulder-length wavy dark brown hair, and friendly, expressive eyes. The setting is a bright, modern Brazilian apartment with natural light, featuring a comfortable living room area with a yoga mat and light dumbbells.
+
+**OPENING HOOK (0-0.5s):**
+A Parda/Mestiça woman, mid-40s, is mid-rep, struggling slightly but determined, lifting a light dumbbell (2-3kg) in a bicep curl. Her expression is focused. This shot is a close-up, slightly from below, emphasizing the effort. The camera quickly zooms in on her face as she completes the rep.
+**TEXT OVERLAY (0-3s):** "Treinar com pouco peso dá resultado? A ciência responde."
+
+**HOLD (0.5-9s):**
+*   **0.5-3s:** The woman, now smiling warmly, is sitting comfortably on the floor next to her yoga mat, holding a light dumbbell. She gestures reassuringly towards the camera. The camera performs a subtle, slow push-in.
+    *   **Pacing:** Cut to a split screen.
+*   **3-6s (Split Screen):**
+    *   **Left Screen:** The woman is performing bicep curls with the light dumbbell, struggling slightly on the last few reps, showing good form but clear effort. Focus on her bicep contracting.
+    *   **Right Screen:** A subtle, animated graphic of a muscle fiber growing, perhaps with tiny scientific symbols (like molecules) around it, in brand colors.
+    *   **Pacing:** Cut to a close-up on her face.
+*   **6-9s (FACE HOLD):** The camera is static, focusing tightly on the woman's face (mid-shot, chest up). She looks directly at the camera, her expression confident and encouraging, as if sharing a secret. A subtle, warm smile plays on her lips. Her eyes convey understanding and empowerment.
+
+**PAYOFF (9-12s):**
+*   **9-11s:** The woman, now standing in front of a large window with a view of a green urban park, picks up two light dumbbells, ready to start a new set. She gives a knowing, empowering nod to the camera. This scene is slightly speed-ramped, accelerating her movement as she prepares.
+*   **11-12s (Loop Perfect):** The woman begins her first bicep curl, mirroring the opening hook's action, creating a seamless loop. The camera smoothly pulls back slightly, revealing her full form and the inviting apartment setting.
+
+**Overall:** The video should feel empowering and informative, with a friendly, accessible tone. The lighting should be soft and natural, emphasizing the warm brand palette.
+12 seconds. 9:16."

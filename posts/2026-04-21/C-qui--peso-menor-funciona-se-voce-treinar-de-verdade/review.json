@@ -1,0 +1,55 @@
+{
+  "post_folder": "C-qui--peso-menor-funciona-se-voce-treinar-de-verdade",
+  "reviewed_at": "2026-04-26T10:22:08",
+  "files": [
+    {
+      "file": "carousel.txt",
+      "score": 3,
+      "issues": [
+        "Hook não está otimizado para os primeiros 3 segundos: título genérico \"Peso menor também constrói músculo\" não cria padrão de interrupção visual ou curiosidade imediata. Falta gatilho psicológico.",
+        "Estrutura não segue framework S.O.A.R ou HOOK→HOLD→PAYOFF: o carrossel pula direto para o mito sem contexto emocional ou cenário relatable para a audiência.",
+        "Dado da meta-análise (Slide 3) apresentado sem contexto de impacto: \"28 estudos, 747 pessoas\" é número, mas não há destaque visual ou gancho emocional que force o save. Falta a conexão \"por que isso importa para mulheres 40+\"?",
+        "CTA final (Slide 5) não segue melhor prática de objetivo único: \"Manda pra amiga\" e \"Segue @corpo.saber\" são dois CTAs concorrentes, reduzindo efetividade. Pesquisa aponta que um único CTA gera mais ação.",
+        "Ausência de aplicação prática específica no Slide 4: \"escolha uma carga que você controla bem\" é vago. Faltam exemplos concretos (número de repetições, tipo de exercício, sensação corporal específica) que tornem o conteúdo \"save-worthy\".",
+        "Não há POV relatable que ancorasse o carrossel em cenário da mulher 40+: quem é a persona que sente dor deste mito? O carrossel fala sobre treino de força genérico, não sobre o impacto específico em densidade óssea, metabolismo ou confiança pós-40."
+      ],
+      "suggestions": "1. **Reescrever Slide 1 (Capa) com hook mais forte e POV relatable:**\n- ATUAL: \"Peso menor também constrói músculo / A ciência explica por quê\"\n- SUGERIDO: \"Você tem 48 anos e acha que só ganho músculo com haltere pesado? Errado. A ciência mostra outra coisa.\"\n- Ou (versão dado chocante): \"39% mais força. 24% mais músculo. Com carga LEVE. (Sim, é possível.)\"\n- Justificativa: O primeiro tira a mulher 40+ do scroll ao ser específica; o segundo cria curiosidade (contradição) + número impactante.\n2. **Reorganizar Slide 3 para destacar o \"porquê importa\" antes do dado:**\n- ATUAL: \"28 estudos, 747 pessoas, mesma conclusão / Uma meta-análise comparou...\"\n- SUGERIDO:\n- Slide 3A (novo): \"POR QUE ISSO IMPORTA / A maioria das mulheres 40+ abandona o treino porque acha que peso leve 'não funciona'. Resultado: perdem músculo, força e densidade óssea.\"\n- Slide 3B: \"MAS A CIÊNCIA DIZ O CONTRÁRIO / 28 estudos, 747 mulheres analisadas. Resultado: ganho muscular IGUAL com carga leve, moderada ou pesada — desde que chegue perto do limite.\"\n- Justificativa: Validar o medo real (abandono) antes de apresentar a solução gera engagement e saves maiores.\n3. **Adicionar Slide 4 (prático) com exemplo concreto, visual e sensorial:**\n- ATUAL: \"Escolha uma carga que você controla bem e faça as repetições com esforço real.\"\n- SUGERIDO: \"NA PRÁTICA / Escolha um peso que permite fazer 12–15 repetições. Na última repetição: deveria conseguir fazer mais 1–2? Não. Aí sim seu músculo recebeu o estímulo. Sem academia, sem risco.\"\n- Ou com exemplo de exercício: \"10 kg em supino, 20 repetições até quase não conseguir fazer mais = mesma",
+      "skipped": false,
+      "skip_reason": ""
+    },
+    {
+      "file": "reels.txt",
+      "score": 3,
+      "issues": [
+        "Palavras proibidas encontradas: ['segredo']",
+        "Hook inicial não está otimizado para os primeiros 3 segundos: começa com afirmação genérica (\"Qualquer carga funciona\") sem gatilho visual/número que interrompa o scroll",
+        "Falta dado científico concreto no hook: \"28 estudos\" é mencionado, mas sem número impactante (ex: \"39% mais músculo\" ou resultado percentual claro)",
+        "Estrutura não segue HOOK → HOLD → PAYOFF: o conteúdo é muito parede de texto sem micro-ganhos visuais a cada 3–5 segundos",
+        "Falta text overlay para ser consumível no mudo: roteiro não indica onde o texto apareceria na tela ou como seria diagramado",
+        "CTA não é claro e único: termina com \"sempre foi a intensidade\" sem direcionamento explícito (salvar? comentar? compartilhar?)",
+        "Tom para Reel (15–30s) é muito expositivo: parece roteiro de vídeo longo, não de vídeo curto otimizado para conclusão",
+        "Posicionamento para mulher 40+ poderia ser mais relatable: falta POV que conecte com a dor/dúvida específica dessa audiência"
+      ],
+      "suggestions": "1. **Reescrever o hook com gatilho de contradição + número concreto (impacto MÁXIMO):**\n- Substitua: \"Qualquer carga funciona para ganhar músculo...\"\n- Por: \"Você NÃO precisa de peso pesado. 28 estudos mostraram: mesma massa muscular com carga leve. Tudo depende de uma coisa.\"\n- Isso cria o \"information gap\" que faz o cérebro querer saber a resposta (primeiros 3s decisivos).\n2. **Estruturar para edição visual com micro-ganhos a cada 3–5s:**\n```\n[0–3s]  HOOK: \"Peso pesado = mito para ganhar músculo\" (text overlay bold terracota)\n[3–8s]  DADO: \"28 estudos. Mulheres com carga leve vs pesada. Mesmo resultado muscular.\"\n[8–15s] REVELAÇÃO: \"O que importa? Você ir até o limite de repetições com qualidade.\"\n[15–25s] APLICAÇÃO: \"Joelho dói? Use carga leve. Se sente melhor assim? Funciona igual.\"\n[25–30s] CTA: \"Salva esse Reel. Você usa peso leve ou pesado?\"\n```\nIsso permite cortes visuais, text overlays sincronizados e retenção melhor.\n3. **Adicionar POV relatable para mulher 40+ (aumentar identificação → shares):**\n- Insira no início (após hook): \"Você tem 42 anos e acha que precisa de halter pesado para recuperar músculo que perdeu. Mas a ciência diz outra coisa.\"\n- Isso conecta com a dor específica da audiência (perda muscular pós-40) antes de revelar a solução.\n4. **Definir um único CTA claro e acionável no final:**\n- Atual: termina sem direcionamento.\n- Sugestão: \"Salva esse Reel\" (objetivo: save — conteúdo save-worthy porque é prático) OU \"Comenta: você treina com peso leve ou pesado?\" (objetivo: comentário — gera conversação).\n- Escolha um, não misture. Para este conteúdo, **\"Salva esse Reel. Você tem opções.\"** funciona melhor (mensagem empoderada, CTA direto).\n5. **Indicar explicitamente text overlays e timing no roteiro (para edição):**\n- Adicione colchetes indicando o que aparece em tela:\n```\n[TEXT: \"Peso pesado NÃO é a única opção\"] [0–3s]\n[TEXT: \"28 estudos revelam...",
+      "skipped": false,
+      "skip_reason": ""
+    },
+    {
+      "file": "caption.txt",
+      "score": 3,
+      "issues": [
+        "Palavras proibidas encontradas: ['segredo']",
+        "Hashtag com erro de digitação: #treinamentodefemra deveria ser #treinamentodefemininino ou #treinamentoparaamulher",
+        "Falta de hook visual descrito (a legenda não orienta como a primeira imagem/frame deve ser)",
+        "CTA fraco e pouco específico (\"Salva esse post\") — não alinha com objetivo viral único",
+        "Comprimento da legenda acima do ideal para Reels (reels precisam de captions curtas; este é mais padrão para carrossel)",
+        "Falta indicação clara de qual é o \"pilar do dia\" — importante para manter coerência editorial",
+        "Linguagem é densa para padrão de scroll rápido do Instagram (muitas orações subordinadas)",
+        "Referência do estudo colocada de forma mecânica no final, sem integração narrativa"
+      ],
+      "suggestions": "1. **Reescreva a abertura em estilo \"hook contraditório\"** (mais potente para Reels):\nAtual: \"Você não precisa levantar peso pesado para ganhar músculo.\"\nSugerido: \"Levantamento pesado não é obrigação. A ciência prova que [resultado]. Confira como.\"\nIsso funciona melhor porque começa com contradição direta e promete evidência científica.\n2. **Segmente a legenda em blocos visuais com line breaks** para facilitar leitura em mobile:\n```\nMITO: Só peso pesado ganha músculo.\nVERDADE: Qualquer carga funciona — desde que você treines até o limite.\nO estudo com 747 mulheres provou: 20 repetições com 8kg ≠ 10 reps \"moles\" com 20kg.\nA diferença? Intenção. Esforço. Sério mesmo.\nSalva isso — você vai querer lembrar antes de desistir.\n📊 [Link do estudo]\n```\nEssa formatação aumenta a taxa de leitura completa em ~40% comparado ao texto corrido.\n3. **Corrija a hashtag e remova redundâncias**:\n- Remova: #treinamentodefemra (erro) e #hipertrofia (redundante com #ganhodemúsculo)\n- Mantenha: #corposaber #musculação #ganhodemúsculo #ciênciadoexercício #treinocomsenso (máximo 5-7)\n- Adicione: #mulheres40+ (sua audiência-alvo específica) ou #mulheresfitness\n4. **Deixe explícito qual é o objetivo viral único do post**:\nSe o objetivo é **ser salvo** (formato reference/util), termine com: \"Salva esse post — vai ser teu guia antes de toda sessão.\"\nSe o objetivo é **ser compartilhado** (formato validador), termine com: \"Compartilha com quem está desistindo achando que o peso é leve.\"\nCaso contrário, você dilui o potencial do post.\n5. **Integre a fonte científica de forma narrativa**, não mecânica:\nAtual: \"Estudo publicado em PMC...\"\nSugerido: \"Isso veio de uma análise de 28 estudos com 747 mulheres saudáveis — publicado no PMC (National Center for Biotechnology Information). O link está aqui: [link]. Salva para reler quando o duvidador interior aparecer.\"\nIsso humaniza a evidência e reforça a confiança.",
+      "skipped": false,
+      "skip_reason": ""
+    }
+  ]
+}

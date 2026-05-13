@@ -1,0 +1,42 @@
+=== SLIDE 1 — CAPA ===
+TITULO: Proteína extra não turbina seus músculos
+SUBTITULO: O que a ciência diz sobre a ingestão proteica e seus ganhos musculares.
+CHAMADA: Deslize para ver →
+
+=== SLIDE 2 — CONTEXTO ===
+TITULO: Por que isso importa para você
+CORPO: Com o tempo, perdemos massa muscular e óssea. Treinar força é crucial, e a proteína é um nutriente-chave para manter e ganhar músculos. Mas será que mais é sempre melhor?
+
+=== SLIDE 3 — PROBLEMA ===
+TITULO: O que a maioria acredita — ou faz errado
+CORPO: Muitas mulheres, especialmente após os 40, pensam que precisam consumir quantidades altíssimas de proteína, ou até usar suplementos caros, para ver resultados no treino de força.
+
+=== SLIDE 4 — DADO PRINCIPAL ===
+TITULO: Proteína acima do básico não trouxe mais massa
+CORPO: Um estudo com mulheres na pós-menopausa praticando treino de força mostrou que consumir mais proteína que a recomendação diária não gerou ganho extra de massa magra.
+DESTAQUE: Mais proteína não turbinou o ganho muscular.
+
+=== SLIDE 5 — MECANISMO ===
+TITULO: Como isso funciona no seu corpo
+CORPO: Nosso corpo tem um limite para usar a proteína na construção muscular. Uma vez que você atinge a quantidade necessária, o excesso é usado como energia ou excretado, sem benefícios adicionais para os músculos.
+
+=== SLIDE 6 — DADO SECUNDÁRIO ===
+TITULO: Achado adicional relevante ou variação do resultado
+CORPO: Outros estudos, inclusive com homens jovens, também indicaram que a suplementação proteica tem efeitos mínimos nas adaptações musculares durante o treino de resistência, reforçando que existe um platô.
+
+=== SLIDE 7 — MITO ===
+TITULO: Crença errada relacionada ao tema
+CORPO: A ideia de que "quanto mais proteína, mais músculo" é um mito. O corpo aproveita o que precisa, e o resto não é magicamente convertido em massa muscular.
+
+=== SLIDE 8 — VERDADE ===
+TITULO: O que a evidência diz de verdade
+CORPO: Para mulheres não atletas, focadas em saúde óssea e qualidade de vida, o mais importante é atingir a Recomendação de Ingestão Diária de proteína e ser consistente no treino de força.
+
+=== SLIDE 9 — NA PRÁTICA ===
+TITULO: O que você pode fazer a partir de hoje
+CORPO: Priorize fontes proteicas de qualidade nas suas refeições (carnes, ovos, laticínios, leguminosas) para atingir a RDA. Mantenha a regularidade no treino de força. A suplementação só é útil se a sua dieta for realmente insuficiente.
+
+=== SLIDE 10 — CTA ===
+CTA_PRIMARIO: Salva esse post — você vai querer reler antes do próximo treino.
+CTA_SECUNDARIO: Segue o @corpo.saber para não perder o próximo.
+HASHTAGS: #corposaber #proteina #ganhodemassa #treinodeforça #mulheres40mais

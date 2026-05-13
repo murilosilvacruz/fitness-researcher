@@ -1,0 +1,22 @@
+{
+  "status": "APPROVED",
+  "notes": "",
+  "auto": {
+    "passed": false,
+    "score": 0.917,
+    "failures": [
+      "summary: TITULO com 61 chars (máx 60)"
+    ],
+    "warnings": []
+  },
+  "llm": {
+    "score_total": 22,
+    "score_normalized": 0.88,
+    "brand_alignment": 5,
+    "hook_quality": 4,
+    "scientific_clarity": 5,
+    "pilar_fit": 5,
+    "cta_effectiveness": 3,
+    "feedback": "O post está muito bem alinhado com a voz da marca e o pilar. A clareza científica é excelente, com citação e contexto adequados. O CTA poderia ser mais diversificado, talvez incentivando comentários ou compartilhamentos, além de salvar."
+  }
+}

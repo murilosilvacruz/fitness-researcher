@@ -1,0 +1,30 @@
+{
+  "post_folder": "qui--fitness-para-mulheres-40-e-a-3a-tendencia-global-e",
+  "reviewed_at": "2026-04-26T10:23:50",
+  "files": [
+    {
+      "file": "carousel.txt",
+      "score": 0,
+      "issues": [],
+      "suggestions": "",
+      "skipped": true,
+      "skip_reason": "arquivo não encontrado"
+    },
+    {
+      "file": "reels.txt",
+      "score": 0,
+      "issues": [],
+      "suggestions": "",
+      "skipped": true,
+      "skip_reason": "erro na API: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CaSTNh1mk8xNfYvU6gBTA'}"
+    },
+    {
+      "file": "caption.txt",
+      "score": 0,
+      "issues": [],
+      "suggestions": "",
+      "skipped": true,
+      "skip_reason": "erro na API: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CaSTNipfy4tqcScdwi3KV'}"
+    }
+  ]
+}

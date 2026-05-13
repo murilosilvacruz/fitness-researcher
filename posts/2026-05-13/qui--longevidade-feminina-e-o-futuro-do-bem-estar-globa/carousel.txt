@@ -1,0 +1,42 @@
+=== SLIDE 1 — CAPA ===
+TITULO: Longevidade feminina: o ovário é o centro de comando
+SUBTITULO: O futuro do bem-estar vai focar na saúde da mulher.
+CHAMADA: Deslize para ver →
+
+=== SLIDE 2 — CONTEXTO ===
+TITULO: Por que isso importa para você
+CORPO: Você sente que a saúde da mulher na meia-idade é um tema recente? A ciência está confirmando que o envelhecimento feminino é único, e isso muda tudo.
+
+=== SLIDE 3 — PROBLEMA ===
+TITULO: O que a maioria acredita — ou faz errado
+CORPO: Por muito tempo, a pesquisa em longevidade se baseou em dados masculinos. Isso levou a abordagens incompletas para a saúde da mulher, ignorando nossas particularidades biológicas.
+
+=== SLIDE 4 — DADO PRINCIPAL ===
+TITULO: Mulheres envelhecem de forma fundamentalmente diferente
+CORPO: O estudo Global Wellness Summit 2026 aponta que a pesquisa está crescendo e evidenciando que as mulheres envelhecem de forma fundamentalmente diferente dos homens.
+DESTAQUE: Mulheres envelhecem de forma fundamentalmente diferente dos homens.
+
+=== SLIDE 5 — MECANISMO ===
+TITULO: Como isso funciona no seu corpo
+CORPO: O ovário é o "centro de comando" para a saúde feminina. Seu declínio não afeta só a reprodução, mas acelera dramaticamente o envelhecimento sistêmico.
+
+=== SLIDE 6 — DADO SECUNDÁRIO ===
+TITULO: Impacto do declínio ovariano na saúde geral
+CORPO: O declínio ovariano leva a uma cascata de condições que as mulheres sofrem mais e por mais tempo. Isso inclui desde a saúde óssea até a cognição.
+
+=== SLIDE 7 — MITO ===
+TITULO: Crença errada relacionada ao tema
+CORPO: Muitas mulheres ainda pensam que a menopausa é apenas uma fase de sintomas, e não um marcador de mudanças sistêmicas profundas no corpo.
+
+=== SLIDE 8 — VERDADE ===
+TITULO: O que a evidência diz de verdade
+CORPO: O futuro do bem-estar priorizará a saúde feminina, abordando o envelhecimento ovariano como crucial para a saúde geral. Intervenções serão personalizadas.
+
+=== SLIDE 9 — NA PRÁTICA ===
+TITULO: O que você pode fazer a partir de hoje
+CORPO: Busque informações e profissionais que entendam a saúde feminina em todas as suas fases. Priorize estratégias de bem-estar que considerem o papel central dos seus ovários, mesmo após a menopausa.
+
+=== SLIDE 10 — CTA ===
+CTA_PRIMARIO: Manda pra uma amiga que precisa entender que a saúde feminina é única.
+CTA_SECUNDARIO: Segue o @corpo.saber para não perder o próximo.
+HASHTAGS: #corposaber #saúdedamulher #longevidadefeminina #menopausa #perimenopausa

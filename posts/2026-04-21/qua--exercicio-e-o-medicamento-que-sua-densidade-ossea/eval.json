@@ -1,0 +1,25 @@
+{
+  "status": "APPROVED",
+  "notes": "",
+  "auto": {
+    "passed": false,
+    "score": 0.692,
+    "failures": [
+      "summary: bullet 1 com 139 chars (máx 100)",
+      "summary: bullet 2 com 123 chars (máx 100)",
+      "summary: bullet 3 com 129 chars (máx 100)",
+      "summary: bullet 4 com 103 chars (máx 100)"
+    ],
+    "warnings": []
+  },
+  "llm": {
+    "score_total": 23,
+    "score_normalized": 0.92,
+    "brand_alignment": 5,
+    "hook_quality": 5,
+    "scientific_clarity": 4,
+    "pilar_fit": 5,
+    "cta_effectiveness": 4,
+    "feedback": "A voz é impecável — direta, acolhedora e inteligente. O hook \"Exercício depois dos 40 não é só para emagrecer. É para não perder osso\" é absolutamente assertivo e redirecion a conversa do senso comum. O pilar NA PRÁTICA está bem executado com recomendações acionáveis (teste da fala, adaptações para osteoporose). Pequenas melhorias: o link para PMC é correto, mas seria mais forte citar o ano do estudo ou autores na legenda (reforça credibilidade); o CTA final (\"Salva esse post\") compete com a ação esperada — considere um CTA mais único (ex: \"Tem osteoporose? Comente abaixo\" ou apenas remover o duplicado)."
+  }
+}

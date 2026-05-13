@@ -1,0 +1,42 @@
+=== SLIDE 1 — CAPA ===
+TITULO: Exercício na perimenopausa: o dado que importa
+SUBTITULO: Por que se exercitar agora é mais importante do que você imagina.
+CHAMADA: Deslize para ver →
+
+=== SLIDE 2 — CONTEXTO ===
+TITULO: Por que isso importa para você
+CORPO: Na perimenopausa, seu corpo passa por grandes transformações. Os níveis hormonais flutuam, afetando metabolismo, humor e até a força dos seus ossos.
+
+=== SLIDE 3 — PROBLEMA ===
+TITULO: O que a maioria acredita — ou faz errado
+CORPO: Muitas mulheres reduzem a atividade física nessa fase, seja por cansaço, desmotivação ou por achar que o exercício não fará tanta diferença.
+
+=== SLIDE 4 — DADO PRINCIPAL ===
+TITULO: Atividade física pode cair 40% na perimenopausa
+CORPO: Pesquisas mostram que a atividade física pode declinar em até 40% durante a perimenopausa, um período crucial para a saúde a longo prazo.
+DESTAQUE: A atividade física pode cair 40% na perimenopausa.
+
+=== SLIDE 5 — MECANISMO ===
+TITULO: Como isso funciona no seu corpo
+CORPO: O exercício regular combate a resistência à insulina, ajuda a manter a massa muscular e óssea e reduz a inflamação, protegendo você das mudanças hormonais.
+
+=== SLIDE 6 — DADO SECUNDÁRIO ===
+TITULO: Mulheres ativas têm benefícios claros
+CORPO: Mulheres ativas na perimenopausa geralmente apresentam menor IMC, menos gordura corporal, mais massa muscular e maior densidade óssea.
+
+=== SLIDE 7 — MITO ===
+TITULO: Crença errada relacionada ao tema
+CORPO: Acha que já é "tarde demais" ou que só exercícios intensos valem a pena para ter resultados nessa fase.
+
+=== SLIDE 8 — VERDADE ===
+TITULO: O que a evidência diz de verdade
+CORPO: Mesmo pequenas mudanças na sua rotina de exercícios podem trazer grandes benefícios. O importante é começar e ser consistente.
+
+=== SLIDE 9 — NA PRÁTICA ===
+TITULO: O que você pode fazer a partir de hoje
+CORPO: Comece com caminhadas diárias, adicione treinos de força duas vezes por semana e procure atividades que você goste para manter a regularidade.
+
+=== SLIDE 10 — CTA ===
+CTA_PRIMARIO: Salva esse post — você vai querer reler antes do próximo treino.
+CTA_SECUNDARIO: Segue o @corpo.saber para não perder o próximo conteúdo que transforma.
+HASHTAGS: #corposaber #perimenopausa #saudedamulher #exerciciofeminino #menopausa

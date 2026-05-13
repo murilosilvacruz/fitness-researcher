@@ -1,0 +1,14 @@
+"Generate a vertical 9:16 video, 12 seconds in duration, for Instagram Reels. The video should target Brazilian women aged 40-55 and maintain a color palette of Terracota (#C9614A), Sage (#7B9E87), and Off-white (#F7F5F2).
+
+**OPENING HOOK (0-0.5s):**
+0-0.5s: Close-up POV shot of a Parda/Mestiça woman (45, warm brown skin, wavy hair) in athleisure, tying her shoelaces with a quick, decisive movement. The camera is very close, slightly shaky, emphasizing the action. Text overlay appears immediately: "Mulheres 40+: O que o treino precisa ter para você."
+
+**HOLD (0.5-9s):**
+0.5-2.5s: **Speed Ramp** transition to a dynamic shot. The woman (same Parda/Mestiça) is performing a low-impact aerobic exercise (e.g., brisk walking or light elliptical) in a modern, well-lit apartment gym/home gym. The camera follows her movement, slightly accelerating then decelerating to emphasize the effort. **TEXT OVERLAY:** "Você tem mais de 40 e sente que o treino precisa ser diferente? A ciência confirma."
+2.5-4.5s: Cut to an Afro-brasileira woman (50, medium-dark skin, natural curly hair) performing a controlled strength exercise (e.g., bicep curls with light dumbbells or resistance band rows) in a clean, minimalist living room with natural light. The camera is static, focusing on her form. **TEXT OVERLAY:** "Para mulheres na pós-menopausa, o exercício é fundamental para a saúde óssea e muscular."
+4.5-6.5s: Cut to an Oliva/Descendência Europeia woman (48, light olive skin, wavy brown hair) practicing a balance exercise (e.g., standing on one leg, tree pose) on a yoga mat in a serene, plant-filled varanda. The camera gently pans up from her feet to her face, emphasizing stability. **TEXT OVERLAY:** "O programa ideal deve incluir aeróbicos, força e equilíbrio."
+6.5-9s: **Split screen** appears. Left side: The Afro-brasileira woman from before, doing a bodyweight squat (emphasizing bone-loading). Right side: A brief, quick cut of a scientific graph or stylized infographic visually representing increased bone density. **TEXT OVERLAY:** "Essa combinação é a chave para manter seus ossos e músculos fortes, prevenindo a osteoporose."
+
+**PAYOFF (9-12s):**
+9-10.5s: **FACE HOLD (1.5s):** Close-up on the Parda/Mestiça woman's face (same as opening hook), now smiling genuinely and confidently, wiping a bead of sweat from her temple. She looks directly at the camera. The background is slightly blurred. **TEXT OVERLAY:** "Exercícios com carga e resistência são os que mais aumentam a densidade óssea da coluna."
+10.5-12s: **Slow-mo strategic** shot. The Parda/Mestiça woman finishes her workout, taking a deep, satisfied breath, her chest rising slowly. She reaches for her phone on a small table. The camera is slightly above her, looking down. **Loop perfeito** transition as she taps the screen, which subtly dissolves back into the opening shot of her tying

@@ -1,0 +1,42 @@
+=== SLIDE 1 — CAPA ===
+TITULO: Exercício ideal para ossos fortes e sem fraturas
+SUBTITULO: Você sabe qual tipo de treino realmente protege seus ossos na menopausa?
+CHAMADA: Deslize para ver →
+
+=== SLIDE 2 — CONTEXTO ===
+TITULO: Por que isso importa para você
+CORPO: Com a menopausa, a perda óssea acelera, aumentando o risco de osteoporose e fraturas. Manter a saúde óssea é crucial para sua independência e qualidade de vida.
+
+=== SLIDE 3 — PROBLEMA ===
+TITULO: O que a maioria acredita — ou faz errado
+CORPO: Muitas mulheres focam apenas em caminhadas leves, acreditando ser o suficiente para fortalecer os ossos. Porém, nem todo exercício tem o mesmo impacto na densidade óssea.
+
+=== SLIDE 4 — DADO PRINCIPAL ===
+TITULO: Treino de força aumenta densidade óssea em até 4,9%
+CORPO: Estudos mostram que o treinamento de força aumenta o conteúdo mineral ósseo na coluna lombar e no fêmur em 2,9% a 4,9% em mulheres na pós-menopausa.
+DESTAQUE: Treino de força aumenta densidade óssea em quase 5%.
+
+=== SLIDE 5 — MECANISMO ===
+TITULO: Como isso funciona no seu corpo
+CORPO: A força aplicada aos ossos durante o treino de resistência e impacto estimula as células ósseas a se reconstruírem, tornando o osso mais denso e resistente. É o princípio da sobrecarga mecânica.
+
+=== SLIDE 6 — DADO SECUNDÁRIO ===
+TITULO: Impacto e aeróbicos também ajudam
+CORPO: Exercícios aeróbicos de alto impacto, como step, e treinos combinados (aeróbico e força) também melhoram a densidade mineral óssea total e reduzem a reabsorção óssea.
+
+=== SLIDE 7 — MITO ===
+TITULO: Crença errada relacionada ao tema
+CORPO: "Se tenho osteoporose, devo evitar exercícios de impacto para não quebrar um osso."
+
+=== SLIDE 8 — VERDADE ===
+TITULO: O que a evidência diz de verdade
+CORPO: Sob orientação profissional, exercícios de impacto e força são seguros e eficazes para mulheres com osteoporose, ajudando a fortalecer os ossos e prevenir quedas e fraturas futuras.
+
+=== SLIDE 9 — NA PRÁTICA ===
+TITULO: O que você pode fazer a partir de hoje
+CORPO: Inclua treinamento de força 2-3 vezes por semana e considere exercícios de impacto (como pular corda leve ou step) se seu médico e fisioterapeuta liberarem. Comece devagar e aumente a intensidade gradualmente.
+
+=== SLIDE 10 — CTA ===
+CTA_PRIMARIO: Salva esse post — você vai querer reler antes do próximo treino.
+CTA_SECUNDARIO: Segue o @corpo.saber para não perder o próximo.
+HASHTAGS: #corposaber #saudeossea #menopausa #treinodeforça #osteoporose

@@ -1,0 +1,22 @@
+{
+  "status": "APPROVED",
+  "notes": "",
+  "auto": {
+    "passed": false,
+    "score": 0.923,
+    "failures": [
+      "caption: palavras proibidas encontradas: ['segredo']"
+    ],
+    "warnings": []
+  },
+  "llm": {
+    "score_total": 19,
+    "score_normalized": 0.76,
+    "brand_alignment": 4,
+    "hook_quality": 4,
+    "scientific_clarity": 2,
+    "pilar_fit": 5,
+    "cta_effectiveness": 4,
+    "feedback": "A linguagem é inteligente e direta, mas a citação científica é fraca. \"Healthline, 2024, com informações gerais sobre mulheres\" não é uma fonte científica válida. É crucial citar estudos revisados por pares ou instituições de pesquisa renomadas para manter a credibilidade. O conteúdo se encaixa perfeitamente no pilar."
+  }
+}

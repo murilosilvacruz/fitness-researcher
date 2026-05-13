@@ -1,0 +1,42 @@
+=== SLIDE 1 — CAPA ===
+TITULO: Mulheres ativas precisam de mais proteína
+SUBTITULO: A recomendação geral não serve para quem treina. Você sabe quanto precisa?
+CHAMADA: Deslize para ver →
+
+=== SLIDE 2 — CONTEXTO ===
+TITULO: Por que isso importa para você
+CORPO: Com o tempo, a manutenção da massa muscular se torna um desafio maior. Para mulheres 40+, que buscam qualidade de vida e prevenção, o treino de força é essencial.
+
+=== SLIDE 3 — PROBLEMA ===
+TITULO: O que a maioria acredita — ou faz errado
+CORPO: Muitas mulheres ativas ainda seguem a recomendação mínima de proteína (0,8 g/kg) para a população sedentária. Isso pode comprometer seus resultados e a saúde muscular.
+
+=== SLIDE 4 — DADO PRINCIPAL ===
+TITULO: Treinar aumenta sua necessidade de proteína
+CORPO: O exercício físico, especialmente a musculação, aumenta a oxidação de proteínas, elevando sua demanda. A recomendação mínima de 0,8 g/kg/dia atende apenas 97,5% dos sedentários.
+DESTAQUE: Durante o exercício, até 5% da energia vem da proteína.
+
+=== SLIDE 5 — MECANISMO ===
+TITULO: Como isso funciona no seu corpo
+CORPO: O treino causa microlesões musculares. Para reparar e construir novos músculos, seu corpo precisa de mais "blocos" de proteína. Uma ingestão adequada garante essa matéria-prima.
+
+=== SLIDE 6 — DADO SECUNDÁRIO ===
+TITULO: Risco de balanço nitrogenado negativo
+CORPO: Ingerir pouca proteína pode levar ao balanço nitrogenado negativo. Isso significa que seu corpo está quebrando mais proteína do que construindo, prejudicando a recuperação e o ganho muscular.
+
+=== SLIDE 7 — MITO ===
+TITULO: Mito: "Muita proteína faz mal aos rins"
+CORPO: Para indivíduos saudáveis, não há evidências que uma ingestão proteica mais alta, dentro das recomendações para atletas, cause danos renais.
+
+=== SLIDE 8 — VERDADE ===
+TITULO: O que a evidência diz de verdade
+CORPO: Mulheres que treinam precisam de uma ingestão proteica maior para otimizar a recuperação, preservar a massa muscular e apoiar a função imunológica, especialmente com o envelhecimento.
+
+=== SLIDE 9 — NA PRÁTICA ===
+TITULO: O que você pode fazer a partir de hoje
+CORPO: Avalie sua ingestão atual de proteína. Busque distribuir a proteína ao longo do dia e priorize fontes de alta qualidade em todas as refeições.
+
+=== SLIDE 10 — CTA ===
+CTA_PRIMARIO: Salva esse post — você vai querer reler antes do próximo treino.
+CTA_SECUNDARIO: Segue o @corpo.saber para não perder o próximo.
+HASHTAGS: #corposaber #proteina #mulheresquetreinam #massamuscular #saudedamulher

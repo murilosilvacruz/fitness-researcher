@@ -1,0 +1,42 @@
+=== SLIDE 1 — CAPA ===
+TITULO: Exercício Pós-Menopausa: O Que Realmente Funciona
+SUBTITULO: Nem todo treino é igual para seus ossos e músculos.
+CHAMADA: Deslize para ver →
+
+=== SLIDE 2 — CONTEXTO ===
+TITULO: Por que isso importa para você
+CORPO: Após os 40, e especialmente na perimenopausa e pós-menopausa, seu corpo muda. A perda hormonal afeta ossos, músculos e qualidade de vida, tornando o exercício ainda mais crucial.
+
+=== SLIDE 3 — PROBLEMA ===
+TITULO: O que a maioria acredita — ou faz errado
+CORPO: Muitas mulheres focam apenas em exercícios aeróbicos de baixo impacto, como natação ou ciclismo, acreditando que são suficientes para manter a saúde geral e óssea.
+
+=== SLIDE 4 — DADO PRINCIPAL ===
+TITULO: Musculação e aeróbico com peso protegem seus ossos
+CORPO: Estudos mostram que exercícios de resistência (musculação) e aeróbicos com carga de peso são eficazes para aumentar a densidade mineral óssea da coluna em mulheres na pós-menopausa.
+DESTAQUE: Musculação e aeróbico com peso aumentam a densidade óssea.
+
+=== SLIDE 5 — MECANISMO ===
+TITULO: Como isso funciona no seu corpo
+CORPO: A carga e o impacto gerados por esses exercícios criam um estresse positivo nos ossos. Isso estimula as células ósseas a se fortalecerem e reconstruírem, prevenindo a perda de massa óssea.
+
+=== SLIDE 6 — DADO SECUNDÁRIO ===
+TITULO: Atividades sem impacto são importantes, mas não sozinhas
+CORPO: Atividades como natação ou ciclismo são ótimas para a saúde cardiovascular e bem-estar, mas não fornecem o estímulo necessário para o fortalecimento ósseo. Elas devem ser complementares.
+
+=== SLIDE 7 — MITO ===
+TITULO: Crença errada relacionada ao tema
+CORPO: "Qualquer exercício serve para fortalecer os ossos na menopausa."
+
+=== SLIDE 8 — VERDADE ===
+TITULO: O que a evidência diz de verdade
+CORPO: Para ossos fortes, o exercício precisa gerar impacto ou resistência. Um programa completo inclui musculação, aeróbicos com carga de peso e exercícios de equilíbrio, como Tai Chi, que também ajuda a prevenir quedas.
+
+=== SLIDE 9 — NA PRÁTICA ===
+TITULO: O que você pode fazer a partir de hoje
+CORPO: Inclua musculação 2-3 vezes por semana e 2h30min de aeróbicos com carga de peso (como caminhada rápida ou corrida leve) semanalmente. Se tiver osteoporose, evite alto impacto e consulte um profissional.
+
+=== SLIDE 10 — CTA ===
+CTA_PRIMARIO: Salva esse post — você vai querer reler antes do próximo treino.
+CTA_SECUNDARIO: Segue o @corpo.saber para não perder o próximo.
+HASHTAGS: #corposaber #menopausa #saudeossea #musculacaofeminina #treinofeminino

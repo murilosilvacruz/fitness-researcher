@@ -1,0 +1,42 @@
+=== SLIDE 1 — CAPA ===
+TITULO: Exercício físico melhora humor e sono
+SUBTITULO: Mais do que o corpo, o treino cuida da sua mente.
+CHAMADA: Deslize para ver →
+
+=== SLIDE 2 — CONTEXTO ===
+TITULO: Por que isso importa para você
+CORPO: Na perimenopausa, as flutuações hormonais podem impactar seu humor, sono e bem-estar geral. Saber como gerenciar esses desafios é essencial para sua qualidade de vida.
+
+=== SLIDE 3 — PROBLEMA ===
+TITULO: O que a maioria acredita — ou faz errado
+CORPO: Muitas mulheres focam no exercício apenas para o corpo, deixando de lado o poder que ele tem sobre a mente. Ou pensam que só treinos intensos trazem benefícios mentais.
+
+=== SLIDE 4 — DADO PRINCIPAL ===
+TITULO: Exercício melhora o sistema de resposta ao estresse
+CORPO: Estudos mostram que a atividade física regular otimiza o funcionamento do eixo hipotálamo-pituitária-adrenal, sistema crucial na sua resposta ao estresse diário.
+DESTAQUE: O exercício otimiza sua resposta ao estresse.
+
+=== SLIDE 5 — MECANISMO ===
+TITULO: Como isso funciona no seu corpo
+CORPO: Ao se exercitar, você regula hormônios e neurotransmissores. Isso acalma seu sistema nervoso, reduzindo a sobrecarga do estresse e melhorando sua capacidade de lidar com ele.
+
+=== SLIDE 6 — DADO SECUNDÁRIO ===
+TITULO: Yoga também traz benefícios mentais
+CORPO: Além do treino tradicional, várias formas de yoga, com foco em respiração e relaxamento, demonstraram efeitos positivos na saúde mental.
+
+=== SLIDE 7 — MITO ===
+TITULO: Crença errada relacionada ao tema
+CORPO: "Se estou estressada ou cansada, o melhor é descansar totalmente e evitar qualquer tipo de exercício."
+
+=== SLIDE 8 — VERDADE ===
+TITULO: O que a evidência diz de verdade
+CORPO: A atividade física regular é uma ferramenta eficaz para melhorar o humor, a qualidade do sono e gerenciar sintomas de ansiedade e depressão. Mesmo exercícios leves já ajudam.
+
+=== SLIDE 9 — NA PRÁTICA ===
+TITULO: O que você pode fazer a partir de hoje
+CORPO: Inclua 20 a 30 minutos de atividade física moderada na sua rotina, como caminhada rápida ou yoga. Observe como seu humor e sono melhoram em algumas semanas.
+
+=== SLIDE 10 — CTA ===
+CTA_PRIMARIO: Salva esse post — você vai querer reler antes do próximo treino.
+CTA_SECUNDARIO: Segue o @corpo.saber para não perder o próximo.
+HASHTAGS: #corposaber #saudemental #perimenopausa #exerciciofisico #bemestar

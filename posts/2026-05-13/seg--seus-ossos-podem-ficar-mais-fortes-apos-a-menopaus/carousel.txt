@@ -1,0 +1,42 @@
+=== SLIDE 1 — CAPA ===
+TITULO: Exercício impacta seus ossos mais do que pensa
+SUBTITULO: Prevenir quedas e fraturas pode ser mais simples do que você imagina.
+CHAMADA: Deslize para ver →
+
+=== SLIDE 2 — CONTEXTO ===
+TITULO: Por que isso importa para você
+CORPO: Com a chegada da perimenopausa e pós-menopausa, a perda de densidade óssea se acelera. Isso aumenta o risco de osteoporose, fraturas e quedas, impactando sua autonomia e qualidade de vida.
+
+=== SLIDE 3 — PROBLEMA ===
+TITULO: O que a maioria acredita — ou faz errado
+CORPO: Muitas mulheres evitam exercícios de impacto ou força por medo de lesões, ou acreditam que atividades leves são suficientes. Isso as impede de colher os benefícios reais para a saúde óssea.
+
+=== SLIDE 4 — DADO PRINCIPAL ===
+TITULO: Força e impacto melhoram densidade óssea
+CORPO: Estudos mostram que 3 a 6 meses de treinamento de força e impacto aumentam significativamente a densidade mineral óssea em mulheres pós-menopáusicas. É um investimento real na sua estrutura.
+DESTAQUE: Treino de força e impacto aumenta a densidade óssea em até 4,9%.
+
+=== SLIDE 5 — MECANISMO ===
+TITULO: Como isso funciona no seu corpo
+CORPO: Quando você faz exercícios de força e impacto, o estresse mecânico estimula as células ósseas a se fortalecerem, depositando mais minerais. Seus ossos se adaptam e ficam mais densos e resistentes.
+
+=== SLIDE 6 — DADO SECUNDÁRIO ===
+TITULO: Agachamento específico fortalece regiões chave
+CORPO: Pesquisas indicam que agachamentos em máquina, por 3 meses, podem aumentar o conteúdo mineral ósseo da coluna lombar e colo do fêmur em até 4,9%. Essas são áreas críticas para a prevenção de fraturas.
+
+=== SLIDE 7 — MITO ===
+TITULO: Crença errada relacionada ao tema
+CORPO: O mito de que idosas ou mulheres com osteoporose devem evitar exercícios de força ou impacto, pois isso pode causar fraturas.
+
+=== SLIDE 8 — VERDADE ===
+TITULO: O que a evidência diz de verdade
+CORPO: A evidência mostra que o treinamento de força progressivo e exercícios com impacto são eficazes e seguros para melhorar a saúde óssea e prevenir quedas, mesmo em mulheres com osteoporose, quando bem orientados.
+
+=== SLIDE 9 — NA PRÁTICA ===
+TITULO: O que você pode fazer a partir de hoje
+CORPO: Inclua exercícios de força progressiva (como musculação) e atividades de impacto (como caminhada rápida ou corrida leve, se sua condição permitir) em sua rotina. Consulte um profissional para um plano seguro.
+
+=== SLIDE 10 — CTA ===
+CTA_PRIMARIO: Salva esse post — você vai querer reler antes do próximo treino.
+CTA_SECUNDARIO: Segue o @corpo.saber para não perder o próximo.
+HASHTAGS: #corposaber #osteoporose #saudeossea #treinofeminino #mulheres40mais

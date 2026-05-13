@@ -1,0 +1,42 @@
+=== SLIDE 1 — CAPA ===
+TITULO: Exercício na menopausa: o que você precisa saber
+SUBTITULO: Desvende os melhores treinos para sua saúde óssea e bem-estar.
+CHAMADA: Deslize para ver →
+
+=== SLIDE 2 — CONTEXTO ===
+TITULO: Por que isso importa para você
+CORPO: Após os 40, seu corpo passa por mudanças importantes, especialmente na perimenopausa e menopausa. Manter-se ativa não é só estética, é fundamental para sua saúde óssea, muscular e mental.
+
+=== SLIDE 3 — PROBLEMA ===
+TITULO: O que a maioria acredita — ou faz errado
+CORPO: Muitas mulheres focam apenas em exercícios aeróbicos leves como caminhada ou natação, acreditando que são suficientes. No entanto, para a saúde óssea e muscular, isso pode não ser o bastante.
+
+=== SLIDE 4 — DADO PRINCIPAL ===
+TITULO: Aeróbico + força + equilíbrio protegem seus ossos
+CORPO: Estudos mostram que exercícios aeróbicos, com carga e de resistência são eficazes no aumento da densidade mineral óssea da coluna em mulheres na pós-menopausa. É uma combinação poderosa para seu esqueleto.
+DESTAQUE: Exercícios com carga aumentam a densidade óssea da coluna.
+
+=== SLIDE 5 — MECANISMO ===
+TITULO: Como isso funciona no seu corpo
+CORPO: Quando você move seu corpo contra uma resistência (como pesos ou o próprio peso corporal), seus músculos tracionam os ossos. Essa pressão estimula as células ósseas a se fortalecerem e se reconstruírem.
+
+=== SLIDE 6 — DADO SECUNDÁRIO ===
+TITULO: Um programa completo faz a diferença
+CORPO: A recomendação é 2h30 de atividade aeróbica moderada por semana, somada a exercícios de força e equilíbrio. Atividades como ciclismo e natação são ótimas, mas não substituem os exercícios de carga para os ossos.
+
+=== SLIDE 7 — MITO ===
+TITULO: Crença errada relacionada ao tema
+CORPO: Muitas pensam que apenas "mexer o corpo" já garante a saúde dos ossos. A verdade é que a intensidade e o tipo de exercício importam muito para a densidade óssea.
+
+=== SLIDE 8 — VERDADE ===
+TITULO: O que a evidência diz de verdade
+CORPO: O exercício físico é um dos pilares mais importantes e não controversos para a saúde da mulher na menopausa. Ele não só fortalece ossos e músculos, mas também ajuda a gerenciar o estresse e melhora a qualidade de vida.
+
+=== SLIDE 9 — NA PRÁTICA ===
+TITULO: O que você pode fazer a partir de hoje
+CORPO: Inclua treinos de força (musculação, pesos livres) 2-3 vezes por semana. Combine com atividades aeróbicas e exercícios de equilíbrio, como tai chi ou yoga, para uma rotina completa e protetora.
+
+=== SLIDE 10 — CTA ===
+CTA_PRIMARIO: Salva esse post — você vai querer reler antes do próximo treino.
+CTA_SECUNDARIO: Segue o @corpo.saber para não perder o próximo conteúdo.
+HASHTAGS: #corposaber #saudedamulher #menopausa #treinofeminino #saudeossea

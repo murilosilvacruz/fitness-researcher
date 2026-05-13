@@ -1,0 +1,42 @@
+=== SLIDE 1 — CAPA ===
+TITULO: Exercício na perimenopausa: seu corpo agradece
+SUBTITULO: Pequenas mudanças fazem grande diferença na sua saúde.
+CHAMADA: Deslize para ver →
+
+=== SLIDE 2 — CONTEXTO ===
+TITULO: Por que isso importa para você
+CORPO: A perimenopausa traz mudanças hormonais que afetam seu metabolismo, ossos e músculos. Entender o papel do exercício é chave para viver essa fase com mais saúde e bem-estar.
+
+=== SLIDE 3 — PROBLEMA ===
+TITULO: O que a maioria acredita — ou faz errado
+CORPO: Muitas mulheres reduzem a atividade física nesse período, acreditando que a fadiga é só da idade. Na verdade, essa diminuição pode intensificar os sintomas e riscos à saúde.
+
+=== SLIDE 4 — DADO PRINCIPAL ===
+TITULO: Perimenopausa reduz 40% da sua atividade física
+CORPO: Estudos mostram um declínio de 40% na atividade física durante a perimenopausa. Isso agrava sintomas e aumenta riscos de doenças crônicas a longo prazo.
+DESTAQUE: Menos 40% de atividade física na perimenopausa.
+
+=== SLIDE 5 — MECANISMO ===
+TITULO: Como isso funciona no seu corpo
+CORPO: O exercício combate a resistência à insulina, a inflamação e a perda muscular e óssea que podem ocorrer com as flutuações hormonais. Ele é um escudo protetor para o seu metabolismo.
+
+=== SLIDE 6 — DADO SECUNDÁRIO ===
+TITULO: Mulheres ativas têm mais saúde nessa fase
+CORPO: Mulheres que se mantêm ativas na perimenopausa geralmente apresentam menor IMC, menos gordura corporal, mais massa muscular e maior densidade óssea.
+
+=== SLIDE 7 — MITO ===
+TITULO: Crença errada relacionada ao tema
+CORPO: Pensar que é tarde demais para começar ou que só treinos intensos funcionam. Qualquer movimento conta e faz diferença para o seu corpo.
+
+=== SLIDE 8 — VERDADE ===
+TITULO: O que a evidência diz de verdade
+CORPO: Pequenas mudanças na sua rotina de exercícios já podem mitigar os sintomas da perimenopausa, prevenir disfunções metabólicas e melhorar sua qualidade de vida a longo prazo.
+
+=== SLIDE 9 — NA PRÁTICA ===
+TITULO: O que você pode fazer a partir de hoje
+CORPO: Adicione 30 minutos de caminhada rápida na maioria dos dias, experimente treinos de força duas vezes por semana e busque atividades que te dão prazer para manter a consistência.
+
+=== SLIDE 10 — CTA ===
+CTA_PRIMARIO: Salva esse post — você vai querer reler antes do próximo treino.
+CTA_SECUNDARIO: Segue o @corpo.saber para não perder o próximo.
+HASHTAGS: #corposaber #perimenopausa #saudedamulher #exerciciofeminino #menopausa

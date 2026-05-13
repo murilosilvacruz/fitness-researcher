@@ -1,0 +1,42 @@
+=== SLIDE 1 — CAPA ===
+TITULO: Hormônios mudam seu treino. Adapte!
+SUBTITULO: Entenda como estrogênio e progesterona afetam seu corpo e resultados.
+CHAMADA: Deslize para ver →
+
+=== SLIDE 2 — CONTEXTO ===
+TITULO: Por que isso importa para você
+CORPO: Seus hormônios femininos oscilam ao longo da vida e do mês. Saber como essas mudanças afetam seu corpo pode otimizar seus treinos e proteger sua saúde.
+
+=== SLIDE 3 — PROBLEMA ===
+TITULO: O que a maioria acredita — ou faz errado
+CORPO: Muitas mulheres treinam da mesma forma o mês todo, ignorando as fases hormonais. Isso pode levar a menos resultados, mais fadiga e até maior risco de lesões.
+
+=== SLIDE 4 — DADO PRINCIPAL ===
+TITULO: Início do ciclo favorece treinos intensos
+CORPO: Na fase folicular (início do ciclo), seus hormônios estão mais baixos, tornando seu corpo mais resiliente para exercícios intensos e de força.
+DESTAQUE: Baixos hormônios = mais resiliência para treinos intensos.
+
+=== SLIDE 5 — MECANISMO ===
+TITULO: Como isso funciona no seu corpo
+CORPO: Níveis mais baixos de estrogênio e progesterona na fase folicular podem melhorar a capacidade de recuperação muscular e a utilização de carboidratos como energia, otimizando o desempenho em treinos de força e alta intensidade.
+
+=== SLIDE 6 — DADO SECUNDÁRIO ===
+TITULO: Risco de lesões no ligamento cruzado anterior (LCA)
+CORPO: Apesar da resiliência, o baixo estrogênio na fase folicular também aumenta o risco de lesões no LCA em atividades com mudanças rápidas de direção. Atenção redobrada!
+
+=== SLTO 7 — MITO ===
+TITULO: Crença errada relacionada ao tema
+CORPO: "Mulher deve treinar sempre igual, independentemente do ciclo ou idade."
+
+=== SLIDE 8 — VERDADE ===
+TITULO: O que a evidência diz de verdade
+CORPO: Adaptar a intensidade e o tipo de exercício à fase hormonal específica potencializa os benefícios do treino, melhora a densidade óssea e mantém a composição corporal de forma mais eficaz e segura.
+
+=== SLIDE 9 — NA PRÁTICA ===
+TITULO: O que você pode fazer a partir de hoje
+CORPO: Observe seu ciclo. Na fase folicular, priorize treinos de força e alta intensidade. Na fase lútea, com hormônios elevados, ou na perimenopausa, foque em exercícios que promovem bem-estar e recuperação.
+
+=== SLIDE 10 — CTA ===
+CTA_PRIMARIO: Manda pra uma amiga que precisa otimizar o treino dela!
+CTA_SECUNDARIO: Segue o @corpo.saber para não perder o próximo conteúdo.
+HASHTAGS: #corposaber #treinofeminino #saudedamulher #perimenopausa #hormonios

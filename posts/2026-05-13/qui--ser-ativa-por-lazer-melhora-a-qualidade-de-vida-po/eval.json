@@ -1,0 +1,23 @@
+{
+  "status": "APPROVED",
+  "notes": "",
+  "auto": {
+    "passed": false,
+    "score": 0.833,
+    "failures": [
+      "summary: TITULO com 66 chars (máx 60)",
+      "summary: bullet 2 com 110 chars (máx 100)"
+    ],
+    "warnings": []
+  },
+  "llm": {
+    "score_total": 22,
+    "score_normalized": 0.88,
+    "brand_alignment": 5,
+    "hook_quality": 4,
+    "scientific_clarity": 5,
+    "pilar_fit": 5,
+    "cta_effectiveness": 3,
+    "feedback": "O post está muito bem alinhado com a voz da marca e o pilar. O dado científico é apresentado de forma clara e contextualizada. O CTA poderia ser mais diversificado ou ter uma chamada mais forte para a ação, como \"Compartilhe com uma amiga que precisa dessa informação\" ou \"Qual atividade você vai escolher hoje?\"."
+  }
+}

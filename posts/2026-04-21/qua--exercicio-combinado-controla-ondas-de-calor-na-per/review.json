@@ -1,0 +1,36 @@
+{
+  "post_folder": "qua--exercicio-combinado-controla-ondas-de-calor-na-per",
+  "reviewed_at": "2026-04-26T10:23:38",
+  "files": [
+    {
+      "file": "carousel.txt",
+      "score": 3,
+      "issues": [
+        "Hook do Slide 1 é genérico e não cria curiosidade ou contradição — \"Perimenopausa não é desculpa para ganhar peso\" é afirmação, não gatilho de retenção dos primeiros 3 segundos.",
+        "Falta text overlay descritivo para funcionar no mudo — o carrossel assume leitura, mas Reels precisam de legibilidade imediata mesmo sem som.",
+        "CTA do Slide 5 é duplo (salvar + seguir) — reduz taxa de conclusão de ação única; algoritmo favorece um objetivo por Reel.",
+        "Estrutura não segue HOOK → HOLD → PAYOFF — jumps direto para contexto sem criar information gap nos primeiros 3 segundos.",
+        "Slide 4 (Na Prática) tem excesso de detalhes (dias da semana, minutos específicos) — em Reel, precisa ser mais visual e menos textual."
+      ],
+      "suggestions": "1. **Reescrever o Hook (Slide 1) com gatilho de contradição ou dado chocante:**\nATUAL: \"Perimenopausa não é desculpa para ganhar peso\"\nNOVO: \"39% mais ganho de peso na perimenopausa — mesmo comendo igual. A culpa não é sua. Tem uma razão científica.\"\n(Cria curiosidade + valida emocionalmente + promete resposta)\n2. **Adicionar text overlay para cada slide — função de \"legenda visual\" para quem assiste no mudo:**\nExemplo Slide 2: \"[TEXTO OVERLAY BOLD NOS PRIMEIROS 3s]: Por que seu corpo muda agora\"\nExemplo Slide 3: \"[NÚMERO EM DESTAQUE]: 150 min de aeróbico + força + equilíbrio\"\nExemplo Slide 4: Use icons/visual em vez de listar dias — \"3 sessões aeróbico | 2 sessões força | daily yoga\" com ícones.\n3. **Unificar CTA em um único objetivo — escolher entre Save ou Follow:**\nSUGESTÃO: Priorize **Save** (Slides educativos de estrutura prática geram alta taxa de saves).\nNOVO Slide 5: \"Salva esse cronograma — você vai usar toda semana. 📌 Segue @corpo.saber nos comentários se testou.\"\n(Uma ação clara + CTA secundária em comentário, não em CTA visual duplo)\n4. **Estruturar Slide 3 (dado principal) com animação de texto ou visual progression:**\nEm vez de blocos de texto estáticos, sugerir:\n- Apareça \"150 min\" (número grande, animado)\n- Depois \"aeróbico moderado\" com ícone\n- Depois \"musculação 2-3x\" com ícone\n- Depois \"yoga/pilates\" com ícone\n- Pausa 2s: \"Nenhuma modalidade isolada faz tudo isso\"\n(Mantém ritmo de micro-ganho a cada 3-5s, segue padrão de viralização)\n5. **Revisar tom do Slide 2 — adicionar elemento relatable/emocional:**\nATUAL: \"ondas de calor, insônia e humor instável sabotam qualquer plano\"\nNOVO: \"Você acorda suada 3x à noite, dorme 8 horas e está exausta, e ainda assim o corpo insiste em ganhar peso. Não é culpa sua — a química mudou.\"\n(Mais específico + emocional + científico ao mesmo tempo = maior share rate)",
+      "skipped": false,
+      "skip_reason": ""
+    },
+    {
+      "file": "reels.txt",
+      "score": 0,
+      "issues": [],
+      "suggestions": "",
+      "skipped": true,
+      "skip_reason": "erro na API: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CaSTMqXDbeWQXRvz1BVps'}"
+    },
+    {
+      "file": "caption.txt",
+      "score": 0,
+      "issues": [],
+      "suggestions": "",
+      "skipped": true,
+      "skip_reason": "erro na API: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CaSTMrmstjJkkYpbNPinb'}"
+    }
+  ]
+}

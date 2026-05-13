@@ -1,0 +1,18 @@
+"Generate a 12-second vertical 9:16 video for Instagram Reels, with a warm Terracota, Sage, and Off-white color palette. The target audience is Brazilian women aged 40-55.
+
+**VIDEO PROMPT:**
+
+**OPENING HOOK (0-1s):** Start with an immediate, dynamic POV shot. A close-up of a pair of running shoes (Off-white with subtle Terracota accents) hitting the pavement in a Brazilian urban park. The camera quickly tilts up to reveal the legs of a fit Afro-Brazilian woman (45, medium-dark skin, natural curly hair) in activewear (Sage leggings, Off-white top), jogging with purpose. *Speed ramp* effect: the first 0.5s is slightly accelerated, then immediately slows to normal pace.
+
+**HOLD (1-9s):**
+*   **1-3s:** Cut to a medium shot of the woman from the waist up, still jogging, with a slight smile of determination. Text overlay appears: "30% das mulheres podem reduzir hormônios com algo simples." (Terracota font on Off-white background). Camera slightly tracks her movement.
+*   **3-5s:** Transition (quick cut) to a close-up of her face (FACE HOLD), now pausing to catch her breath, looking directly at the camera with a confident, slightly reflective expression. Her skin glows, and a few strands of hair are slightly damp with sweat.
+*   **5-7s:** Transition (quick cut) to a split screen. On the left: a stylized infographic (Sage and Terracota tones) showing "Estrogen & Progesterone" levels decreasing. On the right: the woman performing a controlled, slow-motion stretch (e.g., reaching for her toes) in a bright, modern Brazilian apartment living room. *Slow-mo strategic* highlights the precision of her movement.
+*   **7-9s:** Transition (quick cut) back to a medium shot of the woman, now doing light arm circles, looking out a large window at a vibrant green park. A subtle glow of natural light illuminates her. The visual emphasizes calm and well-being. Text overlay appears: "Proteção extra para sua saúde." (Terracota font on Off-white background).
+
+**PAYOFF (9-12s):**
+*   **9-11s:** Cut to a slightly wider shot of the woman finishing her workout, wiping her brow with a small towel, a genuine, satisfied smile on her face. She looks invigorated. The camera slowly zooms out.
+*   **11-12s:** The woman looks directly at the camera with a warm, inviting smile, giving a subtle nod. The final frame is a close-up of her face, confident and healthy, creating a *loop perfeito* where her smile and energy could seamlessly lead back to the opening jogging shot.
+
+Pacing: Cuts every 2-3 seconds for the HOLD section.
+12 seconds. 9:16."

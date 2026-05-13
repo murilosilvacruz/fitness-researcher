@@ -1,0 +1,42 @@
+=== SLIDE 1 — CAPA ===
+TITULO: Exercício reduz seus hormônios reprodutivos
+SUBTITULO: Entenda como o treino protege sua saúde hormonal e geral.
+CHAMADA: Deslize para ver →
+
+=== SLIDE 2 — CONTEXTO ===
+TITULO: Por que isso importa para você
+CORPO: Na perimenopausa, a flutuação hormonal é uma realidade. Manter o equilíbrio é crucial para sua saúde e bem-estar, prevenindo condições futuras.
+
+=== SLIDE 3 — PROBLEMA ===
+TITULO: O que a maioria acredita — ou faz errado
+CORPO: Muitas mulheres focam apenas na dieta ou em suplementos para equilibrar hormônios, ignorando o papel fundamental do exercício físico nesse processo.
+
+=== SLIDE 4 — DADO PRINCIPAL ===
+TITULO: Exercício reduz estrogênio e progesterona em mulheres
+CORPO: Uma revisão de estudos mostra que a atividade física regular pode diminuir os níveis desses hormônios, especialmente em mulheres com maior risco de certas doenças.
+DESTAQUE: O exercício físico modula seus hormônios.
+
+=== SLIDE 5 — MECANISMO ===
+TITULO: Como isso funciona no seu corpo
+CORPO: O exercício ajuda a reduzir a gordura corporal, que é um local de produção e armazenamento de estrogênio. Além disso, melhora o metabolismo hormonal no fígado.
+
+=== SLIDE 6 — DADO SECUNDÁRIO ===
+TITULO: Benefícios vão além da modulação hormonal
+CORPO: A prática de exercícios também diminui o IMC, o percentual de gordura corporal e aumenta o condicionamento aeróbico, fatores que contribuem para a saúde geral e prevenção de doenças.
+
+=== SLIDE 7 — MITO ===
+TITULO: Crença errada relacionada ao tema
+CORPO: "Só atletas se beneficiam da modulação hormonal pelo exercício." Muitas mulheres pensam que só treinos intensos trazem esses resultados.
+
+=== SLIDE 8 — VERDADE ===
+TITULO: O que a evidência diz de verdade
+CORPO: Mesmo para mulheres não atletas, a prática consistente de exercícios é uma estratégia valiosa para modular a exposição hormonal e melhorar a saúde geral.
+
+=== SLIDE 9 — NA PRÁTICA ===
+TITULO: O que você pode fazer a partir de hoje
+CORPO: Inclua 30 minutos de atividade física moderada na maioria dos dias da semana. Pode ser caminhada rápida, natação ou musculação. A consistência é chave.
+
+=== SLIDE 10 — CTA ===
+CTA_PRIMARIO: Salva esse post — você vai querer reler antes do próximo treino.
+CTA_SECUNDARIO: Segue o @corpo.saber para não perder o próximo.
+HASHTAGS: #corposaber #saudehormonal #perimenopausa #exerciciofeminino #mulheres40mais

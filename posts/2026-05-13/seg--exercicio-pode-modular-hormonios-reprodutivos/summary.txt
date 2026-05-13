@@ -1,0 +1,7 @@
+TITULO: Exercício pode modular hormônios reprodutivos
+SUBTITULO: A atividade física regular é uma ferramenta promissora para reduzir estrogênio e progesterona, mesmo para mulheres não atletas.
+PILAR: CIÊNCIA EM DOSE
+BULLETS:
+• Exercício físico regular reduz os níveis de estrogênio e progesterona.
+• Essa redução hormonal pode diminuir o risco de certas doenças, como o câncer de mama.
+• A prática de exercícios também melhora a aptidão física e reduz peso e gordura corporal.

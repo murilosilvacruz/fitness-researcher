@@ -1,0 +1,22 @@
+{
+  "status": "REJECTED",
+  "notes": "",
+  "auto": {
+    "passed": false,
+    "score": 0.889,
+    "failures": [
+      "summary: campo PILAR ausente"
+    ],
+    "warnings": []
+  },
+  "llm": {
+    "score_total": 10,
+    "score_normalized": 0.4,
+    "brand_alignment": 5,
+    "hook_quality": 5,
+    "scientific_clarity": 0,
+    "pilar_fit": 0,
+    "cta_effectiveness": 0,
+    "feedback": ""
+  }
+}

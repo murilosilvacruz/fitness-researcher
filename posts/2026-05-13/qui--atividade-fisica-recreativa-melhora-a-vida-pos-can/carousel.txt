@@ -1,0 +1,42 @@
+=== SLIDE 1 — CAPA ===
+TITULO: Exercício recreativo melhora qualidade de vida pós-câncer de mama
+SUBTITULO: Descubra como o movimento leve pode ser seu aliado na recuperação.
+CHAMADA: Deslize para ver →
+
+=== SLIDE 2 — CONTEXTO ===
+TITULO: Por que isso importa para você
+CORPO: Após o tratamento do câncer de mama, muitas mulheres buscam formas de recuperar a energia e o bem-estar. A qualidade de vida é um fator crucial, e encontrar atividades que ajudem nesse processo é essencial para a mulher 40+.
+
+=== SLIDE 3 — PROBLEMA ===
+TITULO: O que a maioria acredita — ou faz errado
+CORPO: Muitas mulheres acreditam que apenas exercícios intensos ou supervisionados podem trazer benefícios significativos. Outras podem se sentir desencorajadas, pensando que qualquer atividade é complexa demais para iniciar.
+
+=== SLIDE 4 — DADO PRINCIPAL ===
+TITULO: Atividade aeróbica recreativa melhora a qualidade de vida
+CORPO: Uma revisão de 11 estudos com 9.254 mulheres mostrou que atividades como caminhada, ciclismo e natação estão ligadas a uma melhor qualidade de vida global e física em sobreviventes de câncer de mama.
+DESTAQUE: Exercício recreativo está associado a melhor qualidade de vida.
+
+=== SLIDE 5 — MECANISMO ===
+TITULO: Como isso funciona no seu corpo
+CORPO: A atividade física libera endorfinas, que melhoram o humor e reduzem a percepção de dor. Também ajuda a manter a função cardiovascular e muscular, combatendo a fadiga e melhorando a disposição geral.
+
+=== SLIDE 6 — DADO SECUNDÁRIO ===
+TITULO: Benefícios específicos para o câncer de mama
+CORPO: O estudo apontou melhorias não só na qualidade de vida geral e física, mas também na qualidade de vida especificamente relacionada ao câncer de mama, sugerindo que o exercício ajuda a lidar com sequelas da doença.
+
+=== SLIDE 7 — MITO ===
+TITULO: Crença errada relacionada ao tema
+CORPO: O mito de que você precisa de uma academia ou de um programa de exercícios rigoroso para ter benefícios significativos na recuperação pós-câncer.
+
+=== SLIDE 8 — VERDADE ===
+TITULO: O que a evidência diz de verdade
+CORPO: A evidência mostra que a atividade física recreativa, aquela que você faz por prazer e de forma espontânea, é poderosa. Caminhar no parque ou nadar na piscina já traz resultados importantes.
+
+=== SLIDE 9 — NA PRÁTICA ===
+TITULO: O que você pode fazer a partir de hoje
+CORPO: Comece com 30 minutos de caminhada leve, 3 a 5 vezes por semana. Escolha uma atividade que você goste de verdade, como dançar, pedalar ou jardinagem. O importante é manter a consistência e o prazer no movimento.
+
+=== SLIDE 10 — CTA ===
+CTA_PRIMARIO: Salva esse post — você vai querer reler antes do próximo treino.
+CTA_SECUNDARIO: Segue o @corpo.saber para não perder o próximo.
+HASHTAGS: #corposaber #cancerdemama #qualidadedevida #exercicioparaelas #saudedamulher40mais

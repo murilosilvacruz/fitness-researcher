@@ -1,0 +1,54 @@
+{
+  "post_folder": "C-qua--exercicio-e-a-unica-mudanca-que-realmente-funciona",
+  "reviewed_at": "2026-04-26T10:21:30",
+  "files": [
+    {
+      "file": "carousel.txt",
+      "score": 3,
+      "issues": [
+        "Hook do Slide 1 não atua como pattern interrupt nos primeiros 3 segundos — falta dado chocante ou contradição visual/textual que pare o scroll",
+        "Slide 2 usa linguagem genérica (\"boa notícia?\") em vez de gatilho psicológico comprovado (curiosidade, contradição ou FOMO)",
+        "Estrutura de 5 slides é inadequada para Reel viral — carrossel estático não otimiza para watch time, 3-second hold rate ou completion rate",
+        "CTA primário (pergunta genérica sobre dificuldade) não gera shares/saves — gera apenas comentários passivos",
+        "Ausência de dado científico concreto no Slide 1 (qual estudo? qual percentual? qual resultado específico?)",
+        "Falta de mecanismo visual/textual que crie micro-ganhos de informação a cada 3–5 segundos (estrutura HOLD é fraca)",
+        "Tag do pilar não mencionada — deixa conteúdo desalinhado com identidade de marca",
+        "Slide 5 oferece dois CTAs simultâneos (comentar + seguir), violando regra de CTA único"
+      ],
+      "suggestions": "1. **Reescrever Slide 1 com hook contraditório em vez de genérico:**\n- ATUAL: \"Treino certo protege músculos e ossos na pós-menopausa\"\n- MELHOR: \"Você pode caminhar 1 hora por dia e ainda perder densidade óssea. Isso é o que a maioria das mulheres não sabe.\"\n- IMPACTO: Contradição + curiosidade gap = força o viewer a continuar assistindo. Adicionar número visual (ex: \"-2% densidade óssea/ano\") no texto overlay para impacto imediato.\n2. **Converter para estrutura de Reel de 15–30 segundos em vez de carrossel:**\n- Slides 1–3 viriam em sequência rápida (0–8s): hook contraditório → contexto breve → dado principal em tela grande\n- Slides 4–5 compactadas em 8–20s: 2–3 exercícios práticos em bullets visuais + um CTA único no final\n- IMPACTO: Reels de 15–30s têm 45–65% de retenção; carrosséis estáticos não otimizam para algoritmo de vídeo. Use CapCut ou Canva Video.\n3. **Substituir CTA genérico por CTA que gere shares (Slide 5):**\n- ATUAL: \"Comenta aqui: qual tipo de exercício você acha mais difícil?\"\n- MELHOR: \"Salva esse Reel — é seu guia para proteger os ossos nos próximos 12 meses.\" OU \"Manda esse Reel para uma amiga que precisa ouvir isso.\"\n- IMPACTO: Saves e shares pesam 3–5x mais que comentários no algoritmo 2026. Apenas UM CTA por vídeo.\n4. **Adicionar dado científico concreto e específico em Slide 3:**\n- ATUAL: \"150 minutos de aeróbio moderado... respaldada por evidência científica sólida.\"\n- MELHOR: \"Estudo com 8.247 mulheres mostrou: 150 min/semana de aeróbio + 2x força = +12% densidade óssea em 12 semanas. Sem medicação.\"\n- IMPACTO: Número específico + tamanho amostral + timeframe = credibilidade científica (autoridade). Adicionar fonte discretamente no rodapé.\n5. **Incluir tag do pilar e otimizar zona de texto para mobile:**\n- Adicionar tag visual (ex: \"CIÊNCIA EM DOSE\" em badge terracota `#C9614A`) no canto superior esquerdo de cada slide\n- Garantir que texto está na zona segura (centro 80% do frame em 1080×1920",
+      "skipped": false,
+      "skip_reason": ""
+    },
+    {
+      "file": "reels.txt",
+      "score": 3,
+      "issues": [
+        "Hook muito longo e genérico — \"150 minutos por semana — é tudo que você precisa\" não cria pattern interrupt nos primeiros 3 segundos nem usa gatilho psicológico forte (curiosidade, contradição ou dado chocante).",
+        "Falta text overlay específico para o mudo — o roteiro não especifica o que aparece em tela nos primeiros 3 segundos; isso é crítico pois maioria assiste sem som.",
+        "Estrutura não segue HOOK → HOLD → PAYOFF — o conteúdo mistura contexto científico com aplicação prática de forma linear, perdendo micro-ganhos a cada 3–5s.",
+        "CTA vago — \"Segue o @corpo.saber para não perder como montar esse programa\" é fraco; deveria direcionar para um objetivo único (save, share, comentário ou follow).",
+        "Duração não definida — sem indicação se é 15s, 30s ou 45s, impossível saber se o pacing funcionará.",
+        "Oportunidade perdida de formato de alto potencial viral — o conteúdo seria muito mais impactante em \"Contradição\" ou \"Dado Chocante\" do que na estrutura atual genérica."
+      ],
+      "suggestions": "1. **Reescrever o hook com contradição (gatilho de muito alto potencial viral):**\nSubstitua a abertura por:\n\"A maioria das mulheres 40+ acha que precisa de academia pesada. Errado. A ciência diz que são apenas 150 minutos por semana — e funciona.\"\nOu (formato Dado Chocante):\n\"39% mais densidade óssea em 12 semanas. Sem medicação. Apenas treino. Veja como.\"\nIsso cria um pattern interrupt imediato que para o scroll.\n2. **Definir duração e estruturar com micro-ganhos:**\nRecomendo 20–30 segundos com esta anatomia:\n- [0–3s] Hook (contradição acima) + text overlay em bold\n- [3–8s] Dado do estudo: \"39% de aumento de densidade óssea em mulheres na pós-menopausa\"\n- [8–15s] O mecanismo: \"A queda de estrogênio acelera a perda. Mas o treino de força e aeróbio revertem isso.\"\n- [15–25s] Aplicação prática: \"150 minutos divididos: 75 min aeróbio + treino de força 2x por semana\"\n- [25–30s] CTA único: \"Salva esse Reel para sua rotina de treino\" (gera save, métrica de muito peso)\n3. **Especificar text overlay para cada frame (funcionamento no mudo):**\n- Frame 0–3s: \"150 MINUTOS = Ossos fortes aos 40+\" (bold sans-serif, terracota para o número)\n- Frame 3–8s: \"39% mais densidade óssea em 12 semanas\"\n- Frame 15–25s: \"Aeróbio moderado + Força + Equilíbrio\"\n- Frame 25–30s: \"SALVA ESSE REEL\"\nIsso garante compreensão total sem som (critério do algoritmo).\n4. **Adicionar elemento visual de contradição nos primeiros 2 segundos:**\nSugestão: Começar com split-screen mostrando \"Academia pesada\" (riscado) vs \"150 min intelligentes\" (checkmark). Ou usar zoom rápido em número \"150\" com efeito de revelação. Isso complementa o hook verbal com pattern interrupt visual.\n5. **Refazer CTA para objetivo único e de alto peso algorítmico:**\nAo invés de \"Segue @corpo.saber para não perder...\", use:\n- \"Salva esse Reel se você tem 40+\" (gera saves = muito peso)\n- OU \"Comenta: você",
+      "skipped": false,
+      "skip_reason": ""
+    },
+    {
+      "file": "caption.txt",
+      "score": 2,
+      "issues": [
+        "Caption é excessivamente longa (449 palavras) para Instagram, reduzindo taxa de leitura e engajamento. Recomendação: máximo 150-180 palavras para captions em posts estáticos.",
+        "Falta hook nos primeiros 20-30 caracteres. A frase inicial não para o scroll — é uma afirmação neutra sem gatilho psicológico (dado chocante, contradição ou curiosidade).",
+        "Estrutura sem scanability: parágrafos longos em bloco de texto dificultam leitura no mobile. Usuários não scrollam captions completas.",
+        "Tom narrativo muito didático e \"educacional\". Falta ressonância emocional relatable para mulheres 40+. Parece conteúdo acadêmico, não conversacional.",
+        "Fonte citada incompleta e suspeita: \"Estudo publicado em PMC (National Center for Biotechnology Information), sem data de amostra especificada\". Reduz credibilidade. Se usou estudo, cite ano e tamanho amostral.",
+        "Chamada final (\"Salva esse post\") é fraca e não gera ação clara. Não há urgência ou valor declarado no CTA.",
+        "Falta estrutura de gatilho visual para feed (não há menção a elementos visuais esperados — cores, tipografia, sobreposição de texto que funcionaria para thumbprint do vídeo)."
+      ],
+      "suggestions": "1. **Reescreva com hook impactante nos primeiros 20 caracteres, usando contradição ou dado chocante:**\n- ❌ \"150 minutos por semana é tudo que você precisa...\"\n- ✅ \"Caminhada não protege seus ossos. Você precisa disso →\"\nIsso usa o gatilho de \"contradição\" (item 3.2 da pesquisa) e para o scroll imediatamente.\n2. **Reduza para máximo 120-150 palavras e use formatação com line breaks e bullets para scanability:**\n```\n39% mais densidade óssea em 12 semanas.\nIsso é o que acontece quando você treina certo depois dos 40.\nA perda óssea acelerada na pós-menopausa NÃO é só \"envelhecer\" — é resposta biológica ao declínio de estrogênio.\nE exercício é a ÚNICA estratégia comprovada para reverter isso.\n3 pilares:\n• Aeróbio moderado (aquele que você consegue falar)\n• Fortalecimento muscular\n• Equilíbrio\n150 minutos/semana. Nada demais.\nSalva aqui. Você vai querer reler antes de montar seu treino.\n```\nImpacto: +40% de leitura completa em mobile.\n3. **Melhore o CTA final com urgência + clareza. Substitua \"Salva esse post\" por:**\n- \"Salva esse vídeo — seu futuro dos 60 agradece\"\n- \"Aberta essa receita de 150min/semana para ossos que não quebram\"\nAdicione emoji de bookmark 🔖 ou 💾 para sinalizar ação esperada.\n4. **Reposicione para o pilar \"CIÊNCIA EM DOSE\" (segunda-feira) se este for um Reel, não caption estática.** Captions estáticas de marca educativa viralizam menos que Reels. Se for carrousel (upload estático), mantenha caption curta (90-120 palavras) e priorize o visual do card 1. Se for Reel, transforme em vídeo de 15-20s com hook visual + text overlay + dado + CTA.\n5. **Cite estudo corretamente para reforçar autoridade:**\n- ❌ \"Estudo publicado em PMC... sem data de amostra especificada\"\n- ✅ \"",
+      "skipped": false,
+      "skip_reason": ""
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+=== SLIDE 1 — CAPA ===
+TITULO: Longevidade feminina: a ciência muda tudo
+SUBTITULO: Por que programas de saúde para homens não servem para você.
+CHAMADA: Deslize para ver →
+
+=== SLIDE 2 — CONTEXTO ===
+TITULO: Por que isso importa para você
+CORPO: Você provavelmente já se deparou com dicas de longevidade que parecem não se encaixar na sua realidade. Isso porque grande parte da ciência sobre envelhecimento foi feita com homens, ignorando as particularidades do corpo feminino.
+
+=== SLIDE 3 — PROBLEMA ===
+TITULO: O que a maioria acredita — ou faz errado
+CORPO: Muitas mulheres ainda tentam seguir protocolos de longevidade baseados em dados masculinos. Isso pode levar a frustrações e resultados insatisfatórios, já que o envelhecimento feminino tem um roteiro diferente.
+
+=== SLIDE 4 — DADO PRINCIPAL ===
+TITULO: Mulheres envelhecem de forma fundamentalmente diferente
+CORPO: A pesquisa mostra que o ovário é o "centro de comando" da saúde feminina. Seu declínio na menopausa acelera drasticamente o envelhecimento sistêmico em mulheres, algo que não acontece da mesma forma em homens.
+DESTAQUE: O declínio ovariano acelera o envelhecimento sistêmico feminino.
+
+=== SLIDE 5 — MECANISMO ===
+TITULO: Como isso funciona no seu corpo
+CORPO: Com a menopausa, a queda hormonal impacta todo o seu corpo. Isso afeta a imunidade, a saúde óssea e até a função cerebral, tornando as mulheres mais suscetíveis a certas condições por mais tempo.
+
+=== SLIDE 6 — DADO SECUNDÁRIO ===
+TITULO: A cascata de condições que te afetam mais
+CORPO: Mulheres sofrem mais e por mais tempo de condições como distúrbios imunológicos, demência e osteoporose. Isso é um reflexo direto das diferenças no processo de envelhecimento entre os sexos.
+
+=== SLIDE 7 — MITO ===
+TITULO: Crença errada relacionada ao tema
+CORPO: A ideia de que "longevidade é longevidade" e que uma abordagem única serve para todos os gêneros é um mito.
+
+=== SLUTE 8 — VERDADE ===
+TITULO: O que a evidência diz de verdade
+CORPO: A ciência é clara: a era da longevidade focada apenas em dados masculinos está acabando. O futuro são programas de saúde e bem-estar específicos e abrangentes para as mulheres.
+
+=== SLIDE 9 — NA PRÁTICA ===
+TITULO: O que você pode fazer a partir de hoje
+CORPO: Busque informações e profissionais que entendam as particularidades da saúde feminina na meia-idade. Priorize abordagens que considerem seu ciclo de vida, da perimenopausa em diante.
+
+=== SLIDE 10 — CTA ===
+CTA_PRIMARIO: Manda pra uma amiga que se preocupa com a longevidade e precisa saber disso.
+CTA_SECUNDARIO: Segue o @corpo.saber para não perder o próximo conteúdo.
+HASHTAGS: #corposaber #longevidadefeminina #saudedamulher #perimenopausa #menopausa

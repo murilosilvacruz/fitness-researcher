@@ -1,0 +1,32 @@
+{
+  "post_folder": "seg--mulheres-que-se-mexem-tem-menos-depressao-e-ansied",
+  "reviewed_at": "2026-04-26T10:24:05",
+  "files": [
+    {
+      "file": "carousel.txt",
+      "score": 0,
+      "issues": [],
+      "suggestions": "",
+      "skipped": true,
+      "skip_reason": "erro na API: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CaSTPnpoRbyrB9fdhnCXC'}"
+    },
+    {
+      "file": "reels.txt",
+      "score": 0,
+      "issues": [],
+      "suggestions": "",
+      "skipped": true,
+      "skip_reason": "erro na API: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CaSTPpWFv3roJty1xkR1u'}"
+    },
+    {
+      "file": "caption.txt",
+      "score": 0,
+      "issues": [
+        "Nenhum CTA detectado (salva, comenta, marca, link na bio)"
+      ],
+      "suggestions": "",
+      "skipped": true,
+      "skip_reason": "erro na API: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CaSTPqVHc9oWWaw2V1PZP'}"
+    }
+  ]
+}

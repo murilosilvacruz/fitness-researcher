@@ -1,0 +1,34 @@
+# VIDEO GENERATION PROMPT FOR VEO (GOOGLE)
+
+**OPENING HOOK (0–0.5s):**
+Close-up POV of a woman's hand (medium-to-dark Brown skin, warm tone) placing a dumbbell on a wooden floor in a bright São Paulo apartment. Speed ramp: slow motion as the weight makes contact, creating a decisive "thud" sound. Sharp visual grab to stop scroll.
+
+**HOLD SECTION (0.5–10s) - BEFORE/AFTER + SPLIT SCREEN:**
+
+**Seconds 0.5–2.5 (Scene 1 - The Problem):**
+Split screen left side: silhouette of a woman (parda/mestiça, warm brown skin, wavy hair, 45 years old) shown in profile, her posture gradually rounding forward. Muted terracotta (#C9614A) overlay with white text: "ANTES DA MENOPAUSA: Densidade óssea normal."
+
+Split screen right side: same woman, 4 years later, bones becoming translucent/crystalline visual effect (off-white #F7F5F2 with sage green tint). Text: "APÓS MENOPAUSA: -30% densidade óssea em 5 anos."
+
+Speed ramp: visuals accelerate to show rapid bone loss over 2.5 seconds.
+
+**Seconds 2.5–5.5 (Scene 2 - The Solution / FACE HOLD):**
+Cut to full-body shot of an Afro-Brazilian woman (dark brown skin, natural crespo hair, 50 years old) in a modern apartment, performing controlled strength training with light dumbbells. Camera static on her focused face for 3 seconds (FACE HOLD moment). Her expression shifts from determined to calm/confident. Soft sage green (#7B9E87) background light. Voiceover: "Exercício é o medicamento."
+
+**Seconds 5.5–8s (Scene 3 - The Three Elements):**
+Quick-cut montage (2–3 second cuts):
+- Moderate aerobic movement: woman walking briskly in an urban park (bronze skin, indigenous features, dark linen clothes), breathing visible, serene.
+- Strength training: close-up of hands gripping dumbbells, controlled movement, terracotta warm lighting.
+- Balance work: woman (olive-skinned, brown wavy hair) in a yoga pose on a bright varanda, silhouetted against off-white curtains.
+
+Text overlay appears per movement: "150 MIN AERÓBIO" → "TREINO DE FORÇA" → "EQUILÍBRIO"
+
+**PAYOFF (8–12s) - LOOP PERFECT:**
+Return to the Afro-Brazilian woman from Scene 2, now smiling directly at camera in FACE HOLD (2–3 seconds). Bones illustrated lightly beneath her skin in glowing sage green, symbolizing strength maintained. Final frame matches opening hook aesthetic (hand, weight, decisive moment). Soft loop back to opening—her hand picks up the dumbbell again, suggesting continuous cycle.
+
+Text: "INVESTIMENTO NOS PRÓXIMOS 20 ANOS."
+
+---
+
+**TECHNICAL SPECIFICATIONS:**
+- **Color palette:** Terracota #C9614A accents, Sage #

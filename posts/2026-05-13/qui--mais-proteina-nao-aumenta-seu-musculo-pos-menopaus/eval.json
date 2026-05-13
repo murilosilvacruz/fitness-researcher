@@ -1,0 +1,22 @@
+{
+  "status": "APPROVED",
+  "notes": "",
+  "auto": {
+    "passed": false,
+    "score": 0.917,
+    "failures": [
+      "summary: bullet 2 com 101 chars (máx 100)"
+    ],
+    "warnings": []
+  },
+  "llm": {
+    "score_total": 23,
+    "score_normalized": 0.92,
+    "brand_alignment": 5,
+    "hook_quality": 4,
+    "scientific_clarity": 5,
+    "pilar_fit": 5,
+    "cta_effectiveness": 4,
+    "feedback": "O post é excelente e alinhado com a marca. O gancho é bom, mas poderia ser um pouco mais direto para capturar a atenção imediatamente. O CTA é claro, mas poderia ser mais específico sobre o benefício de salvar o post."
+  }
+}

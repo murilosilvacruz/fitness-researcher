@@ -1,0 +1,22 @@
+{
+  "status": "APPROVED",
+  "notes": "",
+  "auto": {
+    "passed": false,
+    "score": 0.923,
+    "failures": [
+      "summary: TITULO com 61 chars (máx 60)"
+    ],
+    "warnings": []
+  },
+  "llm": {
+    "score_total": 21,
+    "score_normalized": 0.84,
+    "brand_alignment": 5,
+    "hook_quality": 4,
+    "scientific_clarity": 4,
+    "pilar_fit": 5,
+    "cta_effectiveness": 3,
+    "feedback": "O post está muito bem alinhado com a voz da marca e o pilar. A citação científica é um pouco genérica (um relatório de tendências, não um estudo científico revisado por pares), mas aceitável para o contexto. O CTA poderia ser mais forte e direcionado, talvez com uma pergunta para gerar comentários."
+  }
+}

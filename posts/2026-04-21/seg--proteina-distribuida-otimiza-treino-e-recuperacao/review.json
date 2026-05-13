@@ -1,0 +1,32 @@
+{
+  "post_folder": "seg--proteina-distribuida-otimiza-treino-e-recuperacao",
+  "reviewed_at": "2026-04-26T10:24:11",
+  "files": [
+    {
+      "file": "carousel.txt",
+      "score": 0,
+      "issues": [
+        "Palavras proibidas encontradas: ['segredo']"
+      ],
+      "suggestions": "",
+      "skipped": true,
+      "skip_reason": "erro na API: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CaSTQGKXY2bx7V7YFnu46'}"
+    },
+    {
+      "file": "reels.txt",
+      "score": 0,
+      "issues": [],
+      "suggestions": "",
+      "skipped": true,
+      "skip_reason": "erro na API: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CaSTQHLJ85ueUMFj3LrZ4'}"
+    },
+    {
+      "file": "caption.txt",
+      "score": 0,
+      "issues": [],
+      "suggestions": "",
+      "skipped": true,
+      "skip_reason": "erro na API: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CaSTQJtZSy61A1vwupWjJ'}"
+    }
+  ]
+}
