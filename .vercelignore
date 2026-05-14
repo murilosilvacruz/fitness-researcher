@@ -1,0 +1,24 @@
+# Exclui imagens binárias pesadas do bundle do Vercel.
+# Esses arquivos existem no repositório para uso local,
+# mas não são necessários para o web app rodar no Vercel.
+posts/**/*.png
+posts/**/*.jpg
+posts/**/*.jpeg
+posts/**/*.gif
+posts/**/*.webp
+
+# Arquivos de pipeline local (não usados pelo web app)
+agent/image_generator.py
+agent/canva_publisher.py
+agent/content_reviewer.py
+generate_*.py
+regenerate_*.py
+condense_*.py
+migrate_*.py
+review_content.py
+bulk_create.csv
+cron.log
+scripts/
+videos/
+images/
+docs/
